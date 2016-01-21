@@ -1,0 +1,12 @@
+# Site settings
+title: Tanner Bohn
+email: 
+description: ""
+baseurl: ""
+url: "http://tannerbohn.github.io"
+twitter_username: tannerbohn
+github_username:  tannerbohn
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
