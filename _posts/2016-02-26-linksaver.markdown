@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "LinkSaver"
 excerpt: "Links with notes I have saved"
-date: 2016-02-26 18:53:06
+date: 2016-02-26 18:57:35
 ---
 Tuesday, 01. December 2015 09:47PM
 
@@ -3780,3 +3780,17 @@ ___
 Tuesday, 01. December 2015 10:15PM
 
 **Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
+
+___
+
+Friday, 26. February 2016 06:56PM
+
+**Url:** [http://www.sciencedaily.com/releases/2015/02/150217202753.htm](http://www.sciencedaily.com/releases/2015/02/150217202753.htm)
+
+**Notes:**
+
+- The science of teaching: Study finds brain processes that hold the key to understanding students
+
+- New research has identified the parts of the brain involved in computing mistakes in other peoples understanding, which is a key process in guiding students learning
+
+- According to the results, the MRI scans revealed that a region of the teachers brain called the anterior cingulate cortex signalled how wrong the beliefs of the student were during the game
