@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python scripts/generateLinkSaverPost.py
+python scripts/generateLinksaverPost.py
 
 echo "Generated post"
 
