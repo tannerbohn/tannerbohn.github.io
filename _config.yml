@@ -8,5 +8,5 @@ twitter_username: tannerbohn
 github_username:  tannerbohn
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
