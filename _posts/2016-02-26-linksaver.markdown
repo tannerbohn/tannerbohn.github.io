@@ -1371,8 +1371,6 @@ Read more at: http://phys.org/news/2016-01-one-way.html#jCp
 - This higher self-esteem lowers their performance anxiety which, in turn, leads to the better performance outcomes
 
 
-**Url:** [http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
-
 **Url:** [http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time](http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time)
 
 **Notes:**
@@ -1532,49 +1530,7 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 **Notes:**
 
-- Dad's birthday: September 20 1961
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Mom's birthday: January 20 1962
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Tyler's birthday: June 20 1989
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Kyles birthday: June 11 1991
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Carters birthday: April 24 1993
-
-
-**Url:** unknown
-
-**Notes:**
-
 - The "mesolimbic dopaminergic pathway" is a like a motivational highway in the brain
-
-
-**Url:** unknown
-
-**Notes:**
-
-- programmable matter?
 
 
 **Url:** unknown
@@ -1630,21 +1586,7 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 **Notes:**
 
-- Don't Use Sarcasm In Conversation Until You Trust Each Other
-
-
-**Url:** unknown
-
-**Notes:**
-
 - On weekdays, people are happiest at 11am on Friday and unhappiest at 2am on Wednesday. On weekends, people are happiest at 10am on Saturday and unhappiest at 11pm on Sunday.
-
-
-**Url:** unknown
-
-**Notes:**
-
-- add ability to save to and load different databases of memories (ex. latin vocab, quotations, etc.)
 
 
 **Url:** unknown
@@ -1728,13 +1670,6 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 **Notes:**
 
-- Make Fast Friends at Work by Finding a Common Struggle to Bond Over
-
-
-**Url:** unknown
-
-**Notes:**
-
 - researchers found that suit-wearers felt more powerful, and this encouraged them to think about the big picture rather than getting hung up on the details
 
 
@@ -1778,13 +1713,6 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 **Notes:**
 
 - People who post Facebook status updates about their romantic partner are more likely to have low self-esteem, while those who brag about diets, exercise, and accomplishments are typically narcissists, according to new research.
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Persuade People to Complete Tasks with Personalized Sticky Notes
 
 
 **Url:** unknown
@@ -1849,11 +1777,6 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 - People who endorse conspiracy theories may be more likely to engage in conspiratorial behaviors themselves, such as spreading rumors or tending to be suspicious of others' motives.
 
-
-**Url:** unknown
-
-**Notes:**
-
 - Confirmation bias is the most pervasive cognitive bias and a powerful driver of belief in conspiracies
 
 
@@ -1889,14 +1812,9 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 **Notes:**
 
-- the chemical histamine sends signals to the brain to make it awake, which is why antihistamines are associated with drowsiness
-
-
-**Url:** unknown
-
-**Notes:**
-
 - the chemical GABA acts against histamine, like a chemical 'brake' preventing wakefulness being too intense
+
+- the chemical histamine sends signals to the brain to make it awake, which is why antihistamines are associated with drowsiness
 
 
 **Url:** unknown
@@ -1925,13 +1843,6 @@ Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 **Notes:**
 
 - Our research found that despite using a technique in the brain thought to produce total amnesia we've been able to show that with strong reminders, these memories can be recovered
-
-
-**Url:** unknown
-
-**Notes:**
-
-- Early adolescent girls lose friends for having sex and gain friends for 'making out,' while their male peers lose friends for 'making out' and gain friends for having sex (Penn State Uni)
 
 
 **Url:** unknown
@@ -2234,10 +2145,15 @@ Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.ht
 
 **Notes:**
 
-- grelin
-
 - Critical mechanism of memory formation revealed by scientists
 
 - scientists have found that the interaction between a pair of brain proteins has a substantial and previously unrecognized effect on memory formation
 
 -  the ghrelin receptor changes the structure of the dopamine receptor and alters its signaling pathway
+
+
+**Url:** [http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
+
+**Notes:**
+
+- Neurotrophins are a type of protein that promote the development of neurons, but which come with some drawbacks, including low stability and low penetration levels
