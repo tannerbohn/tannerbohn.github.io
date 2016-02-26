@@ -6,13 +6,6 @@ excerpt: "Links with notes I have saved"
 date:   2016-02-26 17:00:00
 ---
 
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151119122317.htm](http://www.sciencedaily.com/releases/2015/11/151119122317.htm)
-
-**Notes:**
-
-- grelin
-
-
 **Url:** [http://www.sciencedaily.com/releases/2015/12/151201131715.htm](http://www.sciencedaily.com/releases/2015/12/151201131715.htm)
 
 **Notes:**
@@ -2237,16 +2230,14 @@ Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.ht
 - Duployan is classified as a geometric stenography, in that the prototype for letterforms are based on lines and circles, instead of ellipses
 
 
-**Url:** [http://people.idsia.ch/~juergen/interest.html](http://people.idsia.ch/~juergen/interest.html)
+**Url:** [https://www.sciencedaily.com/releases/2015/11/151119122317.htm](https://www.sciencedaily.com/releases/2015/11/151119122317.htm)
 
 **Notes:**
 
-- curious agents are interested in learnable but yet unknown regularities, and get bored by both predictable and inherently unpredictable things.
+- grelin
 
-- filter(lambda x: x in printable, l['url'])
+- Critical mechanism of memory formation revealed by scientists
 
-- lean(n) f
+- scientists have found that the interaction between a pair of brain proteins has a substantial and previously unrecognized effect on memory formation
 
-- "**Url:** "+url
-
-- x/sandb
+-  the ghrelin receptor changes the structure of the dopamine receptor and alters its signaling pathway
