@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "LinkSaver"
 excerpt: "Links with notes I have saved"
-date: 2016-02-26 18:44:07
+date: 2016-02-26 18:53:06
 ---
 Tuesday, 01. December 2015 09:47PM
 
@@ -13,36 +13,6 @@ Tuesday, 01. December 2015 09:47PM
 
 - A collaboration between developmental psychologists and computer scientists has demonstrated that robots can learn much like babies - by experiencing the world and eventually imitating humans
 
-
-___
-
-Tuesday, 01. December 2015 09:54PM
-
-**Url:** [http://www.sciencealert.com/watch-the-best-explanation-of-string-theory-we-ve-ever-seen](http://www.sciencealert.com/watch-the-best-explanation-of-string-theory-we-ve-ever-seen)
-
-___
-
-Tuesday, 01. December 2015 10:06PM
-
-**Url:** [http://www.sciencealert.com/this-simple-system-purifies-all-the-drinking-water-for-a-remote-mexican-village](http://www.sciencealert.com/this-simple-system-purifies-all-the-drinking-water-for-a-remote-mexican-village)
-
-___
-
-Tuesday, 01. December 2015 10:09PM
-
-**Url:** [http://www.sciencealert.com/nasa-is-making-a-big-announcement-about-mars-s-atmosphere-this-thursday](http://www.sciencealert.com/nasa-is-making-a-big-announcement-about-mars-s-atmosphere-this-thursday)
-
-___
-
-Tuesday, 01. December 2015 10:12PM
-
-**Url:** [http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
-
-___
-
-Tuesday, 01. December 2015 10:15PM
-
-**Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
 
 ___
 
@@ -3783,6 +3753,17 @@ Friday, 26. February 2016 06:30PM
 
 ___
 
+Tuesday, 01. December 2015 10:12PM
+
+**Url:** [http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
+
+**Notes:**
+
+- people working in well-ventilated office spaces with below-average levels of indoor pollutants and carbon dioxide (CO2) demonstrate significantly higher cognitive functioning scores than workers in offices with typical levels of pollutants and CO2
+
+
+___
+
 Friday, 26. February 2016 06:38PM
 
 **Url:** [https://www.sciencedaily.com/releases/2015/02/150217122700.htm](https://www.sciencedaily.com/releases/2015/02/150217122700.htm)
@@ -3790,3 +3771,12 @@ Friday, 26. February 2016 06:38PM
 **Notes:**
 
 - Even animals compose: What it means to be a musical species
+
+- Parrots also have this ability, and have recently also been shown to be able to identify a beat and move to it.
+
+
+___
+
+Tuesday, 01. December 2015 10:15PM
+
+**Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
