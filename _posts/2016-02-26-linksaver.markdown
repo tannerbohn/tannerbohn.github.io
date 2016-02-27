@@ -3,8 +3,93 @@ layout: post
 comments: true
 title:  "LinkSaver"
 excerpt: "Links with notes I have saved"
-date: 2016-02-26 19:03:52
+date: 2016-02-26 21:14:01
 ---
+Friday, 26. February 2016 09:12PM
+
+**Url:** [http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/](http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/)
+
+**Notes:**
+
+- Simplify
+
+- By overlapping text, designers can play with our perception of depth
+
+
+___
+
+Friday, 26. February 2016 09:08PM
+
+**Url:** [http://phys.org/news/2015-05-fair-theory-income-inequality.html](http://phys.org/news/2015-05-fair-theory-income-inequality.html)
+
+**Notes:**
+
+- Economists have long wondered what it is that Adam Smith's `invisible hand' is supposed to be maximizing and what are the firms trying to jointly maximize in potential game theory. Our theory suggests that what the participants are jointly maximizing is fairness.
+
+
+___
+
+Friday, 26. February 2016 08:59PM
+
+**Url:** [https://www.sciencedaily.com/releases/2015/05/150528084158.htm](https://www.sciencedaily.com/releases/2015/05/150528084158.htm)
+
+**Notes:**
+
+- A surprising link has been found between creative problem-solving and heightened activity in the cerebellum, a structure located in the back of the brain and more typically thought of as the body's movement-coordination center.
+
+- found that activation of the brain's executive-control centers -- the parts of the brain that enable you to plan, organize and manage your activities -- is negatively associated with creative task performance
+
+
+___
+
+Friday, 26. February 2016 08:57PM
+
+**Url:** [https://en.wikipedia.org/wiki/Engel%27s_law](https://en.wikipedia.org/wiki/Engel%27s_law)
+
+**Notes:**
+
+- Engel's law is an observation in economics stating that as income rises, the proportion of income spent on food falls, even if actual expenditure on food rises. In other words, the income elasticity of demand of food is between 0 and 1.
+
+
+___
+
+Friday, 26. February 2016 08:53PM
+
+**Url:** [http://www.wired.com/2013/02/math-and-nature-universality/](http://www.wired.com/2013/02/math-and-nature-universality/)
+
+**Notes:**
+
+- a precise balance of randomness and regularity known as universality, which has been observed in the spectra of many complex, correlated systems
+
+- regardless of their specific characteristics, the random matrices are found to exhibit that same chaotic yet regular pattern in the distribution of their eigenvalues
+
+
+___
+
+Friday, 26. February 2016 08:50PM
+
+**Url:** [https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/](https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/)
+
+**Notes:**
+
+- Giving robots a series of small behavioural tics can make help them appear a lot more human, which makes us feel more comfortable interacting with them
+
+
+___
+
+Friday, 26. February 2016 08:44PM
+
+**Url:** [https://en.wikipedia.org/wiki/Meijer_G-function](https://en.wikipedia.org/wiki/Meijer_G-function)
+
+**Notes:**
+
+- In mathematics, the G-function was introduced by Cornelis Simon Meijer (1936) as a very general function intended to include most of the known special functions as particular cases.
+
+- A notable property is the closure of the set of all G-functions not only under differentiation but also under indefinite integration. In combination with a functional equation that allows to liberate from a G-function G(z) any factor z that is a constant power of its argument z, the closure implies that whenever a function is expressible as a G-function of a constant multiple of some constant power of the function argument, f(x) = G(cx), the derivative and the antiderivative of this function are expressible so too.
+
+
+___
+
 Friday, 26. February 2016 07:03PM
 
 **Url:** [https://www.sciencedaily.com/releases/2015/02/150223122548.htm](https://www.sciencedaily.com/releases/2015/02/150223122548.htm)
