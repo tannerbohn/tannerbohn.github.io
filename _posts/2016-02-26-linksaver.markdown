@@ -3,8 +3,40 @@ layout: post
 comments: true
 title:  "LinkSaver"
 excerpt: "Links with notes I have saved"
-date: 2016-02-26 21:14:01
+date: 2016-02-26 21:53:46
 ---
+Friday, 26. February 2016 09:22PM
+
+**Url:** [https://en.wikipedia.org/wiki/How_to_Solve_It](https://en.wikipedia.org/wiki/How_to_Solve_It)
+
+**Notes:**
+
+- First, you have to understand the problem.
+
+- After understanding, then make a plan
+
+- Carry out the plan.
+
+- Look back on your work.[5] How could it be better?
+
+
+___
+
+Friday, 26. February 2016 09:16PM
+
+**Url:** [https://www.sciencedaily.com/releases/2014/06/140612121354.htm](https://www.sciencedaily.com/releases/2014/06/140612121354.htm)
+
+**Notes:**
+
+- Synchronized brain waves enable rapid learning
+
+- The human mind can rapidly absorb and analyze new information as it flits from thought to thought. These quickly changing brain states may be encoded by synchronization of brain waves across different brain regions, according to a new study.
+
+- as monkeys learn to categorize different patterns of dots, two brain areas involved in learning -- the prefrontal cortex and the striatum -- synchronize their brain waves to form new communication circuits
+
+
+___
+
 Friday, 26. February 2016 09:12PM
 
 **Url:** [http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/](http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/)
