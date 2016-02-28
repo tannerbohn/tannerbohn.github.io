@@ -14,19 +14,10 @@ if __name__ == "__main__":
 	head = '---\n'+head +'\n---\n'
 	'''
 		---
-		layout: post
-		comments: true
-		title:  "LinkSaver"
-		excerpt: "Links with notes I have saved"
-		date:   2016-02-26 17:00:00
-		---
-
-		---
 		layout: page
-		mathjax: true
 		comments: true
-		title: Hacker's guide to Neural Networks
-		permalink: /neuralnets/
+		title: LinkSaver
+		permalink: /linksaver/
 		---
 	'''
 

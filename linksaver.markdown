@@ -4,6 +4,17 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 27. February 2016 08:39PM
+
+**Url:** [https://en.wikipedia.org/wiki/Efficient-market_hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+
+**Notes:**
+
+- In financial economics, the efficient-market hypothesis (EMH) states that asset prices fully reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information or changes in discount rates (the latter may be predictable or unpredictable).
+
+
+___
+
 Saturday, 27. February 2016 08:02PM
 
 **Url:** [http://phys.org/news/2016-02-physicists-properties-superconductivity.html](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
