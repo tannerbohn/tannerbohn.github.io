@@ -8,9 +8,10 @@ if __name__ == "__main__":
 	links = f.read()
 	f.close()
 
-	head = "layout: post\ncomments: true\ntitle:  \"LinkSaver\"\nexcerpt: \"Links with notes I have saved\""
-	date = "date: "+strftime("%Y-%m-%d %H:%M:%S", localtime())
-	head = '---\n'+head +'\n'+date+'\n---\n'
+	head = "layout: page\ncomments: true\ntitle:  \"LinkSaver\"\npermalink: /linksaver/"
+	#date = "date: "+strftime("%Y-%m-%d %H:%M:%S", localtime())
+	#head = '---\n'+head +'\n'+date+'\n---\n'
+	head = '---\n'+head +'\n---\n'
 	'''
 		---
 		layout: post
@@ -19,12 +20,20 @@ if __name__ == "__main__":
 		excerpt: "Links with notes I have saved"
 		date:   2016-02-26 17:00:00
 		---
+
+		---
+		layout: page
+		mathjax: true
+		comments: true
+		title: Hacker's guide to Neural Networks
+		permalink: /neuralnets/
+		---
 	'''
 
 	pageText = head+links
 
-	DIR = '/home/tanner/Dropbox/website/tannerbohn.github.io/_posts/'
-	fname = "2016-02-26-linksaver.markdown"
+	DIR = '/home/tanner/Dropbox/website/tannerbohn.github.io/'
+	fname = "linksaver.markdown"
 
 	f = open(DIR+fname, 'w')
 	f.write(pageText)
