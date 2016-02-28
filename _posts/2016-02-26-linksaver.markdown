@@ -3,8 +3,56 @@ layout: post
 comments: true
 title:  "LinkSaver"
 excerpt: "Links with notes I have saved"
-date: 2016-02-26 21:53:46
+date: 2016-02-27 19:55:24
 ---
+Saturday, 27. February 2016 07:53PM
+
+**Url:** [http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
+
+**Notes:**
+
+- A new study has found that yeast cells with increased levels of triacylglycerol (TAG)  the main constituent of body fat in humans and animals  lived longer, but when the cells were prevented from synthesising TAG and became leaner, they ended up dying earlier.
+
+
+___
+
+Saturday, 27. February 2016 07:29PM
+
+**Url:** [http://lifehacker.com/im-alton-brown-and-this-is-how-i-work-1718241519](http://lifehacker.com/im-alton-brown-and-this-is-how-i-work-1718241519)
+
+**Notes:**
+
+- Until proven wrong, assume you are the weak link in any system.
+
+
+___
+
+Saturday, 27. February 2016 07:19PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160224133417.htm](https://www.sciencedaily.com/releases/2016/02/160224133417.htm)
+
+**Notes:**
+
+- Conservatives prefer using nouns, new transatlantic research suggests. The research also established that conservatives generally, to a greater degree than liberals, tend to refer to things by their names, rather than describing them in terms of their features. An example would be saying someone 'is an optimist', rather than 'is optimistic'.
+
+
+___
+
+Saturday, 27. February 2016 06:38PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160225135008.htm](https://www.sciencedaily.com/releases/2016/02/160225135008.htm)
+
+**Notes:**
+
+- Mastering the art of ignoring makes people more efficient
+
+- People searching for something can find it faster if they know what to look for. But new research suggests knowing what not to look for can be just as helpful.
+
+- When participants were given one color to consistently ignore throughout the experiment, their reaction time slowed at first, but after extended practice, about a hundred trials, they were finding the target letters significantly faster than participants who weren't given a color to eliminate
+
+
+___
+
 Friday, 26. February 2016 09:22PM
 
 **Url:** [https://en.wikipedia.org/wiki/How_to_Solve_It](https://en.wikipedia.org/wiki/How_to_Solve_It)
