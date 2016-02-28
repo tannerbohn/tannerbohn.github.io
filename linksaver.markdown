@@ -4,6 +4,52 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 28. February 2016 04:30AM
+
+**Url:** [https://www.sciencedaily.com/releases/2013/10/131016122032.htm](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
+
+- Researchers have found that neurons in the brain regulate their own activity in such a way that the overall activity level in the network remains as constant as possible
+
+- Even when neurons in the visual cortex are cut off from their main source of information, within 48 hours their activity returns to a level similar to that prior to the disruption
+
+
+___
+
+Sunday, 28. February 2016 01:00AM
+
+**Url:** [http://arxiv.org/abs/1111.1567](http://arxiv.org/abs/1111.1567)
+
+- Generalization of Conway's "Game of Life" to a continuous domain - SmoothLife
+
+
+___
+
+Sunday, 28. February 2016 12:14AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160224070645.htm](https://www.sciencedaily.com/releases/2016/02/160224070645.htm)
+
+- Do speakers of different languages hear music differently?
+
+- Knowledge of our mother tongue acts as a sort of auditory "template" that influences the way we perceive the sounds of other languages (scientists call this "native listening").
+
+- there is no transfer to the non-linguistic domain and that the distortion effects are limited to linguistic sounds.
+
+
+___
+
+Saturday, 27. February 2016 09:07PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160211141337.htm](https://www.sciencedaily.com/releases/2016/02/160211141337.htm)
+
+- High school students may improve their science grades by learning about the personal struggles and failed experiments of great scientists such as Albert Einstein and Marie Curie
+
+- students who learned about the scientists' intellectual or personal struggles had significantly improved their science grades, with low-achievers benefiting the most.
+
+- students in the control group who only learned about the scientists' achievements not only didn't see a grade increase, they had lower grades than the previous grading period before the study began
+
+
+___
+
 Saturday, 27. February 2016 08:53PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/01/160113144546.htm](https://www.sciencedaily.com/releases/2016/01/160113144546.htm)
