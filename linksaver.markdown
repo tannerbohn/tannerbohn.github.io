@@ -4,9 +4,25 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 27. February 2016 08:53PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/01/160113144546.htm](https://www.sciencedaily.com/releases/2016/01/160113144546.htm)
+
+- New role for motor neurons discovered
+
+- researchers have demonstrated a new, direct signalling pathway through which motor neurons influence the locomotor circuits that generate rhythmic movements
+
+
+___
+
 Saturday, 27. February 2016 08:46PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/01/160115100906.htm](https://www.sciencedaily.com/releases/2016/01/160115100906.htm)
+
+- Mentally challenging activities key to a healthy aging mind
+
+- Taking up a new mental challenge such as digital photography or quilting may help maintain cognitive vitality
+
 
 ___
 
@@ -24,7 +40,6 @@ Saturday, 27. February 2016 08:02PM
 **Url:** [http://phys.org/news/2016-02-physicists-properties-superconductivity.html](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
 
 - The term "nematicity" commonly refers to when liquid crystals spontaneously align under an electric field in liquid crystal displays. In this case, it is the electronic orbitals that enter the nematic state as the temperature drops below a critical point.
-
 Read more at: http://phys.org/news/2016-02-physicists-properties-superconductivity.html#jCp
 
 
@@ -388,11 +403,9 @@ Sunday, 21. February 2016 01:42AM
 **Url:** [http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
 
 - The scenario involves a wooden cube with 6-cm sides made of medium-density fiberboard. Each of the six faces is marked with a 6 x 6-cm square lattice for a total of 36 square cells per face. Then round holes (of diameter equal to the length of a square cell) are drilled through random cells all the way through the cube.
-
 Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html#jCp
 
 - the number of holes that needs to be drilled to collapse this particular cube is always around 13 holes in each of the three directions, or 39 holes total. Their formula shows that, although this critical number changes for different lattice sizes, the critical density of drills is very similar.
-
 Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html#jCp
 
 
@@ -434,11 +447,9 @@ Monday, 15. February 2016 03:24PM
 **Url:** [http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
 
 - recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing
-
 Read more at: http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html#jCp
 
 - 360 TB/disc data capacity, thermal stability up to 1,000C and virtually unlimited lifetime at room temperature (13.8 billion years at 190C ) 
-
 Read more at: http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html#jCp
 
 
@@ -1225,7 +1236,6 @@ Thursday, 28. January 2016 02:31PM
 **Url:** [http://phys.org/news/2015-05-brain-map-geometries.html#nRlv](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
 
 - Grid cells, space-mapping neurons of the entorhinal cortex of rodents, could also work for hyperbolic surfaces.
-
 Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 
@@ -1382,7 +1392,6 @@ Monday, 11. January 2016 10:22AM
 **Url:** [http://phys.org/news/2016-01-one-way.html](http://phys.org/news/2016-01-one-way.html)
 
 - Over the past few years, scientists have demonstrated the phenomenon of "one-way light," in which a light beam propagates in one direction only
-
 Read more at: http://phys.org/news/2016-01-one-way.html#jCp
 
 
@@ -1695,7 +1704,6 @@ Monday, 04. January 2016 04:08PM
 **Url:** [http://phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
 
 - getting a large group of unanimous witnesses is so unlikely, according to the laws of probability, that it's more likely that the system is unreliable
-
 Read more at: http://phys.org/news/2016-01-evidence-bad.html#jCp
 
 
@@ -2477,7 +2485,6 @@ Sunday, 06. December 2015 09:36PM
 **Url:** [http://phys.org/news/2015-11-forge-proof-id-revolutionise.html](http://phys.org/news/2015-11-forge-proof-id-revolutionise.html)
 
 - uses atomic-scale imperfections that are impossible to clone as they comprise the unmanipulable building blocks of matter
-
 Read more at: http://phys.org/news/2015-11-forge-proof-id-revolutionise.html#jCp
 
 
@@ -3363,7 +3370,6 @@ Wednesday, 02. December 2015 09:42AM
 **Url:** [https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/](https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/)
 
 -  They found that the runners cartilage seemed to degrade during the first 2500 km of the race.
-
 But after that distance  around 60 marathons  the cartilage seemed to recover
 
 - brains seemed to temporarily shrink in size by 6 per cent over the course of the race
@@ -3399,7 +3405,6 @@ Wednesday, 02. December 2015 09:32AM
 **Url:** [http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html](http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html)
 
 - for a spheroid particle with a refractive index of 3.5, scattering in the forward direction can be maximized if the spheroid's major axis is just over twice the length of its minor axis
-
 Read more at: http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html#jCp
 
 
@@ -3410,7 +3415,6 @@ Wednesday, 02. December 2015 09:03AM
 **Url:** [http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html](http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html)
 
 - A team of scientists, including physicists from MIPT and the Russian Quantum Centre, have demonstrated a method of exciting magnetic vortices, which could potentially be used in the electronics of the future as information carriers, using less current
-
 Read more at: http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html#jCp
 
 - topological insulator: it will only allow an electric current to flow along its surface
