@@ -4,6 +4,59 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 01. March 2016 03:34PM
+
+**Url:** [http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
+
+- In spite of the deleterious effects on the human mind, neuropsychiatric disorders have persisted in evolution suggesting that they perhaps also carry advantageous effects such as creativity
+
+- SNCA gene, which has been shown to activate after people listen to or perform music
+
+- able to link musical composition to a molecular pathway known as the cerebellar long-term depression (LTD) pathway
+
+
+___
+
+Monday, 29. February 2016 09:52PM
+
+**Url:** [http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say](http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say)
+
+- The function of shame is to prevent us from damaging our social relationships, or to motivate us to repair them.
+
+- An international team of researchers says that shame performs a vital role in maintaining our ties to the social fabric, much like other defence mechanisms that prohibit us from doing ourselves physical harm
+
+
+___
+
+Monday, 29. February 2016 12:14AM
+
+**Url:** [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
+
+- A Neural Algorithm of Artistic Style
+
+
+___
+
+Sunday, 28. February 2016 08:43PM
+
+**Url:** [http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/](http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/)
+
+- After two years, children who got the physically active lessons had significantly higher scores in math and spelling than their peers who didn't exercise during class.
+
+
+___
+
+Sunday, 28. February 2016 03:41PM
+
+**Url:** [http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/](http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/)
+
+- The brain gets rid of some 1.5 kilograms of waste products a year, equivalent to its own weight
+
+- detritus-carrying passages - what is called the glymphatic system - traffics the brain's discarded leavings
+
+
+___
+
 Sunday, 28. February 2016 04:30AM
 
 **Url:** [https://www.sciencedaily.com/releases/2013/10/131016122032.htm](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
