@@ -4,6 +4,88 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 08. March 2016 01:21AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160307144013.htm](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
+
+- A series of experiments showed that sudden insight may yield more correct solutions than using gradual, methodical thinking. In other words, say the researchers, it's absolutely worth listening to your "aha!" moments.
+
+
+___
+
+Monday, 07. March 2016 05:48PM
+
+**Url:** [http://phys.org/news/2016-03-reveal-molecular-patterns.html](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
+
+- In nature and society, everything from predatory animals to submarine-seeking ships has developed search strategies where slow, localized searches alternate with long, non-searching movements to explore vast areas where targets are sparse
+Read more at: http://phys.org/news/2016-03-reveal-molecular-patterns.html#jCp
+
+
+___
+
+Monday, 07. March 2016 11:07AM
+
+**Url:** [http://phys.org/news/2016-03-american-statistical-association-statement-significance.html](http://phys.org/news/2016-03-american-statistical-association-statement-significance.html)
+
+- By itself, a p-value does not provide a good measure of evidence regarding a model or hypothesis.
+
+- A p-value, or statistical significance, does not measure the size of an effect or the importance of a result.
+Read more at: http://phys.org/news/2016-03-american-statistical-association-statement-significance.html#jCp
+
+- P-values do not measure the probability that the studied hypothesis is true, or the probability that the data were produced by random chance alone.
+Read more at: http://phys.org/news/2016-03-american-statistical-association-statement-significance.html#jCp
+
+
+___
+
+Sunday, 06. March 2016 01:45AM
+
+**Url:** [http://science.sciencemag.org/content/351/6277/1074](http://science.sciencemag.org/content/351/6277/1074)
+
+- Empathy-based altruism is primarily characterized by a positive connectivity from the anterior cingulate cortex (ACC) to the anterior insula (AI)
+
+- reciprocity-based altruism additionally invokes strong positive connectivity from the AI to the ACC and even stronger positive connectivity from the AI to the ventral striatum
+
+
+___
+
+Saturday, 05. March 2016 11:13PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160303134427.htm](https://www.sciencedaily.com/releases/2016/03/160303134427.htm)
+
+- Making learning problems simple does not help students as much as making those same problems difficult.
+
+- By making students struggle with problems -- introducing designed difficulty into problem solving -- Phillips has discovered that students have fared better on topics over the long term
+
+
+___
+
+Saturday, 05. March 2016 11:09PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160303133628.htm](https://www.sciencedaily.com/releases/2016/03/160303133628.htm)
+
+- Scientists have just identified a new pain control center situated in the hypothalamus
+
+- It comprises some thirty neurons that are wholly responsible for coordinating the release of oxytocin into the blood and spinal cord, thus reducing painful sensations
+
+
+___
+
+Wednesday, 02. March 2016 03:04AM
+
+**Url:** [http://phys.org/news/2016-03-celestial-bodies-sizes.html](http://phys.org/news/2016-03-celestial-bodies-sizes.html)
+
+- Constructal Law, which states that natural systems evolve to facilitate flow.
+
+- They showed that if the bodies coalesce into some large bodies and some small bodies, the tension is reduced faster than if the bodies merged uniformly
+Read more at: http://phys.org/news/2016-03-celestial-bodies-sizes.html#jCp
+
+- The natural tendency of a system to evolve toward a state of reduced tension is a manifestation of the Constructal Law
+Read more at: http://phys.org/news/2016-03-celestial-bodies-sizes.html#jCp
+
+
+___
+
 Tuesday, 01. March 2016 03:34PM
 
 **Url:** [http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
