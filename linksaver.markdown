@@ -4,6 +4,212 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 13. March 2016 03:21AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160311125019.htm](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
+
+- Researchers have discovered how the rat brain 's memory and executive hubs talk with each other as decision-making is informed by past experiences
+
+- the rat brain encodes memories for location during periods of stillness via a separate system than for memories of activity
+
+
+___
+
+Tuesday, 05. January 2016 07:16PM
+
+**Url:** [https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
+
+- having a rest helps a person to remember what they were told a few minutes earlier. And the effect seems to last
+
+- People who had a 10-minute rest after hearing a story remembered 10 per cent more of it a week later than those who played a spot-the-difference game immediately afterwards
+
+
+___
+
+Wednesday, 03. February 2016 01:18AM
+
+**Url:** [http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
+
+- If you are using LSTMs and you want to train them on problems with very long range dependencies, you should initialize the biases of the forget gates of the LSTMs to large values
+
+-  It is vastly more efficient to train the network on minibatches of 128 examples, because doing so will result in massively greater throughput
+
+
+___
+
+Wednesday, 03. February 2016 01:30AM
+
+**Url:** [http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
+
+- resting brain patterns have been identified before in simple, universal rules of nature, known as harmonic waves.
+
+
+___
+
+Wednesday, 03. February 2016 12:16PM
+
+**Url:** [http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
+
+- Before developing perceptual constancy, three- to four-month-old babies have a striking ability to see image differences that are invisible to adults. They lose this superior skill around the age of five months
+
+
+___
+
+Thursday, 11. February 2016 12:42AM
+
+**Url:** [http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
+
+- Sighing is actually a life-saving reflex, and scientists have found the switch that controls it
+
+- The team identified two tiny clusters of neurons in the brain stem that automatically turn normal breaths into sighs when our lungs need some extra help - and they do this roughly every 5 minutes
+
+
+___
+
+Friday, 26. February 2016 04:36PM
+
+**Url:** [https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
+
+- Canadian "syllabic" scripts are not syllabaries, in which every consonantvowel sequence has a separate glyph,[4] but abugidas,[5] in which consonants are modified in order to indicate an associated vowelin this case through a change in orientation, which is unique to Canadian syllabics
+
+
+___
+
+Tuesday, 01. December 2015 10:15PM
+
+**Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
+
+- domestic cats have very similar personalities to lions, with their strongest traits being dominance, impulsivity, and neuroticism
+
+-  the research was also conducted on domestic cats kept in shelters, which doesn't necessarily represent the mindset of all pet kitties
+
+
+___
+
+Tuesday, 01. December 2015 10:33PM
+
+**Url:** [https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
+
+- novel end-to-end sequence-to-sequence model to generate captions for videos
+
+
+___
+
+Tuesday, 01. December 2015 10:19PM
+
+**Url:** [http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy](http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy)
+
+- Tokamaks can only control the plasma in short bursts that last for no more than 7 minutes
+
+- Because of the stellarators design, experts suspect it could sustain a plasma for at least 30 minutes at a time
+
+
+___
+
+Monday, 04. January 2016 10:39PM
+
+**Url:** [http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
+
+-  you can eat banana peels. And not only are they edible, they're also good for you
+
+
+___
+
+Sunday, 06. December 2015 08:12PM
+
+**Url:** [http://phys.org/news/2015-11-nist-team-spooky-action-distance.html](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
+
+- You can't prove quantum mechanics, but local realism, or hidden local action, is incompatible with our experiment
+Read more at: http://phys.org/news/2015-11-nist-team-spooky-action-distance.html#jCp
+
+
+___
+
+Wednesday, 09. December 2015 10:01PM
+
+**Url:** [http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years](http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years)
+
+- ROS: An Open-Source Robot Operating System
+
+
+___
+
+Friday, 11. March 2016 03:38AM
+
+**Url:** [http://phys.org/news/2016-03-invisibility-cloaks.html](http://phys.org/news/2016-03-invisibility-cloaks.html)
+
+- limitations imposed by special relativity mean that the best invisibility cloaks would only be able to render objects partially transparent because they would suffer from obvious visible distortions due to motion
+Read more at: http://phys.org/news/2016-03-invisibility-cloaks.html#jCp
+
+- a moving amplitude cloak would drag light waves to different areas of space as seen by a stationary observer, making the image appear distorted
+Read more at: http://phys.org/news/2016-03-invisibility-cloaks.html#jCp
+
+
+___
+
+Thursday, 10. March 2016 04:47PM
+
+**Url:** [https://www.sciencedaily.com/releases/2012/08/120801154716.htm](https://www.sciencedaily.com/releases/2012/08/120801154716.htm)
+
+- New research suggests that as much as 10 percent of individual differences in intelligence can be explained by the strength of neural pathways connecting the left lateral prefrontal cortex to the rest of the brain.
+
+- We're suggesting that the lateral prefrontal cortex functions like a feedback control system that is used often in engineering, that it helps implement cognitive control (which supports fluid intelligence)
+
+
+___
+
+Thursday, 10. March 2016 04:43PM
+
+**Url:** [https://www.sciencedaily.com/releases/2015/07/150727130821.htm](https://www.sciencedaily.com/releases/2015/07/150727130821.htm)
+
+- when it comes to taking on intellectually challenging tasks, groups of neurons tune in to one another for a fraction of a second and harmonize, then go back to improvising
+
+- The anterior (blue) and posterior (orange) regions of the prefrontal cortex sync up to communicate cognitive goals to one another.
+
+- Our neural orchestra may need no conductor, just brain waves sweeping through to briefly excite neurons, like millions of fans in a stadium doing 'The Wave
+
+
+___
+
+Thursday, 10. March 2016 04:34PM
+
+**Url:** [http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/](http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/)
+
+- while eye contact is important, gaze aversion can make a robot look more intentional, thoughtful, and creative
+
+- Adding extra words called hedges (maybe, probably or I think ) and discourse markers (You know, just, well, like and um.) increases the likeability of robots
+
+- Move back before going forward, move down before going up.
+
+- 1/f or pink noise is found in many biological systems.
+
+
+___
+
+Thursday, 10. March 2016 03:59PM
+
+**Url:** [https://www.sciencedaily.com/releases/2015/07/150721134831.htm](https://www.sciencedaily.com/releases/2015/07/150721134831.htm)
+
+- A new study shows that words have a profound effect even on the first electrical twitches of perception.
+
+- Words are ideal for activating categories in the mind
+
+- you can see language shaping perceptual mechanisms to make more effective predictions of what is about to occur
+
+
+___
+
+Wednesday, 09. March 2016 07:47PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160309125520.htm](https://www.sciencedaily.com/releases/2016/03/160309125520.htm)
+
+- A new study shows that the more flights of stairs a person climbs, and the more years of school a person completes, the 'younger' their brain physically appears.
+
+-  brain age decreases by 0.95 years for each year of education, and by 0.58 years for every daily flight of stairs climbed
+
+
+___
+
 Tuesday, 08. March 2016 01:21AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/03/160307144013.htm](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
@@ -391,12 +597,6 @@ Friday, 26. February 2016 06:56PM
 
 ___
 
-Tuesday, 01. December 2015 10:15PM
-
-**Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
-
-___
-
 Friday, 26. February 2016 06:38PM
 
 **Url:** [https://www.sciencedaily.com/releases/2015/02/150217122700.htm](https://www.sciencedaily.com/releases/2015/02/150217122700.htm)
@@ -458,12 +658,6 @@ Friday, 26. February 2016 04:43PM
 
 - Duployan is classified as a geometric stenography, in that the prototype for letterforms are based on lines and circles, instead of ellipses
 
-
-___
-
-Friday, 26. February 2016 04:36PM
-
-**Url:** [https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
 
 ___
 
@@ -1297,12 +1491,6 @@ Thursday, 11. February 2016 06:38PM
 
 ___
 
-Thursday, 11. February 2016 12:42AM
-
-**Url:** [http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
-
-___
-
 Wednesday, 10. February 2016 02:57AM
 
 **Url:** [http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
@@ -1364,24 +1552,6 @@ Wednesday, 03. February 2016 04:38PM
 
 - A Neural Conversational Model
 
-
-___
-
-Wednesday, 03. February 2016 12:16PM
-
-**Url:** [http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
-
-___
-
-Wednesday, 03. February 2016 01:30AM
-
-**Url:** [http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
-
-___
-
-Wednesday, 03. February 2016 01:18AM
-
-**Url:** [http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 
 ___
 
@@ -1454,12 +1624,6 @@ Friday, 22. January 2016 12:51AM
 
 -  three different areas of functionality: sensory (whats currently happening), behavioural (what we can do about it), and limbic (what it means to us)
 
-
-___
-
-Thursday, 21. January 2016 05:15PM
-
-**Url:** [http://www.sciencealert.com/study-finds-cancer-causing-toxins-in-significant-portion-of-our-honey](http://www.sciencealert.com/study-finds-cancer-causing-toxins-in-significant-portion-of-our-honey)
 
 ___
 
@@ -1620,12 +1784,6 @@ Sunday, 10. January 2016 01:24AM
 
 ___
 
-Saturday, 09. January 2016 10:38PM
-
-**Url:** [http://www.wired.com/2016/01/the-white-house-is-joining-with-genius-to-annotate-history/](http://www.wired.com/2016/01/the-white-house-is-joining-with-genius-to-annotate-history/)
-
-___
-
 Saturday, 09. January 2016 07:42PM
 
 **Url:** [http://arxiv.org/abs/1512.04407](http://arxiv.org/abs/1512.04407)
@@ -1731,12 +1889,6 @@ Thursday, 07. January 2016 06:36PM
 
 ___
 
-Thursday, 07. January 2016 04:24PM
-
-**Url:** [http://www.wired.com/2016/01/serial-recap-episode-4-the-next-four-years-in-captivity/](http://www.wired.com/2016/01/serial-recap-episode-4-the-next-four-years-in-captivity/)
-
-___
-
 Thursday, 07. January 2016 04:15PM
 
 **Url:** [http://alifeofproductivity.com/experiment-new-years-resolutions/](http://alifeofproductivity.com/experiment-new-years-resolutions/)
@@ -1835,12 +1987,6 @@ Tuesday, 05. January 2016 09:01PM
 
 ___
 
-Tuesday, 05. January 2016 07:16PM
-
-**Url:** [https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
-
-___
-
 Tuesday, 05. January 2016 07:13PM
 
 **Url:** [https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
@@ -1859,12 +2005,6 @@ Monday, 04. January 2016 10:42PM
 
 - Recent techniques provide real-time access to crowd-based inputs, where individual contributions can be processed by a computer and sent to the next person for improvement or analysis of a different kind
 
-
-___
-
-Monday, 04. January 2016 10:39PM
-
-**Url:** [http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
 
 ___
 
@@ -2064,12 +2204,6 @@ ___
 Monday, 21. December 2015 11:38PM
 
 **Url:** [http://news.sciencemag.org/brain-behavior/2015/12/eyewitness-testimony-may-only-be-credible-under-these-circumstances](http://news.sciencemag.org/brain-behavior/2015/12/eyewitness-testimony-may-only-be-credible-under-these-circumstances)
-
-___
-
-Monday, 21. December 2015 10:29PM
-
-**Url:** [http://www.wired.com/2015/12/the-5-biggest-gear-stories-of-the-year/](http://www.wired.com/2015/12/the-5-biggest-gear-stories-of-the-year/)
 
 ___
 
@@ -2510,12 +2644,6 @@ Thursday, 10. December 2015 02:42AM
 
 ___
 
-Wednesday, 09. December 2015 10:01PM
-
-**Url:** [http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years](http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years)
-
-___
-
 Wednesday, 09. December 2015 06:30PM
 
 **Url:** [http://www.economist.com/news/briefing/21669595-asian-americans-are-united-states-most-successful-minority-they-are-complaining-ever](http://www.economist.com/news/briefing/21669595-asian-americans-are-united-states-most-successful-minority-they-are-complaining-ever)
@@ -2722,12 +2850,6 @@ Sunday, 06. December 2015 09:16PM
 
 ___
 
-Sunday, 06. December 2015 09:11PM
-
-**Url:** [http://www.scientificamerican.com/article/new-fees-may-weaken-demand-for-rooftop-solar/](http://www.scientificamerican.com/article/new-fees-may-weaken-demand-for-rooftop-solar/)
-
-___
-
 Sunday, 06. December 2015 09:09PM
 
 **Url:** [http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/](http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/)
@@ -2744,12 +2866,6 @@ ___
 Sunday, 06. December 2015 09:06PM
 
 **Url:** [http://www.scientificamerican.com/video/almost-intelligent-agents/](http://www.scientificamerican.com/video/almost-intelligent-agents/)
-
-___
-
-Sunday, 06. December 2015 08:12PM
-
-**Url:** [http://phys.org/news/2015-11-nist-team-spooky-action-distance.html](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
 
 ___
 
@@ -3191,12 +3307,6 @@ Friday, 04. December 2015 11:34AM
 
 ___
 
-Friday, 04. December 2015 03:45AM
-
-**Url:** [http://www.wired.com/2015/12/amazing-micrographs-show-what-cells-really-look-like/](http://www.wired.com/2015/12/amazing-micrographs-show-what-cells-really-look-like/)
-
-___
-
 Friday, 04. December 2015 03:19AM
 
 **Url:** [http://www.wired.com/2015/12/wikipedia-is-using-ai-to-expand-the-ranks-of-human-editors/](http://www.wired.com/2015/12/wikipedia-is-using-ai-to-expand-the-ranks-of-human-editors/)
@@ -3603,12 +3713,6 @@ Read more at: http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vo
 
 ___
 
-Wednesday, 02. December 2015 08:15AM
-
-**Url:** [http://www.fubiz.net/en/2015/12/02/geometrical-interactive-light-installation](http://www.fubiz.net/en/2015/12/02/geometrical-interactive-light-installation)
-
-___
-
 Wednesday, 02. December 2015 08:10AM
 
 **Url:** [http://arxiv.org/pdf/1511.07275v2.pdf](http://arxiv.org/pdf/1511.07275v2.pdf)
@@ -3621,12 +3725,6 @@ Wednesday, 02. December 2015 08:07AM
 
 ___
 
-Tuesday, 01. December 2015 10:54PM
-
-**Url:** [http://www.cbc.ca/news/canada/windsor/canadian-caught-smuggling-51-turtles-in-his-pants-pleads-guilty-1.3345016](http://www.cbc.ca/news/canada/windsor/canadian-caught-smuggling-51-turtles-in-his-pants-pleads-guilty-1.3345016)
-
-___
-
 Tuesday, 01. December 2015 10:45PM
 
 **Url:** [http://www.wired.com/2015/12/the-world-is-doing-too-many-cesarean-sections-or-too-few/](http://www.wired.com/2015/12/the-world-is-doing-too-many-cesarean-sections-or-too-few/)
@@ -3636,54 +3734,6 @@ ___
 Tuesday, 01. December 2015 10:40PM
 
 **Url:** [https://www.newscientist.com/article/dn28587-hey-siri-how-do-we-make-virtual-assistants-more-trustworthy/](https://www.newscientist.com/article/dn28587-hey-siri-how-do-we-make-virtual-assistants-more-trustworthy/)
-
-___
-
-Tuesday, 01. December 2015 10:33PM
-
-**Url:** [http://www.wired.com/2015/12/youre-only-human-but-your-kids-could-be-so-much-more/](http://www.wired.com/2015/12/youre-only-human-but-your-kids-could-be-so-much-more/)
-
-___
-
-Tuesday, 01. December 2015 10:33PM
-
-**Url:** [https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
-
-___
-
-Tuesday, 01. December 2015 10:28PM
-
-**Url:** [http://quickhacks.lifehacker.com/the-best-ways-to-pack-a-suit-or-dress-so-it-wont-wrinkl-1745541849](http://quickhacks.lifehacker.com/the-best-ways-to-pack-a-suit-or-dress-so-it-wont-wrinkl-1745541849)
-
-___
-
-Tuesday, 01. December 2015 10:27PM
-
-**Url:** [http://www.fubiz.net/en/2015/12/01/projector-concept-turning-flat-surface-into-digital-workspace/](http://www.fubiz.net/en/2015/12/01/projector-concept-turning-flat-surface-into-digital-workspace/)
-
-___
-
-Tuesday, 01. December 2015 10:25PM
-
-**Url:** [http://www.wired.com/2015/12/zuckerberg-baby-birth-announcement-comes-with-a-45-billion-surprise/](http://www.wired.com/2015/12/zuckerberg-baby-birth-announcement-comes-with-a-45-billion-surprise/)
-
-___
-
-Tuesday, 01. December 2015 10:23PM
-
-**Url:** [http://lifehacker.com/im-marc-maron-and-this-is-how-i-work-1744238714](http://lifehacker.com/im-marc-maron-and-this-is-how-i-work-1744238714)
-
-___
-
-Tuesday, 01. December 2015 10:19PM
-
-**Url:** [http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy](http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy)
-
-___
-
-Tuesday, 01. December 2015 10:17PM
-
-**Url:** [http://www.sciencealert.com/here-s-the-story-behind-that-amazing-image-of-a-lion-getting-a-cat-scan](http://www.sciencealert.com/here-s-the-story-behind-that-amazing-image-of-a-lion-getting-a-cat-scan)
 
 ___
 
