@@ -4,6 +4,19 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 14. March 2016 03:36AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160309083116.htm](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
+
+- Robot makers may want to follow Ikea's strategy for customer satisfaction and give people a chance to partially assemble their new robots to ease acceptance of the devices, according to researchers.
+
+- people who took part in a study on robot assembly tended to feel more positive about the machines if they had a hand in making them
+
+- the sense of ownership can be sustained with tailoring options that users can continue to tinker with, long after the initial set up
+
+
+___
+
 Sunday, 13. March 2016 03:21AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/03/160311125019.htm](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
