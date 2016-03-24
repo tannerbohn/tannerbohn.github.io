@@ -4,6 +4,129 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Wednesday, 23. March 2016 05:34PM
+
+**Url:** [https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
+
+- Infection with Toxoplasma gondii, a protozoan parasite carried by cats, has been linked to a human psychiatric condition called intermittent explosive disorder
+
+- people with IED were more than twice as likely to test positive for exposure to T. gondii as the control group
+
+
+___
+
+Monday, 21. March 2016 06:27PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160321081433.htm](https://www.sciencedaily.com/releases/2016/03/160321081433.htm)
+
+- narcissism is positively associated with market performance of artworks, and contradicts previous research that concludes narcissism is short term and transient
+
+- Author Yi Zhou assessed the narcissistic personality trait through measuring the size of the artists' signatures, in relation to the Narcissistic Personality Inventory
+
+- area-per-letter measure is correlated highly with narcissism
+
+
+___
+
+Sunday, 20. March 2016 05:12AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160225101241.htm](https://www.sciencedaily.com/releases/2016/02/160225101241.htm)
+
+- Vigorous exercise boosts critical neurotransmitters, may help restore mental health
+
+- The research also helps solve a persistent question about the brain, an energy-intensive organ that consumes a lot of fuel in the form of glucose and other carbohydrates during exercise
+
+- There was a correlation between the resting levels of glutamate in the brain and how much people exercised during the preceding week
+
+
+___
+
+Friday, 18. March 2016 09:01PM
+
+**Url:** [http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists](http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists)
+
+- complex learning tasks give us the ability to conduct large-scale reorganisations in our cerebral cortex, overwriting the ways our brain normally deals with sensory information
+
+
+___
+
+Friday, 18. March 2016 04:11PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160317105627.htm](https://www.sciencedaily.com/releases/2016/03/160317105627.htm)
+
+- higher levels of academic success may be achieved by adopting an alternative pedagogical model, one which has a recent student teaching fellow students
+
+
+___
+
+Thursday, 17. March 2016 05:31PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160317151132.htm](https://www.sciencedaily.com/releases/2016/03/160317151132.htm)
+
+- A new glimpse into working memory: Bursts of neural activity found as brain holds information in mind
+
+- The researchers found that as items were held in working memory, ensembles of neurons in the prefrontal cortex were active in brief bursts, and these bursts only occurred in recording sites in which information about the squares was stored
+
+
+___
+
+Tuesday, 15. March 2016 02:59AM
+
+**Url:** [http://www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
+
+- Unstructured interviews have an r2 of 0.14, meaning that they can explain only 14 percent of an employees performance
+
+- The best predictor of how someone will perform in a job is a work sample test (29 percent)
+
+
+___
+
+Tuesday, 15. March 2016 01:50AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160310124902.htm](https://www.sciencedaily.com/releases/2016/03/160310124902.htm)
+
+- Most brain cells are produced before birth, but a few select brain regions continue to grow new cells into adulthood. One such region is called the dentate gyrus, a tiny structure in the hippocampus, the brain's headquarters for learning and memory.
+
+- Earlier studies suggested that cells within the dentate gyrus, known as granule cells, allow the brain to distinguish between similar, yet different, environments. This process, known as pattern separation, is a key component of the brain's internal GPS
+
+
+___
+
+Tuesday, 15. March 2016 01:47AM
+
+**Url:** [http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds](http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds)
+
+- Teaching children philosophy can improve their reading and math skills, study finds
+
+- The kids who took part ended up improving their maths and reading skills by around two months' of extra progress compared to students who weren't taking the classes
+
+- the specific aim of the lessons was to develop children's confidence in asking questions, constructing arguments, and having reasoned discussions with one another
+
+
+___
+
+Tuesday, 15. March 2016 01:39AM
+
+**Url:** [https://en.wikipedia.org/wiki/Probably_approximately_correct_learning](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
+
+- probably approximately correct learning (PAC learning) is a framework for mathematical analysis of machine learning
+
+- the learner receives samples and must select a generalization function (called the hypothesis) from a certain class of possible functions
+
+- The goal is that, with high probability (the "probably" part), the selected function will have low generalization error (the "approximately correct" part)
+
+
+___
+
+Monday, 14. March 2016 10:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160314151645.htm](https://www.sciencedaily.com/releases/2016/03/160314151645.htm)
+
+- while environmental intervention can raise general intelligence, the effects aren't permanent
+
+
+___
+
 Monday, 14. March 2016 03:36AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/03/160309083116.htm](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
