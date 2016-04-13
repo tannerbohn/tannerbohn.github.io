@@ -4,6 +4,63 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 09. April 2016 05:50PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160330085617.htm](https://www.sciencedaily.com/releases/2016/03/160330085617.htm)
+
+- People frequently report zoning out on purpose, and the causes of this 'intentional' type of mind wandering can differ from the causes of unintentional mind wandering
+
+
+___
+
+Saturday, 26. March 2016 09:58PM
+
+**Url:** [http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
+
+- new evidence reveals that bacteria may have another way to talk to one another: communication via electrical signalinga mechanism previously thought to occur only in multicellular organisms
+
+
+___
+
+Friday, 25. March 2016 11:20PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160307093515.htm](https://www.sciencedaily.com/releases/2016/03/160307093515.htm)
+
+- a web-based platform which uses artificial neural networks to answer standard crossword clues better than existing commercial products specifically designed for the task
+
+
+___
+
+Friday, 25. March 2016 11:15PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160301144805.htm](https://www.sciencedaily.com/releases/2016/03/160301144805.htm)
+
+- An individual's propensity to learn from successful cultural models -- a common strategy that allows us to copy efficient solutions from others -- reduces the diversity of solutions
+
+- Partially connected groups are more likely to produce diverse solutions, allowing them to innovate by combining different solutions.
+
+- participants were asked to discover successive innovations to produce a virtual remedy and stop the spread of a virus
+
+- fully connected groups performed well in the short-run but rapidly converged toward the same solutions
+
+- innovation appears slower in partially connected groups but solutions are more diverse
+
+- partial isolation is a strong driver of cultural diversity and that larger and more connected populations do not necessarily exhibit higher cultural complexity
+
+
+___
+
+Friday, 25. March 2016 06:05PM
+
+**Url:** [https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/](https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/)
+
+- Giant manta rays have been filmed checking out their reflections in a way that suggests they are self-aware
+
+- The unusual movements in front of the mirror might have merely been a sign of curiosity or exploratory behaviour
+
+
+___
+
 Wednesday, 23. March 2016 05:34PM
 
 **Url:** [https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
