@@ -4,6 +4,60 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 16. April 2016 12:18AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/04/160414095549.htm](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
+
+- Complex ideas can enter consciousness automatically
+
+- New research provides further evidence for 'passive frame theory,' the groundbreaking idea that suggests human consciousness is less in control than previously believed. The study shows that even complex concepts, such as translating a word into pig latin, can enter your consciousness automatically, even when someone tells you to avoid thinking about it
+
+- further proof that "consciousness is passive, and that its contents are often generated unconsciously. But [consciousness] is necessary
+
+
+___
+
+Friday, 15. April 2016 09:41PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/04/160414214830.htm](https://www.sciencedaily.com/releases/2016/04/160414214830.htm)
+
+- How the brain consolidates memory during deep sleep
+
+- Using a computational model, study explains how hippocampus influences synaptic connections in cortex
+
+- During sleep, human and animal brains are primarily decoupled from sensory input. Nevertheless, the brain remains highly active, showing electrical activity in the form of sharp-wave ripples in the hippocampus (a small region of the brain that forms part of the limbic system) and large-amplitude slow oscillations in the cortex (the outer layer of the cerebrum)
+
+- Traces of episodic memory acquired during wakefulness and initially stored in the hippocampus are progressively transferred to the cortex as long-term memory during sleep
+
+- patterns of slow oscillations in the cortex, which their model spontaneously generates, are influenced by the hippocampal sharp-wave ripples and that these patterns of slow oscillations determine synaptic changes in the cortex
+
+- During such memory replay, the corresponding synapses are strengthened for long-term storage in the cortex
+
+
+___
+
+Thursday, 14. April 2016 01:36AM
+
+**Url:** [http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/](http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/)
+
+- McKinnon is the first person ever identified with a condition called severely deficient autobiographical memory. She knows plenty of facts about her life, but she lacks the ability to mentally relive any of it
+
+
+___
+
+Thursday, 14. April 2016 01:11AM
+
+**Url:** [http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests](http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests)
+
+- Consciousness occurs in 'time slices' lasting only milliseconds, study suggests
+
+- 'time slices' consisting of unconscious processing of stimuli last for up to 400 milliseconds (ms), and are immediately followed by the conscious perception of events
+
+- The team thinks this presentation of information to our consciousness lasts for about 50 milliseconds, during which we also stop taking new sensory information in
+
+
+___
+
 Saturday, 09. April 2016 05:50PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/03/160330085617.htm](https://www.sciencedaily.com/releases/2016/03/160330085617.htm)
