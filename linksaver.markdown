@@ -4,6 +4,88 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 25. April 2016 10:48PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160331124719.htm](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
+
+- The study in rats reveals how forgetting can be the result of an active deletion process rather than a failure to remember.
+
+- The more AMPA receptors there are on the surface where brain cells connect, the stronger the memory.
+
+- the process of actively wiping memories happens when brain cells remove AMPA receptors from the connections between brain cells
+
+- Over time, if the memory is not recalled, the AMPA receptors may fall in number and the memory is gradually erased.
+
+
+___
+
+Monday, 25. April 2016 10:37PM
+
+**Url:** [https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/](https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/)
+
+- Our brains appear to rewrite history so that the choices we make after an event seem to precede it.
+
+- Participants reported accuracy was highest  surpassing 30 per cent  when the delays were shortest.
+
+- Such findings may also imply that many of the choices we believe we make only appear to be signs of free will after the fact
+
+
+___
+
+Monday, 25. April 2016 10:22PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/04/160418145453.htm](https://www.sciencedaily.com/releases/2016/04/160418145453.htm)
+
+- people associate certain sounds with nearness and others with distance, say researchers, whose new study adds to the body of knowledge about symbolic sound
+
+- people intuitively associate front vowel sounds -- those produced with the tongue relatively far forward in the mouth, such as the ee in feet -- with things that are close by. Conversely, they relate back vowel sounds -- those produced with the tongue far back in the mouth, such as oo in food -- to things that are farther away
+
+- The participants regularly predicted that Floon, N.Y., was much further from NYC than Fleen
+
+
+___
+
+Monday, 25. April 2016 10:15PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/04/160421133821.htm](https://www.sciencedaily.com/releases/2016/04/160421133821.htm)
+
+- drawing pictures of information that needs to be remembered is a strong and reliable strategy to enhance memory
+
+- Participants often recalled more than twice as many drawn than written words.
+
+
+___
+
+Saturday, 23. April 2016 03:14PM
+
+**Url:** [http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
+
+- what regulates our ability to store and recall information? New research suggests one of the processes involved is 'anti-memories'  connections between neurons that generate the exact opposite pattern of electrical activity to that of the original memory
+
+- The 'anti-memories' hypothesis comes back to the idea that healthy brain function results from the interaction between two types of brain cells: excitatory and inhibitory neurons
+
+- without this balancing of excitatory/inhibitory (E/I) functions, overly excited neurons could give rise to conditions like epilepsy, schizophrenia, and autism
+
+- memories are stored in balanced E/I cortical ensembles
+
+- anti-memories "appear to allow multiple memories to be stored in the brain, without interference between these memories"
+
+
+___
+
+Monday, 18. April 2016 04:17PM
+
+**Url:** [http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material](http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material)
+
+- The 'carbon family' is one very resourceful family. But even with all these developments, carbyne remained elusive
+
+- This one-dimensional carbon chain was first discovered in 1885 by Adolf von Baeyer, who even stated that carbyne would remain elusive, as its high reactivity would always lead to its immediate destruction.
+
+- The team took two layers of graphene, pressed them together, and rolled them into thin, double-walled carbon nanotubes. The tubes were then wrapped around the atoms
+
+
+___
+
 Saturday, 16. April 2016 12:18AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/04/160414095549.htm](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
