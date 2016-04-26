@@ -4,6 +4,19 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 25. April 2016 11:04PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160215172104.htm](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
+
+- Financial incentives aimed at increasing physical activity were most effective when the rewards were put at risk of being lost
+
+- offering a $1.40 reward each time the goal is achieved (the gain incentive group), or when daily lotteries were offered, were no more effective than not offering a reward at all (the control group)
+
+- participants who risked losing the reward they'd already been given (the loss incentive group) achieved the goal 45 percent of the time, amounting to an almost 50 percent increase over the control group
+
+
+___
+
 Monday, 25. April 2016 10:48PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/03/160331124719.htm](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
