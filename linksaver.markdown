@@ -4,6 +4,28 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Wednesday, 18. May 2016 09:46PM
+
+**Url:** [https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/](https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/)
+
+- About 140 cases of foreign accent syndrome (FAS) have been described in scientific studies, but most of these people developed the condition after having a stroke
+
+- a woman in Newcastle whod had a stroke in 2006 woke up with a Jamaican accent. Other British cases include a woman who developed a Chinese accent, and another who acquired a pronounced French-like accent overnight following a bout of cerebral vasculitis
+
+
+___
+
+Wednesday, 18. May 2016 05:21PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/05/160518074211.htm](https://www.sciencedaily.com/releases/2016/05/160518074211.htm)
+
+- Enhanced hippocampal-cortical coupling improves memory
+
+- For the first time, scientists have produced direct evidence that the long-term storage of memories involves a dialogue between two brain structures, the hippocampus and cortex, during sleep; by enhancing this dialogue, they succeeded in triggering the consolidation of memories that would otherwise have been forgotten
+
+
+___
+
 Monday, 25. April 2016 11:04PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/02/160215172104.htm](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
