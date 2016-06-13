@@ -4,6 +4,133 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 12. June 2016 10:24PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160609174804.htm](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
+
+- research suggests that people who take photos of their experiences usually enjoy the events more than people who don't.
+
+- In each experiment, individuals were asked to participate in an activity (e.g., taking a bus tour or eating in a food court) and were either instructed to take photos during the activity or not.
+
+- One critical factor that has been shown to affect enjoyment is the extent to which people are engaged with the experience
+
+- Another instance where photo-taking did not appear to increase enjoyment was when taking photos interfered with the experience itself, such as having to handle bulky and unwieldy camera equipment.
+
+- In one instance, participants went on a virtual safari and observed a pride of lions attacking a water buffalo, a sight most people found aversive. Photo-takers in that instance reported lower levels of enjoyment than those who saw the same encounter but did not take photos
+
+- Participants in one experiment reported higher levels of enjoyment after just taking "mental" pictures as they were going through the experience
+
+
+___
+
+Sunday, 12. June 2016 09:32PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160610173512.htm](https://www.sciencedaily.com/releases/2016/06/160610173512.htm)
+
+- the brain anticipates all of the new situations that it may encounter in a lifetime by creating a special kind of neural network that is 'pre-adapted' to face any eventuality.
+
+- this seemingly miraculous pre-adaptation comes from connections between neurons that form recurrent loops where inputs can rebound and mix in the network, like waves in a pond, thus called "reservoir" computing
+
+
+___
+
+Friday, 10. June 2016 11:59PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/05/160512085222.htm](https://www.sciencedaily.com/releases/2016/05/160512085222.htm)
+
+- How does Google decide which search results to display? Doctoral candidate Anne Schuth developed a new method by which dozens or even hundreds of search algorithms can be compared with each other simultaneously
+
+- With multileaving, several dozens or even hundreds of search algorithms can be compared with each other simultaneously by displaying their results alternately at the top of the user's screen. The preferred result is determined by interpreting user interaction.'
+
+
+___
+
+Friday, 03. June 2016 04:32PM
+
+**Url:** [https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/](https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/)
+
+- While white, blue, red and amber light all increase migraine pain, low-intensity green light seems to reduce it
+
+
+___
+
+Wednesday, 25. May 2016 03:14PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/05/160525140534.htm](https://www.sciencedaily.com/releases/2016/05/160525140534.htm)
+
+- During sensory stimulation, increases in blood flow are not precisely 'tuned' to local neural activity
+
+- Kara and colleagues showed that, while blood flow did increase with neural activity, it also increased in response to certain sensory stimuli that did not evoke local neural activity
+
+- Kara and colleagues have devised a hypothesis. "The blood vessel dilation triggered by local, selective neural activity does not remain entirely local," says Kara. "From a vessel deep within the brain, the dilation propagates up along the vessel walls into a surface vessel and then down into other vessels that enter neighboring columns."
+
+
+___
+
+Monday, 23. May 2016 06:26PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/01/160111162659.htm](https://www.sciencedaily.com/releases/2016/01/160111162659.htm)
+
+- Researchers have created a digital audio platform that can modify the emotional tone of people's voices while they are talking, to make them sound happier, sadder or more fearful. New results show that while listening to their altered voices, participants' emotional state change in accordance with the new emotion
+
+- This is the first evidence of direct feedback effects on emotional experience in the auditory domain
+
+- For example, the happy manipulation modifies the pitch of a speaker's voice using pitch shifting and inflection to make it sound more positive, modifies its dynamic range using compression to make it sound more confident, and modifies its spectral content using high pass filtering to make it sound more excited
+
+
+___
+
+Thursday, 19. May 2016 06:38PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160328191855.htm](https://www.sciencedaily.com/releases/2016/03/160328191855.htm)
+
+- much of what a person can remember is based on their expectation of the information they will need to recall.
+
+
+___
+
+Thursday, 19. May 2016 06:17PM
+
+**Url:** [http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/](http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/)
+
+- The clinical term for this experience is alexithymia and is defined as the inability to recognize emotions and their subtleties and textures
+
+- Research suggests that approximately 8% of males and 2% of females experience alexithymia, and that it can come in mild, moderate and severe intensities
+
+
+___
+
+Thursday, 19. May 2016 06:01PM
+
+**Url:** [https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
+
+- large, sudden surges in calcium flow in the brains of mice seconds after they receive low doses of tDCS. These surges seem to start in cells called astrocytes  star-shaped cells that dont fire themselves, but help to strengthen the connections between neurons and regulate the electrical signals that pass between them
+
+
+___
+
+Thursday, 19. May 2016 05:47PM
+
+**Url:** [http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism](http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism)
+
+- Two separate groups of researchers have uncovered similar techniques for figuring out whether children have autism that's quick, cheap, easy, and highly accurate: tracking the way their eyes move using a webcam and software
+
+- kids with ASD spend more time looking at the mouths of the people they're talking to when the conversation topics turn more emotional
+
+
+___
+
+Thursday, 19. May 2016 05:17PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/04/160401111903.htm](https://www.sciencedaily.com/releases/2016/04/160401111903.htm)
+
+- Our brain automatically pays great attention to everyday actions linked to a social context
+
+- For the purpose of the study, the researchers analyzed bottom-up attention separately from targeted top-down attention. In order to separate both attention processes, the team used hypnosis.
+
+
+___
+
 Wednesday, 18. May 2016 09:46PM
 
 **Url:** [https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/](https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/)
