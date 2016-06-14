@@ -4,6 +4,43 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 14. June 2016 03:18PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/05/160513084549.htm](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
+
+- the brain has a network of brain regions involved in advanced mathematics, as well as simpler arithmetic operations. This network is only activated when numbers are seen, in a population of high-level university students including both experts in mathematics and non-mathematicians
+
+- These results were obtained using functional MRI on university students specializing in mathematics and other disciplines
+
+- When they were thinking about mathematical subjects, a dorsal frontoparietal network of the brain was activated, a network which showed no overlap with the language regions
+
+- Most mathematicians and physicists believe instead that mathematical thought is independent of languages, such as Albert Einstein who said that, "The words of language, as they are written or spoken, do not seem to play any role in my mechanism of thought. The psychical entities which seem to serve as elements in thoughts are certain signs and more or less clear images which can be 'voluntarily' reproduced and combined."
+
+
+___
+
+Tuesday, 14. June 2016 02:53PM
+
+**Url:** [http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/](http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/)
+
+- nearly all the trees whipped by winds blowing at speeds of 94 miles per hour or more had snapped, regardless of their species, height or diameter, whereas most trees hit by gusts below that threshold were left intact
+
+- Although mathematics alone would predict that the wind speed required for tree fracture should depend on trunk diameter and tree height, nature does not make trees that are both thin and tall. Instead short trees are thin and tall ones thick. Even more, thicker trees have larger defects, such as knots, where stress concentrates when a tree bends.
+
+
+___
+
+Monday, 13. June 2016 12:17AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160610094747.htm](https://www.sciencedaily.com/releases/2016/06/160610094747.htm)
+
+- blue wavelength light exposure led to subsequent increases in brain activity in the dorsolateral prefrontal cortex (DLPFC) and the ventrolateral prefrontal cortex (VLPFC) when participants were engaging in a cognitive task after cessation of light exposure
+
+- a short single exposure to blue light for half an hour is sufficient to produce measurable changes in reaction times and more efficient responses (answered more items correctly per second) during conditions of greater cognitive load after the light exposure had ended
+
+
+___
+
 Sunday, 12. June 2016 10:24PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/06/160609174804.htm](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
