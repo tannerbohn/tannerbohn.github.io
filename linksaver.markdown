@@ -4,6 +4,276 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 25. June 2016 03:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160615095123.htm](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
+
+- Combining a positive emotional component with a given stimulus promotes memory for future stimuli of the same type
+
+- Our brain, quoting Javiera Oyarzn, first author of the study, "works as a sorting machine. Every time we expose ourselves to a stimulus, our brain sorts it out in a category, such as people, animals, objects, etc. This way, whenever we receive new information we can integrate it with similar available information thanks to our ability to generalize
+
+- we usually do not remember the details surrounding our usual way back home, but if during that time we receive a phone call with good news, or we witness a car accident, we will remember those details with much more precision
+
+- we designed a study with volunteers who were shown a series of images corresponding to two categories (objects and animals), but were only rewarded by one of these categories
+
+- As expected, participants remembered those images associated with a reward better
+
+- In a second session, however, they were shown new images of animals and objects, but knowing that this time there would be no reward. "What we saw is that participants not only remembered "rewarding" images better, but also those of the same semantic category despite knowing that they were not associated with any reward,"
+
+- One of the most significant aspects of the published work is that the effects of emotionally positive stimuli on memory storage are not observed until after 24 hours, ie, it is necessary that the participant sleeps.
+
+
+___
+
+Saturday, 25. June 2016 03:49AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160229135339.htm](https://www.sciencedaily.com/releases/2016/02/160229135339.htm)
+
+- adolescents who sleep five hours a night for a week experience significant cognitive degradation
+
+- For seven nights, half of the participants received a five-hour sleep opportunity, while the other half had nine hours to sleep -- the recommended sleep duration for this age group 
+
+- Those in the nine-hour sleep group either maintained cognitive performance or showed practice-related gains in tasks requiring arithmetic calculation and symbol decoding. In contrast, those in the five-hour sleep group showed prominent deterioration of sustained attention, working memory, executive function, alertness, and positive mood. They also showed reduced performance gains (arising from repeated practice) with arithmetic and symbol-decoding
+
+- two nights of nine-hour recovery sleep could not fully reverse some of these cognitive deficits
+
+
+___
+
+Saturday, 25. June 2016 03:40AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160613130813.htm](https://www.sciencedaily.com/releases/2016/06/160613130813.htm)
+
+- after restricting sleep to 5 hours per night, caffeine use no longer improved alertness or performance after three nights
+
+- relative to placebo, caffeine significantly improved Psychomotor Vigilance Task performance during the first two days, but not the last three days of sleep restriction
+
+- Participants were administered either 200 mg of caffeine or a placebo twice daily.
+
+
+___
+
+Saturday, 25. June 2016 03:13AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/02/160229182658.htm](https://www.sciencedaily.com/releases/2016/02/160229182658.htm)
+
+- the 'Johnny Depp Effect' -- which involves women tending to prefer men with more feminine faces -- holds in some contexts, but not in others
+
+- when people are asked to rate the attractiveness of gender-blended face morphs they tend to judge them as less appealing if they are first asked to classify the face as male or female
+
+- gender blends were disliked when, and only when, the faces were first categorised by gender, despite an overall preference of the participants for more feminine features
+
+- In the second experiment, in which some participants were first asked to categorise gender-ambiguous faces by ethnicity, they did not subsequently judge the gender blends as less appealing.
+
+- mental effort of having to assign a gender to an ambiguous face has a flow-on effect of negatively influencing how we feel about that face
+
+
+___
+
+Saturday, 25. June 2016 02:23AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160613153411.htm](https://www.sciencedaily.com/releases/2016/06/160613153411.htm)
+
+- The first study to systematically measure the number of neurons in the brains of birds has found that they have significantly more neurons packed into their small brains than are stuffed into mammalian and even primate brains of the same mass.
+
+- studies found that the birds could manufacture and use tools, use insight to solve problems, make inferences about cause-effect relationships, recognize themselves in a mirror and plan for future needs, among other cognitive skills previously considered the exclusive domain of primates
+
+- Birds can perform these complex behaviors because birds' forebrains contain a lot more neurons than any one had previously thought -- as many as in mid-sized primates
+
+- Previously, neuroanatomists thought that as brains grew larger neurons had to grow bigger as well because they had to connect over longer distances. "But bird brains show that there are other ways to add neurons: keep most neurons small and locally connected and only allow a small percentage to grow large enough to make the longer connections.
+
+
+___
+
+Saturday, 25. June 2016 02:11AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160318085641.htm](https://www.sciencedaily.com/releases/2016/03/160318085641.htm)
+
+- Gross and colleagues studied the hippocampus, a region of the brain that's long been known to help form memories. Information enters this part of the brain through three different routes. As memories are cemented, connections between neurons along the 'main' route become stronger.
+
+- When they blocked this main route, the scientists found that the mice were no longer capable of learning a Pavlovian response -- associating a sound to a consequence, and anticipating that consequence. But if the mice had learned that association before the scientists stopped information flow in that main route, they could still retrieve that memory
+
+- blocking that main route had an unexpected consequence: the connections along it were weakened, meaning the memory was being erased
+
+- this active push for forgetting only happens in learning situations
+
+
+___
+
+Saturday, 25. June 2016 02:04AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160323082223.htm](https://www.sciencedaily.com/releases/2016/03/160323082223.htm)
+
+- each person has an individual motor signature (IMS), a blueprint of the subtle differences in the way they move compared to someone else, such as speed or weight of movement for example
+
+- people who have similar movements will tend to display more organised collective behaviour
+
+
+___
+
+Saturday, 25. June 2016 01:59AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160621111541.htm](https://www.sciencedaily.com/releases/2016/06/160621111541.htm)
+
+- Blackjack players who hold high-value cards tend to glance fleetingly to the right, whereas those with a lower-value hand do so spontaneously to the left.
+
+
+___
+
+Thursday, 23. June 2016 05:21PM
+
+**Url:** [http://arxiv.org/abs/1605.07648v1](http://arxiv.org/abs/1605.07648v1)
+
+- FractalNet: Ultra-Deep Neural Networks without Residuals
+
+- Repeated application of a single expansion rule generates an extremely deep network whose structural layout is precisely a truncated fractal.
+
+- Our experiments demonstrate that residual representation is not fundamental to the success of extremely deep convolutional neural networks. A fractal design achieves an error rate of 22.85% on CIFAR-100, matching the state-of-the-art held by residual networks. 
+
+
+___
+
+Thursday, 23. June 2016 12:49PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160609151205.htm](https://www.sciencedaily.com/releases/2016/06/160609151205.htm)
+
+- New research explains why so many biological networks, including the human brain (a network of neurons), exhibit a hierarchical structure
+
+- the evolution of hierarchy -- a simple system of ranking -- in biological networks may arise because of the costs associated with network connections
+
+- For example, the human brain has separate areas for motor control and tactile processing, and each of these areas consist of sub-regions that govern different parts of the body
+
+- this paper suggest that hierarchy evolves not because it produces more efficient networks, but instead because hierarchically wired networks have fewer connections
+
+
+___
+
+Thursday, 23. June 2016 12:41PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160609115526.htm](https://www.sciencedaily.com/releases/2016/06/160609115526.htm)
+
+- In recording moment-by-moment deliberations by macaque monkeys over which option is likely to yield the most fruit juice, UC Berkeley scientists have captured the dynamics of decision-making down to millisecond changes in neurons in the brain's orbitofrontal cortex.
+
+- Located behind the eyes, the orbitofrontal cortex plays a key role in decision-making and, when damaged, can lead to poor choices and impulsivity.
+
+- The more the monkey needed to think about the options, particularly when there was not much difference between the amounts of juice offered, the more the neural patterns would switch back and forth.
+
+
+___
+
+Thursday, 23. June 2016 12:35PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160602122202.htm](https://www.sciencedaily.com/releases/2016/06/160602122202.htm)
+
+- Neurofeedback using electroencephalograpy boasts thousands of practitioners and appears to both improve normal brain function and alleviate a wide variety of mental disorders -- from anxiety to alcoholism. But after examining the scientific literature and consulting experts in Europe and the U.S., researchers now conclude that clinical improvements from this increasingly popular alternative therapy are due to placebo effects.
+
+
+___
+
+Sunday, 19. June 2016 02:02AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160616140717.htm](https://www.sciencedaily.com/releases/2016/06/160616140717.htm)
+
+- A new study suggests an intriguing strategy to boost memory for what you've just learned: hit the gym four hours later.
+
+- those who exercised four hours after their learning session retained the information better two days later than those who exercised either immediately or not at all. The brain images also showed that exercise after a time delay was associated with more precise representations in the hippocampus
+
+
+___
+
+Thursday, 16. June 2016 12:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160615134946.htm](https://www.sciencedaily.com/releases/2016/06/160615134946.htm)
+
+- Cortisol lowers significantly after just 45 minutes of art creation
+
+- However, roughly 25 percent of the participants actually registered higher levels of cortisol -- though that wasn't necessarily a bad thing.
+
+- For example, our cortisol levels vary throughout the day -- levels are highest in the morning because that gives us an energy boost to us going at the start of the day. It could've been that the art-making resulted in a state of arousal and/or engagement in the study's participants.
+
+
+___
+
+Thursday, 16. June 2016 12:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160614133617.htm](https://www.sciencedaily.com/releases/2016/06/160614133617.htm)
+
+- the autonomic nervous system, which is responsible for control of bodily functions not consciously directed (such as breathing, heartbeat, and digestive processes) plays a role in promoting memory consolidation -- the process of converting information from short-term to long-term memory -- during sleep
+
+- increases in autonomic nervous system (ANS) activity during sleep is correlated with memory improvement.
+
+- while approximately 40 percent of the performance improvement due to the nap could be predicted by the amount of rapid eye movement (REM) sleep, when the researchers considered heart rate activity during REM, they could account for up to 73 percent of the performance increases
+
+
+___
+
+Wednesday, 15. June 2016 02:58AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160614100237.htm](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
+
+- the act of perceiving others' pain (i.e., empathy for others' pain) does not appear to involve the same neural circuitry as experiencing pain in one's own body, suggesting that they are different interactions within the brain
+
+- The research suggests that empathy is a deliberative process that requires taking another person's perspective rather than being an instinctive, automatic process
+
+
+___
+
+Wednesday, 15. June 2016 02:58AM
+
+**Url:** [https://culurciello.github.io/tech/2016/06/04/nets.html](https://culurciello.github.io/tech/2016/06/04/nets.html)
+
+- the great advantage of VGG was the insight that multiple 3x3 convolution in sequence can emulate the effect of larger receptive fields, for examples 5x5 and 7x7. These ideas will be also used in more recent network architectures as Inception and ResNet.
+
+- Network-in-network (NiN) had the great and simple insight of using 1x1 convolutions to provide more combinational power to the features of a convolutional layers.
+
+- the great insight of the inception module was the use of 1x1 convolutional blocks (NiN) to reduce the number of features before the expensive parallel blocks. This is commonly referred as bottleneck
+
+- ResNet have a simple ideas: feed the output of two successive convolutional layer AND also bypass the input to the next layers!
+
+
+___
+
+Tuesday, 14. June 2016 06:23PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160310111843.htm](https://www.sciencedaily.com/releases/2016/03/160310111843.htm)
+
+- The research, which examined levels of life satisfaction and income changes in more than 18,000 adults over a nine year period, revealed that income change is only important when individuals with specific personality characteristics experience an income loss
+
+- regardless of personality, income increases did not affect life satisfaction. When people lost income, however, there was a reduction in their life satisfaction. This was far greater for those who reported themselves as being conscientious, namely they were thorough in their attitudes to life and work, energetic, and effective and efficient in how they did things
+
+
+___
+
+Tuesday, 14. June 2016 06:16PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160310111855.htm](https://www.sciencedaily.com/releases/2016/03/160310111855.htm)
+
+- research suggests that there is an "atomic" unit of recognition -- a minimum amount of information an image must contain for recognition to occur
+
+- When the scientists compared the scores of the human subjects with those of the computer models, they found that humans were much better at identifying partial- or low-resolution images
+
+- Almost all the human participants were successful at identifying the objects in the various images, up to a fairly high loss of detail -- after which, nearly everyone stumbled at the exact same point. The division was so sharp, the scientists termed it a "phase transition." "If an already minimal image loses just a minute amount of detail, everybody suddenly loses the ability to identify the object," says Ullman. "That hints that no matter what our life experience or training, object recognition is hardwired and works the same in all of us."
+
+
+___
+
+Tuesday, 14. June 2016 03:31PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160614083116.htm](https://www.sciencedaily.com/releases/2016/06/160614083116.htm)
+
+- A new equation, showing how our happiness depends not only on what happens to us but also how this compares to other people, has been developed by UCL researchers funded by Wellcome
+
+- found that inequality reduced happiness on average. This was true whether people were doing better or worse than another person they had just met
+
+- On average, when someone won a gamble they were happier when their partner also won the same gamble compared to when their partner lost. This difference could be attributed to guilt. Similarly, when people lost a gamble they were happier when their partner also lost compared to when their partner won, a difference that could be attributed to envy.
+
+- The people who gave away half of their money when they had the opportunity showed no envy when they experienced inequality in a different task but showed a lot of guilt. By contrast, those who kept all the money for themselves displayed no signs of guilt in the other task but displayed a lot of envy
+
+- The task may prove to be a useful way of measuring empathy, which could offer insight into social disorders such as borderline personality disorder
+
+
+___
+
 Tuesday, 14. June 2016 03:18PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/05/160513084549.htm](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
