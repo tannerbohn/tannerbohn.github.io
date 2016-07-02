@@ -4,6 +4,35 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 02. July 2016 03:59PM
+
+**Url:** [http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
+
+- Convinced that better use of data will improve research, innovation and literacy across other disciplines, six leading statisticians recently published "Ten Simple Rules for Effective Statistical Practice" in the journal PLOS Computational Biology
+Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
+
+- sound statistical practices require a bit of science, engineering, and arts, and hence some general guidelines for helping practitioners to develop statistical insights and acumen are in order
+Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
+
+- Rule 1: Statistical Methods Should Enable Data to Answer Scientific QuestionsRule 2: Signals Always Come with NoiseRule 3: Plan Ahead, Really AheadRule 4: Worry about Data QualityRule 5: Statistical Analysis Is More Than a Set of ComputationsRule 6: Keep it SimpleRule 7: Provide Assessments of VariabilityRule 8: Check Your AssumptionsRule 9: When Possible, Replicate!Rule 10: Make Your Analysis Reproducible
+Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
+
+
+___
+
+Saturday, 02. July 2016 03:51PM
+
+**Url:** [http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance](http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance)
+
+- After testing more than 44,000 people playing an online game, the team found that those who kept telling themselves they could improve - a common trick used by psychologists - achieved the best scores.
+
+- The use of imagery - where players imagined themselves beating their best score before they played - was effective, too, though not to the same extent as self-talk
+
+- 'If-then planning' - spelling out a course of action and what will happen as a result - was found to be the least effective way of improving performance during the game
+
+
+___
+
 Sunday, 26. June 2016 02:06AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/06/160623122940.htm](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
