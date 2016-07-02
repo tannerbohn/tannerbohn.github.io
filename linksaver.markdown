@@ -4,6 +4,32 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 26. June 2016 02:06AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160623122940.htm](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
+
+- A couple of proteins have been shown to fuel exercise-induced neuron growth, but a new study presents a new candidate, cathepsin B -- one that can be directly traced from the muscles to the brain in mice
+
+- when cathepsin B was applied to brain cells, it spurred the production of molecules related to neurogenesis
+
+- in humans who exercise consistently for four months, better performance on complex recall tasks, such as drawing from memory, is correlated with increased cathepsin B levels
+
+
+___
+
+Sunday, 26. June 2016 02:04AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/06/160623115732.htm](https://www.sciencedaily.com/releases/2016/06/160623115732.htm)
+
+- an increase in probability feels riskier than a decrease
+
+- We wanted to know if the likelihood of a future event being revised up to 30 per cent would feel more likely to happen than it being revised down to 30 per cent
+
+- "If the latest estimate is 30 per cent, then it's equally likely to go up or down or stay flat, but we have a tendency to perceive momentum -- if things have gone up, we assume the trend will continue."
+
+
+___
+
 Saturday, 25. June 2016 03:53AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/06/160615095123.htm](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
