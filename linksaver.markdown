@@ -4,18 +4,37 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 02. July 2016 04:08PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/03/160303120637.htm](https://www.sciencedaily.com/releases/2016/03/160303120637.htm)
+
+- Neuronal calculations consider expectations
+
+- Without us being aware of it, our visual system tackles incredibly difficult tasks every second.
+
+- To facilitate the processing of such visual information, the visual system incorporates expectations of typical features of the environment into its calculations.
+
+
+___
+
 Saturday, 02. July 2016 03:59PM
 
 **Url:** [http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
 
 - Convinced that better use of data will improve research, innovation and literacy across other disciplines, six leading statisticians recently published "Ten Simple Rules for Effective Statistical Practice" in the journal PLOS Computational Biology
-Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
 
 - sound statistical practices require a bit of science, engineering, and arts, and hence some general guidelines for helping practitioners to develop statistical insights and acumen are in order
-Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
 
-- Rule 1: Statistical Methods Should Enable Data to Answer Scientific QuestionsRule 2: Signals Always Come with NoiseRule 3: Plan Ahead, Really AheadRule 4: Worry about Data QualityRule 5: Statistical Analysis Is More Than a Set of ComputationsRule 6: Keep it SimpleRule 7: Provide Assessments of VariabilityRule 8: Check Your AssumptionsRule 9: When Possible, Replicate!Rule 10: Make Your Analysis Reproducible
-Read more at: http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html#jCp
+- Rule 1: Statistical Methods Should Enable Data to Answer Scientific Questions. 
+Rule 2: Signals Always Come with Noise. 
+Rule 3: Plan Ahead, Really Ahead. 
+Rule 4: Worry about Data Quality. 
+Rule 5: Statistical Analysis Is More Than a Set of Computations. 
+Rule 6: Keep it Simple. 
+Rule 7: Provide Assessments of Variability. 
+Rule 8: Check Your Assumptions. 
+Rule 9: When Possible, Replicate!. 
+Rule 10: Make Your Analysis Reproducible
 
 
 ___
