@@ -4,18 +4,73 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Thursday, 04. August 2016 01:41AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160803140140.htm](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
+
+- Sleep is governed by two systems -- the circadian clock and the sleep homeostat. While the circadian clock is quite well understood, very little is known about the sleep homeostat
+
+- The circadian clock allows us to anticipate predictable changes in our environment that are caused by the Earth's rotation. As such, it makes sure we do our sleeping when it hurts us least, but it doesn't speak to the mystery of why we need to sleep in the first place
+
+- The homeostat measures something -- and we don't know what that something is -- that happens in our brains while we are awake, and when that something hits a certain ceiling, we go to sleep. The system is reset during sleep, and the cycle begins anew when we wake up.
+
+
+___
+
+Sunday, 24. July 2016 06:32PM
+
+**Url:** [http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/](http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/)
+
+- When two events happen in short succession, they feel somehow linked to each other. It turns out that apparent link has a physical manifestation in our brains
+
+- In your brain, and in the brains of lab mice, recollections are physically represented as collections of neurons with strengthened connections to one another. These clusters of connected cells are known as engrams, or memory traces.
+
+- more excitable neuronsthat is, brain cells that activate easilyare more likely to be recruited into an engram, so if you increase the excitability of particular neurons, you can preferentially include them in a new engram.
+
+- Neurons in a newly formed memory trace are subsequently more excitable than neighboring brain cells for a transient period of time. It follows then that a memory formed soon after the first might be encoded in an overlapping population of neurons
+
+- Mice should normally form separate memories when events happen 24 hours apart, but when the researchers re-excited the neurons in the first memory engram while the second memory was forming, they could artificially link those experiences
+
+- Decreasing the excitability of the neurons in the first memory during the second event seemed to prevent the second memory from forming.
+
+
+___
+
+Tuesday, 05. July 2016 11:02PM
+
+**Url:** [http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover](http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover)
+
+- applying an electrical current to the brain can improve people's vision temporarily, and the worse your eyesight is, the more powerful the boosting effect
+
+- zapping the visual cortex of the brain for 20 minutes via transcranial direct-current stimulation offered improvements in vision lasting up to 2 hours
+
+- tested this hypothesis on 20 young, healthy people who had normal or near-normal vision. The group was asked to evaluate the position of two identical vertical lines, and assess whether they were perfectly aligned or slightly offset from one another.
+
+
+___
+
+Sunday, 03. July 2016 08:35PM
+
+**Url:** [https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
+
+- Brain-derived neurotrophic factor, also known as BDNF, is a protein[1] that, in humans, is encoded by the BDNF gene.[2][3] BDNF is a member of the neurotrophin family of growth factors, which are related to the canonical Nerve Growth Factor. Neurotrophic factors are found in the brain and the periphery.
+
+- BDNF acts on certain neurons of the central nervous system and the peripheral nervous system, helping to support the survival of existing neurons, and encourage the growth and differentiation of new neurons and synapses.[4][5] In the brain, it is active in the hippocampus, cortex, and basal forebrainareas vital to learning, memory, and higher thinking
+
+- BDNF expression is significantly enhanced by environmental enrichment and appears to be the primary source of environmental enrichments ability to enhance cognitive processes. Environmental enrichment enhances synaptogenesis, dendridogenesis, and neurogenesis, leading to improved performance on various learning and memory tasks.
+
+
+___
+
 Saturday, 02. July 2016 07:16PM
 
 **Url:** [http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html](http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html)
 
 - A team of researchers, led by Daniel Levitin of McGill University, has found after analyzing over two thousand pieces of classical music that span four hundred years of history, that virtually all of them follow a one-over-f (1/f) power distribution equation
-Read more at: http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html#jCp
 
 - One-over-f equations describe the relative frequency of things that happen over time and can be used to describe such naturally occurring events as annual river flooding or the beating of a human heart. They have been used to describe the way pitch is used in music as well, but until now, no one has thought to test the idea that they could be used to describe the rhythm of the music too.
-Read more at: http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html#jCp
 
 - by adding another variable to the equation, called a beta, which was used to describe just how predictable a given piece was compared to other pieces, they could solve for beta and find a unique number of for each composer.
-Read more at: http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html#jCp
 
 
 ___
@@ -1076,7 +1131,6 @@ Sunday, 06. December 2015 08:12PM
 **Url:** [http://phys.org/news/2015-11-nist-team-spooky-action-distance.html](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
 
 - You can't prove quantum mechanics, but local realism, or hidden local action, is incompatible with our experiment
-Read more at: http://phys.org/news/2015-11-nist-team-spooky-action-distance.html#jCp
 
 
 ___
@@ -1095,10 +1149,8 @@ Friday, 11. March 2016 03:38AM
 **Url:** [http://phys.org/news/2016-03-invisibility-cloaks.html](http://phys.org/news/2016-03-invisibility-cloaks.html)
 
 - limitations imposed by special relativity mean that the best invisibility cloaks would only be able to render objects partially transparent because they would suffer from obvious visible distortions due to motion
-Read more at: http://phys.org/news/2016-03-invisibility-cloaks.html#jCp
 
 - a moving amplitude cloak would drag light waves to different areas of space as seen by a stationary observer, making the image appear distorted
-Read more at: http://phys.org/news/2016-03-invisibility-cloaks.html#jCp
 
 
 ___
@@ -1180,7 +1232,6 @@ Monday, 07. March 2016 05:48PM
 **Url:** [http://phys.org/news/2016-03-reveal-molecular-patterns.html](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
 
 - In nature and society, everything from predatory animals to submarine-seeking ships has developed search strategies where slow, localized searches alternate with long, non-searching movements to explore vast areas where targets are sparse
-Read more at: http://phys.org/news/2016-03-reveal-molecular-patterns.html#jCp
 
 
 ___
@@ -1192,10 +1243,8 @@ Monday, 07. March 2016 11:07AM
 - By itself, a p-value does not provide a good measure of evidence regarding a model or hypothesis.
 
 - A p-value, or statistical significance, does not measure the size of an effect or the importance of a result.
-Read more at: http://phys.org/news/2016-03-american-statistical-association-statement-significance.html#jCp
 
 - P-values do not measure the probability that the studied hypothesis is true, or the probability that the data were produced by random chance alone.
-Read more at: http://phys.org/news/2016-03-american-statistical-association-statement-significance.html#jCp
 
 
 ___
@@ -1240,10 +1289,8 @@ Wednesday, 02. March 2016 03:04AM
 - Constructal Law, which states that natural systems evolve to facilitate flow.
 
 - They showed that if the bodies coalesce into some large bodies and some small bodies, the tension is reduced faster than if the bodies merged uniformly
-Read more at: http://phys.org/news/2016-03-celestial-bodies-sizes.html#jCp
 
 - The natural tendency of a system to evolve toward a state of reduced tension is a manifestation of the Constructal Law
-Read more at: http://phys.org/news/2016-03-celestial-bodies-sizes.html#jCp
 
 
 ___
@@ -1383,7 +1430,6 @@ Saturday, 27. February 2016 08:02PM
 **Url:** [http://phys.org/news/2016-02-physicists-properties-superconductivity.html](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
 
 - The term "nematicity" commonly refers to when liquid crystals spontaneously align under an electric field in liquid crystal displays. In this case, it is the electronic orbitals that enter the nematic state as the temperature drops below a critical point.
-Read more at: http://phys.org/news/2016-02-physicists-properties-superconductivity.html#jCp
 
 
 ___
@@ -1734,10 +1780,8 @@ Sunday, 21. February 2016 01:42AM
 **Url:** [http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
 
 - The scenario involves a wooden cube with 6-cm sides made of medium-density fiberboard. Each of the six faces is marked with a 6 x 6-cm square lattice for a total of 36 square cells per face. Then round holes (of diameter equal to the length of a square cell) are drilled through random cells all the way through the cube.
-Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html#jCp
 
 - the number of holes that needs to be drilled to collapse this particular cube is always around 13 holes in each of the three directions, or 39 holes total. Their formula shows that, although this critical number changes for different lattice sizes, the critical density of drills is very similar.
-Read more at: http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html#jCp
 
 
 ___
@@ -1778,10 +1822,8 @@ Monday, 15. February 2016 03:24PM
 **Url:** [http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
 
 - recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing
-Read more at: http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html#jCp
 
-- 360 TB/disc data capacity, thermal stability up to 1,000C and virtually unlimited lifetime at room temperature (13.8 billion years at 190C ) 
-Read more at: http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html#jCp
+- 360 TB/disc data capacity, thermal stability up to 1,000C and virtually unlimited lifetime at room temperature (13.8 billion years at 190C )
 
 
 ___
@@ -2543,7 +2585,6 @@ Thursday, 28. January 2016 02:31PM
 **Url:** [http://phys.org/news/2015-05-brain-map-geometries.html#nRlv](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
 
 - Grid cells, space-mapping neurons of the entorhinal cortex of rodents, could also work for hyperbolic surfaces.
-Read more at: http://phys.org/news/2015-05-brain-map-geometries.html#jCp
 
 
 ___
@@ -2675,7 +2716,6 @@ Monday, 11. January 2016 10:22AM
 **Url:** [http://phys.org/news/2016-01-one-way.html](http://phys.org/news/2016-01-one-way.html)
 
 - Over the past few years, scientists have demonstrated the phenomenon of "one-way light," in which a light beam propagates in one direction only
-Read more at: http://phys.org/news/2016-01-one-way.html#jCp
 
 
 ___
@@ -2831,7 +2871,6 @@ Monday, 04. January 2016 04:08PM
 **Url:** [http://phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
 
 - getting a large group of unanimous witnesses is so unlikely, according to the laws of probability, that it's more likely that the system is unreliable
-Read more at: http://phys.org/news/2016-01-evidence-bad.html#jCp
 
 
 ___
@@ -3228,7 +3267,6 @@ Sunday, 06. December 2015 09:36PM
 **Url:** [http://phys.org/news/2015-11-forge-proof-id-revolutionise.html](http://phys.org/news/2015-11-forge-proof-id-revolutionise.html)
 
 - uses atomic-scale imperfections that are impossible to clone as they comprise the unmanipulable building blocks of matter
-Read more at: http://phys.org/news/2015-11-forge-proof-id-revolutionise.html#jCp
 
 
 ___
@@ -3806,7 +3844,6 @@ Wednesday, 02. December 2015 09:32AM
 **Url:** [http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html](http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html)
 
 - for a spheroid particle with a refractive index of 3.5, scattering in the forward direction can be maximized if the spheroid's major axis is just over twice the length of its minor axis
-Read more at: http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html#jCp
 
 
 ___
@@ -3816,7 +3853,6 @@ Wednesday, 02. December 2015 09:03AM
 **Url:** [http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html](http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html)
 
 - A team of scientists, including physicists from MIPT and the Russian Quantum Centre, have demonstrated a method of exciting magnetic vortices, which could potentially be used in the electronics of the future as information carriers, using less current
-Read more at: http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html#jCp
 
 - topological insulator: it will only allow an electric current to flow along its surface
 
