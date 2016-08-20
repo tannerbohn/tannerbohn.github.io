@@ -4,6 +4,94 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 20. August 2016 12:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/07/160728143247.htm](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
+
+- For years, researchers have recorded electrical brain activity that oscillates or alternates during sleep; they present as waves on an electroencephalogram (EEG). These waves are called sleep spindles, and scientists have suspected their involvement in cataloging and storing memories as we sleep
+
+- They could've been merely byproducts of other brain processes that enabled what we learn to be stored as a memory. But our study shows that, indeed, the spindles are crucial for the process of creating memories we need for every-day life. And we can target them to enhance memory
+
+- During sleep one of the nights, each person received tACS -- an alternating current of weak electricity synchronized with the brain's natural sleep spindles
+
+- Frohlich's team found no improvement in test scores for associative word-pairing but a significant improvement in the motor tasks when comparing the results between the stimulation and placebo night
+
+
+___
+
+Saturday, 20. August 2016 12:45AM
+
+**Url:** [https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/](https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/)
+
+- People with autism tend to integrate auditory and visual information over longer windows of time than most of us do
+
+-  children with autism called out sights and sounds as simultaneous even when they were separated by long intervals of time
+
+- the longer the binding window is in people with autism, the poorer they perform on tasks that require them to connect auditory and visual information
+
+
+___
+
+Tuesday, 09. August 2016 08:49PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160804152428.htm](https://www.sciencedaily.com/releases/2016/08/160804152428.htm)
+
+- Exaggerating the visual appearance of mistakes could help people further improve their motor skills after an initial performance peak
+
+- healthy participants learned a virtual tetherball-like game in which they tried to hit a target with a ball hanging from a pole. After three days, all players reached a performance plateau. Then, for some players, the researchers secretly manipulated the game so that the distance by which the ball missed the target appeared bigger on screen than it actually was
+
+- Participants whose mistakes appeared at least twice as bad as they really were broke past their plateau and continued sharpening their tetherball skills. A control group that remained undeceived showed negligible improvement
+
+- error exaggeration did not change how they made corrections in their throwing techniques. Instead, it reduced random fluctuations, or noise, in nervous system signals that control muscle movement. These findings challenge existing assumptions that such noise cannot be reduced
+
+
+___
+
+Tuesday, 09. August 2016 08:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160804172359.htm](https://www.sciencedaily.com/releases/2016/08/160804172359.htm)
+
+- viewing an action in slow motion compared to regular speed can cause viewers to perceive an action as more intentional.
+
+- This is because slow motion gives the false impression that the actor had more time to think before acting
+
+- One analysis showed that nearly four times as many juries would unanimously vote for a first-degree murder verdict if made up of participants who saw the video in slow motion rather than of participants who saw the video at regular speed
+
+
+___
+
+Friday, 05. August 2016 06:50PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160803124445.htm](https://www.sciencedaily.com/releases/2016/08/160803124445.htm)
+
+- exercise causes more new neurons to be formed in a critical brain region, and contrary to an earlier study, these new neurons do not cause the individual to forget old memories
+
+- it was a surprise in 2014 when a research study, published in the journal Science, found that exercise caused mice to forget what they'd already learned
+
+- Shetty and his team decided to replicate this earlier research, using rats instead of mice. Rats are thought to be more like humans physiologically, with more-similar neuronal workings. They found that -- luckily for runners everywhere -- these animal models showed no such degradation in memories.
+
+
+___
+
+Thursday, 04. August 2016 04:30PM
+
+**Url:** [http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever](http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever)
+
+- Scientists have been able to observe birds falling asleep mid-flight for the first time - an ability that's long been suspected but never been proven
+
+- birds can shut down one hemisphere at a time during flight, as expected
+
+- they can also rest both hemispheres at once - something scientists didn't expect them to be able to do while remaining airborne
+
+- as the sun set, the birds switched into slow wave sleep for several minutes at a time while they continued to fly over the water
+
+- the birds even went into brief periods of REM sleep while they remained airborne
+
+- frigatebirds slept less than an hour a day, or 42 minutes on average, to be precise - less than 10 percent of the time they normally spend sleeping on land
+
+
+___
+
 Thursday, 04. August 2016 01:41AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/08/160803140140.htm](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
