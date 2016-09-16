@@ -4,6 +4,30 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 09. September 2016 02:03AM
+
+**Url:** [http://phys.org/news/2016-09-physicists-laser.html](http://phys.org/news/2016-09-physicists-laser.html)
+
+- Powerful laser beams, given the right conditions, will act as their own lenses and "self-focus" into a tighter, even more intense beam. University of Maryland physicists have discovered that these self-focused laser pulses also generate violent swirls of optical energy that strongly resemble smoke rings. In these donut-shaped light structures, known as "spatiotemporal optical vortices," the light energy flows through the inside of the ring and then loops back around the outside.
+Read more at: http://phys.org/news/2016-09-physicists-laser.html#jCp
+
+- The team strongly suspects that STOVs could explain decades' worth of anomalous results and unexplained effects in the field of high-intensity laser research
+Read more at: http://phys.org/news/2016-09-physicists-laser.html#jCp
+
+
+___
+
+Thursday, 08. September 2016 02:00AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160902111425.htm](https://www.sciencedaily.com/releases/2016/09/160902111425.htm)
+
+- The more foreign languages we learn, the more effectively our brain reacts and processes the data accumulated in the course of learning.
+
+- loading the mind with more knowledge boosts its elasticity
+
+
+___
+
 Saturday, 20. August 2016 12:53AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/07/160728143247.htm](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
