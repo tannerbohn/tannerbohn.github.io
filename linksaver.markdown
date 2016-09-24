@@ -4,6 +4,121 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 23. September 2016 10:52PM
+
+**Url:** [https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
+
+- For some behaviors, a single nerve cell does act as a dictator, triggering an entire set of movements via the electrical signals it uses to send messages.
+
+- But these dictator cells arent the whole story. Crayfish can trigger a tail-flip another way too  via another small set of neurons that effectively act as an oligarchy.
+
+- For many other behaviors, however, nervous systems make decisions through something like Sherringtons million-fold democracy.
+
+- Unlike countries, however, nervous systems can implement multiple forms of government simultaneously. A neuronal dictatorship can coexist with an oligarchy or democracy. The dictator, acting fastest, may trigger the onset of a behavior while other neurons fine-tune the ensuing movements.
+
+
+___
+
+Friday, 23. September 2016 10:34PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/07/160725192354.htm](https://www.sciencedaily.com/releases/2016/07/160725192354.htm)
+
+- Beta rhythms, or waves of brain activity with an approximately 20 Hz frequency, accompany vital fundamental behaviors such as attention, sensation and motion and are associated with some disorders such as Parkinson's disease.
+
+- Scientists have debated how the spontaneous waves emerge, and they have not yet determined whether the waves are just a byproduct of activity, or play a causal role in brain functions.
+
+- They found that they could closely replicate the shape of the beta waves in the model by delivering two kinds of excitatory synaptic stimulation to distinct layers in the cortical columns of cells
+
+- Neither the computer models nor the measurements traced the source of the excitatory synaptic stimulations that drive the pyramidal neurons to produce the beta waves, but Jones and her co-authors posit that they likely come from the thalamus
+
+
+___
+
+Friday, 23. September 2016 10:32PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/07/160726123214.htm](https://www.sciencedaily.com/releases/2016/07/160726123214.htm)
+
+- research shows for the first time that elite endurance athletes have superior ability to resist mental fatigue
+
+- while the recreational cyclists slowed down after performing a computerised cognitive task to induce mental fatigue, the professional cyclists' time trial performance was not affected
+
+
+___
+
+Friday, 23. September 2016 10:28PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160803161609.htm](https://www.sciencedaily.com/releases/2016/08/160803161609.htm)
+
+- Researchers have identified a protein essential for building memories that appears to predict the progression of memory loss and brain atrophy in Alzheimer's patients. Their findings suggest there is a link between brain activity and the presence of this protein.
+
+- a correlation between higher levels of NPTX2 and better memory and more brain volume. Lower levels of the protein were associated with diminished memory and less volume.
+
+
+___
+
+Friday, 23. September 2016 10:09PM
+
+**Url:** [https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/](https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/)
+
+- New Caledonian crows have figured out how to move two things in one fell swoop. The adept tool users have been filmed inserting sticks into objects to transport both items at once  a feat that has never been seen in non-humans.
+
+
+___
+
+Friday, 23. September 2016 09:55PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160804135417.htm](https://www.sciencedaily.com/releases/2016/08/160804135417.htm)
+
+- piquing people's curiosity can influence their choices by steering them away from tempting desires, like unhealthy foods or taking the elevator, and toward less tempting, but healthier options, such as buying more fresh produce or taking the stairs
+
+- In the first experiment, the researchers approached 200 people in a university library and gave them a choice between two fortune cookies, one plain and one dipped in chocolate and covered in sprinkles
+
+- Participants whose curiosity was piqued (i.e., were told the plain cookie contained a fortune specifically about them) overwhelmingly chose the plain cookie by 71 percent. In contrast, when participants were told nothing, 80 percent chose the chocolate-dipped cookie.
+
+- researchers were able to increase the use of the stairs in a university building nearly 10 percent by posting trivia questions near the elevators and promising the answers in the stairwell.
+
+- The strategies employed in these experiments and field studies are similar to those used by websites that attempt to increase traffic with sensationalized headlines
+
+
+___
+
+Friday, 23. September 2016 09:37PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/08/160815185555.htm](https://www.sciencedaily.com/releases/2016/08/160815185555.htm)
+
+- identified the neural networks that connect the cerebral cortex to the adrenal medulla, which is responsible for the body's rapid response in stressful situations.
+
+- the control of the adrenal medulla originates from multiple cortical areas. According to the new findings, the biggest influences arise from motor areas of the cerebral cortex and from other cortical areas involved in cognition and affect
+
+
+___
+
+Monday, 19. September 2016 05:17AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160918180006.htm](https://www.sciencedaily.com/releases/2016/09/160918180006.htm)
+
+- A pilot study from a group of Dutch scientists implies that being told that an image is an artwork automatically changes our response, both on a neural and behavioural level. 
+
+- Half of the pictures were pleasant and the other half unpleasant. They were either told that the pictures were works of art or photographs of real events
+
+- The results of this modified experiment indicate that the effect of context is more complex than it might seem.
+
+
+___
+
+Friday, 16. September 2016 02:25AM
+
+**Url:** [https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/](https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/)
+
+- giving mice with flu glucose saved their lives, but it killed those that were infected with bacteria
+
+- when mice were in bacterial defence mode, they benefitted from a lack of sugar
+
+- The findings may help explain the ancient adage that its best to feed a cold, but starve a fever. Colds are usually caused by viruses, while fevers would traditionally have been more likely to be down to a bacterial infection. Most diets were historically heavy on carbohydrates, which release glucose in our bodies
+
+
+___
+
 Friday, 09. September 2016 02:03AM
 
 **Url:** [http://phys.org/news/2016-09-physicists-laser.html](http://phys.org/news/2016-09-physicists-laser.html)
