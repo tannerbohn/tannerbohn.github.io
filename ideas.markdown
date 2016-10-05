@@ -4,7 +4,7 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
-- ###MindMap
+###MindMap
   - write program to automatically convert links to mindmap?
   - be able to create groups and subgroups
     - expand a node into multiple nodes?
@@ -17,7 +17,7 @@ permalink: /ideas/
 
 ___
 
-- ###Machine Learning
+###Machine Learning
   - Reinforcement Learning
     - how to learn sub-policies -- infinitely nestable?
   - Text/Language
@@ -68,7 +68,7 @@ ___
 
 ___
 
-- ###Fermi
+###Fermi
   - basic drives, morals, and emotions
   - learning "pet" algorithm/program
   - convert words to notes/freqs
@@ -82,7 +82,7 @@ ___
 
 ___
 
-- ###Math
+###Math
   - What does it mean for a pattern/identity to exist?
   - Image multiplier (Encryption?) Prime images?
   - Interpolation/extrapolation with ASMD
@@ -98,7 +98,7 @@ ___
 
 ___
 
-- ###Images #y
+###Images #y
   - convert image to algorithm, recursively apply
     - how to ensure fixed point existence? -- if none, can view time series
   - convert simulation to image
@@ -113,12 +113,12 @@ ___
 
 ___
 
-- ###Philosophy
+###Philosophy
   - What does it mean for a pattern/identity to exist?
 
 ___
 
-- ###Art
+###Art
   - new letter->wave/shape conversion
     - still aesthetic, but easier to understand
   - create map of sense conversions
@@ -132,7 +132,7 @@ ___
 
 ___
 
-- ###Optimization
+###Optimization
   - road crossing problem
     - If you want to cross the road to get from A to B, what is the optimal path to take?
     - To minimize time on road, take straight line across road.
@@ -147,7 +147,7 @@ ___
 
 ___
 
-- ###Simulations
+###Simulations
   - design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
@@ -159,11 +159,11 @@ ___
 
 ___
 
-- ###Website
+###Website
   - add page with summaries of papers I've read (similar format to linksaver?)
 
 ___
 
-- ###Uncategorized #r
+###Uncategorized #r
   - plot academic studies in subject space -- use word2vec
   - "closing the gap"
