@@ -5,165 +5,165 @@ title:  "Ideas"
 permalink: /ideas/
 ---
 ###MindMap
-  - write program to automatically convert links to mindmap?
-  - be able to create groups and subgroups
-    - expand a node into multiple nodes?
-  - when saving, make sure every edge is captured
-  - move around in 3 dimensions?
-  - have separate file for mindmap text and other text
-    - special tiles linked to external files?
-  - suggest links between notes? common terms?
-  - use #url to denote that a note is a url, and can be opened (how?) #y
+- write program to automatically convert links to mindmap?
+- be able to create groups and subgroups
+  - expand a node into multiple nodes?
+- when saving, make sure every edge is captured
+- move around in 3 dimensions?
+- have separate file for mindmap text and other text
+  - special tiles linked to external files?
+- suggest links between notes? common terms?
+- use #url to denote that a note is a url, and can be opened (how?) #y
 
 ___
 
 ###Machine Learning
-  - Reinforcement Learning
-    - how to learn sub-policies -- infinitely nestable?
-  - Text/Language
-    - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    - choose minimal set of sentences form article needed to answer questions about text
-      - to create questions, remove word from sentence, and get network to guess it
-    - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
-    - convert between text and music
-    - word web
-      - improve connection strength algorithm
-      - add support for n-grams
-    - analyse large list of wiki pages for certain characteristics
-      - rate pages by some important sclaes (intelligence, science, politics, etc.)
-    - use autoencoder for text summarization
-      - RNN?
-  - Images
-    - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    - train NN to learn to create new painting styles
-      - what space do artistic styles reside in?
-  - Neuroscience/Meta
-    - how to avoid catastrophic learning?
-      - how does the brain do it? store info in both hippocampus and cortex
-      - each neuron or connection has its own learning rate -- older memories change less?x
-    - evolve strategy for neurons modifying their connections
-    - self-optimizing program/AIc
-    - create "learning" optimization algorithm -- ex. genetic algorithm that improves ability to evolve
-    - what function would "brain waves" have in an ANN?
-      - "communication through synchronization"
-      - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
-  - pattern recognition
-    - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
-      - use to study contagion dynamics - recognize distinct behaviours
-      - train autoencoder on prev data, and whenever reconstruction error is high, there is a potential outlier
-  - determine what foods to eat -- inputs?
-  - Generative Adversarial Networks
-    - apply to text?
-    - try generate more of my art
-  - create prediction program for PrKr
-    - run day vectors through autoencoder to find clusters
-    - represent day as vector and convert to colour/shape
-      - find important values that describe day (exercise, mood, sleep, working) and find conversion to colour/shape
-        - characterize each month by a form
-    - determine activities which maximize mood?
-  - learn to simulate chaotic systems (learn transition matrix?)
-    - ex. weather?
-  - learn to predict continued fraction values -- try find closed forms?
-  - learn optimal function interpolator
+- Reinforcement Learning
+  - how to learn sub-policies -- infinitely nestable?
+- Text/Language
+  - test out SQuAD dataset (paragraphs, questions, and answer ranges)
+  - choose minimal set of sentences form article needed to answer questions about text
+    - to create questions, remove word from sentence, and get network to guess it
+  - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
+  - convert between text and music
+  - word web
+    - improve connection strength algorithm
+    - add support for n-grams
+  - analyse large list of wiki pages for certain characteristics
+    - rate pages by some important sclaes (intelligence, science, politics, etc.)
+  - use autoencoder for text summarization
+    - RNN?
+- Images
+  - train CNN to find shortest path in some environment/maze -- need to be recurrent?
+  - train NN to learn to create new painting styles
+    - what space do artistic styles reside in?
+- Neuroscience/Meta
+  - how to avoid catastrophic learning?
+    - how does the brain do it? store info in both hippocampus and cortex
+    - each neuron or connection has its own learning rate -- older memories change less?x
+  - evolve strategy for neurons modifying their connections
+  - self-optimizing program/AIc
+  - create "learning" optimization algorithm -- ex. genetic algorithm that improves ability to evolve
+  - what function would "brain waves" have in an ANN?
+    - "communication through synchronization"
+    - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
+- pattern recognition
+  - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
+    - use to study contagion dynamics - recognize distinct behaviours
+    - train autoencoder on prev data, and whenever reconstruction error is high, there is a potential outlier
+- determine what foods to eat -- inputs?
+- Generative Adversarial Networks
+  - apply to text?
+  - try generate more of my art
+- create prediction program for PrKr
+  - run day vectors through autoencoder to find clusters
+  - represent day as vector and convert to colour/shape
+    - find important values that describe day (exercise, mood, sleep, working) and find conversion to colour/shape
+      - characterize each month by a form
+  - determine activities which maximize mood?
+- learn to simulate chaotic systems (learn transition matrix?)
+  - ex. weather?
+- learn to predict continued fraction values -- try find closed forms?
+- learn optimal function interpolator
 
 ___
 
 ###Fermi
-  - basic drives, morals, and emotions
-  - learning "pet" algorithm/program
-  - convert words to notes/freqs
-  - how do you impart love?
-    - how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
-      - anthropomorphization
-      - eye contact -> oxytocin
-      - dogs, shared intentionality (pointing)
-      - study attachment theory
-  - convert between mood and line shape
+- basic drives, morals, and emotions
+- learning "pet" algorithm/program
+- convert words to notes/freqs
+- how do you impart love?
+  - how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
+    - anthropomorphization
+    - eye contact -> oxytocin
+    - dogs, shared intentionality (pointing)
+    - study attachment theory
+- convert between mood and line shape
 
 ___
 
 ###Math
-  - What does it mean for a pattern/identity to exist?
-  - Image multiplier (Encryption?) Prime images?
-  - Interpolation/extrapolation with ASMD
-    - what functions do the ASMD produce?
-  - closed forms of general continued fractions
-  - geometrically motivated number system (baseless?)
-  - make recursive ASMD algorithm more flexible
-    - loosen bounds to approximately match sequences (apply to fuzzier data)
-  - function modifier for numerical integration accuracy
-    - transform curve to smooth bumps -- converge to more smooth or uniform curve?
-  - improve image multiscale entropy algorithm
-    - normalize to max/min possible
+- What does it mean for a pattern/identity to exist?
+- Image multiplier (Encryption?) Prime images?
+- Interpolation/extrapolation with ASMD
+  - what functions do the ASMD produce?
+- closed forms of general continued fractions
+- geometrically motivated number system (baseless?)
+- make recursive ASMD algorithm more flexible
+  - loosen bounds to approximately match sequences (apply to fuzzier data)
+- function modifier for numerical integration accuracy
+  - transform curve to smooth bumps -- converge to more smooth or uniform curve?
+- improve image multiscale entropy algorithm
+  - normalize to max/min possible
 
 ___
 
 ###Images #y
-  - convert image to algorithm, recursively apply
-    - how to ensure fixed point existence? -- if none, can view time series
-  - convert simulation to image
-    - represent state as a position in image as well as colour
-    - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
-  - use symmetry & asymmetry rules tos generate image
-  - algorithm image isomorphism/conversions
-    - come up with extended set of cellular automata rules to use and combine to create images
-    - image encodes a particle behaviour
-      - interpret as a cellular automata definition
-      - convert to lower resolution and parse into cellular automata rules
+- convert image to algorithm, recursively apply
+  - how to ensure fixed point existence? -- if none, can view time series
+- convert simulation to image
+  - represent state as a position in image as well as colour
+  - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
+- use symmetry & asymmetry rules tos generate image
+- algorithm image isomorphism/conversions
+  - come up with extended set of cellular automata rules to use and combine to create images
+  - image encodes a particle behaviour
+    - interpret as a cellular automata definition
+    - convert to lower resolution and parse into cellular automata rules
 
 ___
 
 ###Philosophy
-  - What does it mean for a pattern/identity to exist?
+- What does it mean for a pattern/identity to exist?
 
 ___
 
 ###Art
-  - new letter->wave/shape conversion
-    - still aesthetic, but easier to understand
-  - create map of sense conversions
-    - list all forms of synaesthesia and use transitivity to convert from one sense to another not directly connected
-  - given colour palette -> construct piece of music
-  - what does it mean to "add", "subtract", or "multiply" short pieces of music
-    - create pieces of music based on smaller pieces -- able to create structure?
-      - come up with lots of aesthetic short tunes and analyse to try find patterns
-      - function to measure devotion to a single key?
-  - have grid of all genres and generate heat map based on how often I listen to each one
+- new letter->wave/shape conversion
+  - still aesthetic, but easier to understand
+- create map of sense conversions
+  - list all forms of synaesthesia and use transitivity to convert from one sense to another not directly connected
+- given colour palette -> construct piece of music
+- what does it mean to "add", "subtract", or "multiply" short pieces of music
+  - create pieces of music based on smaller pieces -- able to create structure?
+    - come up with lots of aesthetic short tunes and analyse to try find patterns
+    - function to measure devotion to a single key?
+- have grid of all genres and generate heat map based on how often I listen to each one
 
 ___
 
 ###Optimization
-  - road crossing problem
-    - If you want to cross the road to get from A to B, what is the optimal path to take?
-    - To minimize time on road, take straight line across road.
-      - What does the path look like for partial weighting?
-  - design *optimal* comparative sorting algorithm
-    - best method for overall accuracy (of three tested) is to split all choices into groups of 4, then choose best from each group, then put each of the winners in a new group.
-      - easily generalizable -- but how do you sort all items (instead of just finding the single best)?
-    - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
-    - Is the purpose to actually sort or for a group of people/person to choose a single best item?
-  - write algorithm for maximizing profit in currency conversion (graph theory)
-  - design new keyboard method/type
+- road crossing problem
+  - If you want to cross the road to get from A to B, what is the optimal path to take?
+  - To minimize time on road, take straight line across road.
+    - What does the path look like for partial weighting?
+- design *optimal* comparative sorting algorithm
+  - best method for overall accuracy (of three tested) is to split all choices into groups of 4, then choose best from each group, then put each of the winners in a new group.
+    - easily generalizable -- but how do you sort all items (instead of just finding the single best)?
+  - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
+  - Is the purpose to actually sort or for a group of people/person to choose a single best item?
+- write algorithm for maximizing profit in currency conversion (graph theory)
+- design new keyboard method/type
 
 ___
 
 ###Simulations
-  - design simulation to study communication
-    - evolve creatures when it is to their benefit to communicate
-  - create artificial organisms which exhibit pink noise
-  - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
-  - socio-emotional model
-    - person Pa has emotion a, person Pb has emotion b -- how do they interact?
-      - use OCEAN vector?
-    - already done? -- http://personality-project.org/r/simulating-personality.html
+- design simulation to study communication
+  - evolve creatures when it is to their benefit to communicate
+- create artificial organisms which exhibit pink noise
+- design sim where subsytems act autonomously, but sync up every once in a while to achieve something
+- socio-emotional model
+  - person Pa has emotion a, person Pb has emotion b -- how do they interact?
+    - use OCEAN vector?
+  - already done? -- http://personality-project.org/r/simulating-personality.html
 
 ___
 
 ###Website
-  - add page with summaries of papers I've read (similar format to linksaver?)
+- add page with summaries of papers I've read (similar format to linksaver?)
 
 ___
 
 ###Uncategorized #r
-  - plot academic studies in subject space -- use word2vec
-  - "closing the gap"
+- plot academic studies in subject space -- use word2vec
+- "closing the gap"
