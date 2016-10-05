@@ -4,7 +4,10 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
-- MindMap
+
+___
+
+- **MindMap**
   - write program to automatically convert links to mindmap?
   - be able to create groups and subgroups
     - expand a node into multiple nodes?
@@ -14,7 +17,10 @@ permalink: /ideas/
     - special tiles linked to external files?
   - suggest links between notes? common terms?
   - use #url to denote that a note is a url, and can be opened (how?) #y
-- Machine Learning
+
+___
+
+- **Machine Learning**
   - Reinforcement Learning
     - how to learn sub-policies -- infinitely nestable?
   - Text/Language
@@ -62,7 +68,10 @@ permalink: /ideas/
     - ex. weather?
   - learn to predict continued fraction values -- try find closed forms?
   - learn optimal function interpolator
-- Fermi
+
+___
+
+- **Fermi**
   - basic drives, morals, and emotions
   - learning "pet" algorithm/program
   - convert words to notes/freqs
@@ -73,7 +82,10 @@ permalink: /ideas/
       - dogs, shared intentionality (pointing)
       - study attachment theory
   - convert between mood and line shape
-- Math
+
+___
+
+- **Math**
   - What does it mean for a pattern/identity to exist?
   - Image multiplier (Encryption?) Prime images?
   - Interpolation/extrapolation with ASMD
@@ -86,7 +98,10 @@ permalink: /ideas/
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
   - improve image multiscale entropy algorithm
     - normalize to max/min possible
-- Images #y
+
+___
+
+- **Images #y**
   - convert image to algorithm, recursively apply
     - how to ensure fixed point existence? -- if none, can view time series
   - convert simulation to image
@@ -98,9 +113,15 @@ permalink: /ideas/
     - image encodes a particle behaviour
       - interpret as a cellular automata definition
       - convert to lower resolution and parse into cellular automata rules
-- Philosophy
+
+___
+
+- **Philosophy**
   - What does it mean for a pattern/identity to exist?
-- Art
+
+___
+
+- **Art**
   - new letter->wave/shape conversion
     - still aesthetic, but easier to understand
   - create map of sense conversions
@@ -111,7 +132,10 @@ permalink: /ideas/
       - come up with lots of aesthetic short tunes and analyse to try find patterns
       - function to measure devotion to a single key?
   - have grid of all genres and generate heat map based on how often I listen to each one
-- Optimization
+
+___
+
+- **Optimization**
   - road crossing problem
     - If you want to cross the road to get from A to B, what is the optimal path to take?
     - To minimize time on road, take straight line across road.
@@ -123,7 +147,10 @@ permalink: /ideas/
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
   - write algorithm for maximizing profit in currency conversion (graph theory)
   - design new keyboard method/type
-- Simulations
+
+___
+
+- **Simulations**
   - design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
@@ -132,8 +159,14 @@ permalink: /ideas/
     - person Pa has emotion a, person Pb has emotion b -- how do they interact?
       - use OCEAN vector?
     - already done? -- http://personality-project.org/r/simulating-personality.html
-- Website
+
+___
+
+- **Website**
   - add page with summaries of papers I've read (similar format to linksaver?)
-- Uncategorized #r
+
+___
+
+- **Uncategorized #r**
   - plot academic studies in subject space -- use word2vec
   - "closing the gap"
