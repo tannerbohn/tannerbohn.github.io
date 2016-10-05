@@ -4,25 +4,10 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
-- **Idea Management**
-  - MindMap
-    - write program to automatically convert links to mindmap?
-    - be able to create groups and subgroups
-      - expand a node into multiple nodes?
-    - when saving, make sure every edge is captured
-    - move around in 3 dimensions?
-    - have separate file for mindmap text and other text
-      - special tiles linked to external files?
-    - suggest links between notes? common terms?
-    - use #url to denote that a note is a url, and can be opened (how?)
-  - summarize all thoughts in 4 words or less (automate?)
-  - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
-
-___
-
 - **Machine Learning**
   - Reinforcement Learning
     - how to learn sub-policies -- infinitely nestable?
+      - similar to options idea
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
     - choose minimal set of sentences form article needed to answer questions about text
@@ -32,33 +17,32 @@ ___
         - for large texts, can probably use simple method and represent sentences with histogram
     - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
+      - usewavenet and train/initialize with musical voices
     - word web
       - improve connection strength algorithm
       - add support for n-grams
     - analyse large list of wiki pages for certain characteristics
       - rate pages by some important sclaes (intelligence, science, politics, etc.)
     - use autoencoder for text summarization
-      - RNN?
+      - ~~RNN?~~
       - what does it mean if a sentence has a large reconstruction error?
   - Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    - train NN to learn to create new painting styles
-      - what space do artistic styles reside in?
+    - what space do artistic styles reside in?
+      - correlations between conv. filter activations? (at multiple scales -- and between scales)
+      - train NN to learn to create new painting styles
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
       - ~~has already been done - neural network mapping sentence/words to image~~
-    - what space do artistic styles reside in?
-      - correlations between conv. filter activations? (at multiple scales -- and between scales)
     - multiscale image generator
       - similar to RL idea, learn multi-scale policies for drawing image
       - convert img to alg (cellular automata) and apply at multiple scales (by increasing resolution?)
   - Neuroscience/Meta
     - how to avoid catastrophic learning?
       - how does the brain do it? store info in both hippocampus and cortex
-      - each neuron or connection has its own learning rate -- older memories change less?x
+      - each neuron or connection has its own learning rate -- older memories change less?
     - evolve strategy for neurons modifying their connections
-    - self-optimizing program/AIc
-    - create "learning" optimization algorithm -- ex. genetic algorithm that improves ability to evolve
+    - self-optimizing program/AI
     - what function would "brain waves" have in an ANN?
       - "communication through synchronization"
       - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
@@ -72,21 +56,10 @@ ___
     - learn optimal function interpolator
     - predict continued fraction limits (possible?)
       - find closed forms
-  - determine what foods to eat -- inputs?
   - Generative Adversarial Networks
     - apply to text?
     - try generate more of my art
     - alternative to GANs? (VAEs? -> use idea of learning distribution)
-  - create prediction program for PrKr
-    - run day vectors through autoencoder to find clusters
-    - represent day as vector and convert to colour/shape
-      - find important values that describe day (exercise, mood, sleep, working) and find conversion to colour/shape
-        - characterize each month by a form
-    - determine activities which maximize mood?
-  - learn to simulate chaotic systems (learn transition matrix?)
-    - ex. weather?
-  - learn to predict continued fraction values -- try find closed forms?
-  - learn optimal function interpolator
   - ~~train a clustering algorithm with autoencoder~~
   - use idea of ant chemical trains for NN memory augmentation
   - train decorrelated NNs
@@ -115,6 +88,23 @@ ___
 
 ___
 
+- **Idea Management**
+  - MindMap
+    - write program to automatically convert links or ideas file to mindmap?
+    - be able to create groups and subgroups
+      - expand a node into multiple nodes?
+    - when saving, make sure every edge is captured
+    - move around in 3 dimensions? (perfect application for VR)
+    - have separate file for mindmap text and other text
+      - special tiles linked to external files?
+    - suggest links between notes? common terms?
+    - use #url to denote that a note is a url, and can be opened (how?)
+  - summarize all thoughts in 4 words or less (automate?)
+  - have main ideas.txt and automatically convert to webpage like linksaver
+    - allow linking between areas?
+
+___
+
 - **Fermi**
   - basic drives, morals, and emotions
   - learning "pet" algorithm/program
@@ -129,6 +119,7 @@ ___
       - reliance on human/user
   - search "communication space" to make program that seems to show intention/human-ness/sentience
   - convert between mood and line shape
+  - start Ada (successor to Fermi)
 
 ___
 
@@ -144,6 +135,7 @@ ___
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
   - improve image multiscale entropy algorithm
     - normalize to max/min possible
+    - more rigorous definition
   - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
   - sequences are metaphors are mappings
@@ -156,7 +148,7 @@ ___
   - convert simulation to image
     - represent state as a position in image as well as colour
     - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
-  - use symmetry & asymmetry rules tos generate image
+  - use symmetry & asymmetry rules to generate image
   - algorithm image isomorphism/conversions
     - come up with extended set of cellular automata rules to use and combine to create images
     - image encodes a particle behaviour
@@ -197,7 +189,6 @@ ___
       - easily generalizable -- but how do you sort all items (instead of just finding the single best)?
     - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
-  - write algorithm for maximizing profit in currency conversion (graph theory)
   - design new keyboard method/type
   - write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
   - at the highest level of an optimized system, behaviour should appear random
@@ -226,11 +217,6 @@ ___
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
-
-___
-
-- **Website**
-  - add page with summaries of papers I've read (similar format to linksaver?)
 
 ___
 
