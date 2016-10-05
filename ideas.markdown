@@ -4,8 +4,6 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
-### IDEAS
-
 - MindMap
   - write program to automatically convert links to mindmap?
   - be able to create groups and subgroups
