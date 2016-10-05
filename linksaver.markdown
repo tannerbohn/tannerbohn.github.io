@@ -4,6 +4,38 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Wednesday, 05. October 2016 12:24AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161004125829.htm](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
+
+- cannabis disrupts the activity of dopamine in the brain. With chronic users a significant reduction was seen in the frequency of spontaneous eye blinking, an indication of a reduction in dopamine production
+
+
+___
+
+Sunday, 02. October 2016 05:47AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160929140547.htm](https://www.sciencedaily.com/releases/2016/09/160929140547.htm)
+
+- Our brains hold on to memories via physical changes in synapses, the tiny connections between neurons. Unexpected molecular mechanisms by which these changes take place have now been revealed
+
+- As we acquire a new memory, the connections, or synapses, between certain sets of neurons strengthen. In particular, the receiving end of a pair of these neurons -- consisting of a little nub called a spine -- gets a little larger.
+
+- The group also was able to add a tiny amount of signaling chemical, glutamate, at the single spine in order to mimic what happens during learning. This caused the spines to grow.
+
+
+___
+
+Saturday, 01. October 2016 04:52AM
+
+**Url:** [http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html](http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html)
+
+- The reason our eyes are sensitive only in this narrow part of the spectrum is because this is where light and matter interact most
+Read more at: http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html#jCp
+
+
+___
+
 Friday, 23. September 2016 10:52PM
 
 **Url:** [https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
