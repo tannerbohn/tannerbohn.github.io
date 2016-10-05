@@ -221,5 +221,6 @@ ___
 ___
 
 - **Uncategorized**
-  - plot academic studies in subject space -- use word2vec
+  - ~~plot academic studies in subject space -- use word2vec~~
   - "closing the gap"
+    - buy eeg and train for typing
