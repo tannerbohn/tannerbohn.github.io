@@ -37,8 +37,8 @@ ___
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
     - train NN to learn to create new painting styles
       - what space do artistic styles reside in?
-    - ~~[c] train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
-    - ~~[c] generate image based on topic (colour, texture, etc.)~~
+    - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
+    - ~~generate image based on topic (colour, texture, etc.)~~
       - ~~has already been done - neural network mapping sentence/words to image~~
   - Neuroscience/Meta
     - how to avoid catastrophic learning?
@@ -68,7 +68,7 @@ ___
     - ex. weather?
   - learn to predict continued fraction values -- try find closed forms?
   - learn optimal function interpolator
-  - ~~[c] train a clustering algorithm with autoencoder~~
+  - ~~train a clustering algorithm with autoencoder~~
 
 ___
 
@@ -99,7 +99,7 @@ ___
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
   - improve image multiscale entropy algorithm
     - normalize to max/min possible
-  - ~~[c] moving guess~~
+  - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
 
 ___
@@ -116,7 +116,7 @@ ___
     - image encodes a particle behaviour
       - interpret as a cellular automata definition
       - convert to lower resolution and parse into cellular automata rules
-  - ~~[c] for generating images, limit number of shapes available to use~~
+  - ~~for generating images, limit number of shapes available to use~~
 
 ___
 
@@ -136,7 +136,7 @@ ___
       - come up with lots of aesthetic short tunes and analyse to try find patterns
       - function to measure devotion to a single key?
   - have grid of all genres and generate heat map based on how often I listen to each one
-  - ~~[c] music classification program that uses my system~~
+  - ~~music classification program that uses my system~~
     - ~~also caluclated average spectrograms of songs in each genre~~
 
 ___
@@ -165,7 +165,7 @@ ___
     - person Pa has emotion a, person Pb has emotion b -- how do they interact?
       - use OCEAN vector?
     - already done? -- http://personality-project.org/r/simulating-personality.html
-  - ~~[c] fully cts version of Game of Life~~
+  - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
 
 ___
