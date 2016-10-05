@@ -1,12 +1,22 @@
 #!/bin/bash
 
+echo "Generating Linksaver post..."
+
 python scripts/generateLinksaverPost.py
 
-echo "Generated Linksaver post"
+echo "Done."
+
+echo "Generating Ideas markdown file..."
+
+python /home/tanner/Dropbox/sandbox/IdeaManager/markdown_generator.py
+
+echo "Done."
+
+echo "Generating Ideas post..."
 
 python scripts/generateIdeasPost.py
 
-echo "Generated Ideas post"
+echo "Done."
 
 git add -A
 
