@@ -65,6 +65,8 @@ ___
   - summarize all thoughts in 4 words or less (automate?)
   - have main ideas.txt and automatically convert to webpage like linksaver
     - allow linking between areas?
+  - how to deal with different types of ideas?
+    - ex. project ideas, half-ideas, ?
 
 ___
 
@@ -110,6 +112,8 @@ ___
     - come up with extended set of cellular automata rules to use and combine to create images
     - image encodes a particle behaviour
   - ~~for generating images, limit number of shapes available to use~~
+  - represent image as histogram in pattern-space (similar to filter activations?)
+    - what would a path through the pattern-space look like?
 
 ___
 
@@ -165,10 +169,3 @@ ___
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
-
-___
-
-- **Uncategorized**
-  - ~~plot academic studies in subject space -- use word2vec~~
-  - "closing the gap"
-    - buy eeg and train for typing

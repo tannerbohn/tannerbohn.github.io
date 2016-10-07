@@ -4,6 +4,36 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 07. October 2016 01:55AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160909111723.htm](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
+
+- The hippocampal CA3 region plays a key role in learning and memory. One of the most remarkable properties of the network is its ability to retrieve previously stored memories from incomplete or degraded versions, a phenomenon that is widely known as pattern completion.
+
+- It is generally accepted that the synapses between CA3 pyramidal cells, the recurrent CA3-CA3 synapses, play a key role in pattern completion, but how this exactly works has remained enigmatic.
+
+- Previous theories of the hippocampal formation often depicted the CA3 region as a network of highly interconnected cells.
+
+- they found that connectivity was sparse, with an average connection probability of approximately 1%
+
+- Even more surprisingly, they discovered that connectivity in the network is not random, but exhibits connectivity motifs that occur much more frequently than expected for a random network. Thus, the structure of the hippocampal CA3 network may be somewhat reminiscent of a "small world" architecture as found in social networks.
+
+- synaptic connections between two cells are mediated by only one or two synaptic contacts. This is also remarkable because much higher numbers have been found for excitatory synaptic connections in the neocortex
+
+- the design of synaptic connections based on one or two synaptic contacts also seems useful for pattern completion, apparently because it minimizes redundancy in the flow of information in the network. Thus, both macro- (e.g. motifs) and microconnectivity (e.g. properties of connection) facilitate pattern completion in the CA3 cell network.
+
+
+___
+
+Friday, 07. October 2016 01:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160912101801.htm](https://www.sciencedaily.com/releases/2016/09/160912101801.htm)
+
+- Maintaining a positive social image is an essential feature of human psychology, as it fosters collaborative group behaviour more efficiently than other motivations
+
+
+___
+
 Wednesday, 05. October 2016 12:24AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/10/161004125829.htm](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
