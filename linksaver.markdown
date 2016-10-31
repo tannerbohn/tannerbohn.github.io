@@ -4,6 +4,62 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 31. October 2016 12:10PM
+
+**Url:** [http://phys.org/news/2016-10-mind-cortical-conscious-network.html](http://phys.org/news/2016-10-mind-cortical-conscious-network.html)
+
+- used network theory in order to cope with this complexity and to determine how the structure of the human cortical network can support complex data integration and conscious activity
+Read more at: http://phys.org/news/2016-10-mind-cortical-conscious-network.html#jCp
+
+
+___
+
+Monday, 31. October 2016 04:24AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161014214919.htm](https://www.sciencedaily.com/releases/2016/10/161014214919.htm)
+
+- Patients who knowingly took placebos reported 30 percent less pain and 29 percent reduction in disability compared to control group
+
+- "Taking placebo pills to relieve symptoms without a warm and empathic relationship with a health-care provider relationship probably would not work," noted Carvalho
+
+
+___
+
+Monday, 31. October 2016 04:21AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161026105336.htm](https://www.sciencedaily.com/releases/2016/10/161026105336.htm)
+
+- Omega-3 polyunsaturated fatty acids, which are found in fish oil, could improve the function of the glymphatic system, which facilitates the clearance of waste from the brain, and promote the clearance of metabolites
+
+
+___
+
+Wednesday, 19. October 2016 02:02AM
+
+**Url:** [http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers](http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers)
+
+- what if consciousness arises naturally as a result of our brains maximising their information content? In other words, what if consciousness is a side effect of our brain moving towards a state of entropy?
+
+
+___
+
+Saturday, 08. October 2016 04:22AM
+
+**Url:** [http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones](http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones)
+
+- figured out a model that could explain how we're able to make new memories while keeping old ones intact
+
+- This system used to be characterised as being like a series of dials, which could be turned up or down to determine the signal strength of the synapse
+
+- Another model published in 2005 suggested that each synapse could hold several of these dials
+
+- Now, Fusi and his fellow researchers are proposing that these dials are not only operating at different times  but they're also constantly communicating with each other too
+
+- initially store memories in fast variables and then progressively transfer them to slower variables. Notably, the interactions between fast and slow variables are bidirectional
+
+
+___
+
 Friday, 07. October 2016 01:55AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/09/160909111723.htm](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
