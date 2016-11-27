@@ -4,6 +4,208 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 27. November 2016 06:20PM
+
+**Url:** [https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
+
+- Previous studies have revealed several brain regions, collectively called the semantic system, that process meaning. Yet such studies have typically focused on specific distinctions, such as abstract versus concrete words, or found discrete areas responsive to groups of related words, such as tools or food
+
+- generated a comprehensive atlas of where different meanings are represented in the human brain
+
+- Every meaning appears in multiple locations, and every location contains a cluster of related meanings. Some areas selectively respond to words related to people, for instance, whereas others respond to places or numbers
+
+- The maps were remarkably similar from one participant to the next, though not identical
+
+
+___
+
+Tuesday, 22. November 2016 02:09PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161115145823.htm](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
+
+- Every night while you sleep, electrical waves of brain activity circle around each side of your brain, tracing a pattern that, were it on the surface of your head, might look like the twin hair buns of Star Wars' Princess Leia.
+
+- The scale and speed of Princess Leia waves in the cortex is unprecedented, a discovery that advances the Brain Research through Advancing Innovative Neurotechnologies (BRAIN) Initiative
+
+- Sleep spindles -- a type of brain wave pattern known to occur in the earliest stages of non-REM sleep -- are associated with memory consolidation. Previous studies showed that the more sleep spindles a human brain exhibits overnight, the more numbers one would remember the next day
+
+- Scientists had long believed that each sleep spindle oscillation peaked at the same time everywhere in the neocortex of the brain
+
+- the sleep spindles weren't peaking simultaneously everywhere in the cortex. Instead, the oscillations were sweeping in circular patterns around and around the neocortex, peaking in one area, and then -- a few milliseconds later -- an adjacent area
+
+- The time scale that these waves travel at is the same speed it takes for neurons to communicate with each other.
+
+- As a memory is being consolidated, Muller and Sejnowski hypothesize, circular sleep spindle waves help form the links between these different aspects of a single memory.
+
+
+___
+
+Saturday, 19. November 2016 07:41PM
+
+**Url:** [https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
+
+- Such deep brain stimulation (DBS) works miracles on people with otherwise untreatable epilepsy or Parkinsons disease  but drilling into someones head is an extreme step. In future, we may be able to get the same effects by using stimulators placed outside the head
+
+- The technique, unveiled at the Society for Neuroscience conference in San Diego, California, this week, places two electrical fields of different frequencies outside the head. The brain tissue where the fields overlap is stimulated, while the tissue under just one field is unaffected because the frequencies are too high
+
+- one field at 10,000 hertz and another at 10,010 hertz. The affected nerve cells are stimulated at 10 hertz  the difference between the two frequencies
+
+
+___
+
+Saturday, 19. November 2016 02:52PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161117104641.htm](https://www.sciencedaily.com/releases/2016/11/161117104641.htm)
+
+- A new study explains the brain mechanisms associated with the lack of sensitivity to music
+
+- about 3-5% of the healthy population does not experience pleasurable feelings in response to any type of music. This condition is known by the specific name of musical anhedonia
+
+- Anhedonic people do not have problems correctly perceiving and processing the information contained in a melody (such as intervals or rhythms) and present a normal pleasure response to other pleasant stimuli
+
+- the decrease of pleasant response to music shown by participants with musical anhedonia is related to a reduction in the activity of the nucleus accumbens, a key subcortical structure of the reward system
+
+
+___
+
+Monday, 14. November 2016 08:53PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161018194302.htm](https://www.sciencedaily.com/releases/2016/10/161018194302.htm)
+
+- One of the differences between adults and preschoolers when it comes to private speech is that adults typically talk to themselves in their heads, while preschoolers talk to themselves aloud, particularly while playing or working on a task
+
+- A recent study found that children do, in fact, monitor their speech for errors, even without a listener
+
+
+___
+
+Monday, 14. November 2016 12:51PM
+
+**Url:** [http://phys.org/news/2016-11-motion-genes-human-genome.html](http://phys.org/news/2016-11-motion-genes-human-genome.html)
+
+- dynamic elements within the human genome interact with each other in a way that strongly resembles the patterns seen in populations of predators and prey
+
+- transposons, small regions of DNA that can move themselves from one part of the genome to another during the lifetime of a cell
+
+- When they move around, they may create mutations in or alter the activity of a functional gene; transposons can therefore create new genetic profiles in a population for natural selection to act on, in either a positive or negative way.
+
+- two types of transposons, long interspersed nuclear elements (LINEs) and short interspersed nuclear elements (SINEs), have a competitive relationship with one another. In order to replicate, SINEs steal the molecular machinery that LINEs use to copy themselves
+
+- predicted that populations of LINE and SINE elements in the genome are expected to oscillate the way those of, for example, wolves and rabbits might
+
+- these oscillations occur over a timescale that is longer than the human lifespanwaves of Alu elements and L1 elements pushing and pulling at each other in slow motion across generations of the human genomes that carry them
+
+
+___
+
+Monday, 14. November 2016 12:40PM
+
+**Url:** [http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html](http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html)
+
+- Mathematical algorithms calculate social behavior
+
+- Analogous to the force of attraction between molecules in a gas, we can describe generalized behavioral patterns as resulting from interacting social forces between individual agents
+
+- the researchers assigned two groups of 40 students each the task of finding a specific location in a building. The scientists planted two incognito informed agents into one of the groups. By merely moving very determinedly in a predefined direction, the agents were able to steer the group toward the target spot
+
+- two to three agents per 100 individuals are sufficient
+
+- To drive a herd of sheep in a desired direction, a good herding dog will always concentrate on the animal that is the farthest removed from the group. They achieve their goal by reining in the most stubborn animal.
+
+
+___
+
+Sunday, 13. November 2016 06:30PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161110115239.htm](https://www.sciencedaily.com/releases/2016/11/161110115239.htm)
+
+- For observations based on sensory data, the human brain must constantly verify which "version" of reality underlies the perception
+
+- neurons obtain their response from probability distributions that are stored in the network itself and that are sampled by the nerve cells
+
+
+___
+
+Saturday, 12. November 2016 01:27AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161110085010.htm](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
+
+- For the first time, scientists have identified a sub-region in the brain that works to form a particular kind of memory: fear-associated with a specific environmental cue or contextual fear memory.
+
+- the study showed new protein synthesis in a specific sub-region of the prefrontal cortex known in rodents as the prelimbic. In humans, this area corresponds to the anterior cortex
+
+- when they closely examined the effects on the brain of conditioning rodents with a mild foot shock, the scientists found several messenger RNAs recruited to polyribosomes in the medial prefrontal cortex -- a clear indication of new protein synthesis there
+
+- if they inhibited new protein synthesis in the prelimbic region right after fear conditioning took place, those memories did not form. But if the researchers waited just a few hours, inhibiting protein synthesis in prelimbic cortex had no impact and the memories took hold
+
+- It may be that the first wave of protein synthesis is critical for encoding contextual fear memory, while second wave in other sub-regions is important for memory storage
+
+
+___
+
+Friday, 11. November 2016 09:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161110120227.htm](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
+
+- Artificial-intelligence system surfs web to improve its performance
+
+- A machine-learning system will generally assign each of its classifications a confidence score, which is a measure of the statistical likelihood that the classification is correct, given the patterns discerned in the training data. With the researchers' new system, if the confidence score is too low, the system automatically generates a web search query designed to pull up texts likely to contain the data it's trying to extract.
+
+- It then attempts to extract the relevant data from one of the new texts and reconciles the results with those of its initial extraction. If the confidence score remains too low, it moves on to the next text pulled up by the search string, and so on.
+
+
+___
+
+Thursday, 10. November 2016 01:18AM
+
+**Url:** [http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature](http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature)
+
+- electrons cooled close to absolute zero slow down so much that they can be studied individually
+
+- At those temperatures, electric current stops flowing. Instead, electrons trickle through a conductor like grains of sand in an hourglass, finally revealing their quantum state and allowing us to study them one at a time.
+
+
+___
+
+Tuesday, 08. November 2016 05:18PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161102075955.htm](https://www.sciencedaily.com/releases/2016/11/161102075955.htm)
+
+- Fear of retaliation: Why we tend not to enforce social norms
+
+- The more severe the norm violation, the more reluctant people will be to reprimand the person who committed it. Their fear of retaliation is too great.
+
+- Up to a certain point, we reprimand each other for bad behavior. But in cases of more extreme norm violations, social self-regulation no longer works and we need authorities, police and security personnel.
+
+
+___
+
+Sunday, 06. November 2016 10:23PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161104190535.htm](https://www.sciencedaily.com/releases/2016/11/161104190535.htm)
+
+- For the first time, we have found a connection between the brainstem region involved in arousal and regions involved in awareness, two prerequisites for consciousness
+
+- The researchers analyzed 36 patients with brainstem lesions, of which 12 led to coma and 24 did not. Mapping the injuries revealed that a small "coma-specific" area of the brainstem -- the rostral dorsolateral pontine tegmentum -- was significantly associated with coma
+
+- Their analysis revealed two areas in the cortex of the brain that were significantly connected to the coma-specific region of the brainstem. One sat in the left, ventral, anterior insula (AI), the other in the pregenual anterior cingulate cortex (pACC). Both regions have been implicated previously in arousal and awareness.
+
+
+___
+
+Friday, 04. November 2016 04:27PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161101103242.htm](https://www.sciencedaily.com/releases/2016/11/161101103242.htm)
+
+- A study's participants who were asked to think about their own death before taking to the basketball court scored more points than those in a control group
+
+- the improved performance is the result of a subconscious effort to boost self-esteem, which is a protective buffer against fear of death, according to psychology's terror management theory.
+
+- Self-esteem gives you a feeling that you're part of something bigger, that you have a chance for immortality, that you have meaning, that you're not just a sack of meat
+
+
+___
+
 Monday, 31. October 2016 12:10PM
 
 **Url:** [http://phys.org/news/2016-10-mind-cortical-conscious-network.html](http://phys.org/news/2016-10-mind-cortical-conscious-network.html)
