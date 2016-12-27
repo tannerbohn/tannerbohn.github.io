@@ -4,6 +4,142 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 26. December 2016 09:21PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161219133831.htm](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
+
+- A decision to express disgust or anger depends on the motives a person seeks to communicate
+
+- a person who expresses disgust is judged to be motivated more by impartial, moral, concerns while a person who expresses anger towards the same immoral act is more likely to be motivated by self-interest.
+
+- participants themselves were more likely to choose to express disgust when their goal was to show that their condemnation of an act was morally motivated, while they chose to express anger when they sought to protest that the act harmed their own interests.
+
+- The findings suggest that disgust is not just an expression of an inner feeling, like nausea or contamination, but a signal that advertises a moral position.
+
+
+___
+
+Wednesday, 21. December 2016 06:30PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161221090120.htm](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
+
+- In an experiment, cognitive psychologists have shown how word comprehension can be sped up  namely by having study participants grasp objects while reading at the same time
+
+- Latest theories in cognitive science research hypothesize that our memory also records physical sensations as part of the words stored
+
+- When the study participants had to grasp an object while reading, their brain processed parts of the meaning of the words earlier than in previous studies in which words were evaluated without something being gripped
+
+- As demonstrated in previous studies, it takes the brain a third of a second to process a word. "In our study, however, we were able to show that comprehension can already begin much earlier, after just a tenth of a second -- if a grasping action is required,"
+
+- This study not only provides evidence that the brain has a common control center for language and movement, but "it also shows that our brain's processing steps shift very quickly and adjust to current tasks
+
+
+___
+
+Sunday, 11. December 2016 05:54PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161207133541.htm](https://www.sciencedaily.com/releases/2016/12/161207133541.htm)
+
+- Using LED lights flickering at a specific frequency, researchers have shown that they can significantly reduce the beta amyloid plaques seen in Alzheimer's disease in the visual cortex of mice. This treatment appears to work by stimulating brain waves known as gamma oscillations, which the researchers discovered help the brain suppress beta amyloid production and invigorate cells responsible for destroying the plaques.
+
+- It's a big 'if,' because so many things have been shown to work in mice, only to fail in humans
+
+- Previous studies have hinted that Alzheimer's patients also have impaired gamma oscillations. These brain waves, which range from 25 to 80 hertz (cycles per second), are believed to contribute to normal brain functions such as attention, perception, and memory.
+
+- After an hour of stimulation at 40 hertz, the researchers found a 40 to 50 percent reduction in the levels of beta amyloid proteins in the hippocampus
+
+- after gamma stimulation, the process for beta amyloid generation is less active
+
+
+___
+
+Sunday, 11. December 2016 05:32AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161206111709.htm](https://www.sciencedaily.com/releases/2016/12/161206111709.htm)
+
+- Four-year-olds with average and lower vocabulary skills learn more effectively with an adult reading an eBook to them versus relying solely on the eBook's voiceover, research shows.
+
+- the results highlight that young children are best supported in their learning when they are in interaction with others, especially parents or other caregivers
+
+
+___
+
+Sunday, 11. December 2016 05:16AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161206111715.htm](https://www.sciencedaily.com/releases/2016/12/161206111715.htm)
+
+- Researchers have determined the role of the hippocampus in future imaging lies in the process of constructing a scene in one's mind.
+
+- We observed no differences in hippocampal activity when we compared present versus future imaging, but we did observe stronger activity in the hippocampus when participants imagined a scene compared to when they did not, suggesting a role for the hippocampus in scene construction but not mental time travel
+
+
+___
+
+Tuesday, 06. December 2016 04:32PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161130131234.htm](https://www.sciencedaily.com/releases/2016/11/161130131234.htm)
+
+- the occasional bout of bad feelings can actually improve students' academic success
+
+-  students who were mostly happy during their four years of university but who also experienced occasional negative moods had the highest GPAs at the time of graduation
+
+- students who experienced high levels of negative moods and low levels of positive moods often ended up with the lowest GPAs
+
+- We often think that feeling bad is bad for us. But if you're generally a happy person, negative emotions can be motivating. They can signal to you that there is a challenge that you need to face.
+
+
+___
+
+Tuesday, 06. December 2016 04:00PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161206110138.htm](https://www.sciencedaily.com/releases/2016/12/161206110138.htm)
+
+- During consolidation, the brain produces new proteins that strengthen fragile memory traces. However, if a new experience occurs while an existing memory trace is being consolidated, the new stimuli could disrupt the consolidation process
+
+- How does the brain prevent events that occur just after awakening from interrupting the consolidation process?
+
+- The brain partially solves this problem by postponing some of the memory consolidation to a period in which new experiences are minimalized, that is, while we are asleep.
+
+- exposing sea slugs to new stimuli immediately after they wake up does not trigger the formation of new memories
+
+- On awakening, interactions between new experiences and consolidation are prevented because the brain blocks long-term memory arising from the new stimuli. However, when the researchers treated the slugs just prior to the training with a drug that inhibits protein production, they found that the new stimuli could generate long-term memory.
+
+- The major insight from this research is that there is an active process in the brain which inhibits the ability to learn new things and protects the consolidation of memories.
+
+
+___
+
+Tuesday, 06. December 2016 12:35PM
+
+**Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/)
+
+- Despite the fact that mood and cognitive functions are lowered by prolonged sleep loss and despite convincing data that insomnia is a strong risk factor for subsequent depression,1 acute SD for one night or even partial SD in the second half of the night improves mood in about 60% of depressed patients the day after.
+
+- The main limitation is the transient nature of the effect, since the majority - but not all - of the improved patients experience a relapse after the next night of sleep.
+
+
+___
+
+Monday, 05. December 2016 12:52PM
+
+**Url:** [https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
+
+- When people describe the episode, their brain activity patterns are almost exactly the same as each others, for each scene. And theres also evidence that, when a person tells someone else about it, they implant that same activity into their brain as well.
+
+
+___
+
+Sunday, 27. November 2016 06:39PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/09/160921091636.htm](https://www.sciencedaily.com/releases/2016/09/160921091636.htm)
+
+- Earlier studies have shown that functional MRI can identify whether a person is thinking about a face or a house. Our study is the first to show that specific emotions like fear and anger can be decoded from these scans as well.
+
+- scanning 21 subjects who were not offered stimuli, but were encouraged to let their minds wander. Every thirty seconds, they responded to a questionnaire about their current emotional state
+
+
+___
+
 Sunday, 27. November 2016 06:20PM
 
 **Url:** [https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
