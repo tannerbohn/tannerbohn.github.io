@@ -4,6 +4,30 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 27. December 2016 03:21PM
+
+**Url:** [https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
+
+- eye contact is one of the most important forms of nonverbal communication
+
+- Human eyes, with their large unpigmented areas, turn out to be great for deducing where someone is looking. This likely makes it all the easier to track someones attention
+
+- A recent experiment conducted in Japan suggests that eye contact draws on the same mental resources used for complex tasks, so trying to maintain eye contact can impede your reasoning. In this case, the break in eye contact comes not from emotion, but from the need to preserve cognitive resources. Eye contact can deplete your mental bandwidth.
+
+- Eye contact is something we prefer from birth, but it is not advantageous in every situation. Back in 1998, researchers theorized that averting the gaze from surroundings aids thinking by disengaging from potential distractions around us.
+
+
+___
+
+Monday, 26. December 2016 09:25PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161221125505.htm](https://www.sciencedaily.com/releases/2016/12/161221125505.htm)
+
+- Neurons in the brain store RNA molecules -- DNA gene copies -- in order to rapidly react to stimuli. This storage dramatically accelerates the production of proteins. This is one of the reasons why neurons in the brain can adapt quickly during learning processes.
+
+
+___
+
 Monday, 26. December 2016 09:21PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/12/161219133831.htm](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
