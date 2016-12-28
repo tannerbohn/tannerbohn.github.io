@@ -4,6 +4,25 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Wednesday, 28. December 2016 05:41PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161226211235.htm](https://www.sciencedaily.com/releases/2016/12/161226211235.htm)
+
+- Scientists have discovered that networks of inhibitory brain cells or neurons develop through a mechanism opposite to the one followed by excitatory networks. Excitatory neurons sculpt and refine maps of the external world throughout development and experience, while inhibitory neurons form maps that become broader with maturation
+
+- The brain represents the external world as specific maps of activity created by networks of neurons
+
+- The studies of excitatory maps have revealed that they begin as a diffuse and overlapping network of cells. "With time," said Arenkiel, "experience sculpts this diffuse pattern of activity into better defined areas, such that individual mouse whiskers, for instance, are represented by discrete segments of the brain cortex.
+
+- Inhibitory neurons are the most abundant type of cells in the mouse brain area dedicated to process scent. To support this network, newly born inhibitory neurons are continually added and integrated into the circuits
+
+- The scientists expected that inhibitory networks would mature in a way similar to that of excitatory networks. That is, the more the animal experienced a scent, the better defined the networks of activity would become
+
+- Surprisingly, the scientists discovered that the inhibitory brain circuits of the mouse sense of smell develop in a manner opposite to the excitatory circuits. Instead of becoming narrowly defined areas, the inhibitory circuits become broader. 
+
+
+___
+
 Tuesday, 27. December 2016 03:21PM
 
 **Url:** [https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
