@@ -6,19 +6,19 @@ permalink: /ideas/
 ---
 - **Machine Learning**
   - Reinforcement Learning
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how to learn sub-policies -- infinitely nestable?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how to learn sub-policies -- infinitely nestable?
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
     - choose minimal set of sentences form article needed to answer questions about text
     - calculate doc sentence importance scores
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
     - word web
     - analyse large list of wiki pages for certain characteristics
     - use autoencoder for text summarization
   - Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what space do artistic styles reside in?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what space do artistic styles reside in?
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
     - multiscale image generator
@@ -71,24 +71,24 @@ ___
   - summarize all thoughts in 4 words or less (automate?)
   - have main ideas.txt and automatically convert to webpage like linksaver
     - allow linking between areas?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how to deal with different types of notes?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how to deal with different types of notes?
     - ex. project ideas, half-ideas, questions, misc. notes?
     - add tags, change colour
 
 ___
 
 - **Human Intelligence/Psychology**
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what are indicators of only* intelligence?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what are indicators of only* intelligence?
     - things that might be correlated with it include: reaction time, vocabulary, spatial reasoning
     - make use of analogies of increasing complexity (see evernote pages about reasoning behind this...)
   - generate bounded sequences of arbitrary complexity to test intelligence/pattern recognition
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how to avoid catastrophic learning?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how does the brain do it? store info in both hippocampus and cortex
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how to avoid catastrophic learning?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how does the brain do it? store info in both hippocampus and cortex
     - each neuron or connection has its own learning rate -- older memories change less?
   - evolve strategy for neurons modifying their connections
   - self-optimizing program/AI
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what function would "brain waves" have in an ANN?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what function would "brain waves" have in an ANN?
     - "communication through synchronization"
     - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
   - running memories in reverse during sleep is like creating explanative model instead of predictive one
@@ -96,13 +96,13 @@ ___
   - branching structure and geometry of neurons hints at the algorithms they run
   - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
     - it creates filters there which respond to the same things
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} where does Maslow's hierarchy of needs come from?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
   - design experiment to test long-term memory recall speed when moving and not moving eyes
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how do functional modules form in brain?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how do functional modules form in brain?
     - result of speed and energy optimisation?
 
 ___
@@ -111,8 +111,8 @@ ___
   - basic drives, morals, and emotions
   - learning "pet" algorithm/program
   - convert words to notes/freqs
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how do you impart love?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how do you impart love?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
   - search "communication space" to make program that seems to show intention/human-ness/sentience
   - convert between mood and line shape
   - start Ada (successor to Fermi)
@@ -122,7 +122,7 @@ ___
 - **Math**
   - Image multiplier (Encryption?) Prime images?
   - Interpolation/extrapolation with ASMD
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what functions do the ASMD produce?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what functions do the ASMD produce?
   - closed forms of general continued fractions
   - geometrically motivated number system (baseless?)
   - make recursive ASMD algorithm more flexible
@@ -140,7 +140,7 @@ ___
 
 - **Images**
   - convert image to algorithm, recursively apply
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how to ensure fixed point existence? -- if none, can view time series
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how to ensure fixed point existence? -- if none, can view time series
   - convert simulation to image
     - represent state as a position in image as well as colour
     - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
@@ -150,12 +150,12 @@ ___
     - image encodes a particle behaviour
   - ~~for generating images, limit number of shapes available to use~~
   - represent image as histogram in pattern-space (similar to filter activations?)
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what would a path through the pattern-space look like?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what would a path through the pattern-space look like?
 
 ___
 
 - **Philosophy**
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} What does it mean for a pattern/identity to exist?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} What does it mean for a pattern/identity to exist?
   - calculate parameters of hedonic adaptation
     - maximize happiness by balancing positive and negative experiences of certain magnitudes
 
@@ -172,8 +172,8 @@ ___
   - have grid of all genres and generate heat map based on how often I listen to each one
   - ~~music classification program that uses my system~~
     - ~~also caluclated average spectrograms of songs in each genre~~
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} why do birds sing?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} how are those signals better than random series of notes?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} why do birds sing?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} how are those signals better than random series of notes?
   - music generation with multiscale entropy
     - ~~apply entropy curve fitting to both notes and derivatives~~
     - ~~train model to predict rating given entropy curves~~
@@ -181,11 +181,11 @@ ___
     - ~~use self-optimizing optimizer~~
     - augment kNN regressor with local linear extrapolation/interpolation
     - manually compose a bunch of random melodies and track multiscale entropy
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} why do humans enjoy non-utilitous things?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} why do humans enjoy non-utilitous things?
     - ex. art (depictive and abstract)
     - because it displays concepts and patterns which we have learned to find good?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} why do we enjoy wordplay?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} why do we enjoy certain artistic styles independent of their specific content?
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} why do we enjoy wordplay?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} why do we enjoy certain artistic styles independent of their specific content?
     - activation of lower level patterns which we enjoy?
   - generate a music playlist that acts a path through emotion-space
     - this may help in changing listeners emotion because it first gains traction by relating, and then slowly shifts to target emotion
@@ -224,14 +224,14 @@ ___
     - already done? -- http://personality-project.org/r/simulating-personality.html
   - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what happens when you can fix cells in GOL?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what happens when you can fix cells in GOL?
     - use fixable cells as input to system?
   - generate automata which generates images with specific multiscale entropy curves
   - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W.png){:height="15px" width="15px"} what forces promote and prevent formation of social structures of different levels?
+  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W2.png){:height="15px" width="15px"} what forces promote and prevent formation of social structures of different levels?
     - family -> clan -> city -> country -> global
   - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
   - dynamics of agents with different degrees of common knowledge
