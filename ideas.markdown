@@ -133,6 +133,15 @@ ___
   - have grid of all genres and generate heat map based on how often I listen to each one
   - ~~music classification program that uses my system~~
     - ~~also caluclated average spectrograms of songs in each genre~~
+  - why do birds sing?
+    - how are those signals better than random series of notes?
+  - music generation with multiscale entropy
+    - ~~apply entropy curve fitting to both notes and derivatives~~
+    - ~~train model to predict rating given entropy curves~~
+    - ~~perform note-level fine-tuning after global optimization~~
+    - ~~use self-optimizing optimizer~~
+    - augment kNN regressor with local linear extrapolation/interpolation
+    - manually compose a bunch of random melodies and track multiscale entropy
 
 ___
 

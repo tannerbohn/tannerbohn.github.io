@@ -4,6 +4,130 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Thursday, 19. January 2017 10:15PM
+
+**Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
+
+- There is evidence for hippocampal neurogenesis in adult humans, although whether its extent is sufficient to have functional significance has been questioned
+
+- We found that a large subpopulation of hippocampal neurons, constituting one third of the neurons, is subject to exchange. In adult humans, 700 new neurons are added per day, corresponding to an annual turnover of 1.75% of the neurons within the renewing fraction, with a modest decline during aging.
+
+- New neurons integrate throughout life in the hippocampus and olfactory bulb of most mammals. The newborn neurons have enhanced synaptic plasticity for a limited time after their differentiation (Ge et al., 2007; Schmidt-Hieber et al., 2004), which is critical for their role in mediating pattern separation in memory formation and cognition in rodents
+
+
+___
+
+Tuesday, 17. January 2017 04:55PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170109124959.htm](https://www.sciencedaily.com/releases/2017/01/170109124959.htm)
+
+- The driver of our instincts is the brainstem -- the region at the very base of your brain, just above the spinal chord. Scientists have known for some time that another brain region, the prefrontal cortex, plays a role in keeping those instincts in check
+
+- Gross and colleagues have literally found the connection between prefrontal cortex and brainstem.
+
+- went on to confirm that this physical connection was the brake that inhibits instinctive behavior. They found that in mice that have been repeatedly defeated by another mouse -- the murine equivalent to being bullied -- this connection weakens, and the mice act more scared. The scientists found that they could elicit those same fearful behaviors in mice that had never been bullied, simply by using drugs to block the connection between prefrontal cortex and brainstem
+
+- found that the connection from the prefrontal cortex is to a very specific region of the brainstem, called the PAG, which is responsible for the acting out of our instincts. However, it doesn't affect the hypothalamus, the region that controls feelings and emotions
+
+- So the prefrontal cortex keeps behavior in check, but doesn't affect the underlying instinctive feeling: it stops you from running off-stage, but doesn't abate the butterflies in your stomach
+
+
+___
+
+Monday, 16. January 2017 01:32AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170111093428.htm](https://www.sciencedaily.com/releases/2017/01/170111093428.htm)
+
+- investigated how the sense of touch of 30 study participants could be changed after a training phase. Half of them received a medium dose of the stress hormone cortisol, while the other half received a placebo drug.
+
+- Tactile performance was assessed using the so-called "two-point discrimination threshold." This marker indicates how far apart two stimuli need to be, to be discriminated as two separate sensations -- the closer they are, the better the sense of touch.
+
+- The placebo group improved their tactile acuity, as expected, by about 15 percent. In contrast, the cortisol given to the other group blocked almost all the stimulation-induced improvement.
+
+- In previous studies on a cellular level, neuroscientists have demonstrated that cortisol suppresses the strengthening of synaptic connections, and therefore the plasticity of the brain -- its ability to learn.
+
+
+___
+
+Friday, 13. January 2017 01:07AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170112141251.htm](https://www.sciencedaily.com/releases/2017/01/170112141251.htm)
+
+- Until now, the entorhinal cortex has been considered subservient to the hippocampus in both memory formation and recall. But we show that the medial entorhinal cortex can replay the firing pattern associated with moving in a maze independent of the hippocampus
+
+- The entorhinal cortex could be a new system for memory formation that works in parallel to the hippocampus
+
+- When a spatial memory is formed, cells in the medial entorhinal cortex (MEC), especially grid cells, act like a navigational system. They provide the hippocampus with information on where an animal is and give cues as to how far and in what direction the animal has moved
+
+- During both sleep and waking periods, the sMEC triggers its own replay and initiates recall and consolidation independent of the hippocampus
+
+
+___
+
+Tuesday, 10. January 2017 05:01AM
+
+**Url:** [https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
+
+-  it seems many mammal babies prefer to approach their mother from one side too  and the explanation may lie in the contrasting talents of each half of the brain
+
+- Some researchers think this explains why human and ape mothers tend to cradle their babies on the left: it is so they can better monitor their facial expressions with their left eye.
+
+- Infants of all species were more likely to position themselves so that their mother was on their left. This happened about three-quarters of the time.
+
+- found that mammal infants who keep their mother on their left are better able to keep track of her and hence increase their chance of survival
+
+- However, if a threat emerges, the roles often reverse, Ingram says. Infants keep their mother on their left in normal situations such as moving forward or suckling, she says. But when faced with stressful situations such as when fleeing, mothers prefer their infant on their left side so they can better monitor them.
+
+
+___
+
+Saturday, 07. January 2017 04:25AM
+
+**Url:** [https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
+
+- False memory was discovered in an experiment that asked volunteers to memorise lists of related words and then recall them. When they learned bed, drowsy and dream, about half later also remembered the word sleep. 
+
+- well-rested brains normally use associative memory to link related concepts together. Theres a lot of evidence that the brain cares less about individual data and more about the gist of it or what it means,
+
+- They asked 44 people to memorise lists of words when they were well rested, had slept for only four hours on each of the previous four nights, or hadnt slept at all for the past 30 hours.
+
+- Unsurprisingly, when they were immediately asked to recall these words, the volunteers did less well when partially or completely sleep-deprived. But when shown a new list and asked which ones had been on the original list, sleep-deprived people were less likely to misremember
+
+- This shows that not only were they less able to learn individual items, they were also less able to extract their meaning.
+
+
+___
+
+Saturday, 07. January 2017 03:35AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170106150925.htm](https://www.sciencedaily.com/releases/2017/01/170106150925.htm)
+
+- "Every time you move your eye, the whole world moves on your retina," says Gaby Maimon, head of the Laboratory of Integrative Brain Function. "But you don't perceive an earthquake happening several times a second."
+
+- the brain can tell if visual motion is self-generated, canceling out information that would otherwise make us feel -- and act -- as if the world was whirling around us.
+
+- Each time you shift your gaze (and you do so several times a second), the brain sends a command to the eyes to move. But a copy of that command is issued internally to the brain's own visual system, as well.
+
+- the common fruit fly performs the same kinds of rapid eye movements. The mere 100,000 neurons in its poppy-seed sized brain must therefore handle the same problems of prediction and perception
+
+- During intentional turns, each neuron received a signal that was carefully calibrated to suppress sensitivity to visual motion along the yaw axis alone
+
+
+___
+
+Saturday, 07. January 2017 03:29AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170106163007.htm](https://www.sciencedaily.com/releases/2017/01/170106163007.htm)
+
+- A new model for identifying personality traits may help organizations save money by improving the hiring process and with evaluating employee performance.
+
+- The model, developed by Brian Connelly, an associate professor in U of T Scarborough's Department of Management, is called Trait-Reputation-Identity (TRI). The model is unique in that it contrasts personality as seen by an individual versus how their personality is seen by others.
+
+- The current system for evaluating job applications, which relies heavily on reference checks, is not an effective means of predicting job performance
+
+
+___
+
 Wednesday, 28. December 2016 05:41PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/12/161226211235.htm](https://www.sciencedaily.com/releases/2016/12/161226211235.htm)
