@@ -10,19 +10,19 @@ permalink: /ideas/
       - similar to options idea
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A.png){:height="15px" width="15px"} choose minimal set of sentences form article needed to answer questions about text
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png){:height="15px" width="15px"} choose minimal set of sentences form article needed to answer questions about text
       - to create questions, remove word from sentence, and get network to guess it (imputation)
     - calculate doc sentence importance scores
       - extract keywords and for each sentence, calculate prob that it is a def'n of a keyword
     -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W3.png){:height="15px" width="15px"} how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
       - usewavenet and train/initialize with musical voices
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B.png){:height="15px" width="15px"} word web
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} word web
       - improve connection strength algorithm
       - add support for n-grams
     - analyse large list of wiki pages for certain characteristics
       - rate pages by some important sclaes (intelligence, science, politics, etc.)
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C.png){:height="15px" width="15px"} use autoencoder for text summarization
+    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png){:height="15px" width="15px"} use autoencoder for text summarization
       - ~~RNN?~~
       -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/W3.png){:height="15px" width="15px"} what does it mean if a sentence has a large reconstruction error?
   - Images
