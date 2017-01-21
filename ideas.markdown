@@ -66,34 +66,34 @@ permalink: /ideas/
     - use "small world" type of connection dist'n
       - what does weight matrix look like?
       - is this what human connectome looks like?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} learning to learn to learn ... to learn
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> learning to learn to learn ... to learn
     - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png){:height="15px" width="15px"} evolve recursive neural grid to maximise entropy of states over time
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
     - use multiscale entropy (in both time and space?)
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png){:height="15px" width="15px"} use "multisensory" autoencoder to find shared encoding for many streams
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> use "multisensory" autoencoder to find shared encoding for many streams
     - allows for interpretation of one stream as any other
     - this has already been done with universal langueage translator?
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} design a "cell" that when combined with others can adapt and learn
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> design a "cell" that when combined with others can adapt and learn
     - undergoes period of differentiation?
     - use optimization to determin structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} classify windows of stock market by MSE curves
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> classify windows of stock market by MSE curves
 
 ___
 
 - **Idea Management**
   - MindMap
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} write program to automatically convert links or ideas file to mindmap?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png){:height="15px" width="15px"} be able to create groups and subgroups
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> write program to automatically convert links or ideas file to mindmap?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> be able to create groups and subgroups
       - expand a node into multiple nodes?
     - when saving, make sure every edge is captured
     - move around in 3 dimensions? (perfect application for VR)
     - have separate file for mindmap text and other text
       - special tiles linked to external files?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png){:height="15px" width="15px"} suggest links between notes? common terms?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> suggest links between notes? common terms?
     - use #url to denote that a note is a url, and can be opened (how?)
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png){:height="15px" width="15px"} summarize all thoughts in 4 words or less (automate?)
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png" width="15"> summarize all thoughts in 4 words or less (automate?)
   - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
     - ~~allow linking between areas?~~
   - how to deal with different types of notes?
@@ -264,7 +264,7 @@ ___
 ___
 
 - **Simulations**
-  -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png){:height="15px" width="15px"} design simulation to study communication
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
