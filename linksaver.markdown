@@ -4,6 +4,69 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 21. January 2017 04:51AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170109162336.htm](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
+
+- Researchers have developed a new computational model of a neural circuit in the brain, which could shed light on the biological role of inhibitory neurons
+
+- The model describes a neural circuit consisting of an array of input neurons and an equivalent number of output neurons. The circuit performs what neuroscientists call a "winner-take-all" operation, in which signals from multiple input neurons induce a signal in just one output neuron.
+
+- the researchers prove that, within the context of their model, a certain configuration of inhibitory neurons provides the most efficient means of enacting a winner-take-all operation
+
+- Signals from the output neurons pass to the inhibitory neurons, whose output in turn passes back to the output neurons. The signaling of the output neurons also feeds back on itself, which proves essential to enacting the winner-take-all strategy.
+
+- in the brain, increasing the strength of the signal traveling over an input neuron only increases the chances that an output neuron will fire. The same is true of the nodes in the researchers' model. Again, this modification is crucial to enacting the winner-take-all strategy.
+
+- with only one inhibitory neuron, it's impossible, in the context of their model, to enact the winner-take-all strategy. But two inhibitory neurons are sufficient. The trick is that one of the inhibitory neurons -- which the researchers call a convergence neuron -- sends a strong inhibitory signal if more than one output neuron is firing. The other inhibitory neuron -- the stability neuron -- sends a much weaker signal as long as any output neurons are firing.
+
+- The convergence neuron drives the circuit to select a single output neuron, at which point it stops firing; the stability neuron prevents a second output neuron from becoming active once the convergence neuron has been turned off. The self-feedback circuits from the output neurons enhance this effect.
+
+- Without randomness, however, the circuit won't converge to a single output neuron: Any setting of the inhibitory neurons' weights will affect all the output neurons equally. "You need randomness to break the symmetry,"
+
+- Do real inhibitory neurons exhibit the same division between convergence neurons and stability neurons?
+
+
+___
+
+Saturday, 21. January 2017 04:41AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170102143458.htm](https://www.sciencedaily.com/releases/2017/01/170102143458.htm)
+
+- Many new parents still think that babies should develop at their own pace, and that they shouldn't be challenged to do things that they're not yet ready for.
+
+- this mindset can be traced back to the early 1900s, when professionals were convinced that our genes determine who we are, and that child development occurred independently of the stimulation that a baby is exposed to.
+
+- neurons in the brains of young children quickly increase in both number and specialization as the baby learns new skills and becomes more mobile. Neurons in very young children form up to a thousand new connections per second.
+
+- Van der Meer's research also shows that the development of our brain, sensory perception and motor skills happen in sync. She believes that even the smallest babies must be challenged and stimulated at their level from birth onward. They need to engage their entire body and senses by exploring their world and different materials, both indoors and out and in all types of weather.
+
+-  the experiences must be self-produced; it is not enough for children merely to be carried or pushed in a stroller.
+
+- Babies actually manage to distinguish between the sounds of any language in the world when they are four months old, but by the time they are eight months old they have lost this ability
+
+
+___
+
+Saturday, 21. January 2017 04:34AM
+
+**Url:** [https://www.sciencedaily.com/releases/2015/09/150921133948.htm](https://www.sciencedaily.com/releases/2015/09/150921133948.htm)
+
+- Short-term memory traces in the hippocampus, an area deep in the brain, are then relocated to more outer parts of the brain. An international team of neuroscientists now shows how a three-step brain oscillation plays an important part in that process.
+
+- 'Non-rapid eye movement (NREM) sleep is responsible for the memory consolidation during our sleep', Bonnefond explains. 'NREM is known for its very slow oscillations (SOs). Other types of oscillations are hidden inside these SOs.
+
+- We discovered that three types of oscillations are nested inside each other in the hippocampus and have a joint function.'
+
+- Slow oscillations only happen about once per second (~0.75 Hz). 
+
+- In a specific time frame within these SOs, Bergmann, Bonnefond and their colleagues found clusters of oscillations of an intermediate speed: the so called spindles which happen about 15 times per second (12 -- 16 Hz). And within these spindles, they found clusters of superfast oscillations called ripples, which happen about 90 times per second (80 -- 100 Hz), and which reflect the local reactivation of the memory trace to be shuttled to the cortex.
+
+- we see that SOs, spindles and ripples are functionally coupled in the hippocampus. And we hypothesize that they provide fine-tuned temporal frames for the transfer of memory traces to the neocortex
+
+
+___
+
 Thursday, 19. January 2017 10:15PM
 
 **Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
