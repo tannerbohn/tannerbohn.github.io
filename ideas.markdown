@@ -36,7 +36,7 @@ permalink: /ideas/
   - train decorrelated NNs
     - consecutively train sub-nets to both maximize variance between sub-net predictions and performance of each sub-net
   - design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} put coloured mark on agents have they have to ask other agents what colour their own dot is (or use mirror?)
+    - put coloured mark on agents have they have to ask other agents what colour their own dot is (or use mirror?)
   - learn entity motivations/needs as predictive/explanative model
   - implement NN that works and learns in real time
     - fully recursive?
@@ -45,7 +45,7 @@ permalink: /ideas/
     - learning how to learn -- given response from env., learn how to use it to improve future performance
     - use "small world" type of connection dist'n
   - learning to learn to learn ... to learn
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
+    - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
     - use multiscale entropy (in both time and space?)
@@ -67,7 +67,7 @@ ___
     - move around in 3 dimensions? (perfect application for VR)
     - have separate file for mindmap text and other text
     - suggest links between notes? common terms?
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} use #url to denote that a note is a url, and can be opened (how?)
+    - use #url to denote that a note is a url, and can be opened (how?)
   - summarize all thoughts in 4 words or less (automate?)
   - have main ideas.txt and automatically convert to webpage like linksaver
     - allow linking between areas?
@@ -133,7 +133,7 @@ ___
     - normalize to max/min possible
     - more rigorous definition
   - ~~moving guess~~
-    - ~~ ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
+    - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
   - sequences are metaphors are mappings
 
 ___
@@ -194,7 +194,7 @@ ___
 
 - **Optimization**
   - road crossing problem
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} If you want to cross the road to get from A to B, what is the optimal path to take?
+    - If you want to cross the road to get from A to B, what is the optimal path to take?
     - To minimize total time, go alone diagonal from A to B.
   - design *optimal* comparative sorting algorithm
     - best method for overall accuracy (of three tested) is to split all choices into groups of 4, then choose best from each group, then put each of the winners in a new group.
@@ -220,7 +220,7 @@ ___
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
   - socio-emotional model
-    -  ![alt text](https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/question.png){:height="15px" width="15px"} person Pa has emotion a, person Pb has emotion b -- how do they interact?
+    - person Pa has emotion a, person Pb has emotion b -- how do they interact?
     - already done? -- http://personality-project.org/r/simulating-personality.html
   - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
