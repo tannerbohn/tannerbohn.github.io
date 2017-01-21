@@ -22,12 +22,6 @@ permalink: /ideas/
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
     - multiscale image generator
-  - Neuroscience/Meta
-    - how to avoid catastrophic learning?
-    - evolve strategy for neurons modifying their connections
-    - self-optimizing program/AI
-    - what function would "brain waves" have in an ANN?
-    - running memories in reverse during sleep is like creating explanative model instead of predictive one
   - pattern recognition
     - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
   - Math
@@ -50,6 +44,18 @@ permalink: /ideas/
     - need gating mechanisms?
     - learning how to learn -- given response from env., learn how to use it to improve future performance
     - use "small world" type of connection dist'n
+  - learning to learn to learn ... to learn
+    - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
+  - evolve recursive neural grid to maximise entropy of states over time
+    - this will have the effect of "prolonging life"
+    - use multiscale entropy (in both time and space?)
+  - use "multisensory" autoencoder to find shared encoding for many streams
+    - allows for interpretation of one stream as any other
+    - this has already been done with universal langueage translator?
+  - design a "cell" that when combined with others can adapt and learn
+    - undergoes period of differentiation?
+    - use optimization to determin structure of cell?
+  - classify windows of stock market by MSE curves
 
 ___
 
@@ -65,8 +71,39 @@ ___
   - summarize all thoughts in 4 words or less (automate?)
   - have main ideas.txt and automatically convert to webpage like linksaver
     - allow linking between areas?
-  - how to deal with different types of ideas?
-    - ex. project ideas, half-ideas, ?
+  - how to deal with different types of notes?
+    - ex. project ideas, half-ideas, questions, misc. notes?
+    - add tags, change colour
+
+___
+
+- **Human Intelligence/Psychology**
+  - what are indicators of only* intelligence?
+    - things that might be correlated with it include: reaction time, vocabulary, spatial reasoning
+    - make use of analogies of increasing complexity (see evernote pages about reasoning behind this...)
+  - generate bounded sequences of arbitrary complexity to test intelligence/pattern recognition
+  - what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
+  - how to avoid catastrophic learning?
+    - how does the brain do it? store info in both hippocampus and cortex
+    - each neuron or connection has its own learning rate -- older memories change less?
+  - evolve strategy for neurons modifying their connections
+  - self-optimizing program/AI
+  - what function would "brain waves" have in an ANN?
+    - "communication through synchronization"
+    - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
+  - running memories in reverse during sleep is like creating explanative model instead of predictive one
+    - humans are compelled to solve credit assignment problem
+  - branching structure and geometry of neurons hints at the algorithms they run
+  - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
+    - it creates filters there which respond to the same things
+  - where does Maslow's hierarchy of needs come from?
+    - does it always appear for complex conscious beings?
+    - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
+  - design experiment to test long-term memory recall speed when moving and not moving eyes
+  - estimate the rate of time passage during various mental activities
+    - need to only see true durations afterward to avoid consciously counteracting biases
+  - how do functional modules form in brain?
+    - result of speed and energy optimisation?
 
 ___
 
@@ -119,6 +156,8 @@ ___
 
 - **Philosophy**
   - What does it mean for a pattern/identity to exist?
+  - calculate parameters of hedonic adaptation
+    - maximize happiness by balancing positive and negative experiences of certain magnitudes
 
 ___
 
@@ -142,6 +181,14 @@ ___
     - ~~use self-optimizing optimizer~~
     - augment kNN regressor with local linear extrapolation/interpolation
     - manually compose a bunch of random melodies and track multiscale entropy
+  - why do humans enjoy non-utilitous things?
+    - ex. art (depictive and abstract)
+    - because it displays concepts and patterns which we have learned to find good?
+    - why do we enjoy wordplay?
+  - why do we enjoy certain artistic styles independent of their specific content?
+    - activation of lower level patterns which we enjoy?
+  - generate a music playlist that acts a path through emotion-space
+    - this may help in changing listeners emotion because it first gains traction by relating, and then slowly shifts to target emotion
 
 ___
 
@@ -161,6 +208,9 @@ ___
   - design optimal character sets
     - in terms of writing speed
     - ~~use word2vec skipgram algo to find encodings for characters and base char set off of it~~
+    - nestable characters
+  - generate langauge with as much structure as possible?
+  - ~~make MSE curve generation program with exponential scaling~~
 
 ___
 
@@ -174,7 +224,15 @@ ___
     - already done? -- http://personality-project.org/r/simulating-personality.html
   - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
+  - what happens when you can fix cells in GOL?
+    - use fixable cells as input to system?
+  - generate automata which generates images with specific multiscale entropy curves
   - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
+  - what forces promote and prevent formation of social structures of different levels?
+    - family -> clan -> city -> country -> global
+  - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
+  - dynamics of agents with different degrees of common knowledge
+    - "momentum trades" of stocks have lower level
