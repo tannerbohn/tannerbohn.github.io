@@ -152,6 +152,9 @@ ___
     - ~~What's the minimum length of time you can sleep to experience the shift?~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/23dca9b2-d700-4038-9b95-085730d8847e?title=Day%20transition%20experiment)~~
       - ~~there is no specific time (for me)~~
+  - what correlation is there between the rate at which someone can manually generate random numbers and their intelligence?
+    - also include a measure of the sequene randomness in the correlation calculations
+    - it would be fun to analyse the random sequences people produce and see how predictable different people are
 
 ___
 
