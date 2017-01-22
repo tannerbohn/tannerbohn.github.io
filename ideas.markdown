@@ -25,7 +25,14 @@ permalink: /ideas/
     - use autoencoder for text summarization
       - ~~RNN?~~
       - what does it mean if a sentence has a large reconstruction error?
-  - Images
+    - ~~automated knowledge finder~~
+      - ~~using a database (ex. document), be able to submit queries and get related sentences from document~~
+      - ~~for each word in query, find sentences with that word (or synonym) -> sort sentences by most matches~~
+      - ~~see [MemTools](https://tannerbohn.wordpress.com/2015/09/02/information-absorption-and-remembering/), [KnowledgeTools](https://tannerbohn.wordpress.com/2015/05/20/knowledgetool/)~~
+    - ~~create sentence parsing algorithm~~
+      - ~~statements -> require parsing -> locate keyword(s)? -> give probaility list?~~
+      - ~~extract who/what/where/when/why/how, extract main focus (name, person, thing, event, etc.)~~
+      - ~~see work on Fermi~~
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
     - what space do artistic styles reside in?
       - correlations between conv. filter activations? (at multiple scales -- and between scales)
@@ -36,6 +43,9 @@ permalink: /ideas/
     - multiscale image generator
       - similar to RL idea, learn multi-scale policies for drawing image
       - convert img to alg (cellular automata) and apply at multiple scales (by increasing resolution?)
+    - ~~create text compression so that any subset of lyrics is approximation of whole~~
+      - ~~already done by others (ex. Shazam, Soundhound)~~
+      - ~~it would be easy to train a RNN to perform this task~~
   - pattern recognition
     - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
       - use to study contagion dynamics - recognize distinct behaviours
@@ -79,6 +89,10 @@ permalink: /ideas/
     - use optimization to determin structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> classify windows of stock market by MSE curves
+  - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
+    - ~~allows fixed length computation time but offers more complexity~~
+    - ~~does this give any benefit?~~
+    - ~~what are the benefits of recursive over feed forward?~~
 
 ___
 
@@ -130,9 +144,14 @@ ___
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
-    - plot curve of guess vs. real duration
+      - plot curve of guess vs. real duration
   - how do functional modules form in brain?
     - result of speed and energy optimisation?
+  - ~~find where the psychological experience of day transition comes from~~
+    - ~~Where does the transition between days occur?~~
+    - ~~What's the minimum length of time you can sleep to experience the shift?~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/23dca9b2-d700-4038-9b95-085730d8847e?title=Day%20transition%20experiment)~~
+      - ~~there is no specific time (for me)~~
 
 ___
 
@@ -170,6 +189,19 @@ ___
   - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
   - sequences are metaphors are mappings
+  - ~~leaning line problem~~
+    - ~~see [wordpress](https://tannerbohn.wordpress.com/2015/04/03/leaning-line-problem/) or [evernote](https://www.evernote.com/shard/s267/nl/34201306/0aa75294-4d1b-4c03-99ce-21f5d4339a5f?title=Leaning%20line%20problem)~~
+  - ~~observe distribution of eigenvalues of various types of matrices~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/bd64d36f-f488-40d2-99be-ec5fe1e8f332?title=distribution%20of%20eigenvalues%20of%20various%20matrices)~~
+      - ~~looks at complex eigenvals of random matrices~~
+  - ~~calculate deflection of bar~~
+    - ~~What is the equation for the deflection by gravity of a bar fixed at one end?~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/c545b220-2b2f-4d6f-bb53-246c34db972c?title=Deflection%20of%20Bar) for resources~~
+  - ~~calculate density of prime powers~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/e2a01499-3995-4332-a33e-faad62549307?title=Prime%20Power%20Density)~~
+  - ~~create math pattern puzzle game~~
+    - ~~conceptually simple, but possibly difficult~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/5b878294-7211-4780-924d-022296c958d2?title=Math%20Pattern%20Puzzle)~~
 
 ___
 
@@ -236,6 +268,9 @@ ___
     - activation of lower level patterns which we enjoy?
   - generate a music playlist that acts a path through emotion-space
     - this may help in changing listeners emotion because it first gains traction by relating, and then slowly shifts to target emotion
+  - possible to metric for image aesthetics?
+    - possible factors may be density, repetition, nesting, balance of pattern and chaos
+    - Karpathy already did something similar to this with instagram photos or people
 
 ___
 
@@ -260,8 +295,18 @@ ___
       - evolve curves that are distinct and fast to write
     - ~~use word2vec skipgram algo to find encodings for characters and base char set off of it~~
     - nestable characters
+    - combination of edges in a possible graph (try different graphs)
+    - one attempt: [evernote](https://www.evernote.com/shard/s267/nl/34201306/ef3aee2d-647f-43c8-ae59-a2badfcd72bc?title=character%20set%2Fwriting%20system%20optimization)
+      - have created many related character sets
   - generate langauge with as much structure as possible?
   - ~~make MSE curve generation program with exponential scaling~~
+  - ~~find optimal locations on field to sample soil data from in consecutive years~~
+    - ~~if you assume that data from previous years is not entirely different from the next years, you can sample in new spots to accumulate data over time~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/29829134-0227-42ad-bdf8-8bc9323f35cc?title=Field%20Problem)~~
+  - ~~find optimal parameters for spaced repetition~~
+    - ~~want to minimize total time spend practicing, but maximize amount remembered~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/8326d96d-4ec3-439d-a256-d6b119ffe1c3?title=Optimal%20Spaced%20Repetition)~~
+      - ~~already somewhat done by Gwern~~
 
 ___
 
@@ -289,4 +334,11 @@ ___
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
   - ~~government substructure optimization~~
-    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization)~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization), also [wordpress](https://tannerbohn.wordpress.com/2015/05/30/abstract-government-substructure-optimization/)~~
+  - ~~wealthy inequality simulation~~
+    - ~~what causes inequality to occur?~~
+    - ~~in some society, what does the distribution of wealth tend towards?~~
+    - ~~done by others -- lognormal distribution of wealth?~~
+  - ~~social particle simulation~~
+    - ~~simulate abstract people with social/antisocial properties. After spending time around other people, they become antisocial and move away from people. After being alone for a while, they want to socialize again.~~
+    - ~~see [wordpress](https://tannerbohn.wordpress.com/2015/04/03/socialparticlesimulation/) and [evernote](https://www.evernote.com/shard/s267/nl/34201306/caba1d23-f82c-48cd-b8a7-c5463c5538ad?title=Social%20Particle%20Simulation)~~
