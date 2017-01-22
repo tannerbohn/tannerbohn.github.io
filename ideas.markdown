@@ -129,6 +129,8 @@ ___
   - design experiment to test long-term memory recall speed when moving and not moving eyes
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
+    - uniformly generate time durations in (0, 10] seconds
+    - plot curve of guess vs. real duration
   - how do functional modules form in brain?
     - result of speed and energy optimisation?
 
@@ -286,3 +288,5 @@ ___
   - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
+  - ~~government substructure optimization~~
+    - ~~see https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization~~
