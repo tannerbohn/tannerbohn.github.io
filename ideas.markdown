@@ -289,4 +289,4 @@ ___
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
   - ~~government substructure optimization~~
-    - ~~see https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization)~~
