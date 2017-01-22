@@ -4,6 +4,9 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
+
+___
+
 - **Machine Learning**
   - Reinforcement Learning
     - how to learn sub-policies -- infinitely nestable?
@@ -17,7 +20,8 @@ permalink: /ideas/
     - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
       - usewavenet and train/initialize with musical voices
-    - word web
+    - create word web generator
+      - ~~for each digram, calculate frequency and create directed graph with all links above a certain min importance~~
       - improve connection strength algorithm
       - add support for n-grams
     - analyse large list of wiki pages for certain characteristics
@@ -98,10 +102,11 @@ ___
 
 - **Idea Management**
   - MindMap
+    - ~~create notes, connect them, edit, delete, be able to zoom in and out, pan~~
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> write program to automatically convert links or ideas file to mindmap?
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> be able to create groups and subgroups
       - expand a node into multiple nodes?
-    - when saving, make sure every edge is captured
+    - ~~when saving, make sure every edge is captured~~
     - move around in 3 dimensions? (perfect application for VR)
     - have separate file for mindmap text and other text
       - special tiles linked to external files?
@@ -180,7 +185,10 @@ ___
   - Image multiplier (Encryption?) Prime images?
   - Interpolation/extrapolation with ASMD
     - what functions do the ASMD produce?
-  - closed forms of general continued fractions
+  - closed form finding
+    - ~~recursive closed form finder for arbitrary numbers~~
+      - ~~able to specify set of numbers to use, operations available, and recursion depth for expression complexity~~
+    - closed forms of general continued fractions
   - geometrically motivated number system (baseless?)
   - make recursive ASMD algorithm more flexible
     - loosen bounds to approximately match sequences (apply to fuzzier data)
@@ -269,11 +277,17 @@ ___
       - because we are able to undergo being confused/lacking understanding to understanding, a process we have learned to enjoy (survival)
   - why do we enjoy certain artistic styles independent of their specific content?
     - activation of lower level patterns which we enjoy?
-  - generate a music playlist that acts a path through emotion-space
-    - this may help in changing listeners emotion because it first gains traction by relating, and then slowly shifts to target emotion
+  - playlist generation
+    - ~~Playlist generation using genre&band similarity rating (2012.5)~~
+    - generate a music playlist that acts a path through emotion-space
+      - this may help in changing listeners emotion because it first gains traction by relating, and then slowly shifts to target emotion
   - possible to metric for image aesthetics?
     - possible factors may be density, repetition, nesting, balance of pattern and chaos
     - Karpathy already did something similar to this with instagram photos or people
+  - ~~create mapping from personal relationship type to colours~~
+  - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
+    - ~~see [evernote](https://tannerbohn.wordpress.com/2015/12/17/multiscale-image-entropy/)~~
+    - ~~also try using exponentially scaled entropy curves (faster to calculate and easier to satisfy when generating images)~~
 
 ___
 
@@ -287,7 +301,11 @@ ___
       - easily generalizable -- but how do you sort all items (instead of just finding the single best)?
     - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
+    - ~~create algorithm which asks used to compare many elements to eachother, and then uses iterative algorithm to find ordering for elements which satisies the criterion~~
+      - ~~the discovered ordering approaches the true ordering as the number of comparisons requested increases, but a small number (O(n)) as well as being able to provide approximately *how much* bigger one element is leads to pretty good results~~
   - design new keyboard method/type
+    - ~~write program to find optimal arrangement of keys~~
+      - ~~simulate typing and try to minimize time (need to calculate travel distance)~~
   - write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
   - at the highest level of an optimized system, behaviour should appear random
   - simulation to test optimal exploration policies
@@ -298,9 +316,12 @@ ___
       - evolve curves that are distinct and fast to write
     - ~~use word2vec skipgram algo to find encodings for characters and base char set off of it~~
     - nestable characters
+    - a successful char set seems to require "landmark" characters which provide visual variation that assists in learning
     - combination of edges in a possible graph (try different graphs)
     - one attempt: [evernote](https://www.evernote.com/shard/s267/nl/34201306/ef3aee2d-647f-43c8-ae59-a2badfcd72bc?title=character%20set%2Fwriting%20system%20optimization)
       - have created many related character sets
+    - ~~create an aesthetic character set which can be written without lifting pen~~
+      - ~~the set generated looks like vines when writing, but it can be hard to differentiate between characters when reading and learning~~
   - generate langauge with as much structure as possible?
   - ~~make MSE curve generation program with exponential scaling~~
   - ~~find optimal locations on field to sample soil data from in consecutive years~~
@@ -310,6 +331,12 @@ ___
     - ~~want to minimize total time spend practicing, but maximize amount remembered~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/8326d96d-4ec3-439d-a256-d6b119ffe1c3?title=Optimal%20Spaced%20Repetition)~~
       - ~~already somewhat done by Gwern~~
+  - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
+  - ~~write task scheduling program~~
+    - ~~given a set of tasks which each have an expected duration, difficulty, importance, etc., come up with the optimal schedule for achieving all of them~~
+    - ~~while there is an easier solution using dynamic program, my solution functions are more of a prediction of what someone would actually do (i.e. wait until something is of sufficient immediacy)~~
+  - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
+    - ~~can use average note, std. dev of notes, avgerage nth derivative, std. dev of nth derivative~~
 
 ___
 
@@ -345,3 +372,11 @@ ___
   - ~~social particle simulation~~
     - ~~simulate abstract people with social/antisocial properties. After spending time around other people, they become antisocial and move away from people. After being alone for a while, they want to socialize again.~~
     - ~~see [wordpress](https://tannerbohn.wordpress.com/2015/04/03/socialparticlesimulation/) and [evernote](https://www.evernote.com/shard/s267/nl/34201306/caba1d23-f82c-48cd-b8a7-c5463c5538ad?title=Social%20Particle%20Simulation)~~
+  - ~~simulate two competing infections~~
+    - ~~agents have an infection value from -1 (disease A) to +1 (disease B)~~
+      - ~~similar to modelling spread of kindness or meanness (they are both infections and opposite of eachother)~~
+  - ~~simulate relationships between agents~~
+    - ~~agents move towards they are "attracted" to and away from others?~~
+      - ~~we seem to end up with large chains of people chasing eachother~~
+    - ~~agents randomly change who they are attracted to~~
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/todo1.png" width="15"> todo: add "genders", so that each agent is attracted to some subset of other types
