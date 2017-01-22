@@ -379,4 +379,4 @@ ___
     - ~~agents move towards they are "attracted" to and away from others?~~
       - ~~we seem to end up with large chains of people chasing eachother~~
     - ~~agents randomly change who they are attracted to~~
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/todo1.png" width="15"> todo: add "genders", so that each agent is attracted to some subset of other types
+    - todo: add "genders", so that each agent is attracted to some subset of other types
