@@ -118,6 +118,8 @@ ___
   - how to deal with different types of notes?
     - ex. project ideas, half-ideas, questions, misc. notes?
     - add tags, change colour
+  - in linksaver, should specific hashtags have their own icons? (or the hashtag text replaced with something?)
+    - is there a better way to have one note with multiple parents?
 
 ___
 
