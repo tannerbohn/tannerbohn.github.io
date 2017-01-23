@@ -4,6 +4,23 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 23. January 2017 02:34AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170120193803.htm](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)
+
+- A new Processing Speed Training Game (PSTG) has been developed for a Tablet PC, which they say can significantly improve processing speed and inhibition among healthy older adults, while also reducing their depressive moods when played regularly.
+
+- In the number connection challenge shown in Fig1A, participants are asked to connect numbers in an assigned order
+
+- In the Knowledge Quiz Training Game (KQTG, shown in Fig1D), participants select the correct pronunciation of Kanji characters
+
+- Seventy-two older adults between the age of 60-75 were randomly assigned to either a PSTG or a KQTG group. They were asked to play PSTG (12 processing speed games) or KQTG (4 knowledge quizzes) for 4 weeks. They played for 15 minutes a day, for at least 5 days a week.
+
+- Cognitive functions and emotional states were measured before and after the 4-week intervention period. And results showed that participants who played PSTG had improved processing speed and inhibitions, as well as reduced depressive moods compared to those who played KQTG.
+
+
+___
+
 Sunday, 22. January 2017 07:37PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/01/170112141210.htm](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)

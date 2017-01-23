@@ -28,8 +28,9 @@ ___
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> multiscale image generator
-  - pattern recognition
-    - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
+  - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
+    - use to study contagion dynamics - recognize distinct behaviours
+    - train autoencoder on prev data, and whenever reconstruction error is high, there is a potential outlier
   - Math
     - learn optimal function interpolator/extrapolator
     - predict continued fraction limits (possible?)
@@ -50,9 +51,11 @@ ___
     - need gating mechanisms?
     - learning how to learn -- given response from env., learn how to use it to improve future performance
     - use "small world" type of connection dist'n
+  - evolve strategy for neurons modifying their connections
+  - self-optimizing program/AI
   - learning to learn to learn ... to learn
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create system which simultaneously optimizes itself on every possible level
-    - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> this is essentially how human intelligence came about and acts
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
     - use multiscale entropy (in both time and space?)
@@ -93,24 +96,19 @@ ___
 ___
 
 - **Human Intelligence/Psychology**
-  - what are indicators of only* intelligence?
-    - things that might be correlated with it include: reaction time, vocabulary, spatial reasoning
-    - make use of analogies of increasing complexity (see evernote pages about reasoning behind this...)
-  - generate bounded sequences of arbitrary complexity to test intelligence/pattern recognition
-  - what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
-  - how to avoid catastrophic learning?
-    - how does the brain do it? store info in both hippocampus and cortex
-    - each neuron or connection has its own learning rate -- older memories change less?
-  - evolve strategy for neurons modifying their connections
-  - self-optimizing program/AI
-  - what function would "brain waves" have in an ANN?
-    - "communication through synchronization"
-    - duing deep sleep, signals sent from hippocampus -> thalamus -> cortex hundreds of times
-  - running memories in reverse during sleep is like creating explanative model instead of predictive one
-    - humans are compelled to solve credit assignment problem
-  - branching structure and geometry of neurons hints at the algorithms they run
-  - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
-    - it creates filters there which respond to the same things
+  - Intelligence
+    - what are indicators of only* intelligence?
+    - generate bounded sequences of arbitrary complexity to test intelligence/pattern recognition
+    - what correlation is there between the rate at which someone can manually generate random numbers and their intelligence?
+  - Neuroscience
+    - what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
+    - how to avoid catastrophic learning?
+    - what function would "brain waves" have in an ANN?
+    - running memories in reverse during sleep is like creating explanative model instead of predictive one
+    - branching structure and geometry of neurons hints at the algorithms they run
+    - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
+    - how do functional modules form in brain?
+    - for deep brain stimulation (external) experiment, what if you could visualize accuracy by aiming it into a liquid crystal or ferric suspension?
   - where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
@@ -118,15 +116,22 @@ ___
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
-  - how do functional modules form in brain?
-    - result of speed and energy optimisation?
   - ~~find where the psychological experience of day transition comes from~~
     - ~~Where does the transition between days occur?~~
     - ~~What's the minimum length of time you can sleep to experience the shift?~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/23dca9b2-d700-4038-9b95-085730d8847e?title=Day%20transition%20experiment)~~
-  - what correlation is there between the rate at which someone can manually generate random numbers and their intelligence?
-    - also include a measure of the sequene randomness in the correlation calculations
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> it would be fun to analyse the random sequences people produce and see how predictable different people are
+    - Decision tree based off of answers to "why" questions. What is the root of a tree for some person?
+    - Create decision tree to determine what mental state
+    - ~~idea synthesis program~~
+    - ~~create program that takes info and randomly changes some numbers & inverts modifiers/sentiments and then asks you if it's true~~
+    - come up with method for evaluating speed of learning/memorizing methods
+    - test non-conscious memory
+    - condition self to react to placebo
+    - ~~find optimal sleep duration~~
+    - ~~what is the optimal rate of caffeine consumption?~~
+    - test effects of sleep duration, caffeine, water, meditation, music, on the following: focus, restlessness productivity, happiness
+    - ~~create motivational alarm to wake up to~~
+    - calculate multitasking efficiency/ability
     - measure concentration level over time
     - as the amount of information memorized increased in one sitting (or over a single day), how does the time required to memorize something increase
 
@@ -157,8 +162,6 @@ ___
     - ~~recursive closed form finder for arbitrary numbers~~
     - closed forms of general continued fractions
   - geometrically motivated number system (baseless?)
-  - make recursive ASMD algorithm more flexible
-    - loosen bounds to approximately match sequences (apply to fuzzier data)
   - function modifier for numerical integration accuracy
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
     - look for volume preserving operation that can be applied to continuous data
@@ -167,7 +170,7 @@ ___
     - ~~more rigorous definition~~
   - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
-  - sequences are metaphors are mappings
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> sequences are metaphors are mappings
   - ~~leaning line problem~~
     - ~~see [wordpress](https://tannerbohn.wordpress.com/2015/04/03/leaning-line-problem/) or [evernote](https://www.evernote.com/shard/s267/nl/34201306/0aa75294-4d1b-4c03-99ce-21f5d4339a5f?title=Leaning%20line%20problem)~~
   - ~~observe distribution of eigenvalues of various types of matrices~~
@@ -183,22 +186,6 @@ ___
 
 ___
 
-- **Images**
-  - convert image to algorithm, recursively apply
-    - how to ensure fixed point existence? -- if none, can view time series
-  - convert simulation to image
-    - represent state as a position in image as well as colour
-    - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> use symmetry & asymmetry rules to generate image
-  - algorithm image isomorphism/conversions
-    - come up with extended set of cellular automata rules to use and combine to create images
-    - image encodes a particle behaviour
-  - ~~for generating images, limit number of shapes available to use~~
-  - represent image as histogram in pattern-space (similar to filter activations?)
-    - what would a path through the pattern-space look like?
-
-___
-
 - **Philosophy**
   - What does it mean for a pattern/identity to exist?
   - calculate parameters of hedonic adaptation
@@ -209,42 +196,35 @@ ___
 ___
 
 - **Art**
+  - Images
+    - convert image to algorithm, recursively apply
+    - convert simulation to image
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> use symmetry & asymmetry rules to generate image
+    - possible to create metric for image aesthetics?
+    - algorithm image isomorphism/conversions
+    - ~~for generating images, limit number of shapes available to use~~
+    - represent image as histogram in pattern-space (similar to filter activations?)
+    - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
+    - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
+  - Music
+    - given colour palette -> construct piece of music
+    - what does it mean to "add", "subtract", or "multiply" short pieces of music
+    - have grid of all genres and generate heat map based on how often I listen to each one
+    - ~~music classification program that uses my system~~
+    - why do birds sing?
+    - music generation with multiscale entropy
+    - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
+    - playlist generation
   - new letter->wave/shape conversion
     - still aesthetic, but easier to understand
   - create map of sense conversions
     - list all forms of synaesthesia and use transitivity to convert from one sense to another not directly connected
-  - given colour palette -> construct piece of music
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> the inverse might be more interesting, and easier
-  - what does it mean to "add", "subtract", or "multiply" short pieces of music
-    - create pieces of music based on smaller pieces -- able to create structure?
-  - have grid of all genres and generate heat map based on how often I listen to each one
-    - changes over time, so you could instead chart a path through genre-space over time
-  - ~~music classification program that uses my system~~
-    - ~~also caluclated average spectrograms of songs in each genre~~
-  - why do birds sing?
-    - how are those signals better than random series of notes?
-  - music generation with multiscale entropy
-    - ~~apply entropy curve fitting to both notes and derivatives~~
-    - ~~train model to predict rating given entropy curves~~
-    - ~~perform note-level fine-tuning after global optimization~~
-    - ~~use self-optimizing optimizer~~
-    - augment kNN regressor with local linear extrapolation/interpolation
-    - manually compose a bunch of random melodies and track multiscale entropy
   - why do humans enjoy non-utilitous things?
     - ex. art (depictive and abstract)
     - because it displays concepts and patterns which we have learned to find good?
     - why do we enjoy wordplay?
     - why do we enjoy certain artistic styles independent of their specific content?
-  - playlist generation
-    - ~~Playlist generation using genre&band similarity rating (2012.5)~~
-    - generate a music playlist that acts a path through emotion-space
-  - possible to metric for image aesthetics?
-    - possible factors may be density, repetition, nesting, balance of pattern and chaos
-    - Karpathy already did something similar to this with instagram photos or people
   - ~~create mapping from personal relationship type to colours~~
-  - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
-    - ~~see [evernote](https://tannerbohn.wordpress.com/2015/12/17/multiscale-image-entropy/)~~
-    - ~~also try using exponentially scaled entropy curves (faster to calculate and easier to satisfy when generating images)~~
 
 ___
 
@@ -258,23 +238,15 @@ ___
     - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
     - ~~create algorithm which asks used to compare many elements to eachother, and then uses iterative algorithm to find ordering for elements which satisies the criterion~~
-  - design new keyboard method/type
-    - ~~write program to find optimal arrangement of keys~~
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
-    - need to figure out how to shorten words (can just remove unnecessary vowels)
-    - balance between marking it hard to remember meaning of shortening and overall length of text
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> at the highest level of an optimized system, behaviour should appear random
   - simulation to test optimal exploration policies
     - extension of Levy flights? (non-straight paths?)
-  - design optimal character sets
-    - in terms of writing speed
-    - ~~use word2vec skipgram algo to find encodings for characters and base char set off of it~~
-    - nestable characters
-    - a successful char set seems to require "landmark" characters which provide visual variation that assists in learning
-    - combination of edges in a possible graph (try different graphs)
-    - one attempt: [evernote](https://www.evernote.com/shard/s267/nl/34201306/ef3aee2d-647f-43c8-ae59-a2badfcd72bc?title=character%20set%2Fwriting%20system%20optimization)
-    - ~~create an aesthetic character set which can be written without lifting pen~~
-  - generate langauge with as much structure as possible?
+    - optimal policy likely depends on the type of space being searched (no free lunch)
+  - Text/Writing/Langauge
+    - design new keyboard method/type
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
+    - design optimal character sets
+    - generate langauge with as much structure as possible?
   - ~~make MSE curve generation program with exponential scaling~~
   - ~~find optimal locations on field to sample soil data from in consecutive years~~
     - ~~if you assume that data from previous years is not entirely different from the next years, you can sample in new spots to accumulate data over time~~
@@ -282,12 +254,9 @@ ___
   - ~~find optimal parameters for spaced repetition~~
     - ~~want to minimize total time spend practicing, but maximize amount remembered~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/8326d96d-4ec3-439d-a256-d6b119ffe1c3?title=Optimal%20Spaced%20Repetition)~~
-  - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
   - ~~write task scheduling program~~
     - ~~given a set of tasks which each have an expected duration, difficulty, importance, etc., come up with the optimal schedule for achieving all of them~~
     - ~~while there is an easier solution using dynamic program, my solution functions are more of a prediction of what someone would actually do (i.e. wait until something is of sufficient immediacy)~~
-  - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
-    - ~~can use average note, std. dev of notes, avgerage nth derivative, std. dev of nth derivative~~
 
 ___
 
