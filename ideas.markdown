@@ -109,6 +109,10 @@ ___
     - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
     - how do functional modules form in brain?
     - for deep brain stimulation (external) experiment, what if you could visualize accuracy by aiming it into a liquid crystal or ferric suspension?
+  - Decision tree based off of answers to "why" questions. What is the root of a tree for some person?
+  - come up with method for evaluating speed of learning/memorizing methods
+  - test non-conscious memory
+    - given an item, m, to remember, flash an item, m', and then a red or green dot and then user has to press button as soon as change occurs
   - where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
@@ -120,36 +124,23 @@ ___
     - ~~Where does the transition between days occur?~~
     - ~~What's the minimum length of time you can sleep to experience the shift?~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/23dca9b2-d700-4038-9b95-085730d8847e?title=Day%20transition%20experiment)~~
-    - Decision tree based off of answers to "why" questions. What is the root of a tree for some person?
-    - Create decision tree to determine what mental state
-    - ~~idea synthesis program~~
-    - ~~create program that takes info and randomly changes some numbers & inverts modifiers/sentiments and then asks you if it's true~~
-    - come up with method for evaluating speed of learning/memorizing methods
-    - test non-conscious memory
-    - condition self to react to placebo
-    - ~~find optimal sleep duration~~
-    - ~~what is the optimal rate of caffeine consumption?~~
-    - test effects of sleep duration, caffeine, water, meditation, music, on the following: focus, restlessness productivity, happiness
-    - ~~create motivational alarm to wake up to~~
-    - calculate multitasking efficiency/ability
-    - measure concentration level over time
-    - as the amount of information memorized increased in one sitting (or over a single day), how does the time required to memorize something increase
 
 ___
 
 - **Personal Assistants**
   - Fermi
-    - basic drives, morals, and emotions
-    - learning "pet" algorithm/program
+    - add features associated with pets
     - convert words to notes/freqs
-    - how do you impart love?
     - search "communication space" to make program that seems to show intention/human-ness/sentience
-    - convert between mood and line shape
   - start Ada (successor to Fermi)
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create assistant with email as interface
     - be able to send queries for various programs
     - put program on raspberry pi to be always-on
     - host various experiments
+  - create personal pet program
+    - how do you impart love?
+    - add basic drives, morals, and emotions
+    - necessary properties:
 
 ___
 
@@ -283,6 +274,7 @@ ___
   - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> evolve agents by seeing how much they display a given (set of?) emergent property(s)
   - ~~government substructure optimization~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization), also [wordpress](https://tannerbohn.wordpress.com/2015/05/30/abstract-government-substructure-optimization/)~~
   - ~~wealthy inequality simulation~~
@@ -298,3 +290,35 @@ ___
     - ~~agents move towards they are "attracted" to and away from others?~~
     - ~~agents randomly change who they are attracted to~~
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> todo: add "genders", so that each agent is attracted to some subset of other types
+    - go through all papers read and mark important ones to ideate
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> "One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one's greatest efforts." (Albert Einstein)
+    - things to teach myself
+    - Create decision tree to determine what mental state
+    - ~~idea synthesis program~~
+    - ~~create program that takes info and randomly changes some numbers & inverts modifiers/sentiments and then asks you if it's true~~
+    - condition self to react to placebo
+    - ~~find optimal sleep duration~~
+    - ~~what is the optimal rate of caffeine consumption?~~
+    - test effects of sleep duration, caffeine, water, meditation, music, on the following: focus, restlessness productivity, happiness
+    - ~~create motivational alarm to wake up to~~
+    - calculate multitasking efficiency/ability
+    - measure concentration level over time
+    - as the amount of information memorized increased in one sitting (or over a single day), how does the time required to memorize something increase
+  - ~~plot academic studies in subject space -- use word2vec~~
+  - "closing the gap"
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> buy eeg and train for typing
+  - ~~automated mnemonic finder~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/089d8944-fba3-4af3-b1d0-4096c99d8bbd?title=automated%20mnemonic%20finder)~~
+    - todo: create testing program
+  - ~~find equation which estimates how smooth a number feels to me~~
+    - ~~does it have to do with number/size of divisors?~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/d42b851f-5831-4dc0-b1f8-9eb0fc404ae7?title=Number%20Smoothness)~~
+  - ~~test number sense accuracy~~
+    - ~~Guess positions of numbers on line, Plot all guesses to see if linear increase~~
+    - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/816b8f56-f5cd-45fd-83b4-e3fe13a30f0c?title=Number%20Sense%20Accuracy)~~
+  - gift-giving is kinda like energy being converted to higher entropy forms
+    - except instead of energy, it's money (gifts often have a smaller worth to the receiver than the giver)
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> Big Questions
+    - is time travel possible?
+    - what would a superintelligent being want?
+    - how did creatures evolve such complex traits over relatively few generations?
