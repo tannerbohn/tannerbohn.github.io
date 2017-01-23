@@ -14,7 +14,7 @@ ___
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
     - choose minimal set of sentences form article needed to answer questions about text
     - calculate doc sentence importance scores
-    - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
     - create word web generator
     - analyse large list of wiki pages for certain characteristics
@@ -55,7 +55,7 @@ ___
   - self-optimizing program/AI
   - learning to learn to learn ... to learn
     - create system which simultaneously optimizes itself on every possible level
-    - this is essentially how human intelligence came about and acts
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> this is essentially how human intelligence came about and acts
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
     - use multiscale entropy (in both time and space?)
@@ -66,7 +66,7 @@ ___
     - how to represent structure and dynamics?
     - undergoes period of differentiation?
     - use optimization to determine structure of cell?
-  - classify windows of stock market by MSE curves
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
@@ -104,21 +104,21 @@ ___
     - what is the difference in maximum "capacity" of brains that can and cannot alter structure/synapse strength?
     - how to avoid catastrophic learning?
     - what function would "brain waves" have in an ANN?
-    - running memories in reverse during sleep is like creating explanative model instead of predictive one
-    - branching structure and geometry of neurons hints at the algorithms they run
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> running memories in reverse during sleep is like creating explanative model instead of predictive one
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> branching structure and geometry of neurons hints at the algorithms they run
     - hypothesis: short term memory stores filters (pattern recognizers), which at night are transferred to neocortex
     - how do functional modules form in brain?
     - for deep brain stimulation (external) experiment, what if you could visualize accuracy by aiming it into a liquid crystal or ferric suspension?
-  - Decision tree based off of answers to "why" questions
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> Decision tree based off of answers to "why" questions
     - What is the root of a tree for some person?
   - come up with method for evaluating speed of learning/memorizing methods
   - test non-conscious memory
-    - given an item, m, to remember, flash an item, m', and then a red or green dot and then user has to press button as soon as change occurs
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> given an item, m, to remember, flash an item, m', and then a red or green dot and then user has to press button as soon as change occurs
   - where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
-  - design experiment to test long-term memory recall speed when moving and not moving eyes
-  - estimate the rate of time passage during various mental activities
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
   - ~~find where the psychological experience of day transition comes from~~
@@ -163,7 +163,7 @@ ___
     - ~~more rigorous definition~~
   - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
-  - sequences are metaphors are mappings
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> sequences are metaphors are mappings
   - ~~leaning line problem~~
     - ~~see [wordpress](https://tannerbohn.wordpress.com/2015/04/03/leaning-line-problem/) or [evernote](https://www.evernote.com/shard/s267/nl/34201306/0aa75294-4d1b-4c03-99ce-21f5d4339a5f?title=Leaning%20line%20problem)~~
   - ~~observe distribution of eigenvalues of various types of matrices~~
@@ -192,7 +192,7 @@ ___
   - Images
     - convert image to algorithm, recursively apply
     - convert simulation to image
-    - use symmetry & asymmetry rules to generate image
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> use symmetry & asymmetry rules to generate image
     - possible to create metric for image aesthetics?
     - algorithm image isomorphism/conversions
     - ~~for generating images, limit number of shapes available to use~~
@@ -231,13 +231,13 @@ ___
     - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
     - ~~create algorithm which asks used to compare many elements to eachother, and then uses iterative algorithm to find ordering for elements which satisies the criterion~~
-  - at the highest level of an optimized system, behaviour should appear random
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> at the highest level of an optimized system, behaviour should appear random
   - simulation to test optimal exploration policies
     - extension of Levy flights? (non-straight paths?)
     - optimal policy likely depends on the type of space being searched (no free lunch)
   - Text/Writing/Langauge
     - ~~design new keyboard method/type~~
-    - write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
     - design optimal character sets
     - generate langauge with as much structure as possible?
   - ~~make MSE curve generation program with exponential scaling~~
@@ -266,8 +266,8 @@ ___
   - ~~what happens when you can fix cells in GOL?~~
     - ~~use fixable cells as input to system?~~
   - generate automata which generates images with specific multiscale entropy curves
-    - can just try tweaking initial condition in fixed-GOL simulation to achieve curve
-  - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> can just try tweaking initial condition in fixed-GOL simulation to achieve curve
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
@@ -291,4 +291,4 @@ ___
   - ~~simulate relationships between agents~~
     - ~~agents move towards they are "attracted" to and away from others?~~
     - ~~agents randomly change who they are attracted to~~
-    - todo: add "genders", so that each agent is attracted to some subset of other types
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> todo: add "genders", so that each agent is attracted to some subset of other types
