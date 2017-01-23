@@ -12,22 +12,22 @@ ___
     - how to learn sub-policies -- infinitely nestable?
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    - choose minimal set of sentences form article needed to answer questions about text
-    - calculate doc sentence importance scores
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> calculate doc sentence importance scores
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
     - create word web generator
-    - analyse large list of wiki pages for certain characteristics
-    - use autoencoder for text summarization
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> analyse large list of wiki pages for certain characteristics
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> use autoencoder for text summarization
     - ~~automated knowledge finder~~
     - ~~create sentence parsing algorithm~~
     - ~~create text compression so that any subset of lyrics is approximation of whole~~
   - Art/Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    - what space do artistic styles reside in?
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> what space do artistic styles reside in?
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
-    - multiscale image generator
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> multiscale image generator
   - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
     - use to study contagion dynamics - recognize distinct behaviours
     - train autoencoder on prev data, and whenever reconstruction error is high, there is a potential outlier
@@ -40,12 +40,12 @@ ___
     - alternative to GANs? (VAEs? -> use idea of learning distribution)
   - ~~train a clustering algorithm with autoencoder~~
   - use idea of ant chemical trains for NN memory augmentation
-  - train decorrelated NNs
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> train decorrelated NNs
     - consecutively train sub-nets to both maximize variance between sub-net predictions and performance of each sub-net
-  - design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
     - put coloured mark on agents have they have to ask other agents what colour their own dot is (or use mirror?)
   - learn entity motivations/needs as predictive/explanative model
-  - implement NN that works and learns in real time
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> implement NN that works and learns in real time
     - fully recursive?
     - might need low cycles/sec when initially learning
     - need gating mechanisms?
@@ -54,7 +54,7 @@ ___
   - evolve strategy for neurons modifying their connections
   - self-optimizing program/AI
   - learning to learn to learn ... to learn
-    - create system which simultaneously optimizes itself on every possible level
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create system which simultaneously optimizes itself on every possible level
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> this is essentially how human intelligence came about and acts
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
@@ -62,11 +62,11 @@ ___
   - use "multisensory" autoencoder to find shared encoding for many streams
     - allows for interpretation of one stream as any other
     - this has already been done with universal langueage translator?
-  - design a "cell" that when combined with others can adapt and learn
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design a "cell" that when combined with others can adapt and learn
     - how to represent structure and dynamics?
     - undergoes period of differentiation?
     - use optimization to determine structure of cell?
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> classify windows of stock market by MSE curves
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
@@ -75,7 +75,7 @@ ___
 ___
 
 - **Idea Management**
-  - MindMap
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> MindMap
     - ~~create notes, connect them, edit, delete, be able to zoom in and out, pan~~
     - write program to automatically convert links or ideas file to mindmap?
     - be able to create groups and subgroups
@@ -84,7 +84,7 @@ ___
     - have separate file for mindmap text and other text
     - suggest links between notes? common terms?
     - use #url to denote that a note is a url, and can be opened (how?)
-  - summarize all thoughts in 4 words or less (automate?)
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> summarize all thoughts in 4 words or less (automate?)
   - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
     - todo: allow linking between areas?
   - how to deal with different types of notes?
@@ -117,7 +117,7 @@ ___
   - where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
@@ -129,16 +129,16 @@ ___
 ___
 
 - **Personal Assistants**
-  - Fermi
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> Fermi
     - add features associated with pets
     - convert words to notes/freqs
     - search "communication space" to make program that seems to show intention/human-ness/sentience
   - start Ada (successor to Fermi)
-  - create assistant with email as interface
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create assistant with email as interface
     - be able to send queries for various programs
     - put program on raspberry pi to be always-on
     - host various experiments
-  - create personal pet program
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create personal pet program
     - how do you impart love?
     - add basic drives, morals, and emotions
     - necessary properties:
@@ -148,10 +148,10 @@ ___
 - **Math**
   - ~~Image multiplier (Encryption?) Prime images?~~
     - ~~would not work well for encryption -- there are fast algorithms for inverse matrix operations~~
-  - Interpolation/extrapolation with ASMD
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> Interpolation/extrapolation with ASMD
     - what functions do the ASMD produce?
     - modify algorithm to allows for small amount of noise in data
-  - closed form finding
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> closed form finding
     - ~~recursive closed form finder for arbitrary numbers~~
     - closed forms of general continued fractions
   - geometrically motivated number system (baseless?)
@@ -183,7 +183,7 @@ ___
   - What does it mean for a pattern/identity to exist?
   - calculate parameters of hedonic adaptation
     - maximize happiness by balancing positive and negative experiences of certain magnitudes
-  - origins of consciousness, sentience, existence of goals:
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> origins of consciousness, sentience, existence of goals:
     - see [evernote: Project Lithium](https://www.evernote.com/shard/s267/nl/34201306/005833c4-3e05-4159-b064-57a121b2e800?title=PrLi%3A%20About%20%26%20Outline)
 
 ___
@@ -192,7 +192,7 @@ ___
   - Images
     - convert image to algorithm, recursively apply
     - convert simulation to image
-    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> use symmetry & asymmetry rules to generate image
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> use symmetry & asymmetry rules to generate image
     - possible to create metric for image aesthetics?
     - algorithm image isomorphism/conversions
     - ~~for generating images, limit number of shapes available to use~~
@@ -205,14 +205,14 @@ ___
     - have grid of all genres and generate heat map based on how often I listen to each one
     - ~~music classification program that uses my system~~
     - why do birds sing?
-    - music generation with multiscale entropy
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> music generation with multiscale entropy
     - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
     - playlist generation
-  - new letter->wave/shape conversion
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> new letter->wave/shape conversion
     - still aesthetic, but easier to understand
-  - create map of sense conversions
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create map of sense conversions
     - list all forms of synaesthesia and use transitivity to convert from one sense to another not directly connected
-  - why do humans enjoy non-utilitous things?
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> why do humans enjoy non-utilitous things?
     - ex. art (depictive and abstract)
     - because it displays concepts and patterns which we have learned to find good?
     - why do we enjoy wordplay?
@@ -226,7 +226,7 @@ ___
     - ~~If you want to cross the road to get from A to B, what is the optimal path to take?~~
     - ~~To minimize total time, go alone diagonal from A to B.~~
     - ~~solution: see snell's law~~
-  - design *optimal* comparative sorting algorithm
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> design *optimal* comparative sorting algorithm
     - best method for overall accuracy (of three tested) is to split all choices into groups of 4, then choose best from each group, then put each of the winners in a new group.
     - repeatedly show user subset of data and have them approximately rank them, then use PageRank-like algorithm
     - Is the purpose to actually sort or for a group of people/person to choose a single best item?
@@ -237,7 +237,7 @@ ___
     - optimal policy likely depends on the type of space being searched (no free lunch)
   - Text/Writing/Langauge
     - ~~design new keyboard method/type~~
-    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
     - design optimal character sets
     - generate langauge with as much structure as possible?
   - ~~make MSE curve generation program with exponential scaling~~
@@ -254,7 +254,7 @@ ___
 ___
 
 - **Simulations**
-  - design simulation to study communication
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
@@ -276,7 +276,7 @@ ___
   - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
-  - evolve agents by seeing how much they display a given (set of?) emergent property(s)
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> evolve agents by seeing how much they display a given (set of?) emergent property(s)
   - ~~government substructure optimization~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization), also [wordpress](https://tannerbohn.wordpress.com/2015/05/30/abstract-government-substructure-optimization/)~~
   - ~~wealthy inequality simulation~~
