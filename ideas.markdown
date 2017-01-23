@@ -92,7 +92,7 @@ ___
     - undergoes period of differentiation?
     - use optimization to determin structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> classify windows of stock market by MSE curves
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
@@ -353,7 +353,7 @@ ___
     - already done? -- http://personality-project.org/r/simulating-personality.html
   - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
-  - ~~ <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> what happens when you can fix cells in GOL?~~
+  - ~~what happens when you can fix cells in GOL?~~
     - ~~use fixable cells as input to system?~~
   - generate automata which generates images with specific multiscale entropy curves
   - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
