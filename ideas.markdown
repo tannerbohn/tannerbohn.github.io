@@ -80,19 +80,19 @@ ___
     - use "small world" type of connection dist'n
       - what does weight matrix look like?
       - is this what human connectome looks like?
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> learning to learn to learn ... to learn
+  - learning to learn to learn ... to learn
     - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> evolve recursive neural grid to maximise entropy of states over time
+  - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
     - use multiscale entropy (in both time and space?)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> use "multisensory" autoencoder to find shared encoding for many streams
+  - use "multisensory" autoencoder to find shared encoding for many streams
     - allows for interpretation of one stream as any other
     - this has already been done with universal langueage translator?
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> design a "cell" that when combined with others can adapt and learn
+  - design a "cell" that when combined with others can adapt and learn
     - undergoes period of differentiation?
     - use optimization to determin structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> classify windows of stock market by MSE curves
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
@@ -103,16 +103,16 @@ ___
 - **Idea Management**
   - MindMap
     - ~~create notes, connect them, edit, delete, be able to zoom in and out, pan~~
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> write program to automatically convert links or ideas file to mindmap?
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/C2.png" width="15"> be able to create groups and subgroups
+    - write program to automatically convert links or ideas file to mindmap?
+    - be able to create groups and subgroups
       - expand a node into multiple nodes?
     - ~~when saving, make sure every edge is captured~~
     - move around in 3 dimensions? (perfect application for VR)
     - have separate file for mindmap text and other text
       - special tiles linked to external files?
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/B2.png" width="15"> suggest links between notes? common terms?
+    - suggest links between notes? common terms?
     - use #url to denote that a note is a url, and can be opened (how?)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png" width="15"> summarize all thoughts in 4 words or less (automate?)
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> summarize all thoughts in 4 words or less (automate?)
   - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
     - ~~allow linking between areas?~~
   - how to deal with different types of notes?
@@ -343,7 +343,7 @@ ___
 ___
 
 - **Simulations**
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/A2.png" width="15"> design simulation to study communication
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
@@ -353,8 +353,8 @@ ___
     - already done? -- http://personality-project.org/r/simulating-personality.html
   - ~~fully cts version of Game of Life~~
     - ~~use to generate music~~
-  - what happens when you can fix cells in GOL?
-    - use fixable cells as input to system?
+  - ~~ <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" width="15"> what happens when you can fix cells in GOL?~~
+    - ~~use fixable cells as input to system?~~
   - generate automata which generates images with specific multiscale entropy curves
   - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends

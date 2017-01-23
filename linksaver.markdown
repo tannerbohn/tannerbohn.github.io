@@ -4,6 +4,51 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Sunday, 22. January 2017 07:37PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170112141210.htm](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)
+
+- Researchers have pinpointed a brain region monkeys use to evaluate their ability to recall memories. To date, this metamemory process, which requires a higher level of self-reflection about our own cognition, was thought by some to be unique to humans
+
+- Kentaro Miyamoto and colleagues devised a metamemory test in which macaques judged their own confidence in remembering past experiences; the animals opted for higher bets on the outcome of a memory recall test when they were surer their memory judgments were correct
+
+- Using this setup, as well as whole-brain searches by functional neuroimaging, the researchers identified a specific region in the prefrontal brain essential for metamemory decision making. Its inactivation caused selective impairment of metamemor
+
+
+___
+
+Sunday, 22. January 2017 07:20PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170117083830.htm](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
+
+- Students who are given information and tell someone about it immediately recall the details better and longer
+
+- students were shown 24-second clips from 40 films over a period of about half an hour. The study focused on their retention of both the general plot of the films as well as such details as sounds, colors, gestures, background details and other peripheral information that allow a person to re-experience an event in rich and vivid detail
+
+- Researchers also found that giving students a brief visual cue from the movie later -- even a simple glimpse of the title and a little sliver of a screenshot taken from the film -- seemed to jog the memory
+
+- After viewing the film clips, researchers asked what they remembered about the films after delays ranging from several minutes after the showings up to seven days later.
+
+- Researchers found that: (1) all participants recalled less about both the details and the substance of the films over a longer gap of time. But they forgot the perceptual or 'peripheral' details from the films more quickly than the films' central themes. (2) the second group of students, who were given cues before being asked to recall the films, did better at retrieving the faded memory of the peripheral details. However, their retention of central information was not much different from the first group (3) the third group -- who retrieved the memory of the films by telling someone about them soon after viewing -- remembered both central and peripheral information better over time.
+
+
+___
+
+Sunday, 22. January 2017 07:15PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170117140005.htm](https://www.sciencedaily.com/releases/2017/01/170117140005.htm)
+
+- Fast talkers tend to convey less information with each word and syntactic structure than slower-paced speakers, meaning that no matter our pace, we all say just about as much in a given time, a new study finds.
+
+- In information theory, rarer word choices convey greater "lexical information," while more complicated syntax, such as the passive voice, conveys greater "structural information." To stay within the channel, those who talk quickly speak with more common words and simpler syntax, while those with a slower pace tend to use rarer, more unexpected words and more complicated wordings
+
+- analyzed two independent troves of conversational data: the Switchboard Corpus, which contains 2,400 annotated telephone conversations, and the Buckeye Corpus, which consists of 40 lengthy interviews. In total, the data included the speech of 398 people.
+
+- On average, while both men and women exhibited the main trend, men conveyed more information than women at the same speech rate. There is no reason to believe that the ability to convey information at a given rate differs by gender, Cohen Priva said. Instead, he hypothesizes, women may tend to be more concerned with making sure their listeners understand what they are saying. 
+
+
+___
+
 Saturday, 21. January 2017 04:51AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/01/170109162336.htm](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
