@@ -13,11 +13,12 @@ ___
       - similar to options idea
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    - choose minimal set of sentences form article needed to answer questions about text
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
       - to create questions, remove word from sentence, and get network to guess it (imputation)
     - calculate doc sentence importance scores
       - extract keywords and for each sentence, calculate prob that it is a def'n of a keyword
-    - how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
+      - for converse, can you generate random words with a specific emotion?
     - convert between text and music
       - usewavenet and train/initialize with musical voices
     - create word web generator
@@ -37,14 +38,15 @@ ___
       - ~~statements -> require parsing -> locate keyword(s)? -> give probaility list?~~
       - ~~extract who/what/where/when/why/how, extract main focus (name, person, thing, event, etc.)~~
       - ~~see work on Fermi~~
+      -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> todo: find other uses for parsing algorithm (finding facts in text?)
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    - what space do artistic styles reside in?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> what space do artistic styles reside in?
       - correlations between conv. filter activations? (at multiple scales -- and between scales)
       - train NN to learn to create new painting styles
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
       - ~~has already been done - neural network mapping sentence/words to image~~
-    - multiscale image generator
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> multiscale image generator
       - similar to RL idea, learn multi-scale policies for drawing image
       - convert img to alg (cellular automata) and apply at multiple scales (by increasing resolution?)
     - ~~create text compression so that any subset of lyrics is approximation of whole~~
@@ -55,7 +57,8 @@ ___
       - use to study contagion dynamics - recognize distinct behaviours
       - train autoencoder on prev data, and whenever reconstruction error is high, there is a potential outlier
   - Math
-    - learn optimal function interpolator
+    - learn optimal function interpolator/extrapolator
+      - hard to do since this may be application-specific
     - predict continued fraction limits (possible?)
       - find closed forms
   - Generative Adversarial Networks
@@ -65,9 +68,9 @@ ___
       - what do GANs and VAEs have in common? both generate distributions? another way?
   - ~~train a clustering algorithm with autoencoder~~
   - use idea of ant chemical trains for NN memory augmentation
-  - train decorrelated NNs
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> train decorrelated NNs
     - consecutively train sub-nets to both maximize variance between sub-net predictions and performance of each sub-net
-  - design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
     - put coloured mark on agents have they have to ask other agents what colour their own dot is (or use mirror?)
   - learn entity motivations/needs as predictive/explanative model
   - implement NN that works and learns in real time
@@ -81,6 +84,7 @@ ___
       - what does weight matrix look like?
       - is this what human connectome looks like?
   - learning to learn to learn ... to learn
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> create system which simultaneously optimizes itself on every possible level
     - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
@@ -88,9 +92,11 @@ ___
   - use "multisensory" autoencoder to find shared encoding for many streams
     - allows for interpretation of one stream as any other
     - this has already been done with universal langueage translator?
-  - design a "cell" that when combined with others can adapt and learn
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design a "cell" that when combined with others can adapt and learn
+    - how to represent structure and dynamics?
+      - directed graph with operations at nodes -> evolve graph structure
     - undergoes period of differentiation?
-    - use optimization to determin structure of cell?
+    - use optimization to determine structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
