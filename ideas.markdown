@@ -39,6 +39,10 @@ ___
       - ~~extract who/what/where/when/why/how, extract main focus (name, person, thing, event, etc.)~~
       - ~~see work on Fermi~~
       -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> todo: find other uses for parsing algorithm (finding facts in text?)
+    - ~~create text compression so that any subset of lyrics is approximation of whole~~
+      - ~~already done by others (ex. Shazam, Soundhound)~~
+      - ~~it would be easy to train a RNN to perform this task~~
+  - Art/Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> what space do artistic styles reside in?
       - correlations between conv. filter activations? (at multiple scales -- and between scales)
@@ -49,9 +53,6 @@ ___
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> multiscale image generator
       - similar to RL idea, learn multi-scale policies for drawing image
       - convert img to alg (cellular automata) and apply at multiple scales (by increasing resolution?)
-    - ~~create text compression so that any subset of lyrics is approximation of whole~~
-      - ~~already done by others (ex. Shazam, Soundhound)~~
-      - ~~it would be easy to train a RNN to perform this task~~
   - pattern recognition
     - feed instances of pattern(s) through autoencoder, then use clustering algorithm to detect unique families of patterns
       - use to study contagion dynamics - recognize distinct behaviours
@@ -120,12 +121,12 @@ ___
     - use #url to denote that a note is a url, and can be opened (how?)
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> summarize all thoughts in 4 words or less (automate?)
   - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
-    - ~~allow linking between areas?~~
+    - todo: allow linking between areas?
   - how to deal with different types of notes?
     - ex. project ideas, half-ideas, questions, misc. notes?
     - add tags, change colour
-  - in linksaver, should specific hashtags have their own icons? (or the hashtag text replaced with something?)
-    - is there a better way to have one note with multiple parents?
+  - ~~in linksaver, should specific hashtags have their own icons? (or the hashtag text replaced with something?)~~
+    - todo: is there a better way to have one note with multiple parents?
 
 ___
 
