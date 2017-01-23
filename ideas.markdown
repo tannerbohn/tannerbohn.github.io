@@ -71,6 +71,14 @@ ___
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
     - ~~what are the benefits of recursive over feed forward?~~
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create fixed-GOL learning algorihtm
+    - hyperparams: dimensions, number of inputs
+    - learning is done by modifying which cells are fixed on or off
+    - allows for recurrent calculations
+    - can use one wall as output and one as input
+    - for extracting single output, can use one frame, or average over many frames and try get "probability"
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> it would be fun to use this as an (x, y) to rgb mapping
+    - should apply meta-learning to find set of CA rules which allow for better models
 
 ___
 
@@ -95,6 +103,13 @@ ___
     - add tags, change colour
   - ~~in linksaver, should specific hashtags have their own icons? (or the hashtag text replaced with something?)~~
     - todo: is there a better way to have one note with multiple parents?
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> be able to take notes anywhere/any time
+    - see [evernote](https://www.evernote.com/shard/s267/nl/34201306/00533b02-8c8e-446a-8f2f-dbb2365e8d34?title=Anytime%20Notes)
+    - use ring or wristband that can track movement, and later upload info. for conversion to text
+    - find way to easily/quickly encode information on string or tape
+  - simulate creatures which store notes as property
+    - move towards others created around same time
+    - move towards other with similar content
 
 ___
 
@@ -143,8 +158,11 @@ ___
     - host various experiments
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create personal pet program
     - how do you impart love?
-    - add basic drives, morals, and emotions
+    - add basic drives, morals, and emotions (subset of usual needs hierarchy)
     - necessary properties:
+    - serve any useful task? what do pets usually do?
+    - what kind of environment would it reside in?
+    - agent/pet could be made of simpler parts which interact to show pet-like emergent behaviour
 
 ___
 
@@ -202,6 +220,8 @@ ___
     - represent image as histogram in pattern-space (similar to filter activations?)
     - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
     - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
+    - create algorithm which takes two images, and creates a third image as a result of folding the two together
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create population of grid-world agents which move around and change colours of cells according to evolved rules
   - Music
     - given colour palette -> construct piece of music
     - what does it mean to "add", "subtract", or "multiply" short pieces of music
@@ -259,6 +279,7 @@ ___
 - **Simulations**
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
+    - multiple types of communication -> local and global
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
   - socio-emotional model
@@ -295,3 +316,8 @@ ___
     - ~~agents move towards they are "attracted" to and away from others?~~
     - ~~agents randomly change who they are attracted to~~
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> todo: add "genders", so that each agent is attracted to some subset of other types
+  - create simulation where agents can learn from eachother
+    - agents move around and when they bump into eachother, the one with lower score acquires some "skills" of the better one
+    - new behaviour can result due to small amount of randomness added to fixed programs
+    - what determines whether a single skill/program is used or transmitted?
+    - let programs call other programs?
