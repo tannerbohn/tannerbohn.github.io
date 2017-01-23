@@ -17,12 +17,15 @@ ___
       - to create questions, remove word from sentence, and get network to guess it (imputation)
     - calculate doc sentence importance scores
       - extract keywords and for each sentence, calculate prob that it is a def'n of a keyword
+        - for large texts, can probably use simple method and represent sentences with histogram
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
       - for converse, can you generate random words with a specific emotion?
     - convert between text and music
       - usewavenet and train/initialize with musical voices
     - create word web generator
       - ~~for each digram, calculate frequency and create directed graph with all links above a certain min importance~~
+        - ~~importance is related to the frequency of co-occurrence as well as the importance of each word~~
+        - ~~add to knowledgetools~~
       - improve connection strength algorithm
       - add support for n-grams
     - analyse large list of wiki pages for certain characteristics
@@ -33,6 +36,7 @@ ___
     - ~~automated knowledge finder~~
       - ~~using a database (ex. document), be able to submit queries and get related sentences from document~~
       - ~~for each word in query, find sentences with that word (or synonym) -> sort sentences by most matches~~
+        - ~~how to determine (without query) what the most important sentences are?~~
       - ~~see [MemTools](https://tannerbohn.wordpress.com/2015/09/02/information-absorption-and-remembering/), [KnowledgeTools](https://tannerbohn.wordpress.com/2015/05/20/knowledgetool/)~~
     - ~~create sentence parsing algorithm~~
       - ~~statements -> require parsing -> locate keyword(s)? -> give probaility list?~~
@@ -42,6 +46,8 @@ ___
     - ~~create text compression so that any subset of lyrics is approximation of whole~~
       - ~~already done by others (ex. Shazam, Soundhound)~~
       - ~~it would be easy to train a RNN to perform this task~~
+        - ~~take many songs, construct training data by taking random substrings from them, and training to correctly predict what song it is from~~
+          - ~~may need to use techniques for dealing with large numbers of classes~~
   - Art/Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> what space do artistic styles reside in?
@@ -80,7 +86,15 @@ ___
     - need gating mechanisms?
     - learning how to learn -- given response from env., learn how to use it to improve future performance
       - what reward function do humans start with?
+        - hunger, safety -> later in life we learn proxies for these (i.e. do well at job -> money -> food)
+        - mind-body connection provides reward interface
+          - how do humans know to interpret signals from body as positive or negative? (if a person didn't know hunger -> death, would they eat?)
+            - humans likely carried over ability to interpret signals from evolutionary ancestors (i.e. specified in DNA)
+        - another primative reward: variation is better than nothing (leads to creativity and curiosity?)
       - evolutionary opt is *perfect* for creating creatures that "learn to learn"
+        - continued existence is the ultimate reward function (agents/creatures/DNA required to avoid death/extermination)
+        - give neurons ability to differentiate themselves
+          - differentiation depends on signals from nearby neurons?
     - use "small world" type of connection dist'n
       - what does weight matrix look like?
       - is this what human connectome looks like?
@@ -96,6 +110,7 @@ ___
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design a "cell" that when combined with others can adapt and learn
     - how to represent structure and dynamics?
       - directed graph with operations at nodes -> evolve graph structure
+        - differentiation can open and close pathways permanently
     - undergoes period of differentiation?
     - use optimization to determine structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
@@ -183,6 +198,12 @@ ___
     - convert words to notes/freqs
     - how do you impart love?
       - how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
+        - anthropomorphization
+        - eye contact -> oxytocin
+        - dogs, shared intentionality (pointing)
+        - study attachment theory
+        - make mistakes
+        - reliance on human/user
     - search "communication space" to make program that seems to show intention/human-ness/sentience
     - convert between mood and line shape
   - start Ada (successor to Fermi)
@@ -291,6 +312,7 @@ ___
     - ~~train model to predict rating given entropy curves~~
       - ~~can then generate songs which which try to maximize this~~
       - ~~to start model training, perform blinded test to see which MSE curves are the most aesthetic~~
+        - ~~generate ~5 random songs for each curve and take average rating~~
     - ~~perform note-level fine-tuning after global optimization~~
     - ~~use self-optimizing optimizer~~
       - ~~keep track of which changes/actions work well and treat them like bandit arms~~
