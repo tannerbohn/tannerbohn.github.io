@@ -13,7 +13,7 @@ ___
       - similar to options idea
   - Text/Language
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
       - to create questions, remove word from sentence, and get network to guess it (imputation)
     - calculate doc sentence importance scores
       - extract keywords and for each sentence, calculate prob that it is a def'n of a keyword
@@ -44,13 +44,13 @@ ___
       - ~~it would be easy to train a RNN to perform this task~~
   - Art/Images
     - train CNN to find shortest path in some environment/maze -- need to be recurrent?
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> what space do artistic styles reside in?
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> what space do artistic styles reside in?
       - correlations between conv. filter activations? (at multiple scales -- and between scales)
       - train NN to learn to create new painting styles
     - ~~train autoencoder on lots of random chunks from image, and create demo where you can "black out" pieces and have it inpaint~~
     - ~~generate image based on topic (colour, texture, etc.)~~
       - ~~has already been done - neural network mapping sentence/words to image~~
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> multiscale image generator
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> multiscale image generator
       - similar to RL idea, learn multi-scale policies for drawing image
       - convert img to alg (cellular automata) and apply at multiple scales (by increasing resolution?)
   - pattern recognition
@@ -69,9 +69,9 @@ ___
       - what do GANs and VAEs have in common? both generate distributions? another way?
   - ~~train a clustering algorithm with autoencoder~~
   - use idea of ant chemical trains for NN memory augmentation
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> train decorrelated NNs
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> train decorrelated NNs
     - consecutively train sub-nets to both maximize variance between sub-net predictions and performance of each sub-net
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> design game where solution requires agents to posess characteristics of self-awareness and ability to communicate
     - put coloured mark on agents have they have to ask other agents what colour their own dot is (or use mirror?)
   - learn entity motivations/needs as predictive/explanative model
   - implement NN that works and learns in real time
@@ -85,7 +85,7 @@ ___
       - what does weight matrix look like?
       - is this what human connectome looks like?
   - learning to learn to learn ... to learn
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> create system which simultaneously optimizes itself on every possible level
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> create system which simultaneously optimizes itself on every possible level
     - this is essentially how human intelligence came about and acts -> how can this process be implemented at the limit case?
   - evolve recursive neural grid to maximise entropy of states over time
     - this will have the effect of "prolonging life"
@@ -93,13 +93,13 @@ ___
   - use "multisensory" autoencoder to find shared encoding for many streams
     - allows for interpretation of one stream as any other
     - this has already been done with universal langueage translator?
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design a "cell" that when combined with others can adapt and learn
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> design a "cell" that when combined with others can adapt and learn
     - how to represent structure and dynamics?
       - directed graph with operations at nodes -> evolve graph structure
     - undergoes period of differentiation?
     - use optimization to determine structure of cell?
       - specifics of cell are fine-tunes during lifetime (learning)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> classify windows of stock market by MSE curves
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> classify windows of stock market by MSE curves
   - ~~instead of true recursive or or forward neural network, have a set jump-back length~~
     - ~~allows fixed length computation time but offers more complexity~~
     - ~~does this give any benefit?~~
@@ -119,7 +119,7 @@ ___
       - special tiles linked to external files?
     - suggest links between notes? common terms?
     - use #url to denote that a note is a url, and can be opened (how?)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> summarize all thoughts in 4 words or less (automate?)
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> summarize all thoughts in 4 words or less (automate?)
   - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
     - todo: allow linking between areas?
   - how to deal with different types of notes?
@@ -154,7 +154,7 @@ ___
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
       - physiological needs, safety -> without these, continued existence is not guaranteed
       - self-actualization -> maximize efficiency of goal-attainment
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
@@ -168,7 +168,11 @@ ___
       - ~~there is no specific time (for me)~~
   - what correlation is there between the rate at which someone can manually generate random numbers and their intelligence?
     - also include a measure of the sequene randomness in the correlation calculations
-    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> it would be fun to analyse the random sequences people produce and see how predictable different people are
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> it would be fun to analyse the random sequences people produce and see how predictable different people are
+    - measure concentration level over time
+      - have periodic beep and record whether I was concentrating at that exact time
+    - as the amount of information memorized increased in one sitting (or over a single day), how does the time required to memorize something increase
+      - for one small experiment, see [evernote](https://www.evernote.com/shard/s267/nl/34201306/0c40385a-52ad-42a7-af7d-ecacdff710ee?title=Consecutive%20Memorization%20Timing)
 
 ___
 
@@ -182,7 +186,7 @@ ___
     - search "communication space" to make program that seems to show intention/human-ness/sentience
     - convert between mood and line shape
   - start Ada (successor to Fermi)
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> create assistant with email as interface
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> create assistant with email as interface
     - be able to send queries for various programs
       - ~~fertilizer application rates~~
       - add notes to file
@@ -238,7 +242,7 @@ ___
   - convert simulation to image
     - represent state as a position in image as well as colour
     - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> use symmetry & asymmetry rules to generate image
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> use symmetry & asymmetry rules to generate image
   - algorithm image isomorphism/conversions
     - come up with extended set of cellular automata rules to use and combine to create images
     - image encodes a particle behaviour
@@ -332,7 +336,7 @@ ___
   - design new keyboard method/type
     - ~~write program to find optimal arrangement of keys~~
       - ~~simulate typing and try to minimize time (need to calculate travel distance)~~
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
     - need to figure out how to shorten words (can just remove unnecessary vowels)
     - balance between marking it hard to remember meaning of shortening and overall length of text
   -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> at the highest level of an optimized system, behaviour should appear random
@@ -369,7 +373,7 @@ ___
 ___
 
 - **Simulations**
-  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> design simulation to study communication
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good2.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
   - create artificial organisms which exhibit pink noise
   - design sim where subsytems act autonomously, but sync up every once in a while to achieve something
@@ -383,7 +387,7 @@ ___
     - ~~use fixable cells as input to system?~~
   - generate automata which generates images with specific multiscale entropy curves
     -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> can just try tweaking initial condition in fixed-GOL simulation to achieve curve
-  - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends
     - randomly like or dislike people
     - want to be dissimilar from people you don't like
