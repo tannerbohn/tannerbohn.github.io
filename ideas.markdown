@@ -84,9 +84,12 @@ ___
     - have separate file for mindmap text and other text
     - suggest links between notes? common terms?
     - use #url to denote that a note is a url, and can be opened (how?)
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> summarize all thoughts in 4 words or less (automate?)
-  - ~~have main ideas.txt and automatically convert to webpage like linksaver~~
-    - todo: allow linking between areas?
+  - ~~summarize all thoughts in 4 words or less (automate?)~~
+    - ~~tried this -- it is too hard to summarize complex ideas with lots of words missing~~
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> have main ideas.txt and automatically convert to webpage like linksaver
+    - allow linking between areas?
+    - in parsing program, convert text to tree so that operations require look-aheads can be performed
+    - create interface to efficiently edit ideas file
   - how to deal with different types of notes?
     - ex. project ideas, half-ideas, questions, misc. notes?
     - add tags, change colour
