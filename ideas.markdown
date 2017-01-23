@@ -154,7 +154,7 @@ ___
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
       - physiological needs, safety -> without these, continued existence is not guaranteed
       - self-actualization -> maximize efficiency of goal-attainment
-  - design experiment to test long-term memory recall speed when moving and not moving eyes
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
   - estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
@@ -168,25 +168,30 @@ ___
       - ~~there is no specific time (for me)~~
   - what correlation is there between the rate at which someone can manually generate random numbers and their intelligence?
     - also include a measure of the sequene randomness in the correlation calculations
-    - it would be fun to analyse the random sequences people produce and see how predictable different people are
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> it would be fun to analyse the random sequences people produce and see how predictable different people are
 
 ___
 
-- **Fermi**
-  - basic drives, morals, and emotions
-  - learning "pet" algorithm/program
-  - convert words to notes/freqs
-  - how do you impart love?
-    - how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
-      - anthropomorphization
-      - eye contact -> oxytocin
-      - dogs, shared intentionality (pointing)
-      - study attachment theory
-      - make mistakes
-      - reliance on human/user
-  - search "communication space" to make program that seems to show intention/human-ness/sentience
-  - convert between mood and line shape
+- **Personal Assistants**
+  - Fermi
+    - basic drives, morals, and emotions
+    - learning "pet" algorithm/program
+    - convert words to notes/freqs
+    - how do you impart love?
+      - how do you get a human to form an attachment to someone or something? or convince them that it has thoughts and feelings
+    - search "communication space" to make program that seems to show intention/human-ness/sentience
+    - convert between mood and line shape
   - start Ada (successor to Fermi)
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15"> create assistant with email as interface
+    - be able to send queries for various programs
+      - ~~fertilizer application rates~~
+      - add notes to file
+      - create reminders
+      - perform research and return summary with resources
+      - host demos of new programs
+    - put program on raspberry pi to be always-on
+    - host various experiments
+      - randomly send me queries
 
 ___
 
@@ -194,6 +199,7 @@ ___
   - Image multiplier (Encryption?) Prime images?
   - Interpolation/extrapolation with ASMD
     - what functions do the ASMD produce?
+    - modify algorithm to allows for small amount of noise in data
   - closed form finding
     - ~~recursive closed form finder for arbitrary numbers~~
       - ~~able to specify set of numbers to use, operations available, and recursion depth for expression complexity~~
@@ -203,9 +209,10 @@ ___
     - loosen bounds to approximately match sequences (apply to fuzzier data)
   - function modifier for numerical integration accuracy
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
-  - improve image multiscale entropy algorithm
-    - normalize to max/min possible
-    - more rigorous definition
+    - look for volume preserving operation that can be applied to continuous data
+  - ~~improve image multiscale entropy algorithm~~
+    - ~~normalize to max/min possible~~
+    - ~~more rigorous definition~~
   - ~~moving guess~~
     - ~~You find someone in a state at time t0. You observe them in the state for duration t. Given the person has been in there for (t + x), what is the most likely total time they have been in the state?~~
   - sequences are metaphors are mappings
@@ -231,7 +238,7 @@ ___
   - convert simulation to image
     - represent state as a position in image as well as colour
     - for each position in image, convert to state alpha, see what state alpha goes to (beta), and colour the position of alpha as beta's colour
-  - use symmetry & asymmetry rules to generate image
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> use symmetry & asymmetry rules to generate image
   - algorithm image isomorphism/conversions
     - come up with extended set of cellular automata rules to use and combine to create images
     - image encodes a particle behaviour
@@ -240,6 +247,7 @@ ___
   - ~~for generating images, limit number of shapes available to use~~
   - represent image as histogram in pattern-space (similar to filter activations?)
     - what would a path through the pattern-space look like?
+      - for each point, there are an inf. number of images, and as we know from adversarial examples, they could look like just about anything
 
 ___
 
@@ -247,6 +255,8 @@ ___
   - What does it mean for a pattern/identity to exist?
   - calculate parameters of hedonic adaptation
     - maximize happiness by balancing positive and negative experiences of certain magnitudes
+  - origins of consciousness, sentience, existence of goals:
+    - see [evernote: Project Lithium](https://www.evernote.com/shard/s267/nl/34201306/005833c4-3e05-4159-b064-57a121b2e800?title=PrLi%3A%20About%20%26%20Outline)
 
 ___
 
@@ -256,11 +266,16 @@ ___
   - create map of sense conversions
     - list all forms of synaesthesia and use transitivity to convert from one sense to another not directly connected
   - given colour palette -> construct piece of music
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> the inverse might be more interesting, and easier
+      - this has been done (an add-on for some music programs)
+      - can use random samples from my songs and their genres as training samples
+      - an interesting extension might be to add more dimensions to representation (ex. texture, form)
   - what does it mean to "add", "subtract", or "multiply" short pieces of music
     - create pieces of music based on smaller pieces -- able to create structure?
       - come up with lots of aesthetic short tunes and analyse to try find patterns
       - function to measure devotion to a single key?
   - have grid of all genres and generate heat map based on how often I listen to each one
+    - changes over time, so you could instead chart a path through genre-space over time
   - ~~music classification program that uses my system~~
     - ~~also caluclated average spectrograms of songs in each genre~~
   - why do birds sing?
@@ -284,8 +299,8 @@ ___
     - because it displays concepts and patterns which we have learned to find good?
     - why do we enjoy wordplay?
       - because we are able to undergo being confused/lacking understanding to understanding, a process we have learned to enjoy (survival)
-  - why do we enjoy certain artistic styles independent of their specific content?
-    - activation of lower level patterns which we enjoy?
+    - why do we enjoy certain artistic styles independent of their specific content?
+      - activation of lower level patterns which we enjoy?
   - playlist generation
     - ~~Playlist generation using genre&band similarity rating (2012.5)~~
     - generate a music playlist that acts a path through emotion-space
@@ -301,10 +316,12 @@ ___
 ___
 
 - **Optimization**
-  - road crossing problem
-    - If you want to cross the road to get from A to B, what is the optimal path to take?
-    - To minimize total time, go alone diagonal from A to B.
-      - What does the path look like for partial weighting?
+  - ~~road crossing problem~~
+    - ~~If you want to cross the road to get from A to B, what is the optimal path to take?~~
+    - ~~To minimize total time, go alone diagonal from A to B.~~
+      - ~~What does the path look like for partial weighting?~~
+    - ~~solution: see snell's law~~
+      - ~~speed of light through material is analogous to risk on sidewalk vs. road~~
   - design *optimal* comparative sorting algorithm
     - best method for overall accuracy (of three tested) is to split all choices into groups of 4, then choose best from each group, then put each of the winners in a new group.
       - easily generalizable -- but how do you sort all items (instead of just finding the single best)?
@@ -315,8 +332,10 @@ ___
   - design new keyboard method/type
     - ~~write program to find optimal arrangement of keys~~
       - ~~simulate typing and try to minimize time (need to calculate travel distance)~~
-  - write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
-  - at the highest level of an optimized system, behaviour should appear random
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good1.png" width="15">  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> write program to find optimal shortenings of words (for a given corpus) while maintaining uniqueness
+    - need to figure out how to shorten words (can just remove unnecessary vowels)
+    - balance between marking it hard to remember meaning of shortening and overall length of text
+  -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/insight1.png" height="15"> at the highest level of an optimized system, behaviour should appear random
   - simulation to test optimal exploration policies
     - extension of Levy flights? (non-straight paths?)
   - design optimal character sets
@@ -363,6 +382,7 @@ ___
   - ~~what happens when you can fix cells in GOL?~~
     - ~~use fixable cells as input to system?~~
   - generate automata which generates images with specific multiscale entropy curves
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> can just try tweaking initial condition in fixed-GOL simulation to achieve curve
   - "social interactions are represented by a theoretical game played by an individual and other individuals it is connected to"
   - agents are avg. of N closest friends
     - randomly like or dislike people
@@ -388,4 +408,4 @@ ___
     - ~~agents move towards they are "attracted" to and away from others?~~
       - ~~we seem to end up with large chains of people chasing eachother~~
     - ~~agents randomly change who they are attracted to~~
-    - todo: add "genders", so that each agent is attracted to some subset of other types
+    -  <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy1.png" height="15"> todo: add "genders", so that each agent is attracted to some subset of other types
