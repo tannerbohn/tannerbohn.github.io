@@ -4,6 +4,21 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 23. January 2017 07:42PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161003131352.htm](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
+
+- Rather than having strictly defined routes of communication between different areas, the level of coordination between different parts of the brain seems to ebb and flow. Now, by analyzing the brains of a large number of people at rest or carrying out complex tasks, researchers at have learned that the integration between those brain regions also fluctuates. When the brain is more integrated, people do better on complex tasks.
+
+- the researchers measured pupil size to try and tease out how the brain coordinates this change in connectivity. Pupil size is an indirect measure of the activity of a small region in the brainstem called the locus coeruleus that is thought to amplify or mute signals across the entire brain.
+
+- Up to a certain point, increases in pupil size likely indicate greater amplification of strong signals and greater muting of weak signals across the brain.
+
+- The researchers found that pupil size roughly tracked with changes in brain connectivity during rest, in that larger pupils were associated with greater connectedness. This suggests that the noradrenaline coming from the locus coeruleus might be what drives the brain to become more integrated during highly complicated cognitive tasks, allowing a person to perform well on that task.
+
+
+___
+
 Monday, 23. January 2017 02:34AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/01/170120193803.htm](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)

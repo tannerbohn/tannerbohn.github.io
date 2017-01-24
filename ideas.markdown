@@ -11,6 +11,7 @@ ___
   - Reinforcement Learning
     - how to learn sub-policies -- infinitely nestable?
   - Text/Language
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> nested markov models
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> calculate doc sentence importance scores
@@ -101,12 +102,13 @@ ___
   - how to deal with different types of notes?
     - ex. project ideas, half-ideas, questions, misc. notes?
     - add tags, change colour
-  - ~~in linksaver, should specific hashtags have their own icons? (or the hashtag text replaced with something?)~~
+  - ~~in ideas.txt, should specific hashtags have their own icons? (or the hashtag text replaced with something?)~~
     - todo: is there a better way to have one note with multiple parents?
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> be able to take notes anywhere/any time
     - see [evernote](https://www.evernote.com/shard/s267/nl/34201306/00533b02-8c8e-446a-8f2f-dbb2365e8d34?title=Anytime%20Notes)
     - use ring or wristband that can track movement, and later upload info. for conversion to text
     - find way to easily/quickly encode information on string or tape
+    - build object where you can just press a button (perhaps in a particular direction), and it records it (on physical substrate?)
   - simulate creatures which store notes as property
     - move towards others created around same time
     - move towards other with similar content
@@ -136,6 +138,7 @@ ___
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
+    - also test effects of other things which may increase latent cortical stimulation
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
@@ -218,7 +221,7 @@ ___
     - algorithm image isomorphism/conversions
     - ~~for generating images, limit number of shapes available to use~~
     - represent image as histogram in pattern-space (similar to filter activations?)
-    - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create program which calculate multiscale entropy of images, and generate images with specific MSE curves
     - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
     - create algorithm which takes two images, and creates a third image as a result of folding the two together
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create population of grid-world agents which move around and change colours of cells according to evolved rules
@@ -240,6 +243,7 @@ ___
     - because it displays concepts and patterns which we have learned to find good?
     - why do we enjoy wordplay?
     - why do we enjoy certain artistic styles independent of their specific content?
+    - why do we prefer human art over artificially generated art?
   - ~~create mapping from personal relationship type to colours~~
 
 ___
