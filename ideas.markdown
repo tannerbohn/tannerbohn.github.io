@@ -155,6 +155,9 @@ ___
     - convert words to notes/freqs
     - search "communication space" to make program that seems to show intention/human-ness/sentience
   - start Ada (successor to Fermi)
+    - possess sense of self (i.e. ability to learn and make desisions by simulating self doing them)
+    - use associative network to store information
+    - what is driving goal?
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create assistant with email as interface
     - be able to send queries for various programs
     - put program on raspberry pi to be always-on
@@ -222,6 +225,7 @@ ___
     - ~~for generating images, limit number of shapes available to use~~
     - represent image as histogram in pattern-space (similar to filter activations?)
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create program which calculate multiscale entropy of images, and generate images with specific MSE curves
+    - create program that can learn to develop aesthetic colour palette
     - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
     - create algorithm which takes two images, and creates a third image as a result of folding the two together
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create population of grid-world agents which move around and change colours of cells according to evolved rules
@@ -234,6 +238,7 @@ ___
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> music generation with multiscale entropy
     - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
     - playlist generation
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> given a set of canonical/aesthetic simple note patterns, recursively apply them to eachother to generate longer songs
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> new letter->wave/shape conversion
     - still aesthetic, but easier to understand
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create map of sense conversions
@@ -325,3 +330,6 @@ ___
     - new behaviour can result due to small amount of randomness added to fixed programs
     - what determines whether a single skill/program is used or transmitted?
     - let programs call other programs?
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create simulation where agents are on a grid, each position has a "temperature", and agents constantly move to the nearby spot with highest temperature
+    - when a cell is visited, the temperature is decreased, but slowly warms up again
+    - can have multiple agents in same grid
