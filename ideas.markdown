@@ -4,6 +4,8 @@ comments: false
 title:  "Ideas"
 permalink: /ideas/
 ---
+A truncated (depth and length) collection of project ideas.
+Projects that are already started, completed, easy, or promising are marked.
 
 ___
 

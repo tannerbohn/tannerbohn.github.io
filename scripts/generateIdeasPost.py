@@ -14,6 +14,7 @@ if __name__ == "__main__":
 	head = '---\n'+head +'\n---\n'
 
 	preamble = 'A truncated (depth and length) collection of project ideas.\n'
+	preamble += 'Projects that are already started, completed, easy, or promising are marked.\n'
 	'''
 		---
 		layout: page
@@ -23,7 +24,7 @@ if __name__ == "__main__":
 		---
 	'''
 
-	pageText = head+links
+	pageText = head+preamble+links
 
 	DIR = '/home/tanner/Dropbox/website/tannerbohn.github.io/'
 	fname = "ideas.markdown"
