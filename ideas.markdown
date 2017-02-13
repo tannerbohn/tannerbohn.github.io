@@ -162,13 +162,11 @@ ___
     - be able to send queries for various programs
     - put program on raspberry pi to be always-on
     - host various experiments
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> create personal pet program
-    - how do you impart love?
-    - add basic drives, morals, and emotions (subset of usual needs hierarchy)
-    - necessary properties:
-    - serve any useful task? what do pets usually do?
-    - what kind of environment would it reside in?
-    - agent/pet could be made of simpler parts which interact to show pet-like emergent behaviour
+    - use to upload PrKr data -- to what end?
+  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create personal pet program
+    - see [evernote](https://www.evernote.com/shard/s267/nl/34201306/bd28f548-ebd9-4ccb-9624-02797c1bc9b1?title=Pet%20Program)
+    - see [youtube](https://youtu.be/TqL2sHF6q7k) (has link to dropbox)
+    - in /sandbox/EmotiveCircle
 
 ___
 
@@ -238,7 +236,7 @@ ___
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> music generation with multiscale entropy
     - ~~write program to calculate various statistics of existing songs, and generate new ones with similar properties~~
     - playlist generation
-    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> given a set of canonical/aesthetic simple note patterns, recursively apply them to eachother to generate longer songs
+    - ~~given a set of canonical/aesthetic simple note patterns, recursively apply them to eachother to generate longer songs~~
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> new letter->wave/shape conversion
     - still aesthetic, but easier to understand
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create map of sense conversions
@@ -330,6 +328,7 @@ ___
     - new behaviour can result due to small amount of randomness added to fixed programs
     - what determines whether a single skill/program is used or transmitted?
     - let programs call other programs?
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create simulation where agents are on a grid, each position has a "temperature", and agents constantly move to the nearby spot with highest temperature
-    - when a cell is visited, the temperature is decreased, but slowly warms up again
-    - can have multiple agents in same grid
+  - ~~create simulation where agents are on a grid, each position has a "temperature", and agents constantly move to the nearby spot with highest temperature~~
+    - ~~when a cell is visited, the temperature is decreased, but slowly warms up again~~
+    - ~~can have multiple agents in same grid~~
+    - ~~instead of moving towards a certain temperature, move towards cells that has region of lowest temp std. dev~~

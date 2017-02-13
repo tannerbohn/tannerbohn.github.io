@@ -4,6 +4,39 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 06. February 2017 05:20PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170203135107.htm](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
+
+- Researchers reveal an optimal strategy for foragers -- animals searching for berries in the woods or prospectors seeking oil in the desert. The statistical model builds on previous foraging theories by accounting for trajectory and resources consumed
+
+- The optimal foraging strategy? Search the current foraging ground for a time that equals the time it would take to pull up stakes and move to a new territory.
+
+
+___
+
+Wednesday, 25. January 2017 04:49PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170124140842.htm](https://www.sciencedaily.com/releases/2017/01/170124140842.htm)
+
+- the release of the chemical 'acetylcholine' fluctuates during the day but found that the release is at its highest when the brain is engaged with more challenging mental tasks. The fluctuations are coordinated across the brain indicating a brain-wide signal to increase mental capacity with specific spikes in acetylcholine release occurring at particularly arousing times such as gaining reward.
+
+
+___
+
+Wednesday, 25. January 2017 04:37PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/01/170124111318.htm](https://www.sciencedaily.com/releases/2017/01/170124111318.htm)
+
+- Humans have a type of long-term memory (called 'implicit memory') that means we respond less to stimuli as they are repeated over time, in a process called neural adaptation. But the new research suggests that dyslexics recover faster than non-dyslexics from their responses to stimuli such as sounds and written words, leading to their perceptual and reading difficulties. 
+
+- We decided to test this hypothesis by increasing the length of time between consecutive stimuli and measuring how it affects behavioral biases and neural responses from the auditory cortex, a section of the brain that processes sound.
+
+- Participants with dyslexia showed a faster decay of implicit memory on both measures. This also affected their oral reading rate, which decreased faster as a result of the time interval between reading the same nonword -- a group of letters that looks or sounds like a word -- numerous times
+
+
+___
+
 Monday, 23. January 2017 07:42PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/10/161003131352.htm](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
