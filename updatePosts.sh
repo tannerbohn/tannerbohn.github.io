@@ -22,7 +22,7 @@ git add -A
 
 echo "Added files"
 
-git commit -m "updated linksaver and ideas posts"
+git commit -m "updated linksaver, ideas, and posts"
 
 echo "Pushing..."
 
