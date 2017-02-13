@@ -12,6 +12,8 @@ if __name__ == "__main__":
 	#date = "date: "+strftime("%Y-%m-%d %H:%M:%S", localtime())
 	#head = '---\n'+head +'\n'+date+'\n---\n'
 	head = '---\n'+head +'\n---\n'
+
+	preamble = 'A truncated (depth and length) collection of project ideas.\n'
 	'''
 		---
 		layout: page
