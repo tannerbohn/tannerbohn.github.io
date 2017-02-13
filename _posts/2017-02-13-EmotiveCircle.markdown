@@ -10,7 +10,7 @@ date:   2017-02-13 06:00:00
 
 How hard is it to create a pet? What are the minimal requirements for a pet? The EmotiveCircle project aims to understand and implement answers to these questions.
 
-# Outline of Main Features
+## Outline of Main Features
 
 1. Audiovisual
     1. Primary Circle
