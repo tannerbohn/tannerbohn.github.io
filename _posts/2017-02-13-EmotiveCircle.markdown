@@ -12,13 +12,16 @@ How hard is it to create a pet? What are the minimal requirements for a pet? The
 
 # Outline of Main Features
 
-1. Visuals
+1. Audiovisual
     1. Primary Circle
-      1. Elevation
-      2. Size
-      3. Jaggedness
+        1. Elevation
+        2. Size
+        3. Jaggedness
     2. Secondary Circle
     3. Ball
+    4. Sounds
+        1. Heartbeat
+        2. Breathing
 2. Interactions
     1. Comfort
     2. Annoy
@@ -38,8 +41,8 @@ How hard is it to create a pet? What are the minimal requirements for a pet? The
     12. Muscle Fatigue
 4. Play
     1. Goal
-      1. Action restrictions
-      2. Path Reparamaterizations
+        1. Action restrictions
+        2. Path Reparamaterizations
     2. Learning
-      1. Previous Methods Tried
-      2. Iterative Radius-Reduced Search
+        1. Previous Methods Tried
+        2. Iterative Radius-Reduced Search
