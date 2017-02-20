@@ -56,7 +56,7 @@ then the algorithm will return:
 
 #### 2.2 Speed Improvements
 
-This code was originally intended to run on a Raspberry Pi, so code speed is important to improve. On my usual computer, a parsing might take 0.01s, but on the Pi, it will take about 1s (a 10x increase).
+This code was originally intended to run on a Raspberry Pi, so code speed is important to improve. On my usual computer, a parsing might take 0.1s, but on the Pi, it will take about 1s (a 10x increase).
 
 The type of optimisation used for finding the best parsing is a stochastic random-restart [hill climb](https://en.wikipedia.org/wiki/Hill_climbing). Several tweaks were applied to improve speed for this particular application:
 
@@ -66,6 +66,7 @@ The type of optimisation used for finding the best parsing is a stochastic rando
 3. score hashing
 4. solution modification biases
 5. solution space limitation
+6. pattern prioritization
 
 ### 3. Context Management
 
