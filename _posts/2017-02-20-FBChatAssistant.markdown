@@ -21,12 +21,36 @@ date:   2017-02-20 14:00:00
 
 ### 1. Facebook Integration
 
-The program connects to facebook with the fbchat library.
+The program connects to facebook with the [fbchat](https://github.com/carpedm20/fbchat) library. Provided with a Facebook ID and password, it allows for recieving and sending messages (and many other features).
 
 ### 2. Parsing Algorithm
 
-This is perhaps the most important aspect of the project.
+This is perhaps the most important aspect of the project. While good solutions for this exist (see [smartly.ai](smartly.ai), [api.ai](api.ai), or [wit.ai](wit.ai)), I wanted to see if I could build an even better one.
 
+The central algorithm I came up with relies on a stochastic optimisation.
+
+Example: if the pattern we are currently matching against is:
+
+`"the {entity} in [, a, the] {loc_1} {action} to [a, the] {loc_2} at [, about] {time}"`,
+
+and the user provides:
+
+`"the very large cat in the store ran to a small tree at noon"`,
+
+then the algorithm will return:
+
+```
+{
+    'content':{
+        'action': 'ran',
+        'loc_1': 'store',
+        'loc_2': 'small tree',
+        'time': 'noon',
+        'entity': 'very large cat'},
+    'score': 1.6666666666666665,
+    'fillers': ['the', 'a', '']
+}
+```
 
 ### 3. Context Management
 
