@@ -25,7 +25,7 @@ The program connects to facebook with the [fbchat](https://github.com/carpedm20/
 
 ### 2. Parsing Algorithm
 
-This is perhaps the most important aspect of the project. While good solutions for this exist (see [smartly.ai](smartly.ai), [api.ai](api.ai), or [wit.ai](wit.ai)), I wanted to see if I could build an even better one.
+This is perhaps the most important aspect of the project. While good solutions for this exist (see [smartly.ai](https://smartly.ai), [api.ai](https://api.ai), or [wit.ai](https://wit.ai)), I wanted to see if I could build an even better one.
 
 The central algorithm I came up with relies on a stochastic optimisation.
 
