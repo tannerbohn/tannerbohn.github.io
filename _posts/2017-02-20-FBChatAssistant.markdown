@@ -29,6 +29,8 @@ This is perhaps the most important aspect of the project. While good solutions f
 
 The central algorithm I came up with relies on a stochastic optimisation.
 
+#### 2.1 Usage
+
 Example: if the pattern we are currently matching against is:
 
 `"the {entity} in [, a, the] {loc_1} {action} to [a, the] {loc_2} at [, about] {time}"`,
@@ -51,6 +53,19 @@ then the algorithm will return:
     'fillers': ['the', 'a', '']
 }
 ```
+
+#### 2.2 Speed Improvements
+
+This code was originally intended to run on a Raspberry Pi, so code speed is important to improve. On my usual computer, a parsing might take 0.01s, but on the Pi, it will take about 1s (a 10x increase).
+
+The type of optimisation used for finding the best parsing is a stochastic random-restart [hill climb](https://en.wikipedia.org/wiki/Hill_climbing). Several tweaks were applied to improve speed for this particular application:
+
+1. pre-testing
+    * word intersection and string similarity
+2. "give up" thresholds
+3. score hashing
+4. solution modification biases
+5. solution space limitation
 
 ### 3. Context Management
 
