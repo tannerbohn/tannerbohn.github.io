@@ -56,6 +56,33 @@ then the algorithm will return:
 
 Context management helps the assistant follow more natural and complex language which often includes ambiguity.
 
+Example:
+
+
+Without context management/ambiguity resolution, a section of dialog from the user might look like this:
+
+1. Question, how large is Toronto?
+2. find a couple pictures of Toronto
+3. show me a couple pictures of a spire
+4. define spire
+5. how's the weather in Toronto?
+6. add Toronto to the list of places to visit
+7. add Berlin to the list of place to visit
+8. remind me soon to make supper
+9. remind me soon to close the windows
+
+However, with these capabilities, the dialog can take a much more natural form:
+
+1. Question, how large is Toronto?
+2. find a couple pictures of *it*
+3. show me *that many* pictures of a spire
+4. *define*
+5. how's the weather *there*?
+6. add *it* to the list of places to visit
+7. add Berlin to *the list*
+8. remind me soon to make supper
+9. at *that time* remind me to close the windows
+
 
 ### 2. Specific Features
 
