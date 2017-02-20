@@ -12,4 +12,29 @@ date:   2017-02-20 14:00:00
 
 
 
-### Outline of Main Features
+### Outline of Main Aspects
+
+1. Facebook Integration
+2. Parsing Algorithm
+3. Context Management
+4. Specific Features
+
+### 1. Facebook Integration
+
+The program connects to facebook with the fbchat library.
+
+### 2. Parsing Algorithm
+
+This is perhaps the most important aspect of the project.
+
+
+### 3. Context Management
+
+Context management helps the assistant follow more natural and complex language which often includes ambiguity.
+
+
+### 2. Specific Features
+
+Many features are currently integrated into the assistant, with more being constantly added.
+
+#### 2.1 List of Features
