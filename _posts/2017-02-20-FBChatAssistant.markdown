@@ -39,7 +39,7 @@ and the user provides:
 
 then the algorithm will return:
 
-```
+```python
 {
     'content':{
         'action': 'ran',
