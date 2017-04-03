@@ -231,7 +231,7 @@ ___
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create population of grid-world agents which move around and change colours of cells according to evolved rules
   - Music
     - given colour palette -> construct piece of music
-    - what does it mean to "add", "subtract", or "multiply" short pieces of music
+    - ~~what does it mean to "add", "subtract", or "multiply" short pieces of music~~
     - have grid of all genres and generate heat map based on how often I listen to each one
     - ~~music classification program that uses my system~~
     - why do birds sing?

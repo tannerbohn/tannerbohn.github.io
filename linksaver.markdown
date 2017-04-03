@@ -4,6 +4,144 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 28. March 2017 06:13PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170327083433.htm](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
+
+- At around the age of four we suddenly do what three-year-olds are unable to do: put ourselves in someone else's shoes.
+
+- If you tell a 3-year-old child the following story of little Maxi, they will most probably not understand: Maxi puts his chocolate on the kitchen table, then goes to play outside. While he is gone, his mother puts the chocolate in the cupboard. Where will Maxi look for his chocolate whenhe comes back?
+
+- A 3-year-old child will not understand why Maxi would be surprised not to find the chocolate on the table where he left it. It is only by the age of 4 years that a child will correctly predict that Maxi will look for his chocolate where he left it and not in the cupboard where it is now.
+
+- The maturation of fibres of a brain structure called the arcuate fascicle between the ages of three and four years establishes a connection between two critical brain regions: a region at the back of the temporal lobe that supports adult thinking about others and their thoughts, and a region in the frontal lobe that is involved in keeping things at different levels of abstraction 
+
+
+___
+
+Monday, 20. March 2017 02:21AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170217012453.htm](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
+
+- Unlike other forms of caregiving, the act of mothers singing to infants is a universal behavior that seemingly withstands the test of time.
+
+- Findings revealed that when infants were engaged during song, their mother's instincts are also on high alert
+
+- Intuitively, when infant engagement declined, the mother adjusted her pitch, tempo or key to stimulate and regulate infant response
+
+
+___
+
+Saturday, 18. March 2017 03:14PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170312130257.htm](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
+
+- Language learning app Memrise has announced the winner of its first Memprize: a competition to find the world's most efficient vocabulary learning technique.
+
+- The task of the international competition was simple: find a way in which participants can learn the meaning of 80 words as effectively as possible, within one hour.
+
+- Overall, the winning method more than doubled memory performance compared to the standard technique of repeated study. The method combined adaptive retrieval practice, where the hardest words to remember were presented more often, and an introduction to mental imagery.
+
+- volunteers were asked to imagine the words in certain rooms so that they could later practice recalling the words by room. Besides being the most effective, participants also found the winning method to be the most enjoyable of all submissions
+
+
+___
+
+Friday, 10. March 2017 12:36AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170309150634.htm](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
+
+- Neurons are large, tree-like structures made up of a body, the soma, with numerous branches called dendrites extending outward. Somas generate brief electrical pulses called "spikes" in order to connect and communicate with each other. Scientists had generally believed that the somatic spikes activate the dendrites, which passively send currents to other neurons' somas
+
+- the UCLA team discovered that dendrites are not just passive conduits. Their research showed that dendrites are electrically active in animals that are moving around freely, generating nearly 10 times more spikes than somas.
+
+-  These results show that the dendrites do not behave purely like a digital device. Dendrites do generate digital, all-or-none spikes, but they also show large analog fluctuations that are not all or none.
+
+
+___
+
+Wednesday, 08. March 2017 12:40AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170306091735.htm](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
+
+- A new study has shown that virtual characters that can touch you are seen as being warmer and friendlier. Previous research had already shown that this applies to human interaction. 
+
+- According to Huisman, personal assistant applications for smartphones, such as Siri, will tend to become even more human as time goes on. Not only will these assistants be able to understand what you are saying, they will also register the underlying emotions and respond accordingly.
+
+
+___
+
+Tuesday, 07. March 2017 10:33AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170306114155.htm](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
+
+- Schurgin and Flombaum wondered if people's vast ability for recall, a skill machines and computers cannot come close to matching, had something to do with our "core knowledge" of the world, the innate understanding of basic physics that all humans, and many animals, are born with.
+
+- tested the theory in a series of experiments where people were shown very short video clips of moving objects, then given memory tests. Sometimes the objects appeared to move across the screen as a single object would. Other times they moved in ways we wouldn't expect a single object to move, such as popping out from one side of the screen and then the other.
+
+- In every experiment, subjects had significantly better memories -- as much as nearly 20 percent better -- of trackable objects that moved according to our expectations, the researchers found.
+
+
+___
+
+Sunday, 05. March 2017 11:39PM
+
+**Url:** [http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
+
+- The networks of genes in each animal is a bit like the network of neurons in our brains, which suggests they might be "learning" as they go
+
+- genes often work together. They form "gene networks", and those gene networks can also sometimes be passed intact down the generations
+
+- the idea that the connections between genes can be strengthened or weakened as a species evolves and changes  and it is the strength of those connections in gene networks that allow organisms to adapt
+
+- A mini-network of genes defining a particular adaptation  like one of the modules mentioned above  can sometimes be turned on or off by just one other activator gene
+
+
+___
+
+Sunday, 05. March 2017 03:01PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170303091526.htm](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
+
+- Psychologist at University of Jena uncovers strong variability in motivation in learning situations
+
+- In order to determine this, during one semester 155 student teachers recorded their motivation three times within 90-minute lectures.
+
+- Among other things, we wanted to know how competent they felt at that particular moment, whether they understood the material or found it a strain to follow the lecture. They were also asked whether they enjoyed the content of the lecture and whether they found it useful
+
+- During a lecture, every single participant experienced phases of high motivation and of strong demotivation -- completely independently of the other students in relation to the timing of those phases
+
+-  The more effort one makes, the more motivated one feels. The reverse is also true: "A person who is motivated also makes more effort,"
+
+
+___
+
+Tuesday, 28. February 2017 10:34AM
+
+**Url:** [http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
+
+- A giant neuron found wrapped around entire mouse brain
+
+- A new digital reconstruction method shows three neurons that branch extensively throughout the brain, including one that wraps around its entire outer layer
+
+- the team traced three neurons from a small, thin sheet of cells called the claustrum  an area that Koch believes acts as the seat of consciousness in mice and humans
+
+
+___
+
+Tuesday, 21. February 2017 05:27PM
+
+**Url:** [http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated](http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated)
+
+- Researchers have discovered a brand new mechanism that controls the way nerve cells in our brain communicate with each other to regulate learning and long-term memory.
+
+- As far as researchers were aware, LTP is usually controlled by the activation of special proteins called NMDA receptors.
+
+- "These data reveal a new and, to our knowledge, previously unsuspected role for postsynaptic kainate receptors in the induction of functional and structural plasticity in the hippocampus
+
+
+___
+
 Monday, 06. February 2017 05:20PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/02/170203135107.htm](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
