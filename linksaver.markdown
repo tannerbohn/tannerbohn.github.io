@@ -4,6 +4,100 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Monday, 24. April 2017 02:07AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170420090300.htm](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
+
+- University students who identify as strong in mathematics quickly forgot much of the material from a mathematics course. The explanation: We tend to forget unpleasant experiences and memories that threaten our self-image as a way to preserve our psychological well-being.
+
+- the researchers found that the students who forgot the most content from the class were those who reported a high level of stress during the course. But, paradoxically, the study also found that the strong relationship between stress level and the tendency to forget course material was most prevalent among the students who are most confident in their own mathematical abilities.
+
+- The phenomenon, which the authors call "motivated forgetting," may occur because students are subconsciously protecting their own self-image as excellent mathematicians
+
+
+___
+
+Monday, 24. April 2017 12:40AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170403123325.htm](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
+
+- For the first time, researchers in the field of evolutionary robotics have used physically embodied robots to study epigenetic effects on robot evolution
+
+- In evolutionary robotics, an artificial "gene pool" is created, which produces genomes each of which encodes the control system of a robot. Each robot is then allowed to act and perform tasks according to its "genetically" specified controller, and the robot's fitness is ranked according to how well it performs a certain task. The robots are then allowed to reproduce by swapping genetic material with each other, comparable to biological sexual reproduction
+
+- the genomes of living organisms are also affected by development -- events during their lifetime that lead to epigenetic changes. In biology, this interplay between evolution and development is known as evo-devo, which has emphasized the importance of non-genetic factors on an organism's phenotype
+
+- The results show that robot populations with an epigenetic factor evolved differently than populations where development was not taken into account. Despite the robots not evolving greater light capturing skills, the team are enthusiastic about the results, since the aim of this preliminary study was above all to demonstrate the importance of including epigenetic factors in robot evolution, and to develop a conceptual and physical methodology that makes this possible
+
+
+___
+
+Monday, 17. April 2017 12:57PM
+
+**Url:** [https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
+
+- Theres some evidence that people with a greater degree of openness also have better visual awareness. For example, when focusing on letters moving on a screen, they are more likely to notice a grey square appearing elsewhere on the display.
+
+- Antinori and her colleagues asked 123 university students to complete a binocular rivalry test, in which they simultaneously saw a red image with one eye and a green image with the other eye for 2 minutes.
+
+- Usually, the brain can only perceive one image at a time, and most participants reported seeing the image flip between red and green. But some subjects saw the two images fused into a patchwork of red and green  a phenomenon known as mixed percept.
+
+- The higher the participants scored for openness on a personality questionnaire, the more they experienced this mixed perception.
+
+
+
+___
+
+Saturday, 15. April 2017 06:50PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170203103432.htm](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
+
+- Does the brain create additional synapses from the cortical neurons to the new granule cells, or do some cortical neurons transfer connections from mature granule cells to the new granule cells? Researchers have found that the connections are transferred, without adding to the number of synapses.
+
+- The dentate gyrus is one of just two areas in the brain where new neurons are continuously formed in adults. When a new granule cell neuron is made in the dentate gyrus, it needs to get 'wired in,' by forming synapses, or connections, in order to contribute to circuit function
+
+
+___
+
+Saturday, 15. April 2017 06:26PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170202141913.htm](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
+
+- Striking electron microscope pictures from inside the brains of mice suggest what happens in our own brain every day: Our synapses -- the junctions between nerve cells -- grow strong and large during the stimulation of daytime, then shrink by nearly 20 percent while we sleep, creating room for more growth and learning the next day.
+
+- The scaling occurred in about 80 percent of the synapses but spared the largest ones, which may be associated with the most stable memory traces.
+
+
+___
+
+Saturday, 15. April 2017 05:10PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170406143936.htm](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
+
+- A study of neural circuits that underlie memory consolidation reveals memories are formed simultaneously in the hippocampus and long-term storage location of brain's cortex, with long-term memories remaining 'silent' for two weeks before maturing, which upends dominant theories of memory consolidation.
+
+- Just one day after the fear-conditioning event, the researchers found that memories of the event were being stored in engram cells in both the hippocampus and the prefrontal cortex. However, the engram cells in the prefrontal cortex were "silent" -- they could stimulate freezing behavior when artificially activated by light, but they did not fire during natural memory recall.
+
+- This study already showed that communication between the prefrontal cortex and the hippocampus is critical, because blocking the circuit connecting those two regions prevented the cortical memory cells from maturing properly.
+
+
+___
+
+Saturday, 15. April 2017 04:40AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170413141122.htm](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
+
+- People's ability to make random choices or mimic a random process, such as coming up with hypothetical results for a series of coin flips, peaks around age 25, according to a study.
+
+- Previous studies have shown that aging diminishes a person's ability to behave randomly. However, it had been unclear how this ability evolves over a person's lifetime, nor had it been possible to assess the ways in which humans may behave randomly beyond simple statistical tests.
+
+- The five tasks included listing the hypothetical results of a series of 12 coin flips so that they would "look random to somebody else," 
+
+- The study also demonstrated that a relatively short list of choices, say 10 hypothetical coin flips, can be used to reliably gauge randomness of human behavior.
+
+
+___
+
 Tuesday, 28. March 2017 06:13PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170327083433.htm](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
