@@ -15,7 +15,7 @@ ___
   - Text/Language
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> nested markov models
     - test out SQuAD dataset (paragraphs, questions, and answer ranges)
-    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> choose minimal set of sentences form article needed to answer questions about text
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> choose minimal set of sentences form article needed to answer questions about text
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> calculate doc sentence importance scores
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> how does word sound relate to sentiment? can you predict the sentiment of an arbitrary word?
     - convert between text and music
@@ -139,8 +139,6 @@ ___
   - where does Maslow's hierarchy of needs come from?
     - does it always appear for complex conscious beings?
     - love & belonging and esteem seem unique to humans (provided by evolution), however the following may apply generally to intelligent entities:
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> design experiment to test long-term memory recall speed when moving and not moving eyes
-    - also test effects of other things which may increase latent cortical stimulation
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> estimate the rate of time passage during various mental activities
     - need to only see true durations afterward to avoid consciously counteracting biases
     - uniformly generate time durations in (0, 10] seconds
@@ -224,10 +222,10 @@ ___
     - algorithm image isomorphism/conversions
     - ~~for generating images, limit number of shapes available to use~~
     - represent image as histogram in pattern-space (similar to filter activations?)
-    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create program which calculate multiscale entropy of images, and generate images with specific MSE curves
+    - ~~create program which calculate multiscale entropy of images, and generate images with specific MSE curves~~
     - create program that can learn to develop aesthetic colour palette
     - ~~given the average colour of each row and column of an image, create a new one which has similar values (2012.12)~~
-    - create algorithm which takes two images, and creates a third image as a result of folding the two together
+    - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create algorithm which takes two images, and creates a third image as a result of folding the two together
     - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/easy2.png" height="15"> create population of grid-world agents which move around and change colours of cells according to evolved rules
   - Music
     - given colour palette -> construct piece of music
@@ -286,6 +284,8 @@ ___
 ___
 
 - **Simulations**
+  - design sim to look at how death and formation of friendships interact
+    - [related research](https://www.sciencedaily.com/releases/2017/04/170424110853.htm)
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> design simulation to study communication
     - evolve creatures when it is to their benefit to communicate
     - multiple types of communication -> local and global

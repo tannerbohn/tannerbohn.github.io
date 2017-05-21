@@ -4,6 +4,90 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 20. May 2017 08:17PM
+
+**Url:** [http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
+
+- A new study on how genes function across the living world has added weight to the hypothesis that life on Earth was capturing energy from chemical reactions before it was copying its codes.
+
+- If replicating genes need energy, and our metabolism is regulated by enzymes made by genes, how could we have genes without a metabolism, and a metabolism without genes?
+
+- we can imagine life emerged as short sections of RNA integrated with energy-releasing reactions that already existed, developing primitive genes that helped bind together other molecules before building into more complex forms.
+
+
+___
+
+Monday, 08. May 2017 02:04PM
+
+**Url:** [https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
+
+- The machine-learning algorithm can read a passage of text and come up with the kind of questions you might ask to check someones understanding of a topic.
+
+- trained it on more than 500 Wikipedia articles and 100,000 questions about those articles sourced from crowdworkers. For example, a sentence about different types of crop grown in Africa might be paired with the question What is grown in the fertile highlands?
+
+- The current version of the system produces a question for every sentence it reads but Du wants it to asks questions only about sentences that contain statements. Not all sentences are question-worthy, he says.
+
+
+___
+
+Saturday, 29. April 2017 09:43PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170427120906.htm](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
+
+- Despite its negative reputation, not all worry is destructive or even futile
+
+- worry is associated with recovery from traumatic events, adaptive preparation and planning, recovery from depression, and partaking in activities that promote health, and prevent illness. Furthermore, people who report greater worry may perform better -- in school or at the workplace -- seek more information in response to stressful events, and engage in more successful problem solving
+
+- 1. Worry serves as a cue that the situation is serious and requires action. People use their emotions as a source of information when making judgements and decisions.
+2. Worrying about a stressor keeps the stressor at the front of one's mind and prompts people toward action.
+3. The unpleasant feeling of worry motivates people to find ways to reduce their worry.
+
+
+___
+
+Thursday, 27. April 2017 01:13AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170407103604.htm](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
+
+- until now it has been unknown which molecular processes translate environmental changes into the production of new neurons
+
+- a small peptide called DBI (short for: diazepam binding inhibitor) is the crucial mediator in this process. The peptide was first identified because it binds to the receptor for a chemical messenger in the brain called GABA, where it replaces a drug called Diazepam (Valium).
+
+- When DBI was absent, the numbers of neural stem cells in the hippocampus declined. An oversupply of the peptide caused the opposite to happen
+
+- DBI exerts its effect by binding to the receptor for the chemical messenger GABA in the neural stem cells, thus acting as a molecular antagonist of this neurotransmitter.
+
+- GABA is responsible for keeping the stem cells dormant in their niche without dividing
+
+
+___
+
+Wednesday, 26. April 2017 05:46PM
+
+**Url:** [https://www.scientificamerican.com/article/put-a-bird-on-it/](https://www.scientificamerican.com/article/put-a-bird-on-it/)
+
+- In several studies in an upcoming issue of the Journal of Marketing Research, students worked and played better when using items they had decorated to portray aspects of themselves.
+
+- Even though participants did not expect any benefit, they threw customized darts more accurately, they came up with more anagrams using a customized pen, and they played a beer-coaster flipping game better with customized coasters. Across the studies, customization boosted performance by 25 percent.
+
+- The trick worked best when people cared about doing well and when the decoration embodied a task-relevant part of their identities
+
+
+___
+
+Tuesday, 25. April 2017 08:58PM
+
+**Url:** [https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
+
+- Animals that have reduced-calorie diets have better mental abilities, and ghrelin might be part of the reason why. Injecting the hormone into mice improves their performance in learning and memory tests, and seems to boost the number of neuron connections in their brains.
+
+- found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis, called fibroblast growth factor.
+
+- new brain cells take a few days to weeks to start working, so people shouldnt expect fasting to produce immediate effects on their brainpower in this way.
+
+
+___
+
 Monday, 24. April 2017 02:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170420090300.htm](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
