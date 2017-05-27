@@ -4,6 +4,58 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Saturday, 27. May 2017 06:14AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/05/170525123048.htm](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
+
+- As children age into adolescence and on into young adulthood, they show dramatic improvements in their ability to control impulses, stay organized, and make decisions. Those "executive functions" of the brain are key factors in determining outcomes, including educational success, drug use, and psychiatric illness.
+
+- study reveals that the maturing brain becomes increasingly segregated into distinct network modules for greater efficiency. Indeed, the new evidence shows that the degree to which executive function improves in a person with age depends on the degree to which that well-defined modular network structure emerges.
+
+- This increasingly modular yet globally integrated network topology may maximize communication efficiency while minimizing wiring costs in the brain.
+
+
+___
+
+Saturday, 27. May 2017 01:06AM
+
+**Url:** [http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
+
+- persistently poor sleep causes the brain to clear a significant amount of neurons and synaptic connections, and recovering sleep might not be able to reverse the damage
+
+- The microglial cells are responsible for clearing out old and worn out cells via a process called phagocytosis - meaning "to devour" in Greek.
+
+- The astrocytes' job is to prune unnecessary synapses (connections) in the brain to refresh and reshape its wiring. 
+
+- We've known that this process occurs when we sleep to clear away the neurological wear and tear of the day, but now it appears that the same thing happens when we start to lose sleep.
+
+- ost of the synapses that were getting eaten in the two groups of sleep-deprived mice were the largest ones, which tend to be the oldest and most heavily used
+
+
+___
+
+Saturday, 27. May 2017 12:47AM
+
+**Url:** [http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
+
+- a network in the monkey brain that's exclusively devoted to analysing social interactions.
+
+- Most primates, including humans, are highly social animals, and are able to effortlessly analyse social interactions. But we don't know much about the neural networks that allow monkeys to do this kind of sophisticated processing
+
+
+___
+
+Friday, 26. May 2017 06:04PM
+
+**Url:** [http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
+
+- For the first time in human history, American women in their 30s are having more babies than women in their 20s, with the average age of first-time mothers sitting at about 28 - a massive two-year leap from 2014.
+
+- A study of 1.5 million men and women in Sweden last year found that when mothers decided to delay having kids until they were older - even into their 40s - they were more likely to have children who were taller, more physically fit, got better grades in high school, and were more likely to go to university.
+
+
+___
+
 Saturday, 20. May 2017 08:17PM
 
 **Url:** [http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
