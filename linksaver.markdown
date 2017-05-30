@@ -4,6 +4,114 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 30. May 2017 04:26AM
+
+**Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
+
+- Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
+
+- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+
+- text = cleanCopyText(text)
+
+- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+
+- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+
+- msg = clean(msg)
+
+- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+
+
+___
+
+Tuesday, 30. May 2017 04:15AM
+
+**Url:** [http://people.idsia.ch/~juergen/compressednetworksearch.html](http://people.idsia.ch/~juergen/compressednetworksearch.html)
+
+- Many traditional methods of Evolutionary Computation [15-19] can evolve problem solvers with hundreds of parameters, but not millions. Ours can [1,2], by greatly reducing the search space through evolving compact, compressed descriptions [3-8] of huge solvers.
+
+- Back in 1994, our universal [22-25] language for encoding NN was assembler-like [9,10]. In recent work, we replaced it by more practical languages [1-8] based on coefficients of popular transforms (Fourier, wavelet, discrete cosine, etc).
+
+- Look at the weight matrix as if it were an image. We may compress it by encoding it through the coefficients of a Fourier-type transform (here: the discrete cosine transform DCT) [1-8]. While a successful RNN controller may need hundreds of thousands of parameters (weights) to solve its task, its compressed description may need just a few hundred.
+
+
+___
+
+Tuesday, 30. May 2017 03:50AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/05/170502084630.htm](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
+
+- A new study has focused on language acquisition in the brain. Even short repetitive exposure to novel words induced a rapid neural response increase that is suggested to manifest memory-trace formation.
+
+- Unlike to existing words, new words showed a neural response enhancement between the early and late stages of exposure on the left frontal and temporal cortices, which was interpreted as the build-up of neural memory circuits. The magnitude of this neural enhancement also correlated with how well the participants remembered the new words afterwards
+
+- To examine the effect of attention, the words were presented for ~30 minutes in two conditions: participants were either passively exposed to the spoken words on the background, or they attended to the speech. Similar neural enhancement to novel words was observed in both listening conditions
+
+
+___
+
+Tuesday, 30. May 2017 03:22AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/05/170502112607.htm](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
+
+- Linguists have discovered that people who speak two languages fluently think about time differently depending on the language context in which they are estimating the duration of events.
+
+- Bilinguals go back and forth between their languages rapidly and, often, unconsciously -- a phenomenon called code-switching.
+
+- But different languages also embody different worldviews, different ways of organizing the world around us. And time is a case in point. For example, Swedish and English speakers prefer to mark the duration of events by referring to physical distances, e.g. a short break, a long wedding, etc. The passage of time is perceived as distance travelled.
+
+- But Greek and Spanish speakers tend to mark time by referring to physical quantities, e.g. a small break, a big wedding. The passage of time is perceived as growing volume.
+
+
+___
+
+Tuesday, 30. May 2017 03:17AM
+
+**Url:** [https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
+
+- Accepted dogma holds thatalthough every cell in the body contains its own DNAthe genetic instructions in each cell nucleus are identical. But new research has now proved this assumption wrong.
+
+- There are actually several sources of spontaneous mutation in somatic (nonsex) cells, resulting in every individual containing a multitude of genomesa situation researchers term somatic mosaicism.
+
+- There are reasons to think somatic mosaicism may be particularly important in the brain, not least because neural genes are very active.
+
+
+___
+
+Tuesday, 30. May 2017 03:13AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/05/170502204545.htm](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
+
+- Exposure to the aroma of rosemary essential oil can significantly enhance working memory in children.
+
+- previous study demonstrated the aroma of rosemary essential oil could enhance cognition in healthy adults
+
+- A total of 40 children aged 10 to 11 took part in a class based test on different mental tasks. Children were randomly assigned to a room that had either rosemary oil diffused in it for ten minutes or a room with no scent.
+
+
+___
+
+Tuesday, 30. May 2017 12:08AM
+
+**Url:** [https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
+
+- Since a gazelle can run faster than a lion, how do lions ever catch gazelles? A new model of predator-prey interaction shows how groups of predators use collective chasing strategies, such as cornering and circling, to pursue and capture faster prey. Without this tactical collaboration, the predators would have no chance of catching these prey.
+
+
+___
+
+Monday, 29. May 2017 10:59PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/05/170529090526.htm](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
+
+- Individual neurons can learn not only single responses to a particular signal, but also a series of reactions at precisely timed intervals
+
+- The cells studied by the researchers are called Purkinje cells and are located in the cerebellum.
+
+
+___
+
 Saturday, 27. May 2017 06:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170525123048.htm](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
