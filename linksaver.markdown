@@ -4,23 +4,22 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 30. May 2017 02:40PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
+
+- people retain what they've learned in a language class better if they go to bed before they get the chance hear a lot of their own language during the rest of the day. Evening classes are better.
+
+
+___
+
 Tuesday, 30. May 2017 04:26AM
 
 **Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
-- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
-
-- text = cleanCopyText(text)
-
-- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
-
-- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
-
-- msg = clean(msg)
-
-- a Gdel machine (or `Goedel machine' but not `Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+- a Gdel machine (or 'Goedel machine' but not 'Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
 
 
 ___
