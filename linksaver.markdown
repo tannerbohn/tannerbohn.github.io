@@ -4,6 +4,17 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Tuesday, 30. May 2017 02:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
+
+- Listeners are most likely to tune in when a speaker delivers the most emotional peaks of his/her narrative, as revealed by synchronous pupil dilation patterns of speakers and listeners due to shared attention.
+
+- Most people know that pupils dilate to adjust the amount of light that enters the eye, but pupils also dilate rapidly in response to information that is being processed moment by moment.
+
+
+___
+
 Tuesday, 30. May 2017 02:40PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
@@ -19,7 +30,7 @@ Tuesday, 30. May 2017 04:26AM
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
-- a Gdel machine (or 'Goedel machine' but not 'Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
+- a Gödel machine (or 'Goedel machine' but not 'Godel machine') rewrites any part of its own code as soon as it has found a proof that the rewrite is useful, where the problem-dependent utility function and the hardware and the entire initial code are described by axioms encoded in an initial proof searcher which is also part of the initial code.
 
 
 ___
@@ -69,9 +80,9 @@ Tuesday, 30. May 2017 03:17AM
 
 **Url:** [https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
 
-- Accepted dogma holds thatalthough every cell in the body contains its own DNAthe genetic instructions in each cell nucleus are identical. But new research has now proved this assumption wrong.
+- Accepted dogma holds that—although every cell in the body contains its own DNA—the genetic instructions in each cell nucleus are identical. But new research has now proved this assumption wrong.
 
-- There are actually several sources of spontaneous mutation in somatic (nonsex) cells, resulting in every individual containing a multitude of genomesa situation researchers term somatic mosaicism.
+- There are actually several sources of spontaneous mutation in somatic (nonsex) cells, resulting in every individual containing a multitude of genomes—a situation researchers term somatic mosaicism.
 
 - There are reasons to think somatic mosaicism may be particularly important in the brain, not least because neural genes are very active.
 
@@ -180,11 +191,11 @@ Monday, 08. May 2017 02:04PM
 
 **Url:** [https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
 
-- The machine-learning algorithm can read a passage of text and come up with the kind of questions you might ask to check someones understanding of a topic.
+- The machine-learning algorithm can read a passage of text and come up with the kind of questions you might ask to check someone’s understanding of a topic.
 
-- trained it on more than 500 Wikipedia articles and 100,000 questions about those articles sourced from crowdworkers. For example, a sentence about different types of crop grown in Africa might be paired with the question What is grown in the fertile highlands?
+- trained it on more than 500 Wikipedia articles and 100,000 questions about those articles sourced from crowdworkers. For example, a sentence about different types of crop grown in Africa might be paired with the question “What is grown in the fertile highlands?”
 
-- The current version of the system produces a question for every sentence it reads but Du wants it to asks questions only about sentences that contain statements. Not all sentences are question-worthy, he says.
+- The current version of the system produces a question for every sentence it reads but Du wants it to asks questions only about sentences that contain statements. “Not all sentences are question-worthy,” he says.
 
 
 ___
@@ -242,7 +253,7 @@ Tuesday, 25. April 2017 08:58PM
 
 - found further evidence that ghrelin can stimulate brain cells to divide and multiply, a process called neurogenesis. When they added the hormone to mouse brain cells grown in a dish, it switched on a gene known to trigger neurogenesis, called fibroblast growth factor.
 
-- new brain cells take a few days to weeks to start working, so people shouldnt expect fasting to produce immediate effects on their brainpower in this way.
+- new brain cells take a few days to weeks to start working, so people shouldn’t expect fasting to produce immediate effects on their brainpower in this way.
 
 
 ___
@@ -279,11 +290,11 @@ Monday, 17. April 2017 12:57PM
 
 **Url:** [https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
 
-- Theres some evidence that people with a greater degree of openness also have better visual awareness. For example, when focusing on letters moving on a screen, they are more likely to notice a grey square appearing elsewhere on the display.
+- There’s some evidence that people with a greater degree of openness also have better visual awareness. For example, when focusing on letters moving on a screen, they are more likely to notice a grey square appearing elsewhere on the display.
 
 - Antinori and her colleagues asked 123 university students to complete a binocular rivalry test, in which they simultaneously saw a red image with one eye and a green image with the other eye for 2 minutes.
 
-- Usually, the brain can only perceive one image at a time, and most participants reported seeing the image flip between red and green. But some subjects saw the two images fused into a patchwork of red and green  a phenomenon known as mixed percept.
+- Usually, the brain can only perceive one image at a time, and most participants reported seeing the image flip between red and green. But some subjects saw the two images fused into a patchwork of red and green – a phenomenon known as “mixed percept”.
 
 - The higher the participants scored for openness on a personality questionnaire, the more they experienced this mixed perception.
 
@@ -429,9 +440,9 @@ Sunday, 05. March 2017 11:39PM
 
 - genes often work together. They form "gene networks", and those gene networks can also sometimes be passed intact down the generations
 
-- the idea that the connections between genes can be strengthened or weakened as a species evolves and changes  and it is the strength of those connections in gene networks that allow organisms to adapt
+- the idea that the connections between genes can be strengthened or weakened as a species evolves and changes – and it is the strength of those connections in gene networks that allow organisms to adapt
 
-- A mini-network of genes defining a particular adaptation  like one of the modules mentioned above  can sometimes be turned on or off by just one other activator gene
+- A mini-network of genes defining a particular adaptation – like one of the modules mentioned above – can sometimes be turned on or off by just one other activator gene
 
 
 ___
@@ -461,7 +472,7 @@ Tuesday, 28. February 2017 10:34AM
 
 - A new digital reconstruction method shows three neurons that branch extensively throughout the brain, including one that wraps around its entire outer layer
 
-- the team traced three neurons from a small, thin sheet of cells called the claustrum  an area that Koch believes acts as the seat of consciousness in mice and humans
+- the team traced three neurons from a small, thin sheet of cells called the claustrum — an area that Koch believes acts as the seat of consciousness in mice and humans
 
 
 ___
@@ -716,7 +727,7 @@ Tuesday, 10. January 2017 05:01AM
 
 **Url:** [https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
 
--  it seems many mammal babies prefer to approach their mother from one side too  and the explanation may lie in the contrasting talents of each half of the brain
+-  it seems many mammal babies prefer to approach their mother from one side too – and the explanation may lie in the contrasting talents of each half of the brain
 
 - Some researchers think this explains why human and ape mothers tend to cradle their babies on the left: it is so they can better monitor their facial expressions with their left eye.
 
@@ -724,7 +735,7 @@ Tuesday, 10. January 2017 05:01AM
 
 - found that mammal infants who keep their mother on their left are better able to keep track of her and hence increase their chance of survival
 
-- However, if a threat emerges, the roles often reverse, Ingram says. Infants keep their mother on their left in normal situations such as moving forward or suckling, she says. But when faced with stressful situations such as when fleeing, mothers prefer their infant on their left side so they can better monitor them.
+- However, if a threat emerges, the roles often reverse, Ingram says. “Infants keep their mother on their left in normal situations such as moving forward or suckling,” she says. “But when faced with stressful situations such as when fleeing, mothers prefer their infant on their left side so they can better monitor them.”
 
 
 ___
@@ -733,11 +744,11 @@ Saturday, 07. January 2017 04:25AM
 
 **Url:** [https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
 
-- False memory was discovered in an experiment that asked volunteers to memorise lists of related words and then recall them. When they learned bed, drowsy and dream, about half later also remembered the word sleep. 
+- False memory was discovered in an experiment that asked volunteers to memorise lists of related words and then recall them. When they learned “bed”, “drowsy” and “dream”, about half later also remembered the word “sleep”. 
 
-- well-rested brains normally use associative memory to link related concepts together. Theres a lot of evidence that the brain cares less about individual data and more about the gist of it or what it means,
+- well-rested brains normally use “associative memory” to link related concepts together. “There’s a lot of evidence that the brain cares less about individual data and more about the gist of it or what it means,”
 
-- They asked 44 people to memorise lists of words when they were well rested, had slept for only four hours on each of the previous four nights, or hadnt slept at all for the past 30 hours.
+- They asked 44 people to memorise lists of words when they were well rested, had slept for only four hours on each of the previous four nights, or hadn’t slept at all for the past 30 hours.
 
 - Unsurprisingly, when they were immediately asked to recall these words, the volunteers did less well when partially or completely sleep-deprived. But when shown a new list and asked which ones had been on the original list, sleep-deprived people were less likely to misremember
 
@@ -801,7 +812,7 @@ Tuesday, 27. December 2016 03:21PM
 
 - eye contact is one of the most important forms of nonverbal communication
 
-- Human eyes, with their large unpigmented areas, turn out to be great for deducing where someone is looking. This likely makes it all the easier to track someones attention
+- Human eyes, with their large unpigmented areas, turn out to be great for deducing where someone is looking. This likely makes it all the easier to track someone’s attention
 
 - A recent experiment conducted in Japan suggests that eye contact draws on the same mental resources used for complex tasks, so trying to maintain eye contact can impede your reasoning. In this case, the break in eye contact comes not from emotion, but from the need to preserve cognitive resources. Eye contact can deplete your mental bandwidth.
 
@@ -838,7 +849,7 @@ Wednesday, 21. December 2016 06:30PM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/12/161221090120.htm](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
 
-- In an experiment, cognitive psychologists have shown how word comprehension can be sped up  namely by having study participants grasp objects while reading at the same time
+- In an experiment, cognitive psychologists have shown how word comprehension can be sped up – namely by having study participants grasp objects while reading at the same time
 
 - Latest theories in cognitive science research hypothesize that our memory also records physical sensations as part of the words stored
 
@@ -939,7 +950,7 @@ Monday, 05. December 2016 12:52PM
 
 **Url:** [https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
 
-- When people describe the episode, their brain activity patterns are almost exactly the same as each others, for each scene. And theres also evidence that, when a person tells someone else about it, they implant that same activity into their brain as well.
+- When people describe the episode, their brain activity patterns are almost exactly the same as each other’s, for each scene. And there’s also evidence that, when a person tells someone else about it, they implant that same activity into their brain as well.
 
 
 ___
@@ -961,7 +972,7 @@ Sunday, 27. November 2016 06:20PM
 
 - Previous studies have revealed several brain regions, collectively called the semantic system, that process meaning. Yet such studies have typically focused on specific distinctions, such as abstract versus concrete words, or found discrete areas responsive to groups of related words, such as tools or food
 
-- generated a comprehensive atlas of where different meanings are represented in the human brain
+- generated a comprehensive “atlas” of where different meanings are represented in the human brain
 
 - Every meaning appears in multiple locations, and every location contains a cluster of related meanings. Some areas selectively respond to words related to people, for instance, whereas others respond to places or numbers
 
@@ -995,11 +1006,11 @@ Saturday, 19. November 2016 07:41PM
 
 **Url:** [https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
 
-- Such deep brain stimulation (DBS) works miracles on people with otherwise untreatable epilepsy or Parkinsons disease  but drilling into someones head is an extreme step. In future, we may be able to get the same effects by using stimulators placed outside the head
+- Such “deep brain stimulation” (DBS) works miracles on people with otherwise untreatable epilepsy or Parkinson’s disease – but drilling into someone’s head is an extreme step. In future, we may be able to get the same effects by using stimulators placed outside the head
 
 - The technique, unveiled at the Society for Neuroscience conference in San Diego, California, this week, places two electrical fields of different frequencies outside the head. The brain tissue where the fields overlap is stimulated, while the tissue under just one field is unaffected because the frequencies are too high
 
-- one field at 10,000 hertz and another at 10,010 hertz. The affected nerve cells are stimulated at 10 hertz  the difference between the two frequencies
+- one field at 10,000 hertz and another at 10,010 hertz. The affected nerve cells are stimulated at 10 hertz – the difference between the two frequencies
 
 
 ___
@@ -1044,7 +1055,7 @@ Monday, 14. November 2016 12:51PM
 
 - predicted that populations of LINE and SINE elements in the genome are expected to oscillate the way those of, for example, wolves and rabbits might
 
-- these oscillations occur over a timescale that is longer than the human lifespanwaves of Alu elements and L1 elements pushing and pulling at each other in slow motion across generations of the human genomes that carry them
+- these oscillations occur over a timescale that is longer than the human lifespan—waves of Alu elements and L1 elements pushing and pulling at each other in slow motion across generations of the human genomes that carry them
 
 
 ___
@@ -1081,7 +1092,7 @@ Saturday, 12. November 2016 01:27AM
 
 **Url:** [https://www.sciencedaily.com/releases/2016/11/161110085010.htm](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
 
-- For the first time, scientists have identified a sub-region in the brain that works to form a particular kind of memory: fear-associated with a specific environmental cue or contextual fear memory.
+- For the first time, scientists have identified a sub-region in the brain that works to form a particular kind of memory: fear-associated with a specific environmental cue or “contextual fear memory.”
 
 - the study showed new protein synthesis in a specific sub-region of the prefrontal cortex known in rodents as the prelimbic. In humans, this area corresponds to the anterior cortex
 
@@ -1206,7 +1217,7 @@ Saturday, 08. October 2016 04:22AM
 
 - Another model published in 2005 suggested that each synapse could hold several of these dials
 
-- Now, Fusi and his fellow researchers are proposing that these dials are not only operating at different times  but they're also constantly communicating with each other too
+- Now, Fusi and his fellow researchers are proposing that these dials are not only operating at different times – but they're also constantly communicating with each other too
 
 - initially store memories in fast variables and then progressively transfer them to slower variables. Notably, the interactions between fast and slow variables are bidirectional
 
@@ -1281,9 +1292,9 @@ Friday, 23. September 2016 10:52PM
 
 - For some behaviors, a single nerve cell does act as a dictator, triggering an entire set of movements via the electrical signals it uses to send messages.
 
-- But these dictator cells arent the whole story. Crayfish can trigger a tail-flip another way too  via another small set of neurons that effectively act as an oligarchy.
+- But these dictator cells aren’t the whole story. Crayfish can trigger a tail-flip another way too – via another small set of neurons that effectively act as an oligarchy.
 
-- For many other behaviors, however, nervous systems make decisions through something like Sherringtons million-fold democracy.
+- For many other behaviors, however, nervous systems make decisions through something like Sherrington’s “million-fold democracy.”
 
 - Unlike countries, however, nervous systems can implement multiple forms of government simultaneously. A neuronal dictatorship can coexist with an oligarchy or democracy. The dictator, acting fastest, may trigger the onset of a behavior while other neurons fine-tune the ensuing movements.
 
@@ -1331,7 +1342,7 @@ Friday, 23. September 2016 10:09PM
 
 **Url:** [https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/](https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/)
 
-- New Caledonian crows have figured out how to move two things in one fell swoop. The adept tool users have been filmed inserting sticks into objects to transport both items at once  a feat that has never been seen in non-humans.
+- New Caledonian crows have figured out how to move two things in one fell swoop. The adept tool users have been filmed inserting sticks into objects to transport both items at once – a feat that has never been seen in non-humans.
 
 
 ___
@@ -1385,7 +1396,7 @@ Friday, 16. September 2016 02:25AM
 
 - when mice were in bacterial defence mode, they benefitted from a lack of sugar
 
-- The findings may help explain the ancient adage that its best to feed a cold, but starve a fever. Colds are usually caused by viruses, while fevers would traditionally have been more likely to be down to a bacterial infection. Most diets were historically heavy on carbohydrates, which release glucose in our bodies
+- The findings may help explain the ancient adage that it’s best to feed a cold, but starve a fever. Colds are usually caused by viruses, while fevers would traditionally have been more likely to be down to a bacterial infection. Most diets were historically heavy on carbohydrates, which release glucose in our bodies
 
 
 ___
@@ -1523,7 +1534,7 @@ Sunday, 24. July 2016 06:32PM
 
 - In your brain, and in the brains of lab mice, recollections are physically represented as collections of neurons with strengthened connections to one another. These clusters of connected cells are known as engrams, or memory traces.
 
-- more excitable neuronsthat is, brain cells that activate easilyare more likely to be recruited into an engram, so if you increase the excitability of particular neurons, you can preferentially include them in a new engram.
+- more excitable neurons—that is, brain cells that activate easily—are more likely to be recruited into an engram, so if you increase the excitability of particular neurons, you can preferentially include them in a new engram.
 
 - Neurons in a newly formed memory trace are subsequently more excitable than neighboring brain cells for a transient period of time. It follows then that a memory formed soon after the first might be encoded in an overlapping population of neurons
 
@@ -1553,7 +1564,7 @@ Sunday, 03. July 2016 08:35PM
 
 - Brain-derived neurotrophic factor, also known as BDNF, is a protein[1] that, in humans, is encoded by the BDNF gene.[2][3] BDNF is a member of the neurotrophin family of growth factors, which are related to the canonical Nerve Growth Factor. Neurotrophic factors are found in the brain and the periphery.
 
-- BDNF acts on certain neurons of the central nervous system and the peripheral nervous system, helping to support the survival of existing neurons, and encourage the growth and differentiation of new neurons and synapses.[4][5] In the brain, it is active in the hippocampus, cortex, and basal forebrainareas vital to learning, memory, and higher thinking
+- BDNF acts on certain neurons of the central nervous system and the peripheral nervous system, helping to support the survival of existing neurons, and encourage the growth and differentiation of new neurons and synapses.[4][5] In the brain, it is active in the hippocampus, cortex, and basal forebrain—areas vital to learning, memory, and higher thinking
 
 - BDNF expression is significantly enhanced by environmental enrichment and appears to be the primary source of environmental enrichments ability to enhance cognitive processes. Environmental enrichment enhances synaptogenesis, dendridogenesis, and neurogenesis, leading to improved performance on various learning and memory tasks.
 
@@ -1577,7 +1588,7 @@ Saturday, 02. July 2016 07:14PM
 
 **Url:** [https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
 
-- Memory recollection usually starts with a cue  a few notes of a jangly doorbell, say, might remind you of a song. Information about the cue is transmitted from your eyes and ears to your brains hippocampus, where a set of cells recognise it. These cells then trigger a pattern of activity in the front of the brain that matches that of the memory.
+- Memory recollection usually starts with a cue – a few notes of a jangly doorbell, say, might remind you of a song. Information about the cue is transmitted from your eyes and ears to your brain’s hippocampus, where a set of cells recognise it. These cells then trigger a pattern of activity in the front of the brain that matches that of the memory.
 
 
 ___
@@ -1636,7 +1647,7 @@ Saturday, 02. July 2016 04:32PM
 
 **Url:** [http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)
 
-- "One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one's greatest efforts." Albert Einstein
+- "One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one's greatest efforts." —Albert Einstein
 
 
 ___
@@ -1721,7 +1732,7 @@ Saturday, 25. June 2016 03:53AM
 
 - Combining a positive emotional component with a given stimulus promotes memory for future stimuli of the same type
 
-- Our brain, quoting Javiera Oyarzn, first author of the study, "works as a sorting machine. Every time we expose ourselves to a stimulus, our brain sorts it out in a category, such as people, animals, objects, etc. This way, whenever we receive new information we can integrate it with similar available information thanks to our ability to generalize
+- Our brain, quoting Javiera Oyarzún, first author of the study, "works as a sorting machine. Every time we expose ourselves to a stimulus, our brain sorts it out in a category, such as people, animals, objects, etc. This way, whenever we receive new information we can integrate it with similar available information thanks to our ability to generalize
 
 - we usually do not remember the details surrounding our usual way back home, but if during that time we receive a phone call with good news, or we witness a car accident, we will remember those details with much more precision
 
@@ -1937,7 +1948,7 @@ Wednesday, 15. June 2016 02:58AM
 
 - Network-in-network (NiN) had the great and simple insight of using 1x1 convolutions to provide more combinational power to the features of a convolutional layers.
 
-- the great insight of the inception module was the use of 1x1 convolutional blocks (NiN) to reduce the number of features before the expensive parallel blocks. This is commonly referred as bottleneck
+- the great insight of the inception module was the use of 1x1 convolutional blocks (NiN) to reduce the number of features before the expensive parallel blocks. This is commonly referred as “bottleneck”
 
 - ResNet have a simple ideas: feed the output of two successive convolutional layer AND also bypass the input to the next layers!
 
@@ -2122,7 +2133,7 @@ Thursday, 19. May 2016 06:01PM
 
 **Url:** [https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
 
-- large, sudden surges in calcium flow in the brains of mice seconds after they receive low doses of tDCS. These surges seem to start in cells called astrocytes  star-shaped cells that dont fire themselves, but help to strengthen the connections between neurons and regulate the electrical signals that pass between them
+- large, sudden surges in calcium flow in the brains of mice seconds after they receive low doses of tDCS. These surges seem to start in cells called astrocytes – star-shaped cells that don’t fire themselves, but help to strengthen the connections between neurons and regulate the electrical signals that pass between them
 
 
 ___
@@ -2155,7 +2166,7 @@ Wednesday, 18. May 2016 09:46PM
 
 - About 140 cases of foreign accent syndrome (FAS) have been described in scientific studies, but most of these people developed the condition after having a stroke
 
-- a woman in Newcastle whod had a stroke in 2006 woke up with a Jamaican accent. Other British cases include a woman who developed a Chinese accent, and another who acquired a pronounced French-like accent overnight following a bout of cerebral vasculitis
+- a woman in Newcastle who’d had a stroke in 2006 woke up with a Jamaican accent. Other British cases include a woman who developed a Chinese accent, and another who acquired a pronounced French-like accent overnight following a bout of cerebral vasculitis
 
 
 ___
@@ -2205,7 +2216,7 @@ Monday, 25. April 2016 10:37PM
 
 - Our brains appear to rewrite history so that the choices we make after an event seem to precede it.
 
-- Participants reported accuracy was highest  surpassing 30 per cent  when the delays were shortest.
+- Participants’ reported accuracy was highest – surpassing 30 per cent – when the delays were shortest.
 
 - Such findings may also imply that many of the choices we believe we make only appear to be signs of free will after the fact
 
@@ -2240,7 +2251,7 @@ Saturday, 23. April 2016 03:14PM
 
 **Url:** [http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
 
-- what regulates our ability to store and recall information? New research suggests one of the processes involved is 'anti-memories'  connections between neurons that generate the exact opposite pattern of electrical activity to that of the original memory
+- what regulates our ability to store and recall information? New research suggests one of the processes involved is 'anti-memories' – connections between neurons that generate the exact opposite pattern of electrical activity to that of the original memory
 
 - The 'anti-memories' hypothesis comes back to the idea that healthy brain function results from the interaction between two types of brain cells: excitatory and inhibitory neurons
 
@@ -2333,7 +2344,7 @@ Saturday, 26. March 2016 09:58PM
 
 **Url:** [http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
 
-- new evidence reveals that bacteria may have another way to talk to one another: communication via electrical signalinga mechanism previously thought to occur only in multicellular organisms
+- new evidence reveals that bacteria may have another way to “talk” to one another: communication via electrical signaling—a mechanism previously thought to occur only in multicellular organisms
 
 
 ___
@@ -2447,7 +2458,7 @@ Tuesday, 15. March 2016 02:59AM
 
 **Url:** [http://www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
 
-- Unstructured interviews have an r2 of 0.14, meaning that they can explain only 14 percent of an employees performance
+- Unstructured interviews have an r2 of 0.14, meaning that they can explain only 14 percent of an employee’s performance
 
 - The best predictor of how someone will perform in a job is a work sample test (29 percent)
 
@@ -2579,7 +2590,7 @@ Friday, 26. February 2016 04:36PM
 
 **Url:** [https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
 
-- Canadian "syllabic" scripts are not syllabaries, in which every consonantvowel sequence has a separate glyph,[4] but abugidas,[5] in which consonants are modified in order to indicate an associated vowelin this case through a change in orientation, which is unique to Canadian syllabics
+- Canadian "syllabic" scripts are not syllabaries, in which every consonant–vowel sequence has a separate glyph,[4] but abugidas,[5] in which consonants are modified in order to indicate an associated vowel—in this case through a change in orientation, which is unique to Canadian syllabics
 
 
 ___
@@ -2610,7 +2621,7 @@ Tuesday, 01. December 2015 10:19PM
 
 - Tokamaks can only control the plasma in short bursts that last for no more than 7 minutes
 
-- Because of the stellarators design, experts suspect it could sustain a plasma for at least 30 minutes at a time
+- Because of the stellarators’ design, experts suspect it could sustain a plasma for at least 30 minutes at a time
 
 
 ___
@@ -2683,11 +2694,11 @@ Thursday, 10. March 2016 04:34PM
 
 - while eye contact is important, gaze aversion can make a robot look more intentional, thoughtful, and creative
 
-- Adding extra words called hedges (maybe, probably or I think ) and discourse markers (You know, just, well, like and um.) increases the likeability of robots
+- Adding extra words called hedges (“maybe,” “probably” or “I think” ) and discourse markers (“You know,” “just,” “well,” “like” and “um.”) increases the likeability of robots
 
 - Move back before going forward, move down before going up.
 
-- 1/f or pink noise is found in many biological systems.
+- 1/f or “pink” noise is found in many biological systems.
 
 
 ___
@@ -2936,7 +2947,7 @@ Saturday, 27. February 2016 07:53PM
 
 **Url:** [http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
 
-- A new study has found that yeast cells with increased levels of triacylglycerol (TAG)  the main constituent of body fat in humans and animals  lived longer, but when the cells were prevented from synthesising TAG and became leaner, they ended up dying earlier.
+- A new study has found that yeast cells with increased levels of triacylglycerol (TAG) – the main constituent of body fat in humans and animals – lived longer, but when the cells were prevented from synthesising TAG and became leaner, they ended up dying earlier.
 
 
 ___
@@ -3044,7 +3055,7 @@ Friday, 26. February 2016 08:53PM
 
 **Url:** [http://www.wired.com/2013/02/math-and-nature-universality/](http://www.wired.com/2013/02/math-and-nature-universality/)
 
-- a precise balance of randomness and regularity known as universality, which has been observed in the spectra of many complex, correlated systems
+- a precise balance of randomness and regularity known as “universality,” which has been observed in the spectra of many complex, correlated systems
 
 - regardless of their specific characteristics, the random matrices are found to exhibit that same chaotic yet regular pattern in the distribution of their eigenvalues
 
@@ -3066,7 +3077,7 @@ Friday, 26. February 2016 08:44PM
 
 - In mathematics, the G-function was introduced by Cornelis Simon Meijer (1936) as a very general function intended to include most of the known special functions as particular cases.
 
-- A notable property is the closure of the set of all G-functions not only under differentiation but also under indefinite integration. In combination with a functional equation that allows to liberate from a G-function G(z) any factor z that is a constant power of its argument z, the closure implies that whenever a function is expressible as a G-function of a constant multiple of some constant power of the function argument, f(x) = G(cx), the derivative and the antiderivative of this function are expressible so too.
+- A notable property is the closure of the set of all G-functions not only under differentiation but also under indefinite integration. In combination with a functional equation that allows to liberate from a G-function G(z) any factor zρ that is a constant power of its argument z, the closure implies that whenever a function is expressible as a G-function of a constant multiple of some constant power of the function argument, f(x) = G(cxγ), the derivative and the antiderivative of this function are expressible so too.
 
 
 ___
@@ -3088,11 +3099,11 @@ Friday, 26. February 2016 06:56PM
 
 - The science of teaching: Study finds brain processes that hold the key to understanding students
 
-- New research has identified the parts of the brain involved in computing mistakes in other peoples understanding, which is a key process in guiding students learning
+- New research has identified the parts of the brain involved in computing mistakes in other people’s understanding, which is a key process in guiding students’ learning
 
-- According to the results, the MRI scans revealed that a region of the teachers brain called the anterior cingulate cortex signalled how wrong the beliefs of the student were during the game
+- According to the results, the MRI scans revealed that a region of the teachers’ brain called the anterior cingulate cortex signalled how wrong the beliefs of the student were during the game
 
-- The teachers had to indicate whether the students decisions during the game were correct or not, as they lay in a Magnetic Resonance Imaging (MRI) scanner
+- The teachers had to indicate whether the students’ decisions during the game were correct or not, as they lay in a Magnetic Resonance Imaging (MRI) scanner
 
 
 ___
@@ -3248,7 +3259,7 @@ Sunday, 21. February 2016 06:05PM
 
 **Url:** [http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148](http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148)
 
-- Do/read/watch/play/listen to something you wouldnt normally and when you edge out of that comfort zone youll always walk away a little happier.
+- Do/read/watch/play/listen to something you wouldn’t normally and when you edge out of that comfort zone you’ll always walk away a little happier.
 
 
 ___
@@ -3268,7 +3279,7 @@ Sunday, 21. February 2016 04:20PM
 
 - Epicenter of brain's predictive ability pinpointed by scientists
 
-- "The unique contribution of our paper is to show that limbic tissue, because of its structure and the way the neurons are organized, is predicting," Barrett said. "It is directing the predictions to everywhere else in the cortex, and that makes it very powerful."
+- "The unique con­tri­bu­tion of our paper is to show that limbic tissue, because of its struc­ture and the way the neu­rons are orga­nized, is pre­dicting," Bar­rett said. "It is directing the pre­dic­tions to every­where else in the cortex, and that makes it very powerful."
 
 
 ___
@@ -3321,7 +3332,7 @@ Monday, 15. February 2016 03:24PM
 
 - recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing
 
-- 360 TB/disc data capacity, thermal stability up to 1,000C and virtually unlimited lifetime at room temperature (13.8 billion years at 190C )
+- 360 TB/disc data capacity, thermal stability up to 1,000°C and virtually unlimited lifetime at room temperature (13.8 billion years at 190°C )
 
 
 ___
@@ -3454,7 +3465,7 @@ Saturday, 13. February 2016 12:30AM
 
 **Url:** unknown
 
-- staring into another human beings eyes for 10 uninterrupted minutes had had a profound effect on their visual perception and mental state
+- staring into another human being’s eyes for 10 uninterrupted minutes had had a profound effect on their visual perception and mental state
 
 
 ___
@@ -3991,7 +4002,7 @@ Wednesday, 10. February 2016 02:57AM
 
 **Url:** [http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
 
-- What the researchers discovered when studying Synechocystis  a species of cyanobacteria found in freshwater lakes and rivers  is that their cell bodies act like a lens. When light hits the spherical surface of the cell, it refracts into a point on the other side of the cell. This triggers movement by the cell away from the focused internal spot, towards the source of the light, with the cells using tiny tentacle-like structures called pili to pull themselves forwards.
+- What the researchers discovered when studying Synechocystis – a species of cyanobacteria found in freshwater lakes and rivers – is that their cell bodies act like a lens. When light hits the spherical surface of the cell, it refracts into a point on the other side of the cell. This triggers movement by the cell away from the focused internal spot, towards the source of the light, with the cells using tiny tentacle-like structures called pili to pull themselves forwards.
 
 
 ___
@@ -4117,7 +4128,7 @@ Friday, 22. January 2016 12:51AM
 
 - the brain is constantly looping signals through established pathways - pathways that can be thought of as city street maps for our minds
 
--  three different areas of functionality: sensory (whats currently happening), behavioural (what we can do about it), and limbic (what it means to us)
+-  three different areas of functionality: sensory (what’s currently happening), behavioural (what we can do about it), and limbic (what it means to us)
 
 
 ___
@@ -4135,7 +4146,7 @@ Wednesday, 20. January 2016 10:43PM
 
 **Url:** [http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774](http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774)
 
-- Its the S trigger, and the S stands for stopped. Youre stopped  its like youre being restrained. And any time an animal is restrained, it will engage in an aggressive reaction to get free.
+- It’s the S trigger, and the S stands for stopped. You’re stopped — it’s like you’re being restrained. And any time an animal is restrained, it will engage in an aggressive reaction to get free.
 
 
 ___
@@ -4173,7 +4184,7 @@ Saturday, 16. January 2016 10:26PM
 
 **Url:** [http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields](http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields)
 
-- electrical fields can mediate propagation across layers of neurons. While the field is of low amplitude (approximately 26 mV/mm), it's able to excite and activate immediate neighbours
+- electrical fields can mediate propagation across layers of neurons. While the field is of low amplitude (approximately 2–6 mV/mm), it's able to excite and activate immediate neighbours
 
 
 ___
@@ -4341,7 +4352,7 @@ Thursday, 07. January 2016 02:04PM
 
 **Url:** [http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922](http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922)
 
-- Strength doesnt decline as quickly. After a month, youll still have most of your strength and your power (thats your strength in quick movements, like your ability to do squat jumps)
+- Strength doesn’t decline as quickly. After a month, you’ll still have most of your strength and your “power” (that’s your strength in quick movements, like your ability to do squat jumps)
 
 
 ___
@@ -4446,7 +4457,7 @@ Thursday, 24. December 2015 02:07AM
 
 **Url:** [http://www.sciencedaily.com/releases/2015/12/151223165503.htm](http://www.sciencedaily.com/releases/2015/12/151223165503.htm)
 
-- Imagine standing on a basketball court, throwing the basketball and watching it arc into the net. Chances are youll make that shot without a problem if youve been practicing, according to new research.
+- Imagine standing on a basketball court, throwing the basketball and watching it arc into the net. Chances are you’ll make that shot without a problem if you’ve been practicing, according to new research.
 
 
 ___
@@ -4551,7 +4562,7 @@ Monday, 14. December 2015 12:56AM
 
 **Url:** [http://www.sciencedaily.com/releases/2015/12/151211131723.htm](http://www.sciencedaily.com/releases/2015/12/151211131723.htm)
 
-- Getting enough sleep is an essential part of any athletes training program, but a new study reveals intensive bouts of exercise can make it hard to get 40 winks
+- Getting enough sleep is an essential part of any athlete’s training program, but a new study reveals intensive bouts of exercise can make it hard to get 40 winks
 
 - the athletes' moods and capacity for exercise both worsened over the period of observation
 
@@ -4755,7 +4766,7 @@ Sunday, 06. December 2015 09:40PM
 
 - As it turned out, the satiated group requested fewer binder clips than the hungry group. Once again, those who were hungry wanted more stuff
 
-- Despite taking more, the hungry people didnt rate the clips higher than those people who werent hungry.
+- Despite taking more, the hungry people didn’t rate the clips higher than those people who weren’t hungry.
 
 
 ___
@@ -4804,7 +4815,7 @@ Sunday, 06. December 2015 09:09PM
 
 - Their results show that people with some pathological personality types, such as those considered neurotic and impulsive, had more mates and even more children than average, suggesting that such traits are not being weeded out by natural selection and actually may confer an evolutionary advantage
 
-- there may be some biases in participants self-reports of relationship
+- there may be some biases in participants’ self-reports of relationship
 
 
 ___
@@ -5182,7 +5193,7 @@ Thursday, 03. December 2015 08:06PM
 
 **Url:** [https://www.newscientist.com/article/dn28467-alzheimers-drug-found-to-cause-harm-to-mouse-brain-cells/](https://www.newscientist.com/article/dn28467-alzheimers-drug-found-to-cause-harm-to-mouse-brain-cells/)
 
-- But in mice with a version of Alzheimers, antibodies that work the same way seem to make brain cells hyperactive and then eventually stop functioning
+- But in mice with a version of Alzheimer’s, antibodies that work the same way seem to make brain cells hyperactive and then eventually stop functioning
 
 - Antibodies are currently undergoing trials in humans, as they have been found to break down the sticky plaques that build up in the brain
 
@@ -5318,8 +5329,8 @@ Wednesday, 02. December 2015 09:42AM
 
 **Url:** [https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/](https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/)
 
--  They found that the runners cartilage seemed to degrade during the first 2500 km of the race.
-But after that distance  around 60 marathons  the cartilage seemed to recover
+-  They found that the runners’ cartilage seemed to degrade during the first 2500 km of the race.
+But after that distance – around 60 marathons – the cartilage seemed to recover
 
 - brains seemed to temporarily shrink in size by 6 per cent over the course of the race
 
@@ -5332,7 +5343,7 @@ Wednesday, 02. December 2015 09:36AM
 
 **Url:** [http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino](http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino)
 
-- What Pixar taught me is to just keep writing even when Im out of ideas. I learned that if you just keep going back to the well, it will uncork and there will be more.
+- What Pixar taught me is to just keep writing even when I’m out of ideas. I learned that if you just keep going back to the well, it will uncork and there will be more.
 
 
 ___
