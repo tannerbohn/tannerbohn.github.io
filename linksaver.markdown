@@ -4,6 +4,25 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Thursday, 08. June 2017 03:52AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170403123319.htm](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
+
+**Keywords:** *capital*, *social*, *parental*, *teacher*, *student*, *goddard*, *levels*, *study*
+
+- Most factors that help make schools successful cost lots of money - think teachers, technology and textbooks
+
+- a new study suggests one factor that doesn't need any cash to implement can play an important role in helping students succeed at even the most disadvantaged schools
+
+- That factor is what scientists call social capital: The network of relationships between school officials, teachers, parents and the community that builds trust and norms that promote academic achievement
+
+- In a study of 96 public high schools in Ohio, researchers found that schools with higher levels of social capital also had students who performed better on state-mandated math and reading tests. The results held true as much for urban schools in high-poverty areas as they did for wealthy suburban schools.
+
+- Wealthy schools do have an advantage in terms of social capital, but it is not overwhelming
+
+
+___
+
 Thursday, 08. June 2017 03:16AM
 
 **Url:** [http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
@@ -63,7 +82,7 @@ Wednesday, 07. June 2017 04:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
-**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *data*, *information*, *neuroscience*, *neural*
+**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *neuroscience*, *neural*, *predict*, *polling*
 
 - When many individual neurons collect data, how do they reach a unanimous decision? 
 
@@ -82,6 +101,8 @@ Tuesday, 30. May 2017 02:45PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
+**Keywords:** *dilate*, *pupil*, *listened*, *speaker*, *eye*, *studies*, *attention*, *findings*
+
 - Listeners are most likely to tune in when a speaker delivers the most emotional peaks of his/her narrative, as revealed by synchronous pupil dilation patterns of speakers and listeners due to shared attention.
 
 - Most people know that pupils dilate to adjust the amount of light that enters the eye, but pupils also dilate rapidly in response to information that is being processed moment by moment.
@@ -93,6 +114,8 @@ Tuesday, 30. May 2017 02:40PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
 
+**Keywords:** *myers*, *understand*, *phonemes*, *sound*, *language*, *perceptual*, *distinct*, *physics*
+
 - people retain what they've learned in a language class better if they go to bed before they get the chance hear a lot of their own language during the rest of the day. Evening classes are better.
 
 
@@ -101,6 +124,8 @@ ___
 Tuesday, 30. May 2017 04:26AM
 
 **Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
+
+**Keywords:** *proof*, *self*, *rewrite*, *optimal*, *code*, *searcher*, *referential*, *initial*
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
@@ -112,6 +137,8 @@ ___
 Tuesday, 30. May 2017 04:15AM
 
 **Url:** [http://people.idsia.ch/~juergen/compressednetworksearch.html](http://people.idsia.ch/~juergen/compressednetworksearch.html)
+
+**Keywords:** *weight*, *evolve*, *network*, *encode*, *compact*, *gp*, *program*, *input*
 
 - Many traditional methods of Evolutionary Computation [15-19] can evolve problem solvers with hundreds of parameters, but not millions. Ours can [1,2], by greatly reducing the search space through evolving compact, compressed descriptions [3-8] of huge solvers.
 
@@ -125,6 +152,8 @@ ___
 Tuesday, 30. May 2017 03:50AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502084630.htm](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
+
+**Keywords:** *word*, *neural*, *kimppa*, *learned*, *enhancement*, *exposure*, *response*, *finnish*
 
 - A new study has focused on language acquisition in the brain. Even short repetitive exposure to novel words induced a rapid neural response increase that is suggested to manifest memory-trace formation.
 
