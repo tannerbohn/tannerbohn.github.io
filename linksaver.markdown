@@ -4,11 +4,45 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Thursday, 08. June 2017 03:16AM
+
+**Url:** [http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
+
+**Keywords:** *magnet*, *properties*, *dimensional*, *layer*, *2d*, *material*, *triiodide*, *chromium*
+
+- After years of searching, many suspected that true two-dimensional magnets might not actually exist. But now we finally have proof - physicists have created the first ever 2D magnet
+
+- They decided to focus on a compound called chromium triiodide (or CrI3), because it's ferromagnetic in its three-dimensional form
+
+- Chromium triiodide is also easily reduced to two dimensions via the 'Scotch tape method' - using adhesive tape to peel off layer after layer until it's just one atom thick
+
+- the researchers tested its magnetic properties by shining a beam of polarised light at its surface. 
+
+- If it was still magnetic, the aligned spin of its electrons could be detected in the reflection of the beam, and sure enough, that's what the team found
+
+- They also discovered that a two-layered sheet of this material isn't magnetic, but when a third is added the substance becomes a ferromagnet again. The material remains magnetic if a fourth layer is added, but gains other properties
+
+
+___
+
+Thursday, 08. June 2017 03:05AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170607123843.htm](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
+
+**Keywords:** *test*, *eyes*, *studies*, *genetic*, *empathy*, *cognitive*, *score*, *autism*
+
+- people can rapidly interpret what another person is thinking or feeling from looking at their eyes alone. It also showed that some of us are better at this than others, and that women on average score better on this test than men
+
+- the team confirmed that our genes influence performance on the Eyes Test, and went further to identify genetic variants on chromosome 3 in women that are associated with their ability to "read the mind in the eyes."
+
+
+___
+
 Thursday, 08. June 2017 12:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
-**Keywords:** dlpfc, participants, problem, stimulated, solve, suppressed, mental, creative
+**Keywords:** *dlpfc*, *participants*, *problem*, *stimulated*, *solve*, *suppressed*, *mental*, *creative*
 
 - Scientists have found a way to improve creativity through brain stimulation
 
@@ -28,6 +62,8 @@ ___
 Wednesday, 07. June 2017 04:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
+
+**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *data*, *information*, *neuroscience*, *neural*
 
 - When many individual neurons collect data, how do they reach a unanimous decision? 
 
