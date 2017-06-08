@@ -4,6 +4,42 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Thursday, 08. June 2017 12:07AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
+
+- Scientists have found a way to improve creativity through brain stimulation
+
+- achieved this by temporarily suppressing a key part of the frontal brain called the left dorsolateral prefrontal cortex (DLPFC), which is involved in most of our thinking and reasoning
+
+- participants who received the intervention showed an enhanced ability to 'think outside the box'
+
+- We solve problems by applying rules we learn from experience, and the DLPFC plays a key role in automating this process
+
+- It works fine most of the time, but fails spectacularly when we encounter new problems which require a new style of thinking -- our past experience can indeed block our creativity
+
+- But the researchers also observed that these participants got worse at solving problems with a higher working memory demand (where many items are needed to be held in mind at once). These problems require the participants to try a number of different moves until finding the solution, which means they have to keep track of their mental operations.
+
+
+___
+
+Wednesday, 07. June 2017 04:14AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
+
+- When many individual neurons collect data, how do they reach a unanimous decision? 
+
+- as the monkey initially processes the data, polling many neurons is required to get a good prediction of the monkey's decision. Then, as the time for committing to a decision approaches, this pattern shifts. The neurons start to agree and eventually each one on its own is maximally predictive
+
+- at first the "neural voice" is heterogeneous and collective, but as the neurons get close to the decision point, the "neural voice" becomes homogenous and, in a sense, individualistic, as any neuron on its own is sufficient to read the monkey's mind
+
+- a possible explanation for this odd behavior is that the system has two tasks to solve. It must gather good information from noisy data and it must use this information to produce a coherent decision
+
+- an information accumulation phase that uses crowdsourcing to collect reliable information and a consensus phase that allows the system to act
+
+
+___
+
 Tuesday, 30. May 2017 02:45PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
