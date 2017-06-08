@@ -8,6 +8,8 @@ Thursday, 08. June 2017 12:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
+**Keywords:** dlpfc, participants, problem, stimulated, solve, suppressed, mental, creative
+
 - Scientists have found a way to improve creativity through brain stimulation
 
 - achieved this by temporarily suppressing a key part of the frontal brain called the left dorsolateral prefrontal cortex (DLPFC), which is involved in most of our thinking and reasoning
