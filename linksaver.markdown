@@ -4,11 +4,30 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 09. June 2017 03:29AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170608073249.htm](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
+
+**Keywords:** `eat`, `food`, `eat alone`, `mirror`, `research`, `social facilitation of eat`, `ate`, `appeal`
+
+- Researchers at Nagoya University reveal that eating in front of a mirror -- or even with a picture of yourself eating -- makes food more appealing.
+
+- People rate food as tasting better, and eat more of it, when they eat with company than when they eat alone. This so-called "social facilitation of eating" is a well-established phenomenon
+
+- wanted to find out what the minimum requirement is for the social facilitation of eating
+
+- In a further experiment, when the researchers replaced the mirror with photos of the volunteers eating, they discovered that the volunteers still experienced an increase in the appeal of food and ate more.
+
+- Studies have shown that for older adults, enjoying food is associated with quality of life, and frequently eating alone is associated with depression and loss of appetite
+
+
+___
+
 Friday, 09. June 2017 03:19AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170608145602.htm](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
 
-**Keywords:** *brain*, *computation*, *vision*, *visual*, *object*, *sharpee*, *data*, *process*
+**Keywords:** `brain`, `computation`, `vision`, `visual`, `object`, `sharpee`, `data`, `process`
 
 - analyzed how neurons in a critical part of the brain, called V2, respond to natural scenes, providing a better understanding of vision processing.
 
@@ -27,7 +46,7 @@ Thursday, 08. June 2017 04:01AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170406163511.htm](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
-**Keywords:** *prefrontal cortex*, *learn*, *goal*, *hippocampus*, *memories*, *rat learn*, *hippocampal*, *neuron*
+**Keywords:** `prefrontal cortex`, `learn`, `goal`, `hippocampus`, `memories`, `rat learn`, `hippocampal`, `neuron`
 
 - Neurons in the prefrontal cortex "teach" neurons in the hippocampus to "learn" rules that distinguish memory-based predictions in otherwise identical situations, suggesting that learning in the present helps guide learning in the future
 
@@ -48,7 +67,7 @@ Thursday, 08. June 2017 03:52AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170403123319.htm](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
-**Keywords:** *social capital*, *student*, *school*, *parental*, *teacher*, *goddard*, *levels of social capital*, *factor*
+**Keywords:** `social capital`, `student`, `school`, `parental`, `teacher`, `goddard`, `levels of social capital`, `factor`
 
 - Most factors that help make schools successful cost lots of money - think teachers, technology and textbooks
 
@@ -67,7 +86,7 @@ Thursday, 08. June 2017 03:16AM
 
 **Url:** [http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
 
-**Keywords:** *magnet*, *properties*, *layer*, *chromium triiodide*, *material*, *two dimensional*, *2d*, *even*
+**Keywords:** `magnet`, `properties`, `layer`, `chromium triiodide`, `material`, `two dimensional`, `2d`, `even`
 
 - After years of searching, many suspected that true two-dimensional magnets might not actually exist. But now we finally have proof - physicists have created the first ever 2D magnet
 
@@ -88,7 +107,7 @@ Thursday, 08. June 2017 03:05AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607123843.htm](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
-**Keywords:** *studies*, *test*, *eyes test*, *cognitive empathy*, *genetic variants*, *autism*, *performance*, *results*
+**Keywords:** `studies`, `test`, `eyes test`, `cognitive empathy`, `genetic variants`, `autism`, `performance`, `results`
 
 - people can rapidly interpret what another person is thinking or feeling from looking at their eyes alone. It also showed that some of us are better at this than others, and that women on average score better on this test than men
 
@@ -101,7 +120,7 @@ Thursday, 08. June 2017 12:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
-**Keywords:** *dlpfc*, *participants*, *problem*, *stimulated*, *solve*, *mental*, *creative*, *tdcs*
+**Keywords:** `dlpfc`, `participants`, `problem`, `stimulated`, `solve`, `mental`, `creative`, `tdcs`
 
 - Scientists have found a way to improve creativity through brain stimulation
 
@@ -122,7 +141,7 @@ Wednesday, 07. June 2017 04:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
-**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *data*, *information*, *single neuron*, *neuroscience*
+**Keywords:** `neuron`, `decision`, `collect`, `monkey`, `data`, `information`, `single neuron`, `neuroscience`
 
 - When many individual neurons collect data, how do they reach a unanimous decision? 
 
@@ -141,7 +160,7 @@ Tuesday, 30. May 2017 02:45PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
-**Keywords:** *listened*, *speaker*, *studies*, *pupil dilate*, *findings*, *conscious*, *narrative*, *eye*
+**Keywords:** `listened`, `speaker`, `studies`, `pupil dilate`, `findings`, `conscious`, `narrative`, `eye`
 
 - Listeners are most likely to tune in when a speaker delivers the most emotional peaks of his/her narrative, as revealed by synchronous pupil dilation patterns of speakers and listeners due to shared attention.
 
@@ -154,7 +173,7 @@ Tuesday, 30. May 2017 02:40PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
 
-**Keywords:** *myers*, *understand*, *language*, *sound*, *phonemes*, *distinct*, *speech*, *ability*
+**Keywords:** `myers`, `understand`, `language`, `sound`, `phonemes`, `distinct`, `speech`, `ability`
 
 - people retain what they've learned in a language class better if they go to bed before they get the chance hear a lot of their own language during the rest of the day. Evening classes are better.
 
@@ -165,7 +184,7 @@ Tuesday, 30. May 2017 04:26AM
 
 **Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
 
-**Keywords:** *optimal*, *proof*, *self*, *self rewrite*, *self referential*, *machine*, *initial code*, *proof searcher*
+**Keywords:** `optimal`, `proof`, `self`, `self rewrite`, `self referential`, `machine`, `initial code`, `proof searcher`
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
@@ -178,7 +197,7 @@ Tuesday, 30. May 2017 04:15AM
 
 **Url:** [http://people.idsia.ch/~juergen/compressednetworksearch.html](http://people.idsia.ch/~juergen/compressednetworksearch.html)
 
-**Keywords:** *program*, *weight*, *encode*, *gp*, *learn*, *network*, *20*, *visual input*
+**Keywords:** `program`, `weight`, `encode`, `gp`, `learn`, `network`, `20`, `visual input`
 
 - Many traditional methods of Evolutionary Computation [15-19] can evolve problem solvers with hundreds of parameters, but not millions. Ours can [1,2], by greatly reducing the search space through evolving compact, compressed descriptions [3-8] of huge solvers.
 
@@ -193,7 +212,7 @@ Tuesday, 30. May 2017 03:50AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502084630.htm](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
 
-**Keywords:** *word*, *neural*, *kimppa*, *exposure*, *learned*, *finnish*, *participants*, *brain*
+**Keywords:** `word`, `neural`, `kimppa`, `exposure`, `learned`, `finnish`, `participants`, `brain`
 
 - A new study has focused on language acquisition in the brain. Even short repetitive exposure to novel words induced a rapid neural response increase that is suggested to manifest memory-trace formation.
 
@@ -208,7 +227,7 @@ Tuesday, 30. May 2017 03:22AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502112607.htm](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
 
-**Keywords:** *language*, *bilinguals*, *duration*, *container*, *swedish*, *spanish*, *time*, *passage of time*
+**Keywords:** `language`, `bilinguals`, `duration`, `container`, `swedish`, `spanish`, `time`, `passage of time`
 
 - Linguists have discovered that people who speak two languages fluently think about time differently depending on the language context in which they are estimating the duration of events.
 
