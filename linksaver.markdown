@@ -4,7 +4,20 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-Top keywords: **`brain`** (7), **`research`** (5), **`cell`** (4), **`neuron`** (4), **`studies`** (3), **`learn`** (3), **`findings`** (2), **`participants`** (2), **`language`** (2), **`process`** (2)
+**Top keywords:** **`brain`** (8), **`research`** (6), **`cell`** (4), **`neuron`** (4), **`studies`** (3), **`learn`** (3), **`findings`** (2), **`participants`** (2), **`language`** (2), **`process`** (2)
+
+___
+
+Friday, 09. June 2017 06:01PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170410110226.htm](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
+
+**Keywords:** `research`, `brain`, `serious`, `studied`, `judgement`, `intention`, `universal`, `caused`
+
+- Researchers studied the areas of the brain involved in processes which prompt us to forgive those who have seriously, but unintentionally, messed up.
+
+- specifically examined the role of a part of the brain, called anterior superior temporal sulcus (aSTS), and discovered that the larger the amount of grey matter in this patch of cortex, the more likely we are to forgive those who have made a serious mistake by accident.
+
 
 ___
 
