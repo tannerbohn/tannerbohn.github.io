@@ -4,11 +4,51 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 09. June 2017 03:19AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170608145602.htm](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
+
+**Keywords:** *brain*, *computation*, *vision*, *visual*, *object*, *sharpee*, *data*, *process*
+
+- analyzed how neurons in a critical part of the brain, called V2, respond to natural scenes, providing a better understanding of vision processing.
+
+- The team revealed that V2 neurons process visual information according to three principles: first, they combine edges that have similar orientations, increasing robustness of perception to small changes in the position of curves that form object boundaries. 
+
+- Second, if a neuron is activated by an edge of a particular orientation and position, then the orientation 90 degrees from that will be suppressive at the same location, a combination termed "cross-orientation suppression." These cross-oriented edge combinations are assembled in various ways to allow us to detect various visual shapes. The team found that cross-orientation was essential for accurate shape detection.
+
+- The third principle is that relevant patterns are repeated in space in ways that can help perceive textured surfaces of trees or water and boundaries between them, as in impressionist paintings.
+
+- The researchers incorporated the three organizing principles into a model they named the Quadratic Convolutional model
+
+
+___
+
+Thursday, 08. June 2017 04:01AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170406163511.htm](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
+
+**Keywords:** *prefrontal cortex*, *learn*, *goal*, *hippocampus*, *memories*, *rat learn*, *hippocampal*, *neuron*
+
+- Neurons in the prefrontal cortex "teach" neurons in the hippocampus to "learn" rules that distinguish memory-based predictions in otherwise identical situations, suggesting that learning in the present helps guide learning in the future
+
+- The hippocampus is a temporal lobe brain structure needed for remembering recent events: for example, where you ate your last meal. The prefrontal cortex is where the brain uses context to switch flexibility between remembered rules, such as knowing to look left before crossing a street in North America but right before crossing in Britain. Without such rules, memories interfere with one another and predictions based on memory are inaccurate.
+
+- High-functioning individuals rapidly integrate memories with goals to choose their course of action. This cognitive flexibility requires interaction between the prefrontal cortex and hippocampus. 
+
+- We want to understand how our brains learn to think ahead and the mechanisms that use context to recall events, predict outcomes and inform decisions. For example, how does the brain know to answer a ringing telephone at home but not in someone else's house?
+
+- We already knew that hippocampal cells predicted memory decisions through prospective coding, firing at different rates before rats chose different goals. We learned that inactivating the prefrontal cortex reduced prospective coding by the hippocampus. Furthermore, the more the prefrontal cortex altered hippocampal activity as rats learned one rule, the faster they switched to the next rule
+
+- We found that neuronal activity was synchronized in the two structures, and that neurons in the prefrontal cortex modulated hippocampal place cell activity during learning
+
+
+___
+
 Thursday, 08. June 2017 03:52AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170403123319.htm](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
-**Keywords:** *capital*, *social*, *parental*, *teacher*, *student*, *goddard*, *levels*, *study*
+**Keywords:** *social capital*, *student*, *school*, *parental*, *teacher*, *goddard*, *levels of social capital*, *factor*
 
 - Most factors that help make schools successful cost lots of money - think teachers, technology and textbooks
 
@@ -27,7 +67,7 @@ Thursday, 08. June 2017 03:16AM
 
 **Url:** [http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
 
-**Keywords:** *magnet*, *properties*, *dimensional*, *layer*, *2d*, *material*, *triiodide*, *chromium*
+**Keywords:** *magnet*, *properties*, *layer*, *chromium triiodide*, *material*, *two dimensional*, *2d*, *even*
 
 - After years of searching, many suspected that true two-dimensional magnets might not actually exist. But now we finally have proof - physicists have created the first ever 2D magnet
 
@@ -48,7 +88,7 @@ Thursday, 08. June 2017 03:05AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607123843.htm](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
-**Keywords:** *test*, *eyes*, *studies*, *genetic*, *empathy*, *cognitive*, *score*, *autism*
+**Keywords:** *studies*, *test*, *eyes test*, *cognitive empathy*, *genetic variants*, *autism*, *performance*, *results*
 
 - people can rapidly interpret what another person is thinking or feeling from looking at their eyes alone. It also showed that some of us are better at this than others, and that women on average score better on this test than men
 
@@ -61,7 +101,7 @@ Thursday, 08. June 2017 12:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
-**Keywords:** *dlpfc*, *participants*, *problem*, *stimulated*, *solve*, *suppressed*, *mental*, *creative*
+**Keywords:** *dlpfc*, *participants*, *problem*, *stimulated*, *solve*, *mental*, *creative*, *tdcs*
 
 - Scientists have found a way to improve creativity through brain stimulation
 
@@ -82,7 +122,7 @@ Wednesday, 07. June 2017 04:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
-**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *neuroscience*, *neural*, *predict*, *polling*
+**Keywords:** *neuron*, *decision*, *collect*, *monkey*, *data*, *information*, *single neuron*, *neuroscience*
 
 - When many individual neurons collect data, how do they reach a unanimous decision? 
 
@@ -101,7 +141,7 @@ Tuesday, 30. May 2017 02:45PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
-**Keywords:** *dilate*, *pupil*, *listened*, *speaker*, *eye*, *studies*, *attention*, *findings*
+**Keywords:** *listened*, *speaker*, *studies*, *pupil dilate*, *findings*, *conscious*, *narrative*, *eye*
 
 - Listeners are most likely to tune in when a speaker delivers the most emotional peaks of his/her narrative, as revealed by synchronous pupil dilation patterns of speakers and listeners due to shared attention.
 
@@ -114,7 +154,7 @@ Tuesday, 30. May 2017 02:40PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
 
-**Keywords:** *myers*, *understand*, *phonemes*, *sound*, *language*, *perceptual*, *distinct*, *physics*
+**Keywords:** *myers*, *understand*, *language*, *sound*, *phonemes*, *distinct*, *speech*, *ability*
 
 - people retain what they've learned in a language class better if they go to bed before they get the chance hear a lot of their own language during the rest of the day. Evening classes are better.
 
@@ -125,7 +165,7 @@ Tuesday, 30. May 2017 04:26AM
 
 **Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
 
-**Keywords:** *proof*, *self*, *rewrite*, *optimal*, *code*, *searcher*, *referential*, *initial*
+**Keywords:** *optimal*, *proof*, *self*, *self rewrite*, *self referential*, *machine*, *initial code*, *proof searcher*
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
@@ -138,7 +178,7 @@ Tuesday, 30. May 2017 04:15AM
 
 **Url:** [http://people.idsia.ch/~juergen/compressednetworksearch.html](http://people.idsia.ch/~juergen/compressednetworksearch.html)
 
-**Keywords:** *weight*, *evolve*, *network*, *encode*, *compact*, *gp*, *program*, *input*
+**Keywords:** *program*, *weight*, *encode*, *gp*, *learn*, *network*, *20*, *visual input*
 
 - Many traditional methods of Evolutionary Computation [15-19] can evolve problem solvers with hundreds of parameters, but not millions. Ours can [1,2], by greatly reducing the search space through evolving compact, compressed descriptions [3-8] of huge solvers.
 
@@ -153,7 +193,7 @@ Tuesday, 30. May 2017 03:50AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502084630.htm](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
 
-**Keywords:** *word*, *neural*, *kimppa*, *learned*, *enhancement*, *exposure*, *response*, *finnish*
+**Keywords:** *word*, *neural*, *kimppa*, *exposure*, *learned*, *finnish*, *participants*, *brain*
 
 - A new study has focused on language acquisition in the brain. Even short repetitive exposure to novel words induced a rapid neural response increase that is suggested to manifest memory-trace formation.
 
@@ -167,6 +207,8 @@ ___
 Tuesday, 30. May 2017 03:22AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502112607.htm](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
+
+**Keywords:** *language*, *bilinguals*, *duration*, *container*, *swedish*, *spanish*, *time*, *passage of time*
 
 - Linguists have discovered that people who speak two languages fluently think about time differently depending on the language context in which they are estimating the duration of events.
 
