@@ -4,6 +4,40 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 09. June 2017 05:33PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170410085010.htm](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
+
+**Keywords:** `cognitive control`, `temperature`, `research`, `psychological`, `dr shalev`, `cool`, `cold`, `effect`
+
+- "Previous research focused on the actual effect of temperature on the psychological phenomenon known as 'cognitive control,'" says Dr. Shalev. "But this is the first time we were able to measure the effects of perceived temperature."
+
+- Cognitive control is the ability to deliberately inhibit responses or make choices that maximize the long-term best interests of the individual.
+
+- 87 students performed an "anti-saccade task," which requires looking in the opposite direction an object is moving and measures cognitive control. In the second experiment, 28 students were shown images of winter scenery, a temperature-neutral concrete street and a sunny landscape, and told to picture themselves in those settings
+
+- The result indicated that those viewing the cold landscape did better and that even without a physical trigger, cognitive control can be activated through conceptual processes alone
+
+
+___
+
+Friday, 09. June 2017 02:23PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170609091229.htm](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
+
+**Keywords:** `cell`, `develop`, `chandelier cell`, `axon`, `synapse`, `neurons`, `cell axon`, `varicosities`
+
+- A basic tenet of neural development is that young neurons make far more connections than they will actually use, with very little specificity. They selectively maintain only the ones that they end up needing
+
+- Once many of these connections are made, the brain employs a use-it or lose-it strategy; if the organism's subsequent experiences stimulate the synapse, it will strengthen and survive. If not, the synapse will weaken and eventually disappear
+
+- a unique type of inhibitory interneuron called chandelier cells -- which are implicated in several diseases affecting the brain such as schizophrenia and epilepsy -- seem to develop their connections differently than other types of neurons.
+
+- Most cells' axons reach out and form synapses on other cells' dendrites or cell bodies, but chandelier cells exclusively inhibitory synapse on other cells' axon initial segments (AIS), right where the cell begins to send its own signal down the axon. At this location, the chandelier cells have a greater impact on other cell's behavior.
+
+
+___
+
 Friday, 09. June 2017 03:53AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170606201359.htm](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
