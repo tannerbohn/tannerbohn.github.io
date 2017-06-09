@@ -4,6 +4,25 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Friday, 09. June 2017 03:53AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170606201359.htm](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
+
+**Keywords:** `studies`, `brain`, `associated`, `alcohol consumption`, `cognitive`, `findings`, `drinking`, `alcohol`
+
+- Alcohol consumption, even at moderate levels, is associated with increased risk of adverse brain outcomes and steeper decline in cognitive (mental) skills
+
+- Heavy drinking is known to be associated with poor brain health, but few studies have examined the effects of moderate drinking on the brain -- and results are inconsistent.
+
+- They used data on weekly alcohol intake and cognitive performance measured repeatedly over 30 years (1985-2015) for 550 healthy men and women
+
+- After adjusting for these confounders, the researchers found that higher alcohol consumption over the 30 year study period was associated with increased risk of hippocampal atrophy
+
+- Our findings support the recent reduction in UK safe limits and call into question the current US guidelines, which suggest that up to 24.5 units a week is safe for men, as we found increased odds of hippocampal atrophy at just 14-21 units a week, and we found no support for a protective effect of light consumption on brain structure
+
+
+___
+
 Friday, 09. June 2017 03:29AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170608073249.htm](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
@@ -244,6 +263,8 @@ Tuesday, 30. May 2017 03:17AM
 
 **Url:** [https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
 
+**Keywords:** `cell`, `brain`, `mutation`, `somatic mutation`, `research`, `genetic`, `neuron`, `genome`
+
 - Accepted dogma holds that—although every cell in the body contains its own DNA—the genetic instructions in each cell nucleus are identical. But new research has now proved this assumption wrong.
 
 - There are actually several sources of spontaneous mutation in somatic (nonsex) cells, resulting in every individual containing a multitude of genomes—a situation researchers term somatic mosaicism.
@@ -256,6 +277,8 @@ ___
 Tuesday, 30. May 2017 03:13AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170502204545.htm](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
+
+**Keywords:** `children`, `aroma`, `memory`, `room`, `effect`, `test`, `dr mark`, `academic performance`
 
 - Exposure to the aroma of rosemary essential oil can significantly enhance working memory in children.
 
@@ -270,6 +293,8 @@ Tuesday, 30. May 2017 12:08AM
 
 **Url:** [https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
 
+**Keywords:** `predator`, `prey`, `model`, `group`, `behavior`, `research`, `resulted`, `chasing`
+
 - Since a gazelle can run faster than a lion, how do lions ever catch gazelles? A new model of predator-prey interaction shows how groups of predators use collective chasing strategies, such as cornering and circling, to pursue and capture faster prey. Without this tactical collaboration, the predators would have no chance of catching these prey.
 
 
@@ -278,6 +303,8 @@ ___
 Monday, 29. May 2017 10:59PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170529090526.htm](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
+
+**Keywords:** `learn`, `neuron`, `signal`, `cell`, `response`, `associate`, `brain`, `research`
 
 - Individual neurons can learn not only single responses to a particular signal, but also a series of reactions at precisely timed intervals
 
@@ -289,6 +316,8 @@ ___
 Saturday, 27. May 2017 06:14AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/05/170525123048.htm](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
+
+**Keywords:** `brain`, `network`, `executive function`, `modular`, `structural`, `researchers`, `brain network`, `global integrated`
 
 - As children age into adolescence and on into young adulthood, they show dramatic improvements in their ability to control impulses, stay organized, and make decisions. Those "executive functions" of the brain are key factors in determining outcomes, including educational success, drug use, and psychiatric illness.
 
@@ -302,6 +331,8 @@ ___
 Saturday, 27. May 2017 01:06AM
 
 **Url:** [http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
+
+**Keywords:** `sleep`, `brain`, `synapses`, `activates`, `astrocyte`, `chronic sleep deprived`, `cell`, `process`
 
 - persistently poor sleep causes the brain to clear a significant amount of neurons and synaptic connections, and recovering sleep might not be able to reverse the damage
 
