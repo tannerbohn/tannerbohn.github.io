@@ -4,6 +4,23 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
+Top keywords: **`brain`** (7), **`research`** (5), **`cell`** (4), **`neuron`** (4), **`studies`** (3), **`learn`** (3), **`findings`** (2), **`participants`** (2), **`language`** (2), **`process`** (2)
+
+___
+
+Friday, 09. June 2017 05:54PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170410085324.htm](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
+
+**Keywords:** `green space`, `study`, `urban environment`, `older people`, `aged population`, `walked between busy`, `volunteers`, `universities`
+
+- Walking between busy urban environments and green spaces triggers changes in levels of excitement, engagement and frustration in the brain, a study of older people has found
+
+- We found that older participants experienced beneficial effects of green space whilst walking between busy built urban environments and urban green space environments
+
+
+___
+
 Friday, 09. June 2017 05:33PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410085010.htm](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
