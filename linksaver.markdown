@@ -4,7 +4,22 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (8), **`research`** (6), **`cell`** (4), **`neuron`** (4), **`studies`** (3), **`learn`** (3), **`findings`** (2), **`participants`** (2), **`language`** (2), **`process`** (2)
+**Top keywords:** **`brain`** (17), **`research`** (9), **`studies`** (7), **`neuron`** (7), **`cell`** (6), **`learn`** (5), **`memories`** (4), **`process`** (4), **`synapse`** (3), **`hippocampus`** (3), **`develop`** (3), **`object`** (3), **`effect`** (3), **`sleep`** (2), **`computation`** (2)
+
+___
+
+Friday, 09. June 2017 09:41PM
+
+**Url:** [http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
+
+**Keywords:** `plant`, `germinate`, `cell`, `plant seed`, `sprout`, `seed`, `research`, `separation`
+
+- found two small groups of cells inside plant embryos that operate in a similar way to the human brain, and help decide when the plant should start sprouting
+
+- When the germination cell group finally wins, the seed sprouts
+
+- By tweaking the hormone activity between the cell groups, the scientists were able to control the timing of the germination.
+
 
 ___
 
@@ -415,6 +430,8 @@ Saturday, 27. May 2017 12:47AM
 
 **Url:** [http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
 
+**Keywords:** `brain`, `monkey`, `social interacting`, `video`, `human`, `activated`, `object`, `process`
+
 - a network in the monkey brain that's exclusively devoted to analysing social interactions.
 
 - Most primates, including humans, are highly social animals, and are able to effortlessly analyse social interactions. But we don't know much about the neural networks that allow monkeys to do this kind of sophisticated processing
@@ -426,6 +443,8 @@ Friday, 26. May 2017 06:04PM
 
 **Url:** [http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
 
+**Keywords:** `birth rate`, `per 1 000`, `pregnancies`, `babies`, `birth`, `mother`, `better`, `women age`
+
 - For the first time in human history, American women in their 30s are having more babies than women in their 20s, with the average age of first-time mothers sitting at about 28 - a massive two-year leap from 2014.
 
 - A study of 1.5 million men and women in Sweden last year found that when mothers decided to delay having kids until they were older - even into their 40s - they were more likely to have children who were taller, more physically fit, got better grades in high school, and were more likely to go to university.
@@ -436,6 +455,8 @@ ___
 Saturday, 20. May 2017 08:17PM
 
 **Url:** [http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
+
+**Keywords:** `gene`, `metabolism`, `rna`, `function`, `caetano anolls`, `organic`, `develop`, `molecules`
 
 - A new study on how genes function across the living world has added weight to the hypothesis that life on Earth was capturing energy from chemical reactions before it was copying its codes.
 
@@ -450,6 +471,8 @@ Monday, 08. May 2017 02:04PM
 
 **Url:** [https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
 
+**Keywords:** `question`, `sentence`, `learn`, `read`, `ask`, `mazidi`, `ask question`, `du`
+
 - The machine-learning algorithm can read a passage of text and come up with the kind of questions you might ask to check someone’s understanding of a topic.
 
 - trained it on more than 500 Wikipedia articles and 100,000 questions about those articles sourced from crowdworkers. For example, a sentence about different types of crop grown in Africa might be paired with the question “What is grown in the fertile highlands?”
@@ -462,6 +485,8 @@ ___
 Saturday, 29. April 2017 09:43PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170427120906.htm](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
+
+**Keywords:** `worried`, `sweeny`, `motivate`, `prevent`, `emotional`, `report`, `feeling of worried`, `pleasurable`
 
 - Despite its negative reputation, not all worry is destructive or even futile
 
@@ -477,6 +502,8 @@ ___
 Thursday, 27. April 2017 01:13AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170407103604.htm](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
+
+**Keywords:** `dbi`, `neurons`, `brain`, `monyer`, `hippocampus`, `process`, `gaba`, `peptide`
 
 - until now it has been unknown which molecular processes translate environmental changes into the production of new neurons
 
@@ -495,6 +522,8 @@ Wednesday, 26. April 2017 05:46PM
 
 **Url:** [https://www.scientificamerican.com/article/put-a-bird-on-it/](https://www.scientificamerican.com/article/put-a-bird-on-it/)
 
+**Keywords:** `identities`, `coaster`, `decorated`, `custom`, `studies`, `flip game`, `custom coaster`, `cleats`
+
 - In several studies in an upcoming issue of the Journal of Marketing Research, students worked and played better when using items they had decorated to portray aspects of themselves.
 
 - Even though participants did not expect any benefit, they threw customized darts more accurately, they came up with more anagrams using a customized pen, and they played a beer-coaster flipping game better with customized coasters. Across the studies, customization boosted performance by 25 percent.
@@ -507,6 +536,8 @@ ___
 Tuesday, 25. April 2017 08:58PM
 
 **Url:** [https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
+
+**Keywords:** `ghrelin`, `brain cell`, `memories`, `parkinsons disease`, `hormone`, `levels`, `effect`, `people`
 
 - Animals that have reduced-calorie diets have better mental abilities, and ghrelin might be part of the reason why. Injecting the hormone into mice improves their performance in learning and memory tests, and seems to boost the number of neuron connections in their brains.
 
@@ -521,6 +552,8 @@ Monday, 24. April 2017 02:07AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170420090300.htm](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
 
+**Keywords:** `students`, `course`, `ramirez`, `forget`, `studies`, `psychological`, `stress`, `material`
+
 - University students who identify as strong in mathematics quickly forgot much of the material from a mathematics course. The explanation: We tend to forget unpleasant experiences and memories that threaten our self-image as a way to preserve our psychological well-being.
 
 - the researchers found that the students who forgot the most content from the class were those who reported a high level of stress during the course. But, paradoxically, the study also found that the strong relationship between stress level and the tendency to forget course material was most prevalent among the students who are most confident in their own mathematical abilities.
@@ -533,6 +566,8 @@ ___
 Monday, 24. April 2017 12:40AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170403123325.htm](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
+
+**Keywords:** `robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
 
 - For the first time, researchers in the field of evolutionary robotics have used physically embodied robots to study epigenetic effects on robot evolution
 
@@ -548,6 +583,8 @@ ___
 Monday, 17. April 2017 12:57PM
 
 **Url:** [https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
+
+**Keywords:** `antinori`, `open`, `mixed percept`, `creative`, `experience`, `open people`, `person`, `brain`
 
 - There’s some evidence that people with a greater degree of openness also have better visual awareness. For example, when focusing on letters moving on a screen, they are more likely to notice a grey square appearing elsewhere on the display.
 
@@ -565,6 +602,8 @@ Saturday, 15. April 2017 06:50PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/02/170203103432.htm](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
 
+**Keywords:** `granule cell`, `dentate gyrus`, `neurogenesis`, `synapse`, `neuron`, `connections`, `brain`, `cell`
+
 - Does the brain create additional synapses from the cortical neurons to the new granule cells, or do some cortical neurons transfer connections from mature granule cells to the new granule cells? Researchers have found that the connections are transferred, without adding to the number of synapses.
 
 - The dentate gyrus is one of just two areas in the brain where new neurons are continuously formed in adults. When a new granule cell neuron is made in the dentate gyrus, it needs to get 'wired in,' by forming synapses, or connections, in order to contribute to circuit function
@@ -576,6 +615,8 @@ Saturday, 15. April 2017 06:26PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/02/170202141913.htm](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
 
+**Keywords:** `synapse`, `sleep`, `size`, `brain`, `shy`, `wake`, `cirelli`, `tononi`
+
 - Striking electron microscope pictures from inside the brains of mice suggest what happens in our own brain every day: Our synapses -- the junctions between nerve cells -- grow strong and large during the stimulation of daytime, then shrink by nearly 20 percent while we sleep, creating room for more growth and learning the next day.
 
 - The scaling occurred in about 80 percent of the synapses but spared the largest ones, which may be associated with the most stable memory traces.
@@ -586,6 +627,8 @@ ___
 Saturday, 15. April 2017 05:10PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170406143936.htm](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
+
+**Keywords:** `memories`, `hippocampus`, `prefrontal cortex`, `store`, `engram cells`, `trace`, `research`, `studies`
 
 - A study of neural circuits that underlie memory consolidation reveals memories are formed simultaneously in the hippocampus and long-term storage location of brain's cortex, with long-term memories remaining 'silent' for two weeks before maturing, which upends dominant theories of memory consolidation.
 
@@ -599,6 +642,8 @@ ___
 Saturday, 15. April 2017 04:40AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170413141122.htm](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
+
+**Keywords:** `random`, `human`, `abilities`, `studies`, `abilities to behave random`, `age`, `coin flips`, `hypothetical results`
 
 - People's ability to make random choices or mimic a random process, such as coming up with hypothetical results for a series of coin flips, peaks around age 25, according to a study.
 
@@ -615,6 +660,8 @@ Tuesday, 28. March 2017 06:13PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170327083433.htm](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
 
+**Keywords:** `chocolate`, `understand`, `maxi`, `child`, `research`, `four year`, `thoughts`, `brain`
+
 - At around the age of four we suddenly do what three-year-olds are unable to do: put ourselves in someone else's shoes.
 
 - If you tell a 3-year-old child the following story of little Maxi, they will most probably not understand: Maxi puts his chocolate on the kitchen table, then goes to play outside. While he is gone, his mother puts the chocolate in the cupboard. Where will Maxi look for his chocolate whenhe comes back?
@@ -630,6 +677,8 @@ Monday, 20. March 2017 02:21AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/02/170217012453.htm](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
 
+**Keywords:** `infant`, `mother`, `de l etoile`, `infant direct sing`, `song`, `interact`, `tempo`, `behavior`
+
 - Unlike other forms of caregiving, the act of mothers singing to infants is a universal behavior that seemingly withstands the test of time.
 
 - Findings revealed that when infants were engaged during song, their mother's instincts are also on high alert
@@ -642,6 +691,8 @@ ___
 Saturday, 18. March 2017 03:14PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170312130257.htm](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
+
+**Keywords:** `memprize`, `learn`, `radboud university`, `effective`, `words`, `find`, `project`, `team`
 
 - Language learning app Memrise has announced the winner of its first Memprize: a competition to find the world's most efficient vocabulary learning technique.
 
@@ -658,6 +709,8 @@ Friday, 10. March 2017 12:36AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170309150634.htm](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
 
+**Keywords:** `dendrite`, `spike`, `neuron`, `computation`, `soma`, `brain`, `activate`, `scientists`
+
 - Neurons are large, tree-like structures made up of a body, the soma, with numerous branches called dendrites extending outward. Somas generate brief electrical pulses called "spikes" in order to connect and communicate with each other. Scientists had generally believed that the somatic spikes activate the dendrites, which passively send currents to other neurons' somas
 
 - the UCLA team discovered that dendrites are not just passive conduits. Their research showed that dendrites are electrically active in animals that are moving around freely, generating nearly 10 times more spikes than somas.
@@ -671,6 +724,8 @@ Wednesday, 08. March 2017 12:40AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170306091735.htm](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
 
+**Keywords:** `touch`, `huisman`, `hey bracelet`, `bracelet`, `university of twente`, `squeeze`, `shown`, `technology`
+
 - A new study has shown that virtual characters that can touch you are seen as being warmer and friendlier. Previous research had already shown that this applies to human interaction. 
 
 - According to Huisman, personal assistant applications for smartphones, such as Siri, will tend to become even more human as time goes on. Not only will these assistants be able to understand what you are saying, they will also register the underlying emotions and respond accordingly.
@@ -681,6 +736,8 @@ ___
 Tuesday, 07. March 2017 10:33AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170306114155.htm](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
+
+**Keywords:** `memories`, `object`, `move`, `flombaum`, `recognize`, `researchers`, `expect`, `brain`
 
 - Schurgin and Flombaum wondered if people's vast ability for recall, a skill machines and computers cannot come close to matching, had something to do with our "core knowledge" of the world, the innate understanding of basic physics that all humans, and many animals, are born with.
 
@@ -694,6 +751,8 @@ ___
 Sunday, 05. March 2017 11:39PM
 
 **Url:** [http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
+
+**Keywords:** `watson`, `evolvability`, `organism`, `adapt`, `gene network`, `gene`, `evolution`, `might`
 
 - The networks of genes in each animal is a bit like the network of neurons in our brains, which suggests they might be "learning" as they go
 
@@ -709,6 +768,8 @@ ___
 Sunday, 05. March 2017 03:01PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/03/170303091526.htm](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
+
+**Keywords:** `motivated`, `lecture`, `studied`, `effort`, `dietrich`, `individual`, `brbel kracke`, `julia dietrich`
 
 - Psychologist at University of Jena uncovers strong variability in motivation in learning situations
 
@@ -726,6 +787,8 @@ ___
 Tuesday, 28. February 2017 10:34AM
 
 **Url:** [http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
+
+**Keywords:** `brain`, `neuron`, `claustrum`, `koch`, `mice`, `trace`, `connect`, `organ`
 
 - A giant neuron found wrapped around entire mouse brain
 
