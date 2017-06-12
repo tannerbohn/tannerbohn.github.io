@@ -4,7 +4,81 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (17), **`research`** (9), **`studies`** (7), **`neuron`** (7), **`cell`** (6), **`learn`** (5), **`memories`** (4), **`process`** (4), **`synapse`** (3), **`hippocampus`** (3), **`develop`** (3), **`object`** (3), **`effect`** (3), **`sleep`** (2), **`computation`** (2)
+**Top keywords:** **`brain`** (19), **`research`** (10), **`neuron`** (9), **`cell`** (7), **`studies`** (7), **`learn`** (5), **`memories`** (4), **`hippocampus`** (4), **`process`** (4), **`sleep`** (3), **`synapse`** (3), **`develop`** (3), **`object`** (3), **`effect`** (3), **`computation`** (2)
+
+___
+
+Monday, 12. June 2017 12:18AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170608133355.htm](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
+
+**Keywords:** `brain`, `pitkow`, `model`, `computations`, `bias`, `research`, `neuron`, `neuroscience`
+
+- the brain's ability to perform "approximate probabilistic inference" cannot be truly studied with simple tasks that are "ill-suited to expose the inferential computations that make the brain special."
+
+- "Evolution has given us what we call a good model bias," Pitkow said. "It's been known for a couple of decades that very simple neural networks can compute any function, but those universal networks can be enormous
+
+- "In contrast, if you have the right kind of model -- not a completely general model that could learn anything, but a more limited model that can learn specific things, especially the kind of things that often happen in the real world -- then you have a model that's biased. In this sense, bias can be a positive trait
+
+- They suggested that the brain infers solutions based on statistical crosstalk between redundant population codes. Population codes are responses by collections of neurons that are sensitive to certain inputs, like the shape or movement of an object.
+
+- to better understand the brain, it can be more useful to describe what these populations compute, rather than precisely how each individual neuron computes it. Pitkow said this means thinking "at the representational level" rather than the "mechanistic level,"
+
+
+___
+
+Sunday, 11. June 2017 11:24PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170609133807.htm](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
+
+**Keywords:** `farmer`, `plant`, `pest`, `optimal`, `system`, `decisions`, `water`, `reach`
+
+- Bali's famous rice terraces, when seen from above, look like colorful mosaics because some farmers plant synchronously, while others plant at different times
+
+- Farmers that live upstream have the advantage of always having water; while those downstream have to adapt their planning on the schedules of the upstream farmers
+
+- When farmers are planting at different times, pests can move from one field to another, but when farmers plant in synchrony, pests drown and the pest load is reduced. So upstream farmers have an incentive to share water so that synchronous planting can happen. However, water resources are limited and there is not enough water for everybody to plant at the same time
+
+- As a result of this constraint, fractal planting patterns emerge, which yield close to maximal harvests
+
+- this optimal situation arises without central planners or coordination. Farmers interact locally and take local individual free decisions, which they believe will optimize their own harvest
+
+- this is in contrast to the tragedy of the commons, where the global optimum is not reached because everyone is maximizing his individual profit
+
+
+___
+
+Saturday, 10. June 2017 05:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170608123646.htm](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
+
+**Keywords:** `event`, `neuron`, `activation`, `cell`, `sequence`, `brain`, `hippocampus`, `smell`
+
+- The hippocampus can generalize, putting not just places but also events into sequence by changing the neural code in the rat brain
+
+- These 'event cells' discovered by the researchers may be a bridge linking information about the world with subsequent decision-making
+
+- The hippocampus is known to have a 'refresh rate' of around 8 Hz -- the theta cycle -- which guides how often neurons update their activity, a phenomenon called theta-cycle phase precession
+
+
+___
+
+Saturday, 10. June 2017 03:55PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170608123641.htm](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
+
+**Keywords:** `neuron`, `drnda`, `sleep`, `active`, `animal`, `gradinaru`, `drnda neuron`, `wake`
+
+- identified a neural circuit in the brain that controls wakefulness
+
+- dorsal raphe nucleus, where there are an under-studied group of dopamine neurons called dorsal raphe nucleus neurons, or DRNDA neurons," says Gradinaru. "People who have damage in this part of their brain have been shown to experience excessive daytime sleepiness
+
+- The team studied DRNDA neurons in mice, which are a model organism for studying the human brain. First, the team measured DRNDA activity while the animals encountered salient stimuli, such as the arrival of a potential mating partner, or a sudden unpleasant sensation, or food. The DRNDA neurons were highly active during these events
+
+- these neurons are least active when the animal is sleeping and increase in activity as the animal is waking up
+
+- After stimulating these neurons with light during the time that the animal would normally sleep, Gradinaru and her team found that the mouse woke up from sleep and remained awake. The reverse was true when the activity of DRNDA was chemically silenced -- the animal was likely to fall asleep, even in the face of motivationally important stimuli, such as the odor of a predator or a mating partner
+
 
 ___
 
@@ -27,7 +101,7 @@ Friday, 09. June 2017 06:01PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410110226.htm](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
 
-**Keywords:** `research`, `brain`, `serious`, `studied`, `judgement`, `intention`, `universal`, `caused`
+**Keywords:** `research`, `brain`, `serious`, `studied`, `judgement`, `asts`, `intention`, `universal`
 
 - Researchers studied the areas of the brain involved in processes which prompt us to forgive those who have seriously, but unintentionally, messed up.
 
@@ -40,7 +114,7 @@ Friday, 09. June 2017 05:54PM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170410085324.htm](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
 
-**Keywords:** `green space`, `study`, `urban environment`, `older people`, `aged population`, `walked between busy`, `volunteers`, `universities`
+**Keywords:** `green space`, `environment`, `study`, `urban environment`, `urban`, `older`, `health`, `older people`
 
 - Walking between busy urban environments and green spaces triggers changes in levels of excitement, engagement and frustration in the brain, a study of older people has found
 
@@ -144,7 +218,7 @@ Thursday, 08. June 2017 04:01AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170406163511.htm](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
-**Keywords:** `prefrontal cortex`, `learn`, `goal`, `hippocampus`, `memories`, `rat learn`, `hippocampal`, `neuron`
+**Keywords:** `learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
 
 - Neurons in the prefrontal cortex "teach" neurons in the hippocampus to "learn" rules that distinguish memory-based predictions in otherwise identical situations, suggesting that learning in the present helps guide learning in the future
 
@@ -165,7 +239,7 @@ Thursday, 08. June 2017 03:52AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/04/170403123319.htm](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
-**Keywords:** `social capital`, `student`, `school`, `parental`, `teacher`, `goddard`, `levels of social capital`, `factor`
+**Keywords:** `social capital`, `school`, `student`, `teacher`, `parental`, `goddard`, `levels of social capital`, `study`
 
 - Most factors that help make schools successful cost lots of money - think teachers, technology and textbooks
 
@@ -205,7 +279,7 @@ Thursday, 08. June 2017 03:05AM
 
 **Url:** [https://www.sciencedaily.com/releases/2017/06/170607123843.htm](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
-**Keywords:** `studies`, `test`, `eyes test`, `cognitive empathy`, `genetic variants`, `autism`, `performance`, `results`
+**Keywords:** `test`, `studies`, `eyes test`, `cognitive empathy`, `genetic`, `eyes`, `genetic variants`, `autism`
 
 - people can rapidly interpret what another person is thinking or feeling from looking at their eyes alone. It also showed that some of us are better at this than others, and that women on average score better on this test than men
 
