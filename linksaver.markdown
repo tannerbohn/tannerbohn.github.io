@@ -4,7 +4,30 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (23), **`research`** (10), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (6), **`learn`** (5), **`process`** (5), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3), **`network`** (3)
+**Top keywords:** **`brain`** (24), **`research`** (11), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (7), **`learn`** (6), **`process`** (5), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3), **`network`** (3)
+
+___
+
+Thursday, 22. June 2017 03:44AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170621125329.htm](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
+
+**Keywords:** `memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
+
+- research identifies a brain mechanism that enables more efficient multitasking. The key to this is "reactivating the learned memory," a process that allows a person to more efficiently learn or engage in two tasks in close conjunction
+
+- When we learn a new task, we have great difficulty performing it and learning something else at the same time
+
+- This is due to interference between the two tasks, which compete for the same brain resources
+
+- Our research demonstrates that the brief reactivation of a single learned memory, in appropriate conditions, enables the long-term prevention of, or immunity to, future interference in the performance of another task performed in close conjunction
+
+- researchers first taught student volunteers to perform a sequence of motor finger movements with one hand, by learning to tap onto a keypad a specific string of digits appearing on a computer screen as quickly and accurately as possible. After acquiring this learned motor memory, the memory was reactivated on a different day, during which the participants were required to briefly engage with the task -- this time with an addition of brief exposure to the same motor task performed with their other hand
+
+- By utilizing the memory reactivation paradigm, the subjects were able to perform the two tasks without interference
+
+- By uniquely pairing the brief reactivation of the original memory with the exposure to a new memory, long-term immunity to future interference was created, demonstrating a prevention of interference even a month after the exposures.
+
 
 ___
 
