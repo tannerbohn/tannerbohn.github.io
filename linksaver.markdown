@@ -4,7 +4,117 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (19), **`research`** (10), **`neuron`** (9), **`cell`** (7), **`studies`** (7), **`learn`** (5), **`memories`** (4), **`hippocampus`** (4), **`process`** (4), **`sleep`** (3), **`synapse`** (3), **`develop`** (3), **`object`** (3), **`effect`** (3), **`computation`** (2)
+**Top keywords:** **`brain`** (23), **`research`** (10), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (6), **`learn`** (5), **`process`** (5), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3), **`network`** (3)
+
+___
+
+Thursday, 22. June 2017 03:27AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170621132910.htm](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
+
+**Keywords:** `memories`, `forget`, `brain`, `remember`, `information`, `neuron`, `richards`, `mechanism`
+
+- A new review paper proposes that the goal of memory is not to transmit the most accurate information over time, but to guide and optimize intelligent decision making by only holding on to valuable information
+
+- It's important that the brain forgets irrelevant details and instead focuses on the stuff that's going to help make decisions in the real world
+
+- We find plenty of evidence from recent research that there are mechanisms that promote memory loss, and that these are distinct from those involved in storing information
+
+- forgetting allows us to adapt to new situations by letting go of outdated and potentially misleading information that can no longer help us maneuver changing environments
+
+- The second way forgetting facilitates decision making is by allowing us to generalize past events to new ones. In artificial intelligence this principle is called regularization and it works by creating simple computer models that prioritize core information but eliminate specific details, allowing for wider application
+
+- A constantly changing environment may require that we remember less
+
+
+___
+
+Thursday, 22. June 2017 02:51AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170620140624.htm](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
+
+**Keywords:** `brain`, `short term memories`, `mean`, `information`, `memories`, `finding`, `remember`, `create`
+
+- When we are learning new information, our brain has two different ways to remember the material for a short period of time, either by mentally rehearsing the sounds of the words or thinking about the meaning of the words
+
+- Both strategies create good short-term memory, but focusing on the meaning is more effective for retaining the information later on
+
+
+___
+
+Thursday, 22. June 2017 02:36AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170621082442.htm](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
+
+**Keywords:** `studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
+
+- Multitasking while studying may impair overall memory for the study material, but your ability to strategically identify and remember the most important information may stay intact
+
+- researchers asked 192 undergraduate student participants to view a series of word lists and remember as many words as possible. Importantly, each word had a numerical value, from 1 to 10, and participants were instructed to maximize the total value of the words they recalled
+
+- Students randomly assigned to the divided attention group studied the word lists as digits were also being read aloud -- they were instructed to press a key every time they heard three odd digits in a row. Other students studied the lists while lyrical music, with which they were familiar or unfamiliar, played in the background. Another group of students studied with no additional distractions.
+
+- As expected, those students who were forced to divide their attention between the word list and the digits recalled fewer words compared with the students in the other groups. The data showed that the background music had no discernible effect on students' overall recall.
+
+- students really did seem to pay attention to the value of the words -- their odds of recalling a 10-point word were almost five times greater than their odds of recalling a 1-point word. The link between value and recall held for students in all of the groups, regardless of whether they studied with or without distraction
+
+
+___
+
+Tuesday, 20. June 2017 01:36AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170619144827.htm](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
+
+**Keywords:** `brain`, `patients`, `word`, `process`, `ries`, `activate`, `neuronal`, `region`
+
+- Most adults can quickly and effortlessly recall as many as 100,000 regularly used words when prompted, but how the brain accomplishes this has long boggled scientists. How does the brain nearly always find the needle in the haystack?
+
+- Previous work has revealed that the brain organizes ideas and words into semantically related clusters
+
+- They measured the separate neuronal processes involved with first activating the item's conceptual cluster, then selecting the proper word. Surprisingly, they discovered the two processes actually happen at the same time and activate a much wider network of brain regions than previously suspected.
+
+- As expected, two regions known to be involved in language processing lit up, the left inferior frontal gyrus and the posterior temporal cortex. But so did several other regions not traditionally linked to language, including the medial and middle frontal gyri
+
+
+___
+
+Monday, 12. June 2017 10:48PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170612094139.htm](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
+
+**Keywords:** `function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
+
+- fronto-parietal network is responsible for a range of highly diverse functions, from planning and executing movements to mental rotation, and from spatial attention to working memory. But how can a single network participate in such a wide variety of functions?
+
+- recently put forward an original hypothesis -- all these cognitive functions rely on one central function: emulation
+
+- the fronto-parietal network is activated by very disparate tasks. This is the case for motor activities, such as picking up or pointing to an object, as well as for eye movements -- and even when no movement is involved, if we shift our attention or perform a mental calculation
+
+- A review of all the data currently available suggests that the tasks share a common process, which the scientists have termed "emulation." This process, which consists of planning and representing a movement without actually performing it, activates the brain network in the same way as real movements.
+
+- "But we hypothesise that the brain goes a step further," explains Dr Ptak: "It uses such dynamic representations to carry out increasingly complex cognitive functions beyond just planning movements."
+
+-  the skier who mentally rehearses his race before starting improves his performance. Such anticipated action prepares him for movements that are more accurate and precise.
+
+
+___
+
+Monday, 12. June 2017 03:52PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170612115345.htm](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
+
+**Keywords:** `computation`, `problem`, `oscillating`, `solve`, `color`, `system`, `graph`, `graph color problem`
+
+- We wanted to find a way to solve a problem without using the normal binary representations that have been the backbone of computing for decades
+
+- Their new system employs a network of electronic oscillators to solve graph coloring tasks -- a type of problem that tends to choke modern computers
+
+- In natural forms of computing, dynamical systems with complex interdependencies evolve rapidly and solve complex sets of equations in a massively parallel fashion.
+
+- When a group of oscillators were electrically connected via capacitive links, they automatically synchronized to the same frequency -- oscillating at the same rate. Meanwhile, oscillators directly connected to one another would operate at different phases within the same frequency, and oscillators in the same group but not directly connected would sync in both frequency and phase
+
+- The next step would be building a larger network of oscillators that could handle graph coloring problems with more objects at play
+
 
 ___
 
