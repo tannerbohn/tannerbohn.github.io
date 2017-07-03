@@ -106,11 +106,6 @@ ___
     - add tags, change colour
   - ~~in ideas.txt, should specific hashtags have their own icons? (or the hashtag text replaced with something?)~~
     - todo: is there a better way to have one note with multiple parents?
-  - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> be able to take notes anywhere/any time
-    - see [evernote](https://www.evernote.com/shard/s267/nl/34201306/00533b02-8c8e-446a-8f2f-dbb2365e8d34?title=Anytime%20Notes)
-    - use ring or wristband that can track movement, and later upload info. for conversion to text
-    - find way to easily/quickly encode information on string or tape
-    - build object where you can just press a button (perhaps in a particular direction), and it records it (on physical substrate?)
   - simulate creatures which store notes as property
     - move towards others created around same time
     - move towards other with similar content
@@ -180,6 +175,7 @@ ___
     - ~~recursive closed form finder for arbitrary numbers~~
     - closed forms of general continued fractions
   - geometrically motivated number system (baseless?)
+  - how does gravity work as a local computation?
   - function modifier for numerical integration accuracy
     - transform curve to smooth bumps -- converge to more smooth or uniform curve?
     - look for volume preserving operation that can be applied to continuous data
@@ -247,6 +243,11 @@ ___
     - why do we enjoy wordplay?
     - why do we enjoy certain artistic styles independent of their specific content?
     - why do we prefer human art over artificially generated art?
+  - why do we value human art more than artificial art?
+    - intention -> patterns we see are intentional (not false-positives)
+    - emotion -> causes us to emphasize with the artist/subject
+    - requires investment to produce
+    - there are sensual as well as contextual properties art should possess to ensure acceptance by humans
   - ~~create mapping from personal relationship type to colours~~
 
 ___
@@ -309,6 +310,8 @@ ___
   - simulate multilevel cooperation evolution (ex cells -> ... ->bodies -> communities)
   - dynamics of agents with different degrees of common knowledge
     - "momentum trades" of stocks have lower level
+  - evolve agents which develop language for describing things (need language to serve some function)
+    - one generation must teach the next, leading to need for compressibility/low entropy
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> evolve agents by seeing how much they display a given (set of?) emergent property(s)
   - ~~government substructure optimization~~
     - ~~see [evernote](https://www.evernote.com/shard/s267/nl/34201306/9002cf9d-1968-4af4-be2f-2a5909d9c758?title=Government%20Substructure%20Optimization), also [wordpress](https://tannerbohn.wordpress.com/2015/05/30/abstract-government-substructure-optimization/)~~

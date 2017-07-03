@@ -4,7 +4,24 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (24), **`research`** (11), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (7), **`learn`** (6), **`process`** (5), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3), **`network`** (3)
+**Top keywords:** **`brain`** (24), **`research`** (11), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (7), **`learn`** (6), **`process`** (5), **`participants`** (4), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3)
+
+___
+
+Sunday, 25. June 2017 04:46PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170623133039.htm](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
+
+**Keywords:** `smartphone`, `participants`, `phone`, `cognitive`, `cognitive capacity`, `person`, `experiment`, `reduce`
+
+- Your cognitive capacity is significantly reduced when your smartphone is within reach -- even if it's off.
+
+- participants were randomly instructed to place their smartphones either on the desk face down, in their pocket or personal bag, or in another room.
+
+- participants with their phones in another room significantly outperformed those with their phones on the desk, and they also slightly outperformed those participants who had kept their phones in a pocket or bag.
+
+- it didn't matter whether a person's smartphone was turned on or off, or whether it was lying face up or face down on a desk. Having a smartphone within sight or within easy reach reduces a person's ability to focus and perform tasks
+
 
 ___
 
