@@ -150,7 +150,7 @@ ___
     - convert words to notes/freqs
     - search "communication space" to make program that seems to show intention/human-ness/sentience
   - start Ada (successor to Fermi)
-    - possess sense of self (i.e. ability to learn and make desisions by simulating self doing them)
+    - possess sense of self (i.e. ability to learn and make decisions by simulating self doing them)
     - use associative network to store information
     - what is driving goal?
   - <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/good3.png" width="15"> <img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/construction.png" height="15"> create assistant with email as interface

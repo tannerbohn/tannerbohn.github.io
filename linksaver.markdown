@@ -4,7 +4,249 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (24), **`research`** (11), **`neuron`** (10), **`cell`** (7), **`studies`** (7), **`memories`** (7), **`learn`** (6), **`process`** (5), **`participants`** (4), **`hippocampus`** (4), **`sleep`** (3), **`computation`** (3), **`studied`** (3), **`word`** (3), **`information`** (3)
+**Top keywords:** **`brain`** (28), **`research`** (14), **`neuron`** (10), **`cell`** (8), **`memories`** (8), **`learn`** (7), **`studies`** (7), **`process`** (5), **`participants`** (5), **`object`** (5), **`study`** (4), **`information`** (4), **`network`** (4), **`hippocampus`** (4), **`sleep`** (3)
+
+___
+
+Monday, 18. September 2017 11:33PM
+
+**Url:** [http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
+
+**Keywords:** `learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
+
+- An overview of current trends for feature learning in the unsupervised way
+
+- Unsupervised learning by predicting the noise [Bojanowski & Joulin ICML17] 
+
+- Discovering causal signals in images [Lopez-Paz et al. CVPR17]
+
+- Object features and anticausal features are closely related and vice-versa context features and causal features are not necessarily related.
+
+- a causal feature would be indeed the Savanna’s visual patterns and an anticausal feature would be the lion’s mane.
+
+- Intrinsic motivation and automatic curricula via asymmetric self-play [Sukhbaatar et al. arXiv17]
+
+- An initial phase of self-playing is set up by splitting the agent into “two separate minds”, Alice and Bob. The authors propose self-playing under the assumption that the environment has to be (nearly) reversible or resettable to the initial state. In this case, Alice executes a task and asks Bob to do the same, by reaching the same observable state of the world where Alice ended up
+
+- Alice and Bob have their distinct rewards functions. Bob has to minimize the time for completion, while Alice is rewarded when Bob takes more time, while being able to achieve the goal. The interplay between these policies allow them to “automatically construct a curriculum of exploration”.
+
+- They tested the idea on a few environments and on a version of StarCraft without enemies to fight. “The target task is to build Marine units. To do this, an agent must follow a specific sequence of operations
+
+- On a final note, it isn’t just that just unsupervised learning is hard, but measuring its performance is even harder
+
+
+___
+
+Monday, 18. September 2017 10:57PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170814134832.htm](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
+
+**Keywords:** `event`, `brain`, `remember`, `memory`, `presented`, `image`, `replayed`, `encoding`
+
+- when remembering a sequence of events, the brain focuses on the event paid the least attention, rather than replaying the events in the order they occurred
+
+- presented adults with a series of three images to remember. After a five-second delay, participants were presented with one of the images and asked whether it was shown from the same perspective (front, left or right views) as in the original sequence and in what position (1, 2 or 3) the image had been presented.
+
+- the image that generated the weakest response in the brain during encoding was most strongly replayed during the delay period
+
+- may indicate that the brain addresses the limitations of working memory capacity by focusing on the event that requires the most effort to remember
+
+
+___
+
+Monday, 18. September 2017 10:50PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170814134836.htm](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
+
+**Keywords:** `object`, `pathway`, `processed`, `distinct`, `information`, `dorsal pathway`, `represent`, `ventral pathway`
+
+- distinct roles for two brain pathways in processing information related to an object, with one carrying a largely invariant representation of an object and the other a flexible one depending on what we do with an object
+
+- Visual information is thought to be processed in two different routes in the brain: A ventral pathway carries information about "what" an object is while a dorsal pathway represents "where" an object is in space. Recent studies have challenged this distinction by demonstrating robust object "what" information in the dorsal pathway
+
+- authors found that the dorsal pathway sees objects according to what they are and what we do with them
+
+- The ventral pathway, on the other hand, sees objects as they always are regardless of the task
+
+
+___
+
+Saturday, 26. August 2017 06:43PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170825124900.htm](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
+
+**Keywords:** `tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
+
+- found that chronic tinnitus is associated with changes in certain networks in the brain, and furthermore, those changes cause the brain to stay more at attention and less at rest
+
+- The precuneus is connected to two inversely related networks in the brain: the dorsal attention network, which is active when something holds a person's attention; and the default mode network, which are the "background" functions of the brain when the person is at rest and not thinking of anything in particular.
+
+- When the default mode network is on, the dorsal attention network is off, and vice versa. We found that the precuneus in tinnitus patients seems to be playing a role in that relationship
+
+- in patients with chronic tinnitus, the precuneus is more connected to the dorsal attention network and less connected to the default mode network
+
+
+___
+
+Saturday, 19. August 2017 11:49PM
+
+**Url:** [https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
+
+**Keywords:** `mutate`, `cell`, `houseley`, `gene`, `mechanism`, `adapt`, `copies`, `yeast`
+
+- DNA often contains multiple copies of extended sequences of base pairs or even whole genes. The exact number can vary among individuals because, when cells are duplicating their DNA before cell division, certain mistakes can insert or delete copies of gene sequences
+
+- CUP1, a gene that helps yeast resist the toxic effects of environmental copper. They found that when yeast was exposed to copper, the variation in the number of copies of CUP1 in the cells increased. On average, most cells had fewer copies of the gene, but the yeast cells that gained more copies—about 10 percent of the total population — became more resistant to copper and flourished
+
+- when cells replicate their DNA, the replication mechanism sometimes stalls. Usually the mechanism can restart and pick up where it left off. When it can’t, the cell can go back to the beginning of the replication process, but in doing so, it sometimes accidentally deletes a gene sequence or makes extra copies of it. That is what causes normal copy number variation
+
+- Houseley and his team made the case that a combination of factors makes these copying errors especially likely to hit genes that are actively responding to environmental stresses, which means that they are more likely to show copy number variation
+
+
+___
+
+Saturday, 19. August 2017 02:15PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170816134658.htm](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
+
+**Keywords:** `brain`, `stimulate`, `activate`, `cells`, `pralle`, `neuronal`, `magneto thermal stimulate`, `research`
+
+- Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily movements that include running, rotating and losing control of the extremities
+
+- The technique researchers developed is called magneto-thermal stimulation
+
+- Magneto-thermal stimulation involves using magnetic nanoparticles to stimulate neurons outfitted with temperature-sensitive ion channels. The brain cells fire when the nanoparticles are heated by an external magnetic field, causing the channels to open.
+
+- First, scientists use genetic engineering to introduce a special strand of DNA into targeted neurons, causing these cells to produce a heat-activated ion channel. Then, researchers inject specially crafted magnetic nanoparticles into the same area of the brain. These nanoparticles latch onto the surface of the targeted neurons, forming a thin covering like the skin of an onion.
+
+
+___
+
+Friday, 18. August 2017 10:57PM
+
+**Url:** [http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
+
+**Keywords:** `birth defects`, `research`, `nad`, `defects`, `babies`, `supplement`, `women`, `vitamin b3`
+
+- Researchers have identified a deficiency in a developmental molecule called NAD that can keep a baby's organs from forming properly in the womb – but the shortfall could be addressed by pregnant women taking vitamin B3, which may prevent a range of birth defects.
+
+- Vitamin B3, also known as niacin, is usually found in meats and green vegetables, along with condiments such as Vegemite and Marmite
+
+
+___
+
+Monday, 07. August 2017 09:30PM
+
+**Url:** [http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
+
+**Keywords:** `hydrogen`, `alloy`, `aluminium`, `fuel`, `water`, `reaction`, `research`, `hydrogen gas`
+
+- Researchers at the US Army Aberdeen Proving Ground Research Laboratory were developing a high-strength aluminium alloy when they made a startling discovery. During routine testing of the alloy, water poured over its surface started bubbling and producing hydrogen gas
+
+- the hydrogen-producing reaction just kept going, signaling the possibility of a portable, affordable source of hydrogen for fuel cells and other energy applications
+
+- The new material is stable and remains ready for use indefinitely. The starting material for the alloy is inexpensive scrap aluminium, which is fairly plentiful and cheap
+
+- This and other metals are used to create micron-scale grains, which are then arranged in a specific nanostructure
+
+
+___
+
+Monday, 07. August 2017 01:12AM
+
+**Url:** [https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
+
+**Keywords:** `p value`, `suggest`, `percent`, `paper`, `changed`, `science`, `example`, `05`
+
+- A large group of scientists and statisticians has uploaded a paper to the PsyArXiv preprint server arguing for changing the p-value from .05 to .005
+
+- They claim doing so would reduce the rate of false positives from the current 33 percent down to 5 percent.
+
+
+___
+
+Saturday, 22. July 2017 07:47PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/07/170721095440.htm](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
+
+**Keywords:** `grid cells`, `cells`, `place cells`, `model`, `activated`, `neuronal`, `hexagonal`, `temporal`
+
+- new theory for the origin of the grid cells required for spatial orientation in the mammalian brain, which assigns a vital role to the timing of trains of signals they receive from neurons called place cells
+
+- Individual place cells in the hippocampus respond to only a few spatial locations. The grid cells in the entorhinal complex, on the other hand, fire at multiple positions in the environment, such that specific sets are consecutively activated as an animal traverses its habitat.
+
+
+___
+
+Tuesday, 18. July 2017 09:41PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170613120531.htm](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
+
+**Keywords:** `activation`, `art`, `kaimal`, `artists`, `reward`, `study`, `doodled`, `participants`
+
+- Your brain's reward pathways become active during art-making activities like doodling
+
+- 26 participants wore fNIRS headbands while they completed three different art activities (each with rest periods between). For three minutes each, the participants colored in a mandala, doodled within or around a circle marked on a paper, and had a free-drawing session.
+
+- During all three activities, there was a measured increase in bloodflow in the brain's prefrontal cortex, compared to rest periods where bloodflow decreased to normal rates.
+
+- Doodling in or around the circle had the highest average measured bloodflow increase in the reward pathway compared to free-drawing (the next highest) and coloring. However, the difference between each form of art-making was not statistically significant, according to analysis
+
+- Doodling seemed to initiate the most brain activity in artists, but free-drawing was observed to be about the same for artists and non-artists. Interestingly, the set coloring activity actually resulted in negative brain activity in artists.
+
+
+___
+
+Tuesday, 18. July 2017 09:31PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170612115320.htm](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
+
+**Keywords:** `exercise`, `brain`, `effects`, `acute exercise`, `changes`, `behavioral`, `cognitive`, `function`
+
+- the most consistent behavioral effects of acute exercise are improved executive function, enhanced mood, and decreased stress levels
+
+- neurophysiological and neurochemical changes that have been reported after acute exercise show that widespread brain areas and brain systems are activated
+
+- one of the biggest open questions in this area is the relationship between the central neurochemical changes following acute exercise, that have mainly been described in rodents, and the behavioral changes seen after acute exercise reported in humans
+
+
+___
+
+Tuesday, 18. July 2017 09:19PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/07/170718103528.htm](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
+
+**Keywords:** `robot`, `human`, `empowerment`, `concept`, `harm`, `laws`, `salge`, `asimov`
+
+- chime_sound.set_volume(0.5)
+		mixer.Sound.play(chime_sound)
+		mixer.music.stop()
+
+- Scientists have developed a concept called Empowerment to help robots to protect and serve humans, while keeping themselves safe
+
+- Rather than trying to make a machine understand complex ethical questions, the concept is based on robots always seeking to keep their options open, and doing the same for the humans around them.
+
+
+___
+
+Monday, 03. July 2017 11:32AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/06/170627105445.htm](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
+
+**Keywords:** `mitoflash`, `long term`, `synaptic plasticity`, `synaptic`, `short term synaptic`, `ros`, `memories`, `signal`
+
+- revealed the essential role of dendritic mitochondrial flash in transforming short-term synaptic plasticity into long-term plasticity, which is known to be the cellular correlates of long-term memory. 
+
+- Mitochondrial flash or 'mitoflash' was first identified by Dr. CHENG Heping's team at PKU as a quantized signal at single-mitochondrion level, involving mitochondrial events such as membrane depolarization, reactive oxygen species (ROS) production, and matrix alkalization that last for tens of seconds. 
+
+- hypothesized that mitoflash might be involved in signaling transduction of synaptic plasticity
+
+- found that synaptic long-term potentiation (LTP) was always accompanied by one or more mitoflashes in nearby dendritic mitochondria after chemical, electrical or glutamate uncaging induced LTP
+
+- artificially induced mitoflashes could in turn facilitate transition from short-term synaptic potentiation to long-term potentiation
+
+- Further study revealed that synaptic calcium and calcium-calmodulin kinase was important for eliciting mitoflash, which in turn released ROS to signal long-term synaptic plasticity
+
 
 ___
 
