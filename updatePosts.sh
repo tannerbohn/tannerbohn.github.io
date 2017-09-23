@@ -6,23 +6,23 @@ python scripts/generateLinksaverPost.py
 
 echo "Done."
 
-echo "Generating Ideas markdown file..."
+#echo "Generating Ideas markdown file..."
 
-python /home/tanner/Dropbox/sandbox/IdeaManager/markdown_generator.py
+#python /home/tanner/Dropbox/sandbox/IdeaManager/markdown_generator.py
 
-echo "Done."
+#echo "Done."
 
-echo "Generating Ideas post..."
+#echo "Generating Ideas post..."
 
-python scripts/generateIdeasPost.py
+#python scripts/generateIdeasPost.py
 
-echo "Done."
+#echo "Done."
 
 git add -A
 
 echo "Added files"
 
-git commit -m "updated linksaver, ideas, and posts"
+git commit -m "updated linksaver and posts"
 
 echo "Pushing..."
 

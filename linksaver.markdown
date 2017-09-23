@@ -4,7 +4,80 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (28), **`research`** (14), **`neuron`** (10), **`cell`** (8), **`memories`** (8), **`learn`** (7), **`studies`** (7), **`process`** (5), **`participants`** (5), **`object`** (5), **`study`** (4), **`information`** (4), **`network`** (4), **`hippocampus`** (4), **`sleep`** (3)
+**Top keywords:** **`brain`** (30), **`research`** (16), **`neuron`** (10), **`cell`** (9), **`memories`** (8), **`studies`** (7), **`learn`** (7), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`study`** (4), **`word`** (4), **`remember`** (4), **`network`** (4)
+
+___
+
+Friday, 22. September 2017 03:22PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170823094104.htm](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
+
+**Keywords:** `surprise`, `song`, `harmonic surprise`, `professor grzywacz`, `brain`, `measurable`, `chord`, `preference`
+
+- Unsuspected chord changes, especially when followed by a predictable harmony, has been linked to a song's popularity, as judged by its placement in the Billboard Top 100 charts
+
+- Surprise is important because it is a measure of new information; something that the reward centers of the brain recognise as being of value, leading to a positive emotional response
+
+- We have a theory that chords from past music matter for surprise in new songs. For example, imagine that someone today composes a piece of music like Mozart. They would not be deemed a creative genius, even if the composition was excellent
+
+
+___
+
+Thursday, 21. September 2017 10:06PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170824094045.htm](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
+
+**Keywords:** `word`, `student`, `remember`, `distracted`, `participant`, `group`, `research`, `set of 20`
+
+- found that while divided attention does impair memory, people can still selectively focus on what is most important -- even while they're multitasking
+
+- researchers showed 192 students 120 words, divided into six groups of 20 words each. Each word was visible on a computer screen for three seconds, and each was paired with a number from 1 to 10. Researchers explained to the students that they would receive scores based on the point value of each word they remembered
+
+- groups of students who listened to music while watching their screens remembered the words almost as well as the group of undistracted students
+
+- Participants in all four groups were nearly five times as likely to recall a 10-point word as they were to remember a one-point word.
+
+- also found that students' ability to remember information improved as the experiments progressed
+
+
+___
+
+Thursday, 21. September 2017 09:44PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170822092159.htm](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
+
+**Keywords:** `product`, `face`, `dominance`, `research`, `maeng`, `marketers`, `product design`, `human face`
+
+- People are typically averse to wider human faces because they elicit fears of being dominated. However, consumers might like wider faces on some products they buy, such as watches or cars, when they want to be seen in a position of power in certain situations
+
+- In scenarios where participants did not feel the need to project any dominance, such as a more laid-back time with their children or family, the width-to-height ratio of the products became less important, the researchers found
+
+
+___
+
+Thursday, 21. September 2017 01:57AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/08/170821122804.htm](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
+
+**Keywords:** `cell`, `chandelier cell`, `brain`, `neuronal`, `information`, `inhibited`, `connect`, `hundred`
+
+- chandelier cells, a distinctive kind of inhibitory cell type in the mammalian brain. They reveal for the first time how this candelabra-shaped cell interacts with hundreds of excitatory cells in its neighborhood, receiving information from some, imparting information to others
+
+- each chandelier cell also can receive inputs from hundreds of excitatory cells, input that influences whether or not it inhibits a circuit in which it is involved
+
+
+___
+
+Wednesday, 20. September 2017 06:32PM
+
+**Url:** [https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
+
+**Keywords:** `think`, `music`, `tested`, `ferguson`, `creative`, `silence`, `happy music`, `dopamine`
+
+- The tests were designed to gauge two types of thinking: divergent thinking, which describes the process of generating new ideas, and convergent thinking, which is how we find the best solutions for a problem.
+
+- found that people were more creative when listening to music they thought was positive, coming up with more unique ideas than the people who worked in silence
+
 
 ___
 
