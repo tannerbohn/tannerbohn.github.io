@@ -4,7 +4,183 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (30), **`research`** (16), **`neuron`** (10), **`cell`** (9), **`memories`** (8), **`studies`** (7), **`learn`** (7), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`study`** (4), **`word`** (4), **`remember`** (4), **`network`** (4)
+**Top keywords:** **`brain`** (34), **`research`** (17), **`learn`** (11), **`neuron`** (10), **`cell`** (9), **`memories`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`model`** (5), **`study`** (4)
+
+___
+
+Tuesday, 10. October 2017 03:56PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/10/171009154941.htm](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
+
+**Keywords:** `brain`, `reinhart`, `stimulate`, `participant`, `learn`, `region`, `somers`, `task`
+
+- Two brain regions -- the medial frontal and lateral prefrontal cortices -- control most executive function. Researchers used high-definition transcranial alternating current stimulation (HD-tACS) to synchronize oscillations between them, improving brain processing. De-synchronizing did the opposite
+
+- medial frontal cortex the "alarm bell of the brain."
+
+- "If you make an error, this brain area fires," says Reinhart, an assistant professor of psychological and brain sciences at Boston University. "If I tell you that you make an error, it also fires. If something surprises you, it fires."
+
+-  this region of the brain works hand in hand (or perhaps lobe in lobe) with a nearby region, the lateral prefrontal cortex, an area that stores rules and goals and also plays an important role in changing our decisions and actions
+
+- Research has recently suggested that populations of millions of cells in the medial frontal cortex and the lateral prefrontal cortex may communicate with each other through the precise timing of their synchronized oscillations, and these brain rhythms appear to occur at a relatively low frequency (about four to eight cycles per second)
+
+
+___
+
+Tuesday, 03. October 2017 01:05AM
+
+**Url:** [https://deepmind.com/blog/hippocampus-predictive-map/](https://deepmind.com/blog/hippocampus-predictive-map/)
+
+**Keywords:** `learn`, `reward`, `future`, `hippocampus`, `model`, `estimate`, `algorithm`, `future reward`
+
+- Our new theory thinks about navigation as part of the more general problem of computing plans that maximise future reward
+
+- The key computational idea we drew on is that to estimate future reward, an agent must first estimate how much immediate reward it expects to receive in each state, and then weight this expected reward by how often it expects to visit that state in the future. By summing up this weighted reward across all possible states, the agent obtains an estimate of future reward
+
+- we argue that the hippocampus represents every situation - or state - in terms of the future states which it predicts
+
+- By representing each current state in terms of its anticipated successor states, the hippocampus conveys a compact summary of future events, known formally as the “successor representation”
+
+
+___
+
+Sunday, 01. October 2017 08:44PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170221101016.htm](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
+
+**Keywords:** `decision`, `change`, `effort`, `handle`, `move`, `behaviour`, `express`, `less`
+
+- new UCL study suggesting we're biased towards perceiving anything challenging to be less appealing
+
+- 52 participants took part in a series of tests where they had to judge whether a cloud of dots on a screen was moving to the left or to the right. They expressed their decisions by moving a handle held in the left or right hand respectively
+
+- When the researchers gradually added a load to one of the handles, making it more difficult to move, the volunteers' judgements about what they saw became biased, and they started to avoid the effortful response
+
+- the participants did not become aware of the increasing load on the handle: their motor system automatically adapted, triggering a change in their perception
+
+
+___
+
+Sunday, 01. October 2017 01:11AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/07/170727104544.htm](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
+
+**Keywords:** `customer`, `price`, `zia`, `store`, `competitor`, `search`, `advertisement`, `expedia`
+
+- Research has shown that there is a lot of price dispersion in online stores. If customers want to save money, they should search on many different platforms, especially with travel products like flights and hotels
+
+- When a host store sells its in-store advertising space to a competitor, this allows uninformed customers to become aware of substitute offerings in the marketplace and possibly migrate to the competing store, Zia said. The host store may benefit from a commission for customers it sends to the competitor
+
+- it might be optimal for Expedia to increase its average price in order to motivate these customers to click on the link," Zia said. "Because Priceline knows these customers have already observed high prices, that website also can raise prices. So the average prices will be higher on both stores
+
+- works only if the commission rate is relatively high. Only in that case can it mitigate price competition and boost profits of both firms
+
+
+___
+
+Saturday, 30. September 2017 10:34PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/09/170929093215.htm](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
+
+**Keywords:** `brain`, `hippocampus`, `activation`, `functional`, `cortex`, `memories`, `brain wide functional connecting`, `optogenetic`
+
+- the role of hippocampus in complex brain networks, particularly its influence on brain-wide functional connectivity, is not well understood by scientists
+
+- low-frequency activities in the hippocampus can drive brain-wide functional connectivity in the cerebral cortex and enhance sensory responses
+
+- these results also suggest that low-frequency activities in the hippocampus can enhance learning and memory since low-frequency activities usually occur during slow-wave sleep which has been associated with learning and memory
+
+
+___
+
+Saturday, 30. September 2017 12:47AM
+
+**Url:** [http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
+
+**Keywords:** `ice`, `liquid`, `bubbled`, `water`, `research`, `space`, `tachibana`, `planets`
+
+- Icy materials in space could behave like liquids at low temperatures and under ultraviolet light, suggests new research
+
+- To mimic interstellar conditions, Tachibana and his colleagues sprayed a mixture of water, methanol and ammonia onto a substrate, chilling it to between -263°C (-441°F) and -258°C (-432°F), and dousing it in ultraviolet light.
+
+- After the ice had formed, the scientists slowly raised the temperature and observed it under a microscope. At temperatures between -210°C (-346°F) and -120C (-184°F), it bubbled like boiling water, with a viscosity similar to honey.
+
+- caused by methanol and ammonia being broken up by UV irradiation. As the hydrogen bonds are rearranged, the ice's viscosity is lowered at the same time
+
+
+___
+
+Friday, 29. September 2017 12:01AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/12/161207093034.htm](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
+
+**Keywords:** `breath`, `brain`, `inhalation`, `face`, `emotion`, `fear`, `encountered`, `scientists`
+
+- In the study, individuals were able to identify a fearful face more quickly if they encountered the face when breathing in compared to breathing out. Individuals also were more likely to remember an object if they encountered it on the inhaled breath than the exhaled one. The effect disappeared if breathing was through the mouth
+
+- When you breathe in, we discovered you are stimulating neurons in the olfactory cortex, amygdala and hippocampus, all across the limbic system
+
+
+___
+
+Wednesday, 27. September 2017 05:55PM
+
+**Url:** [https://en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
+
+**Keywords:** `perplexed`, `model`, `word`, `probabilities`, `test`, `test sample`, `bits`, `tilde p`
+
+- In information theory, perplexity is a measurement of how well a probability distribution or probability model predicts a sample. It may be used to compare probability models. A low perplexity indicates the probability distribution is good at predicting the sample.
+
+- The perplexity is the exponentiation of the entropy
+
+
+___
+
+Wednesday, 27. September 2017 05:37PM
+
+**Url:** [http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
+
+**Keywords:** `learn`, `reward`, `st`, `predict`, `value`, `dopamine`, `brain`, `function`
+
+- The striatum is special since it is a major target of the neurotransmitter dopamine, and leads to the sneaking suspicion that dopamine plays an important role in reward-based learning
+
+
+___
+
+Wednesday, 27. September 2017 05:22PM
+
+**Url:** [http://people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
+
+**Keywords:** `learn`, `computable`, `robot`, `schmidhuber`, `optimal`, `neural`, `machine`, `evolution`
+
+- According to Schmidhuber's formal theory of creativity, art and science and humor are just by-products of the desire to create / discover more data that is predictable or compressible in hitherto unknown ways
+
+
+___
+
+Wednesday, 27. September 2017 05:02PM
+
+**Url:** [https://en.wikipedia.org/wiki/Kolmogorov_complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+
+**Keywords:** `string`, `program`, `length`, `kolmogorov complex`, `theorem`, `complex`, `kolmogorov`, `2n`
+
+- the Kolmogorov complexity of an object, such as a piece of text, is the length of the shortest computer program (in a predetermined programming language) that produces the object as output.
+
+- It is a measure of the computational resources needed to specify the object, and is also known as descriptive complexity, Kolmogorov–Chaitin complexity, algorithmic entropy, or program-size complexity
+
+
+___
+
+Saturday, 23. September 2017 03:30PM
+
+**Url:** [https://www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
+
+**Keywords:** `tdcs`, `mice`, `p 0`, `slices`, `ltp`, `control`, `tdcs mice`, `anodal tdcs`
+
+- mice subjected to 20-min anodal tDCS exhibited one-week lasting increases in hippocampal LTP, learning and memory
+
+- These effects were associated with enhanced: i) acetylation of brain-derived neurotrophic factor (Bdnf) promoter I; ii) expression of Bdnf exons I and IX; iii) Bdnf protein levels
+
 
 ___
 
