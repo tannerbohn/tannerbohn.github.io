@@ -4,7 +4,35 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (34), **`research`** (17), **`learn`** (11), **`neuron`** (10), **`cell`** (9), **`memories`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`model`** (5), **`study`** (4)
+**Top keywords:** **`brain`** (35), **`research`** (18), **`learn`** (11), **`neuron`** (10), **`cell`** (9), **`memories`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`model`** (5), **`study`** (4)
+
+___
+
+Thursday, 02. November 2017 06:00PM
+
+**Url:** [http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
+
+**Keywords:** `dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
+
+- Some dog owners love their four-legged friends so much that they treat them like they would a child - and sometimes even say they prefer them to some friends and family.
+
+
+___
+
+Sunday, 22. October 2017 03:23PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/10/171017114335.htm](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
+
+**Keywords:** `brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
+
+- One of the two brain-training methods most scientists use in research is significantly better in improving memory and attention
+
+- it greatly improved skills people need to excel at school and at work
+
+- the group that practiced what's known as a "dual n-back" exercise showed a 30 percent improvement in their working memory. That was nearly double the gains made by the group working with the other common task
+
+- The biggest lesson here was that -- yes -- intensive training strengthens cognition and the brain, but we still don't understand why and how
+
 
 ___
 
