@@ -4,7 +4,105 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (35), **`research`** (18), **`learn`** (11), **`neuron`** (10), **`cell`** (9), **`memories`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`model`** (5), **`study`** (4)
+**Top keywords:** **`brain`** (37), **`research`** (21), **`learn`** (11), **`neuron`** (10), **`memories`** (10), **`cell`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`human`** (5), **`babies`** (5)
+
+___
+
+Saturday, 25. November 2017 02:28AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/11/171124084336.htm](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
+
+**Keywords:** `brain`, `human`, `gene`, `primate`, `region`, `researcher`, `found`, `distinct`
+
+- all regions of the human brain have molecular signatures very similar to those of our primate relatives, yet some regions contain distinctly human patterns of gene activity that mark the brain's evolution and may contribute to our cognitive abilities
+
+- there are also distinct small differences between the species in how individual cells function and form connections
+
+- the one area of the brain with the most human-specific gene expression is the striatum, a region most commonly associated with movement
+
+- found one gene, ZP2, was active in only human cerebellum -- a surprise, said the researchers, because the same gene had been linked to sperm selection by human ova
+
+- also focused on one gene, TH, which is involved in the production of dopamine, a neurotransmitter crucial to higher-order function and depleted in people living with Parkinson's disease. They found that TH was highly expressed in human neocortex and striatum but absent from the neocortex of chimpanzees
+
+
+___
+
+Saturday, 25. November 2017 02:19AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/11/171124084330.htm](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
+
+**Keywords:** `goal`, `babies`, `agent`, `understand`, `infants`, `research`, `studied`, `mit`
+
+- Babies as young as 10 months can assess how much someone values a particular goal by observing how hard they are willing to work to achieve it
+
+-  The question posed in this study was whether babies can combine what they know about a person's goal and the effort required to obtain it, to calculate the value of that goal
+
+- Length of looking time is commonly used to measure surprise in studies of infants
+
+
+___
+
+Monday, 20. November 2017 02:45AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170426093310.htm](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
+
+**Keywords:** `gestural`, `research`, `language`, `babies`, `speech`, `studied`, `showing`, `combination`
+
+- studied how 9 to 13-month-old babies tackle the shift from early babbling to the use of combinations of gestures and speech
+
+- discovered that when a baby abandons the characteristic babbling for vocalizations of repeated, long chains of syllables at 9 months and starts the more complex pre-language phase around 11 months, his/her gestures begin to be produced mainly in combination with vocal production rather than as an act of gestures alone
+
+- these gesture and vocalization combinations are "mainly deictic"; in other words, they display "a declarative intention and involve implementation gestures, such as pointing, giving, showing, offering and making requests in order to direct the attention of an adult towards the object that the baby is interested in obtaining
+
+
+___
+
+Sunday, 19. November 2017 04:08AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/07/170710172011.htm](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
+
+**Keywords:** `cache`, `core`, `chip`, `jenga`, `data`, `latencies`, `memories`, `allocated`
+
+- Today's chips generally have three or even four different levels of cache, each of which is more capacious but slower than the last. The sizes of the caches represent a compromise between the needs of different kinds of programs, but it's rare that they're exactly suited to any one program.
+
+- designed a system that reallocates cache access on the fly, to create new "cache hierarchies" tailored to the needs of particular programs.
+
+- the system increased processing speed by 20 to 30 percent while reducing energy consumption by 30 to 85 percent
+
+
+___
+
+Sunday, 19. November 2017 03:44AM
+
+**Url:** [http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
+
+**Keywords:** `brain`, `research`, `perception`, `sounds`, `strobe`, `auditory`, `findings`, `sensitive`
+
+- Using a simple noise identification experiment, involving 20 participants and 2,100 tests per participant, the research found that our ears take turns in being the most sensitive to sounds
+
+- This happens so fast – about six cycles per second – that we're not really aware of it. But it also happens to match the time it takes humans to make decisions: one-sixth of a second
+
+- Previous studies have suggested our vision works in a similar rhythmic, oscillating pattern, and now there's evidence that hearing works in the same way – so our whole perception of the world around us is based on a kind of strobe-like effect in the mind
+
+
+___
+
+Friday, 10. November 2017 11:56AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/11/171109140751.htm](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
+
+**Keywords:** `similar`, `computation`, `flies`, `hash`, `navlakha`, `odor`, `similar search`, `smell`
+
+- discovered that the fruit fly brain has an elegant and efficient method of performing similarity searches
+
+- it helps them identify odors that are most similar to those they've encountered before, so they know how to behave in response to the odor
+
+- when fruit flies first sense an odor, 50 neurons fire in a combination that's unique to that smell. But rather than hashing that information by reducing the number of hashes associated with the odor, as computer programs would, flies do the opposite -- they expand the dimension
+
+- The 50 initial neurons lead to 2,000 neurons, spreading out the input so that each smell has an even more distinct fingerprint among those 2,000 neurons. The brain then stores only the 5 percent of those 2,000 neurons with the top activity as the "hash" for that odor. The whole paradigm helps the brain notice similarities better than it would compared to reducing the dimension
+
+- When they applied the process to three standard datasets computer scientists use to test search algorithms, they found that the fly approach improved performance
+
 
 ___
 
@@ -15,6 +113,12 @@ Thursday, 02. November 2017 06:00PM
 **Keywords:** `dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
 
 - Some dog owners love their four-legged friends so much that they treat them like they would a child - and sometimes even say they prefer them to some friends and family.
+
+- In an experiment, 240 students were presented with fake newspaper clippings of a police report either about an attack on a person, or on a dog.
+
+- In fact, empathy levels for the puppy, older dog, and baby human were on similar levels, while the adult person came last
+
+- found that dogs raise their eyebrows and even make their eyes bigger when they are looking for attention from a person
 
 
 ___
