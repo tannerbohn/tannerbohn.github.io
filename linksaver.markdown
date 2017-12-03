@@ -4,7 +4,50 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (37), **`research`** (21), **`learn`** (11), **`neuron`** (10), **`memories`** (10), **`cell`** (9), **`studies`** (7), **`hippocampus`** (6), **`word`** (5), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`human`** (5), **`babies`** (5)
+**Top keywords:** **`brain`** (38), **`research`** (22), **`learn`** (11), **`memories`** (11), **`neuron`** (10), **`cell`** (9), **`studies`** (9), **`word`** (6), **`hippocampus`** (6), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`human`** (5), **`babies`** (5)
+
+___
+
+Sunday, 03. December 2017 01:19AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/12/171201090940.htm](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
+
+**Keywords:** `memory`, `studies`, `read`, `active`, `word`, `aloud`, `macleod`, `waterloo`
+
+- found that speaking text aloud helps to get words into long-term memory. Dubbed the "production effect," the study determined that it is the dual action of speaking and hearing oneself that has the most beneficial impact on memory
+
+- When we add an active measure or a production element to a word, that word becomes more distinct in long-term memory, and hence more memorable
+
+- The study tested four methods for learning written information, including reading silently, hearing someone else read, listening to a recording of oneself reading, and reading aloud in real time
+
+
+___
+
+Wednesday, 29. November 2017 05:36PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/11/171127094928.htm](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
+
+**Keywords:** `children`, `contact`, `infants`, `dna`, `studies`, `health`, `development`, `epigenetic`
+
+- showed that children who had been more distressed as infants and had received less physical contact had a molecular profile in their cells that was underdeveloped for their age
+
+- In children, we think slower epigenetic aging might indicate an inability to thrive
+
+- The extent of methylation, and where on the DNA it specifically happens, can be influenced by external conditions, especially in childhood. These epigenetic patterns also change in predictable ways as we age
+
+
+___
+
+Saturday, 25. November 2017 09:22PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/11/171122093036.htm](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
+
+**Keywords:** `brain`, `memories`, `stimulation`, `research`, `activate`, `frequencies`, `function`, `brain region`
+
+- found that low-frequency rhythms of brain activity, when brain waves move up and down slowly, primarily drive communication between the frontal, temporal and medial temporal lobes, key brain regions that engage during memory processing
+
+- suggests that, for someone to form new memories, two functions must happen simultaneously: brain regions must individually process a stimulus, and then those regions must communicate with each other at low frequencies
+
 
 ___
 
