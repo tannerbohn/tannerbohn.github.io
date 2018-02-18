@@ -4,7 +4,206 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (38), **`research`** (22), **`learn`** (11), **`memories`** (11), **`neuron`** (10), **`cell`** (9), **`studies`** (9), **`word`** (6), **`hippocampus`** (6), **`process`** (5), **`information`** (5), **`participants`** (5), **`object`** (5), **`human`** (5), **`babies`** (5)
+**Top keywords:** **`brain`** (42), **`research`** (25), **`learn`** (14), **`studies`** (13), **`neuron`** (11), **`memories`** (11), **`cell`** (9), **`participants`** (8), **`word`** (7), **`human`** (7), **`process`** (6), **`hippocampus`** (6), **`babies`** (6), **`studied`** (6), **`memory`** (5)
+
+___
+
+Saturday, 17. February 2018 04:51PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180214093823.htm](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
+
+**Keywords:** `stress`, `exercise`, `memory`, `mice`, `edwards`, `ltp`, `run`, `stress mice`
+
+- running mitigates the negative impacts chronic stress has on the hippocampus, the part of the brain responsible for learning and memory
+
+- Chronic or prolonged stress weakens the synapses, which decreases LTP and ultimately impacts memory. Edwards' study found that when exercise co-occurs with stress, LTP levels are not decreased, but remain normal
+
+
+___
+
+Saturday, 17. February 2018 04:44PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180213183552.htm](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
+
+**Keywords:** `brain`, `entropy`, `studies`, `research`, `saxe`, `intelligence`, `score`, `active`
+
+- offers the first solid evidence that functional MRI scans of brain entropy are a new means to understanding human intelligence
+
+- an intelligent brain has to be flexible in the number of possible ways its nerve cells, or neurons, may be rearranged
+
+- found that higher entropy was significantly related to the brain regions where previous research has shown it matters most
+
+
+___
+
+Saturday, 17. February 2018 04:31PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180216142646.htm](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
+
+**Keywords:** `dopamine`, `hallucinations`, `expect`, `participants`, `process`, `perceptual`, `perceptual distorted`, `schizophrenia`
+
+- people with schizophrenia who experience auditory hallucinations tend to hear what they expect, an exaggerated version of a perceptual distortion that is common among other people without hallucinations
+
+- found that elevated dopamine could make some patients rely more on expectations, which could then result in hallucinations
+
+
+___
+
+Saturday, 17. February 2018 04:27PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180215110039.htm](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
+
+**Keywords:** `blink`, `event`, `participants`, `related`, `studies`, `human`, `visual`, `physiological`
+
+- found that humans unconsciously trade off the loss of information during a blink with the physiological urge to blink
+
+- during a single blink, our visual perception is interrupted for about a third of a second. Although our conscious perception suggests a continuous and stable world, about 10 percent of the time we are missing potentially important visual information from our surroundings
+
+- Blinking is closely intertwined with cognitive functions connected to dopamine
+
+
+___
+
+Thursday, 01. February 2018 03:19PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/01/180130094713.htm](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
+
+**Keywords:** `language`, `learn`, `brain systems`, `language learn`, `studied`, `findings`, `brain`, `research`
+
+- how good we are at remembering the words of a language correlates with how good we are at learning in declarative memory, which we use to memorize shopping lists
+
+- The grammar abilities of children acquiring their native language correlated most strongly with learning in procedural memory, which we use to learn tasks such as driving, riding a bicycle, or playing a musical instrument
+
+
+___
+
+Tuesday, 30. January 2018 04:10AM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/01/180129131309.htm](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
+
+**Keywords:** `learn`, `communities`, `word`, `grammar`, `language`, `cultural`, `simpler`, `speakers`
+
+- Languages with lots of speakers, such as English and Mandarin, have large vocabularies with relatively simple grammar. Yet the opposite is also true: Languages with fewer speakers have fewer words but complex grammars
+
+- suggests that language, and other aspects of culture, may become simpler as our world becomes more interconnected
+
+- The researchers hypothesized that words are easier to learn than aspects of morphology or grammar
+
+
+___
+
+Saturday, 06. January 2018 01:11AM
+
+**Url:** [http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
+
+**Keywords:** `read`, `book`, `infant`, `parent`, `characters`, `shared book read`, `babies`, `learn`
+
+- Researchers see clear benefits of shared book reading for child development. Shared book reading with young children is good for language and cognitive development, increasing vocabulary and pre-reading skills and honing conceptual development.
+
+- followed infants across the second six months of life. We've found that when parents showed babies books with faces or objects that were individually named, they learn more, generalise what they learn to new situations and show more specialised brain responses
+
+
+___
+
+Wednesday, 03. January 2018 12:32AM
+
+**Url:** [http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
+
+**Keywords:** `glucose`, `sugar`, `test`, `participants`, `effect`, `fructose`, `cognitive function`, `sucrose`
+
+- In a double-blind, placebo-controlled study, participants demonstrated a delay in completing cognitive tasks after consuming glucose or table sugar, compared to participants that consumed fructose (fruit sugar) or artificial sweetener sucralose (the placebo). And fasting beforehand heightened this effect.
+
+- Much research has gone into the effect glucose has on cognitive function. For people of all ages, the substance seems to have a positive effect on memory function
+
+- They were then given a drink which contained either glucose, sucrose, fructose or the placebo sucralose. After a 20-minute interval, they were given cognitive function tests
+
+- These were designed to test  information processing, executive function, and selective attention, all of which are associated with the prefrontal lobe
+
+- participants who consumed glucose and sucrose were slower by a mean of up to 200 milliseconds, or 0.2 seconds, in answering questions
+
+
+___
+
+Friday, 29. December 2017 12:53AM
+
+**Url:** [https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
+
+**Keywords:** `dog`, `human`, `dingo`, `wolves`, `eye contact`, `owners`, `bond`, `eye`
+
+- As the dog stares, the hormone oxytocin floods the owner’s brain, causing him or her to lavish attention on the canine, which experiences a similar spike in the hormone and proceeds to stare even harder
+
+- One possibility is that short-term eye contact is used as a social reference in observing the human’s behavior, while maintaining eye contact is related to manipulating the human’s behavior when asking for help
+
+- The longer staring bouts of dogs, which lasted an average of 40 seconds (compared with just three seconds for dingoes and less than a second for wolves), may be required to kick-start the oxytocin response in humans
+
+
+___
+
+Thursday, 28. December 2017 07:08PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/12/171221122543.htm](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
+
+**Keywords:** `exercise`, `brain`, `studies`, `showed`, `10 minute`, `heath`, `research`, `benefits`
+
+- A 10-minute, one-time burst of exercise can measurably boost your brain power, at least temporarily
+
+- research participants either sat and read a magazine or did 10 minutes of moderate-to-vigorous exercise on a stationary bicycle. Following the reading and exercise session, the researchers used eye-tracking equipment to examine participants' reaction times to a cognitively demanding eye movement task
+
+- responses were more accurate and their reaction times were up to 50 milliseconds shorter than their pre-exercise values. That may seem minuscule but it represented a 14-per-cent gain in cognitive performance in some instances
+
+
+___
+
+Thursday, 28. December 2017 03:09AM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/12/171220121831.htm](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
+
+**Keywords:** `neuron`, `predict`, `theories`, `previous`, `code`, `framework`, `encode`, `signal`
+
+- One of the main goals of sensory neuroscience is to predict neural responses using mathematical models. Previously, these predictions were based on three main theories, each of which had a different area of applicability, corresponding to varying assumptions about the neurons' internal constraints, the type of signal, and the purpose of the gathered information
+
+- a neural code is essentially a function that predicts when a neuron should "fire,"
+
+- Efficient coding assumes that the neurons encode as much information as possible, given their internal constraints (noise, metabolism, etc.).
+
+- Predictive coding, on the other hand, assumes that only the information relevant to predicting the future (e.g. which way an insect will fly) is encoded
+
+- sparse coding assumes that only a few neurons are active at any one time
+
+- In the context of the team's framework, a neural code can be interpreted as the code that maximizes a certain mathematical function. This function -- and thus, the neural code maximizing it -- depends on three parameters: the noise in the signal, the goal or task (i.e. if the signal will be used to predict the future), and the complexity of the signal being encoded
+
+
+___
+
+Thursday, 14. December 2017 11:00PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/12/171211192738.htm](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
+
+**Keywords:** `food`, `begdache`, `mood`, `mental distress`, `adult`, `young adult`, `brain`, `increase`
+
+- mood in young adults (18-29) seems to be dependent on food that increases availability of neurotransmitter precursors and concentrations in the brain (meat).
+
+- However, mood in mature adults (over 30 years) may be more reliant on food that increases availability of antioxidants (fruits) and abstinence of food that inappropriately activates the sympathetic nervous system (coffee, high glycemic index and skipping breakfast)
+
+- Regular consumption of meat leads to build-up of two brain chemicals (serotonin and dopamine) known to promote mood. Regular exercise leads to build-up of these and other neurotransmitters as well
+
+
+___
+
+Tuesday, 12. December 2017 12:50PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/12/171212102158.htm](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
+
+**Keywords:** `game`, `cognition`, `play`, `cognition abilities`, `action`, `gamer`, `action video game`, `studies`
+
+- 2,883 people (men and women) who played for a maximum of one hour a week were first tested for their cognitive abilities and then randomly divided into two groups: one played action games (war or shooter games), the other played control games (SIMS, Puzzle, Tetris)
+
+- Both groups played for at least 8 hours over a week and up to 50 hours over 12 weeks
+
+- aim was to find out whether the effects of action gaming on the brain are causal
+
+- individuals playing action videos increased their cognition more than those playing the control games with the difference in cognitive abilities between these two training groups being of one-third of a standard deviation
+
 
 ___
 
