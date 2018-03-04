@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Personal Projects from Age 22"
+title:  "Personal Projects (March 13, 2015 to March 13, 2016)"
 excerpt: "A summary of some personal projects from March 13, 2015 to March 13, 2016"
 date:   2017-02-13 05:00:00
 ---
