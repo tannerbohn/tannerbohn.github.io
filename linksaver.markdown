@@ -4,7 +4,88 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (42), **`research`** (25), **`learn`** (14), **`studies`** (13), **`neuron`** (11), **`memories`** (11), **`cell`** (9), **`participants`** (8), **`word`** (7), **`human`** (7), **`process`** (6), **`hippocampus`** (6), **`babies`** (6), **`studied`** (6), **`memory`** (5)
+**Top keywords:** **`brain`** (43), **`research`** (25), **`learn`** (14), **`studies`** (13), **`neuron`** (11), **`memories`** (11), **`cell`** (9), **`word`** (9), **`participants`** (9), **`human`** (9), **`babies`** (7), **`process`** (6), **`memory`** (6), **`language`** (6), **`hippocampus`** (6)
+
+___
+
+Tuesday, 13. March 2018 12:28AM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180306115803.htm](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
+
+**Keywords:** `dog`, `speech`, `human`, `adult`, `babies`, `interact`, `speaker`, `adult dog`
+
+- Speech interaction experiments between adult dogs and humans showed that so called "dog-speak" improves attention and may help humans to socially bond with their pets
+
+- A special speech register, known as infant-directed speech, is thought to aid language acquisition and improve the way a human baby bonds with an adult
+
+- found that adult dogs were more likely to want to interact and spend time with the speaker that used dog-directed speech with dog-related content, than they did those that used adult-directed speech with no dog-related content
+
+- When we mixed-up the two types of speech and content, the dogs showed no preference for one speaker over the other. This suggests that adult dogs need to hear dog-relevant words spoken in a high-pitched emotional voice in order to find it relevant.
+
+
+___
+
+Tuesday, 13. March 2018 12:21AM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180220104114.htm](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
+
+**Keywords:** `word`, `sense`, `language`, `mean`, `emerge`, `cognitive`, `human`, `word sense`
+
+- words accumulate families of related senses over the course of history. For instance, the word 'face' originally meant the front part of a head, but over time it also came to mean the front part of other objects, such as the 'face' of the cliff, and an emotional state, such as putting on a brave 'face.'
+
+- identified an algorithm called "nearest-neighbor chaining" as the mechanism that best describes how word senses accumulate over time
+
+- findings suggest that word senses emerge in ways that minimize cognitive costs, which are the collective costs of generating, interpreting and learning word senses. In other words, new word senses emerge through an efficient mechanism that expresses new ideas via a compact set of words
+
+- Over the past millennium, word senses have largely evolved from literal domains to metaphorical domains -- called metaphorical mapping
+
+
+___
+
+Monday, 12. March 2018 07:11PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180222125736.htm](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
+
+**Keywords:** `computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
+
+- identified a specific brain signal associated with the conversion of speech into understanding. The signal is present when the listener has understood what they have heard, but it is absent when they either did not understand, or weren't paying attention
+
+- shows that our brains perform a rapid computation of the similarity in meaning that each word has to the words that have come immediately before it
+
+- To test if human brains actually compute the similarity between words as we listen to speech, the researchers recorded electrical brainwave signals recorded from the human scalp -- a technique known as electroencephalography or EEG -- as participants listened to a number of audiobooks
+
+- by analysing their brain activity, they identified a specific brain response that reflected how similar or different a given word was from the words that preceded it in the story
+
+
+___
+
+Monday, 12. March 2018 07:01PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/02/180220170348.htm](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
+
+**Keywords:** `event`, `difficult life event`, `wisdom`, `life`, `aldwin`, `develop`, `participant`, `challenge`
+
+- How a person responds to a difficult life event such as a death or divorce helps shape the development of their wisdom over time
+
+- people who had to work to sort things out after a difficult life event are the ones who arrived at new meaning
+
+- For one group of respondents, 13 in all, the difficult life event led to little or no questioning of meaning in their life
+
+- The majority of the participants -- 32 -- indicated that the difficult life event disrupted their personal meaning and prompted the person to reflect on themselves, their fundamental beliefs and their understanding of the world
+
+
+___
+
+Wednesday, 07. March 2018 07:39PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180307112743.htm](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
+
+**Keywords:** `strategies`, `trained`, `memory trained`, `task`, `memory`, `study`, `participants`, `effective`
+
+- results suggest that a significant part of working memory training effects is a result of a fast development of task-specific strategies during training rather than an increase in working memory capacity
+
+- This can explain why any substantial effects of typical working memory training are limited to the trained task
+
 
 ___
 
