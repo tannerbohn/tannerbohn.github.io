@@ -4,7 +4,233 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (43), **`research`** (25), **`learn`** (14), **`studies`** (13), **`neuron`** (11), **`memories`** (11), **`cell`** (9), **`word`** (9), **`participants`** (9), **`human`** (9), **`babies`** (7), **`process`** (6), **`memory`** (6), **`language`** (6), **`hippocampus`** (6)
+**Top keywords:** **`brain`** (51), **`research`** (29), **`learn`** (16), **`studies`** (14), **`memories`** (13), **`word`** (12), **`neuron`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+
+___
+
+Sunday, 25. March 2018 09:32PM
+
+**Url:** [https://www.scientificamerican.com/article/nurturing-genius/](https://www.scientificamerican.com/article/nurturing-genius/)
+
+**Keywords:** `student`, `talent`, `studied`, `stanley`, `abilities`, `gifted`, `test`, `smpy`
+
+- As the longest-running longitudinal survey of intellectually talented children, SMPY has for 45 years tracked the careers and accomplishments of some 5,000 individuals, many of whom have gone on to become high-achieving scientists
+
+- The SMPY data supported the idea of accelerating fast learners by allowing them to skip school grades
+
+- Many educators and parents continue to believe that acceleration is bad for children—that it will hurt them socially, push them out of childhood or create knowledge gaps. But education researchers generally agree that acceleration benefits the vast majority of gifted children socially and emotionally, as well as academically and professionally
+
+
+___
+
+Sunday, 25. March 2018 09:18PM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/10/161019082543.htm](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
+
+**Keywords:** `memories`, `learned`, `remember`, `run`, `study`, `cortisol`, `information`, `stress`
+
+- students should do moderate exercise, like running, rather than taking part in a passive activity such as playing computer games if they want to make sure they remember what they learned
+
+- runners performed best, remembering more after the run than before. Those in the control group fared slightly worse, and the memories of people who played the game were significantly impaired
+
+
+___
+
+Sunday, 25. March 2018 09:06PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170314081547.htm](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
+
+**Keywords:** `brain`, `stimulated`, `memory`, `patients`, `task`, `activity`, `current`, `dr violante`
+
+- applying a low voltage current can bring different areas of the brain in sync with one another, enabling people to perform better on tasks involving working memory.
+
+- used a technique called transcranial alternating current stimulation (TACS) to manipulate the brain's regular rhythm
+
+- used TCAS to target two brain regions -- the middle frontal gyrus and the inferior parietal lobule -- which are known to be involved in working memory
+
+
+___
+
+Sunday, 25. March 2018 08:42PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170308081024.htm](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
+
+**Keywords:** `memory`, `sleep`, `stimulation`, `studied`, `deep sleep`, `northwestern`, `improve`, `older`
+
+- In the study, 13 participants 60 and older received one night of acoustic stimulation and one night of sham stimulation. The sham stimulation procedure was identical to the acoustic one, but participants did not hear any noise during sleep. For both the sham and acoustic stimulation sessions, the individuals took a memory test at night and again the next morning. Recall ability after the sham stimulation generally improved on the morning test by a few percent. However, the average improvement was three times larger after pink-noise stimulation.
+
+- Previous research showed acoustic simulation played during deep sleep could improve memory consolidation in young people
+
+- The study used a new approach, which reads an individual's brain waves in real time and locks in the gentle sound stimulation during a precise moment of neuron communication during deep sleep, which varies for each person
+
+
+___
+
+Sunday, 25. March 2018 08:36PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/02/170209133358.htm](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
+
+**Keywords:** `shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
+
+- To participants' dominant eye, the researchers presented a series of flashing images; to the nondominant eye, they presented a target image that gradually faded in. Initially, participants were unaware of the target image and could only see the competing, flashing images
+
+- the target image was always a nonsense word, bubu or kiki, inside of a shape. Sometimes the word (bubu) was congruent with the shape it was in (round) and sometimes it was incongruent with the shape (angular). The participants pressed a key whenever the target image became visible
+
+- Timing data showed that the target image broke through to conscious awareness faster when it was congruent than when it was incongruent, indicating that participants perceived and processed the relationship between word and shape before they were consciously aware of the stimuli
+
+
+___
+
+Sunday, 25. March 2018 08:26PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/03/170330132354.htm](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
+
+**Keywords:** `sound`, `brain`, `relax`, `active`, `collaborating`, `stress`, `effect`, `listened to natural`
+
+- an increase in rest-digest nervous system activity (associated with relaxation of the body) when listening to natural compared with artificial sounds, and better performance in an external attentional monitoring task
+
+- Individuals who showed evidence of the greatest stress before starting the experiment showed the greatest bodily relaxation when listening to natural sounds, while those who were already relaxed in the brain scanner environment showed a slight increase in stress when listening to natural compared with artificial sounds
+
+
+___
+
+Sunday, 25. March 2018 08:14PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170424141340.htm](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
+
+**Keywords:** `brain`, `blood`, `walking`, `impact`, `arterial`, `foot impact`, `blood flow`, `pressure`
+
+- the foot's impact during walking sends pressure waves through the arteries that significantly modify and can increase the supply of blood to the brain
+
+- the foot's impact during running (4-5 G-forces) caused significant impact-related retrograde (backward-flowing) waves through the arteries that sync with the heart rate and stride rate to dynamically regulate blood circulation to the brain
+
+
+___
+
+Sunday, 25. March 2018 08:04PM
+
+**Url:** [https://www.sciencedaily.com/releases/2017/04/170419131745.htm](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
+
+**Keywords:** `learned`, `environment`, `brain`, `metaplasticity`, `reward`, `synapses`, `learned rate`, `studies`
+
+- there's not a single rate of learning for everything we do, as the brain can self-adjust its learning rates using a synaptic mechanism called metaplasticity
+
+- One of the most complex problems in learning is how to adjust to uncertainty and the rapid changes that take place in the environment. It is very exciting to find that synapses, the simplest computational elements in the brain, can provide a robust solution for such challenges
+
+- When things change frequently, a large learning rate is required but this reduces precision, whereas, a stable environment requires a small learning rate, which improves precision. The study illustrates how metaplasticity can mitigate the tradeoff between adaptability and precision in learning
+
+
+___
+
+Sunday, 25. March 2018 07:58PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180314145019.htm](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
+
+**Keywords:** `bird`, `research`, `grassquit`, `bullfinch`, `differed`, `barbados`, `receptor`, `innovation`
+
+- Wild birds that are more clever than others at foraging for food have different levels of a neurotransmitter receptor that has been linked with intelligence in humans
+
+- A family of genes stood out: glutamate neurotransmitter receptors, especially in the part of the bird brain that corresponds to humans' prefrontal cortex. Glutamate receptors are known to be involved in a variety of cognitive traits in humans and other mammals. In particular a receptor known as GRIN2B, when boosted in transgenic mice, makes them better learners
+
+
+___
+
+Sunday, 25. March 2018 03:37PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180319120106.htm](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
+
+**Keywords:** `read`, `sacchi`, `spaces`, `word`, `letter spaces`, `letter`, `visual`, `effect`
+
+- Increased letter spacing helps individuals read faster, but not due to visual processing, according to new research
+
+- letter-spacing effect, which is this finding that both kids and adults with or without specific reading impairment read faster and more fluidly when you increase the spaces between letters in words
+
+- Everybody seemed pretty certain up until this point that it was about decluttering your visual scene, which may make identifying letters easier," said Sacchi. "What my results show is that it doesn't look like the effect is happening early enough to be related to visual processing
+
+- Increased spacing was very helpful for the words, and less helpful for the pseudo-words and the consonant strings. The fact that more "word-like" stimuli benefited more than less "word-like" stimuli suggests that the benefit is occurring during a reading-specific process, rather than during a purely visual stage
+
+
+___
+
+Sunday, 25. March 2018 03:08PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180314125446.htm](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
+
+**Keywords:** `synapses`, `brain`, `memories`, `store`, `sejnowski`, `information`, `capacity`, `salk`
+
+- found that connections in the brain not only expand as needed in response to learning or experiencing new things, but that others will shrink as a result
+
+
+___
+
+Sunday, 18. March 2018 06:27PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180315122945.htm](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
+
+**Keywords:** `learn`, `object`, `language`, `word`, `adults`, `correspond`, `strategies`, `research`
+
+- Psychologists found that when we learn the names of unfamiliar objects, brain regions involved in learning actively predict the objects the names correspond to
+
+- the hippocampus -- a brain region that is affected in Alzheimer's disease and some developmental language disorders -- plays a key role learning the names of objects via a "propose-but-verify" strategy
+
+
+___
+
+Sunday, 18. March 2018 06:17PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180312085109.htm](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
+
+**Keywords:** `children`, `brain`, `theory of mind`, `network`, `scan`, `develop`, `studied`, `mit`
+
+- Behavioral studies have suggested that children begin succeeding at a key measure of this ability, known as the false-belief task, around age 4. However, a new study from MIT has found that the brain network that controls theory of mind has already formed in children as young as 3
+
+- In 2003, Saxe first showed that theory of mind is seated in a brain region known as the right temporo-parietal junction (TPJ). The TPJ coordinates with other regions, including several parts of the prefrontal cortex, to form a network that is active when people think about the mental states of others
+
+
+___
+
+Sunday, 18. March 2018 06:07PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180312084826.htm](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
+
+**Keywords:** `rate`, `evaluate`, `successive`, `study`, `judges`, `participants`, `o connor`, `grade`
+
+- people tend to attribute the increasing ease of making ratings to the items themselves rather than to the ratings process, resulting in rating inflation over time
+
+- This effect emerged with judges on a dance show, with teachers who give higher grades the longer they teach a course, and in the lab where we have people evaluate photos or short stories over successive days
+
+
+___
+
+Sunday, 18. March 2018 05:54PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180312132937.htm](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
+
+**Keywords:** `learn`, `brain`, `task`, `neuron`, `activity`, `research`, `change`, `carnegie mellon`
+
+- the brain has various mechanisms and constraints by which it reorganizes its neural activity when learning over the course of a few hours. The new research finds that, when learning a new task, the brain is less flexible than previously thought
+
+- When we're learning a new task, we can't instantaneously learn it to proficiency, in part due to the way in which the neurons are wired up in the brain. Learning takes time, and there are mechanisms by which neurons can change the way they communicate with each other to enable learning -- some of which can be fast, and some of which can take longer.
+
+- When we learn, at first the brain tends to not produce new activity patterns, but to repurpose the activity patterns it already knows how to generate
+
+- By repurposing neuron patterns the brain is already capable of generating, the brain applies a "quick and dirty fix" to the new problem it's facing
+
+
+___
+
+Thursday, 15. March 2018 03:45PM
+
+**Url:** [https://www.sciencedaily.com/releases/2018/03/180313113442.htm](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
+
+**Keywords:** `brain`, `music`, `sequence`, `broca s area`, `non local dependencies`, `grammatical`, `cheung`, `processed`
+
+- In language and music, dependencies are conceptual threads that bind two things together. Non-local dependencies bind non-adjacent items. For example, in pop music, the second instance of a verse, following a chorus, would have a non-local dependency with the first instance of the verse
+
+- despite Broca's area being one of the most studied human brain regions, neuroscientists are still not exactly sure what the same region does, on the other side of the brain
+
+- Theory suggests the right hemisphere equivalent, or homologue, of Broca's area plays a similar role but for the processing of music instead of language
+
 
 ___
 
