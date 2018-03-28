@@ -4,20 +4,7 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (53), **`research`** (29), **`learn`** (16), **`studies`** (14), **`memories`** (14), **`word`** (12), **`participants`** (12), **`neuron`** (12), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
-
-___
-
-Wednesday, 28. March 2018 01:46AM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180327194350.htm](https://www.sciencedaily.com/releases/2018/03/180327194350.htm)
-
-**Keywords:** `memories`, `patient`, `code`, `identify`, `pattern`, `brain`, `participants`, `wake forest baptist`
-
-- Scientists at Wake Forest Baptist Medical Center and the University of Southern California (USC) have demonstrated the successful implementation of a prosthetic system that uses a person's own memory patterns to facilitate the brain's ability to encode and recall memory.
-
-- participants' short-term memory performance showed a 35 to 37 percent improvement over baseline measurements
-
+**Top keywords:** **`brain`** (52), **`research`** (29), **`learn`** (16), **`studies`** (14), **`memories`** (13), **`word`** (12), **`neuron`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
 
 ___
 
@@ -30,6 +17,8 @@ Monday, 26. March 2018 06:13PM
 - In probability theory, an ergodic dynamical system is one that, broadly speaking, has the same behavior averaged over time as averaged over the space of all the system's states in its phase space
 
 - In physics the term implies that a system satisfies the ergodic hypothesis of thermodynamics.
+
+- Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
 
 
 ___
