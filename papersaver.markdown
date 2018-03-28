@@ -10,7 +10,7 @@ ___
 
 2018 March 28 02:31AM
 
-**Title**: [Hierarchical Imitation and Reinforcement Learning]([https://arxiv.org/abs/1803.00590](https://arxiv.org/abs/1803.00590))
+**Title**: [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590)
 
 **Keywords**: `learn`, `hierarchical`, `framework`, `different`, `rl`, `utilize`, `horizon`, `demonstrate`
 
@@ -24,3 +24,5 @@ We study the problem of learning policies over long time horizons. We present a 
 - Several reinforcement learning approaches to learning hierarchical policies have been explored, foremost among them the options framework (Sutton et al., 1998; 1999; Fruit & Lazaric, 2017)
 
 - The total number of primitive actions in a trajectory is thus at most HFULL := HHIHLO
+
+- We consider a natural extension of behavioral cloning to the hierarchical setting (Algorithm 1)
