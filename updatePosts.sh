@@ -6,6 +6,12 @@ python scripts/generateLinksaverPost.py
 
 echo "Done."
 
+echo "Generating Papersaver post..."
+
+python scripts/generatePapersaverPost.py
+
+echo "Done."
+
 #echo "Generating Ideas markdown file..."
 
 #python /home/tanner/Dropbox/sandbox/IdeaManager/markdown_generator.py
