@@ -21,7 +21,7 @@ if __name__ == "__main__":
 		---
 	'''
 
-	pageText = head+links
+	pageText = head+papers
 
 	DIR = '/home/tanner/Dropbox/website/tannerbohn.github.io/'
 	fname = "papersaver.markdown"
