@@ -8,7 +8,7 @@ if __name__ == "__main__":
 	papers = f.read()
 	f.close()
 
-	head = "layout: page\ncomments: true\ntitle:  \"PaperSaver\"\npermalink: /papersaver/"
+	head = "layout: page\ncomments: false\ntitle:  \"PaperSaver\"\npermalink: /papersaver/"
 	#date = "date: "+strftime("%Y-%m-%d %H:%M:%S", localtime())
 	#head = '---\n'+head +'\n'+date+'\n---\n'
 	head = '---\n'+head +'\n---\n'
