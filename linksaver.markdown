@@ -4,7 +4,48 @@ comments: true
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (51), **`research`** (29), **`learn`** (16), **`studies`** (14), **`memories`** (13), **`word`** (12), **`neuron`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+**Top keywords:** **`brain`** (52), **`research`** (29), **`learn`** (17), **`studies`** (14), **`memories`** (13), **`word`** (12), **`neuron`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+
+___
+
+Wednesday, 28. March 2018 12:26AM
+
+**Url:** [https://arxiv.org/abs/1803.00590](https://arxiv.org/abs/1803.00590)
+
+**Keywords:** `learn`, `hierarchical`, `subgoal`, `expert`, `level`, `reinforcement learn`, `label`, `algorithm`
+
+- We study the problem of learning policies over long time horizons. We present a framework that leverages and integrates two key concepts. First, we utilize hierarchical policy classes that enable planning over different time scales, i.e., the high level planner proposes a sequence of subgoals for the low level planner to achieve.
+
+- Second, we utilize expert demonstrations within the hierarchical action space to dramatically reduce cost of exploration. Our framework is flexible and can incorporate different combinations of imitation learning (IL) and reinforcement learning (RL) at different levels of the hierarchy. Using long-horizon benchmarks, including Montezuma's Revenge, we empirically demonstrate that our approach can learn significantly faster compared to hierarchical RL, and can be significantly more label- and sample-efficient compared to flat IL.
+
+- We also provide theoretical analysis of the labeling cost for certain instantiations of our framework.
+
+
+___
+
+Monday, 26. March 2018 06:13PM
+
+**Url:** [https://en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
+
+**Keywords:** `ergodic`, `displaystyle`, `measurable`, `displaystyle mu`, `mu`, `average`, `markov chain`, `probability`
+
+- In probability theory, an ergodic dynamical system is one that, broadly speaking, has the same behavior averaged over time as averaged over the space of all the system's states in its phase space
+
+- In physics the term implies that a system satisfies the ergodic hypothesis of thermodynamics.
+
+
+___
+
+Monday, 26. March 2018 03:00AM
+
+**Url:** [https://www.sciencedaily.com/releases/2016/11/161103091026.htm](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
+
+**Keywords:** `pain`, `brain`, `patient`, `provide`, `tune`, `chronic pain`, `alpha waves`, `manchester`
+
+- found that alpha waves from the front of the brain, the forebrain, are associated with placebo analgesia and may be influencing how other parts of the brain process pain
+
+- providing volunteers with goggles that flash light in the alpha range or by sound stimulation in both ears phased to provide the same stimulus frequency. They found that both visual and auditory stimulation significantly reduced the intensity of pain induced by laser-heat repeatedly shone on the back of the arm
+
 
 ___
 
