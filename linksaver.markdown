@@ -4,13 +4,24 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (53), **`research`** (29), **`learn`** (16), **`studies`** (14), **`neuron`** (13), **`memories`** (13), **`word`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+**Top keywords:** **`brain`** (53), **`research`** (29), **`learn`** (17), **`studies`** (14), **`neuron`** (13), **`memories`** (13), **`word`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+
+___
+
+**#518** added Wednesday, 28. March 2018 09:04PM. Link: [https://k10v.github.io/2018/02/25/Solving-Bonga...](https://k10v.github.io/2018/02/25/Solving-Bongard-problems-with-deep-learning/)
+
+`problem`, `image`, `26 x 26 x`, `learn`, `bongard problem`, `neural network`, `train`, `26 x`
+
+- Bongard problmes are named after their inventor, Soviet computer scientist Mikhail Bongard, who was working on pattern recognition in the 1960s. He designed 100 of this puzzles, to be a good benchmark for pattern recognition abilities, and they seem to be challenging for both people and algorithms
+
+- Six images on the left conform to a rule, or a pattern, and the six images on the right conform to a different rule (usually an opposite). To solve the problem, one needs to understand the pattern and to figure out the rule (which is the solution).
+
 
 ___
 
 **#517** added Wednesday, 28. March 2018 08:50PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180322125028.htm)
 
-**Keywords:** `brain`, `signal`, `area`, `neuron`, `connection`, `understand`, `model`, `nyu`
+`brain`, `signal`, `area`, `neuron`, `connection`, `understand`, `model`, `nyu`
 
 - Brain areas tend to be organized in a hierarchy, ranging from "lower" sensory areas to "higher" cognitive areas
 
@@ -21,7 +32,7 @@ ___
 
 **#516** added Monday, 26. March 2018 06:13PM. Link: [https://en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
 
-**Keywords:** `ergodic`, `displaystyle`, `measurable`, `displaystyle mu`, `mu`, `average`, `markov chain`, `probability`
+`ergodic`, `displaystyle`, `measurable`, `displaystyle mu`, `mu`, `average`, `markov chain`, `probability`
 
 - In probability theory, an ergodic dynamical system is one that, broadly speaking, has the same behavior averaged over time as averaged over the space of all the system's states in its phase space
 
@@ -32,7 +43,7 @@ ___
 
 **#515** added Monday, 26. March 2018 03:00AM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
 
-**Keywords:** `pain`, `brain`, `patient`, `provide`, `tune`, `chronic pain`, `alpha waves`, `manchester`
+`pain`, `brain`, `patient`, `provide`, `tune`, `chronic pain`, `alpha waves`, `manchester`
 
 - found that alpha waves from the front of the brain, the forebrain, are associated with placebo analgesia and may be influencing how other parts of the brain process pain
 
@@ -43,7 +54,7 @@ ___
 
 **#514** added Sunday, 25. March 2018 09:32PM. Link: [https://www.scientificamerican.com/article/nurt...](https://www.scientificamerican.com/article/nurturing-genius/)
 
-**Keywords:** `student`, `talent`, `studied`, `stanley`, `abilities`, `gifted`, `test`, `smpy`
+`student`, `talent`, `studied`, `stanley`, `abilities`, `gifted`, `test`, `smpy`
 
 - As the longest-running longitudinal survey of intellectually talented children, SMPY has for 45 years tracked the careers and accomplishments of some 5,000 individuals, many of whom have gone on to become high-achieving scientists
 
@@ -56,7 +67,7 @@ ___
 
 **#513** added Sunday, 25. March 2018 09:18PM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
 
-**Keywords:** `memories`, `learned`, `remember`, `run`, `study`, `cortisol`, `information`, `stress`
+`memories`, `learned`, `remember`, `run`, `study`, `cortisol`, `information`, `stress`
 
 - students should do moderate exercise, like running, rather than taking part in a passive activity such as playing computer games if they want to make sure they remember what they learned
 
@@ -67,7 +78,7 @@ ___
 
 **#512** added Sunday, 25. March 2018 09:06PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
 
-**Keywords:** `brain`, `stimulated`, `memory`, `patients`, `task`, `activity`, `current`, `dr violante`
+`brain`, `stimulated`, `memory`, `patients`, `task`, `activity`, `current`, `dr violante`
 
 - applying a low voltage current can bring different areas of the brain in sync with one another, enabling people to perform better on tasks involving working memory.
 
@@ -80,7 +91,7 @@ ___
 
 **#511** added Sunday, 25. March 2018 08:42PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
 
-**Keywords:** `memory`, `sleep`, `stimulation`, `studied`, `deep sleep`, `northwestern`, `improve`, `older`
+`memory`, `sleep`, `stimulation`, `studied`, `deep sleep`, `northwestern`, `improve`, `older`
 
 - In the study, 13 participants 60 and older received one night of acoustic stimulation and one night of sham stimulation. The sham stimulation procedure was identical to the acoustic one, but participants did not hear any noise during sleep. For both the sham and acoustic stimulation sessions, the individuals took a memory test at night and again the next morning. Recall ability after the sham stimulation generally improved on the morning test by a few percent. However, the average improvement was three times larger after pink-noise stimulation.
 
@@ -93,7 +104,7 @@ ___
 
 **#510** added Sunday, 25. March 2018 08:36PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
 
-**Keywords:** `shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
+`shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
 
 - To participants' dominant eye, the researchers presented a series of flashing images; to the nondominant eye, they presented a target image that gradually faded in. Initially, participants were unaware of the target image and could only see the competing, flashing images
 
@@ -106,7 +117,7 @@ ___
 
 **#509** added Sunday, 25. March 2018 08:26PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
 
-**Keywords:** `sound`, `brain`, `relax`, `active`, `collaborating`, `stress`, `effect`, `listened to natural`
+`sound`, `brain`, `relax`, `active`, `collaborating`, `stress`, `effect`, `listened to natural`
 
 - an increase in rest-digest nervous system activity (associated with relaxation of the body) when listening to natural compared with artificial sounds, and better performance in an external attentional monitoring task
 
@@ -117,7 +128,7 @@ ___
 
 **#508** added Sunday, 25. March 2018 08:14PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
 
-**Keywords:** `brain`, `blood`, `walking`, `impact`, `arterial`, `foot impact`, `blood flow`, `pressure`
+`brain`, `blood`, `walking`, `impact`, `arterial`, `foot impact`, `blood flow`, `pressure`
 
 - the foot's impact during walking sends pressure waves through the arteries that significantly modify and can increase the supply of blood to the brain
 
@@ -128,7 +139,7 @@ ___
 
 **#507** added Sunday, 25. March 2018 08:04PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
 
-**Keywords:** `learned`, `environment`, `brain`, `metaplasticity`, `reward`, `synapses`, `learned rate`, `studies`
+`learned`, `environment`, `brain`, `metaplasticity`, `reward`, `synapses`, `learned rate`, `studies`
 
 - there's not a single rate of learning for everything we do, as the brain can self-adjust its learning rates using a synaptic mechanism called metaplasticity
 
@@ -141,7 +152,7 @@ ___
 
 **#506** added Sunday, 25. March 2018 07:58PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
 
-**Keywords:** `bird`, `research`, `grassquit`, `bullfinch`, `differed`, `barbados`, `receptor`, `innovation`
+`bird`, `research`, `grassquit`, `bullfinch`, `differed`, `barbados`, `receptor`, `innovation`
 
 - Wild birds that are more clever than others at foraging for food have different levels of a neurotransmitter receptor that has been linked with intelligence in humans
 
@@ -152,7 +163,7 @@ ___
 
 **#505** added Sunday, 25. March 2018 03:37PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
 
-**Keywords:** `read`, `sacchi`, `spaces`, `word`, `letter spaces`, `letter`, `visual`, `effect`
+`read`, `sacchi`, `spaces`, `word`, `letter spaces`, `letter`, `visual`, `effect`
 
 - Increased letter spacing helps individuals read faster, but not due to visual processing, according to new research
 
@@ -167,7 +178,7 @@ ___
 
 **#504** added Sunday, 25. March 2018 03:08PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
 
-**Keywords:** `synapses`, `brain`, `memories`, `store`, `sejnowski`, `information`, `capacity`, `salk`
+`synapses`, `brain`, `memories`, `store`, `sejnowski`, `information`, `capacity`, `salk`
 
 - found that connections in the brain not only expand as needed in response to learning or experiencing new things, but that others will shrink as a result
 
@@ -176,7 +187,7 @@ ___
 
 **#503** added Sunday, 18. March 2018 06:27PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
 
-**Keywords:** `learn`, `object`, `language`, `word`, `adults`, `correspond`, `strategies`, `research`
+`learn`, `object`, `language`, `word`, `adults`, `correspond`, `strategies`, `research`
 
 - Psychologists found that when we learn the names of unfamiliar objects, brain regions involved in learning actively predict the objects the names correspond to
 
@@ -187,7 +198,7 @@ ___
 
 **#502** added Sunday, 18. March 2018 06:17PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
 
-**Keywords:** `children`, `brain`, `theory of mind`, `network`, `scan`, `develop`, `studied`, `mit`
+`children`, `brain`, `theory of mind`, `network`, `scan`, `develop`, `studied`, `mit`
 
 - Behavioral studies have suggested that children begin succeeding at a key measure of this ability, known as the false-belief task, around age 4. However, a new study from MIT has found that the brain network that controls theory of mind has already formed in children as young as 3
 
@@ -198,7 +209,7 @@ ___
 
 **#501** added Sunday, 18. March 2018 06:07PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
 
-**Keywords:** `rate`, `evaluate`, `successive`, `study`, `judges`, `participants`, `o connor`, `grade`
+`rate`, `evaluate`, `successive`, `study`, `judges`, `participants`, `o connor`, `grade`
 
 - people tend to attribute the increasing ease of making ratings to the items themselves rather than to the ratings process, resulting in rating inflation over time
 
@@ -209,7 +220,7 @@ ___
 
 **#500** added Sunday, 18. March 2018 05:54PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
 
-**Keywords:** `learn`, `brain`, `task`, `neuron`, `activity`, `research`, `change`, `carnegie mellon`
+`learn`, `brain`, `task`, `neuron`, `activity`, `research`, `change`, `carnegie mellon`
 
 - the brain has various mechanisms and constraints by which it reorganizes its neural activity when learning over the course of a few hours. The new research finds that, when learning a new task, the brain is less flexible than previously thought
 
@@ -224,7 +235,7 @@ ___
 
 **#499** added Thursday, 15. March 2018 03:45PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
 
-**Keywords:** `brain`, `music`, `sequence`, `broca s area`, `non local dependencies`, `grammatical`, `cheung`, `processed`
+`brain`, `music`, `sequence`, `broca s area`, `non local dependencies`, `grammatical`, `cheung`, `processed`
 
 - In language and music, dependencies are conceptual threads that bind two things together. Non-local dependencies bind non-adjacent items. For example, in pop music, the second instance of a verse, following a chorus, would have a non-local dependency with the first instance of the verse
 
@@ -237,7 +248,7 @@ ___
 
 **#498** added Tuesday, 13. March 2018 12:28AM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
 
-**Keywords:** `dog`, `speech`, `human`, `adult`, `babies`, `interact`, `speaker`, `adult dog`
+`dog`, `speech`, `human`, `adult`, `babies`, `interact`, `speaker`, `adult dog`
 
 - Speech interaction experiments between adult dogs and humans showed that so called "dog-speak" improves attention and may help humans to socially bond with their pets
 
@@ -252,7 +263,7 @@ ___
 
 **#497** added Tuesday, 13. March 2018 12:21AM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
 
-**Keywords:** `word`, `sense`, `language`, `mean`, `emerge`, `cognitive`, `human`, `word sense`
+`word`, `sense`, `language`, `mean`, `emerge`, `cognitive`, `human`, `word sense`
 
 - words accumulate families of related senses over the course of history. For instance, the word 'face' originally meant the front part of a head, but over time it also came to mean the front part of other objects, such as the 'face' of the cliff, and an emotional state, such as putting on a brave 'face.'
 
@@ -267,7 +278,7 @@ ___
 
 **#496** added Monday, 12. March 2018 07:11PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
 
-**Keywords:** `computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
+`computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
 
 - identified a specific brain signal associated with the conversion of speech into understanding. The signal is present when the listener has understood what they have heard, but it is absent when they either did not understand, or weren't paying attention
 
@@ -282,7 +293,7 @@ ___
 
 **#495** added Monday, 12. March 2018 07:01PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
 
-**Keywords:** `event`, `difficult life event`, `wisdom`, `life`, `aldwin`, `develop`, `participant`, `challenge`
+`event`, `difficult life event`, `wisdom`, `life`, `aldwin`, `develop`, `participant`, `challenge`
 
 - How a person responds to a difficult life event such as a death or divorce helps shape the development of their wisdom over time
 
@@ -297,7 +308,7 @@ ___
 
 **#494** added Wednesday, 07. March 2018 07:39PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
 
-**Keywords:** `strategies`, `trained`, `memory trained`, `task`, `memory`, `study`, `participants`, `effective`
+`strategies`, `trained`, `memory trained`, `task`, `memory`, `study`, `participants`, `effective`
 
 - results suggest that a significant part of working memory training effects is a result of a fast development of task-specific strategies during training rather than an increase in working memory capacity
 
@@ -308,7 +319,7 @@ ___
 
 **#493** added Saturday, 17. February 2018 04:51PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
 
-**Keywords:** `stress`, `exercise`, `memory`, `mice`, `edwards`, `ltp`, `run`, `stress mice`
+`stress`, `exercise`, `memory`, `mice`, `edwards`, `ltp`, `run`, `stress mice`
 
 - running mitigates the negative impacts chronic stress has on the hippocampus, the part of the brain responsible for learning and memory
 
@@ -319,7 +330,7 @@ ___
 
 **#492** added Saturday, 17. February 2018 04:44PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
 
-**Keywords:** `brain`, `entropy`, `studies`, `research`, `saxe`, `intelligence`, `score`, `active`
+`brain`, `entropy`, `studies`, `research`, `saxe`, `intelligence`, `score`, `active`
 
 - offers the first solid evidence that functional MRI scans of brain entropy are a new means to understanding human intelligence
 
@@ -332,7 +343,7 @@ ___
 
 **#491** added Saturday, 17. February 2018 04:31PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
 
-**Keywords:** `dopamine`, `hallucinations`, `expect`, `participants`, `process`, `perceptual`, `perceptual distorted`, `schizophrenia`
+`dopamine`, `hallucinations`, `expect`, `participants`, `process`, `perceptual`, `perceptual distorted`, `schizophrenia`
 
 - people with schizophrenia who experience auditory hallucinations tend to hear what they expect, an exaggerated version of a perceptual distortion that is common among other people without hallucinations
 
@@ -343,7 +354,7 @@ ___
 
 **#490** added Saturday, 17. February 2018 04:27PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
 
-**Keywords:** `blink`, `event`, `participants`, `related`, `studies`, `human`, `visual`, `physiological`
+`blink`, `event`, `participants`, `related`, `studies`, `human`, `visual`, `physiological`
 
 - found that humans unconsciously trade off the loss of information during a blink with the physiological urge to blink
 
@@ -356,7 +367,7 @@ ___
 
 **#489** added Thursday, 01. February 2018 03:19PM. Link: [https://www.sciencedaily.com/releases/2018/01/1...](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
 
-**Keywords:** `language`, `learn`, `brain systems`, `language learn`, `studied`, `findings`, `brain`, `research`
+`language`, `learn`, `brain systems`, `language learn`, `studied`, `findings`, `brain`, `research`
 
 - how good we are at remembering the words of a language correlates with how good we are at learning in declarative memory, which we use to memorize shopping lists
 
@@ -367,7 +378,7 @@ ___
 
 **#488** added Tuesday, 30. January 2018 04:10AM. Link: [https://www.sciencedaily.com/releases/2018/01/1...](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
 
-**Keywords:** `learn`, `communities`, `word`, `grammar`, `language`, `cultural`, `simpler`, `speakers`
+`learn`, `communities`, `word`, `grammar`, `language`, `cultural`, `simpler`, `speakers`
 
 - Languages with lots of speakers, such as English and Mandarin, have large vocabularies with relatively simple grammar. Yet the opposite is also true: Languages with fewer speakers have fewer words but complex grammars
 
@@ -380,7 +391,7 @@ ___
 
 **#487** added Saturday, 06. January 2018 01:11AM. Link: [http://www.sciencealert.com/study-finds-that-so...](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
 
-**Keywords:** `read`, `book`, `infant`, `parent`, `characters`, `shared book read`, `babies`, `learn`
+`read`, `book`, `infant`, `parent`, `characters`, `shared book read`, `babies`, `learn`
 
 - Researchers see clear benefits of shared book reading for child development. Shared book reading with young children is good for language and cognitive development, increasing vocabulary and pre-reading skills and honing conceptual development.
 
@@ -391,7 +402,7 @@ ___
 
 **#486** added Wednesday, 03. January 2018 12:32AM. Link: [http://www.sciencealert.com/sugar-consumption-d...](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
 
-**Keywords:** `glucose`, `sugar`, `test`, `participants`, `effect`, `fructose`, `cognitive function`, `sucrose`
+`glucose`, `sugar`, `test`, `participants`, `effect`, `fructose`, `cognitive function`, `sucrose`
 
 - In a double-blind, placebo-controlled study, participants demonstrated a delay in completing cognitive tasks after consuming glucose or table sugar, compared to participants that consumed fructose (fruit sugar) or artificial sweetener sucralose (the placebo). And fasting beforehand heightened this effect.
 
@@ -408,7 +419,7 @@ ___
 
 **#485** added Friday, 29. December 2017 12:53AM. Link: [https://www.scientificamerican.com/article/pupp...](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
 
-**Keywords:** `dog`, `human`, `dingo`, `wolves`, `eye contact`, `owners`, `bond`, `eye`
+`dog`, `human`, `dingo`, `wolves`, `eye contact`, `owners`, `bond`, `eye`
 
 - As the dog stares, the hormone oxytocin floods the owner’s brain, causing him or her to lavish attention on the canine, which experiences a similar spike in the hormone and proceeds to stare even harder
 
@@ -421,7 +432,7 @@ ___
 
 **#484** added Thursday, 28. December 2017 07:08PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
 
-**Keywords:** `exercise`, `brain`, `studies`, `showed`, `10 minute`, `heath`, `research`, `benefits`
+`exercise`, `brain`, `studies`, `showed`, `10 minute`, `heath`, `research`, `benefits`
 
 - A 10-minute, one-time burst of exercise can measurably boost your brain power, at least temporarily
 
@@ -434,7 +445,7 @@ ___
 
 **#483** added Thursday, 28. December 2017 03:09AM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
 
-**Keywords:** `neuron`, `predict`, `theories`, `previous`, `code`, `framework`, `encode`, `signal`
+`neuron`, `predict`, `theories`, `previous`, `code`, `framework`, `encode`, `signal`
 
 - One of the main goals of sensory neuroscience is to predict neural responses using mathematical models. Previously, these predictions were based on three main theories, each of which had a different area of applicability, corresponding to varying assumptions about the neurons' internal constraints, the type of signal, and the purpose of the gathered information
 
@@ -453,7 +464,7 @@ ___
 
 **#482** added Thursday, 14. December 2017 11:00PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
 
-**Keywords:** `food`, `begdache`, `mood`, `mental distress`, `adult`, `young adult`, `brain`, `increase`
+`food`, `begdache`, `mood`, `mental distress`, `adult`, `young adult`, `brain`, `increase`
 
 - mood in young adults (18-29) seems to be dependent on food that increases availability of neurotransmitter precursors and concentrations in the brain (meat).
 
@@ -466,7 +477,7 @@ ___
 
 **#481** added Tuesday, 12. December 2017 12:50PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
 
-**Keywords:** `game`, `cognition`, `play`, `cognition abilities`, `action`, `gamer`, `action video game`, `studies`
+`game`, `cognition`, `play`, `cognition abilities`, `action`, `gamer`, `action video game`, `studies`
 
 - 2,883 people (men and women) who played for a maximum of one hour a week were first tested for their cognitive abilities and then randomly divided into two groups: one played action games (war or shooter games), the other played control games (SIMS, Puzzle, Tetris)
 
@@ -481,7 +492,7 @@ ___
 
 **#480** added Sunday, 03. December 2017 01:19AM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
 
-**Keywords:** `memory`, `studies`, `read`, `active`, `word`, `aloud`, `macleod`, `waterloo`
+`memory`, `studies`, `read`, `active`, `word`, `aloud`, `macleod`, `waterloo`
 
 - found that speaking text aloud helps to get words into long-term memory. Dubbed the "production effect," the study determined that it is the dual action of speaking and hearing oneself that has the most beneficial impact on memory
 
@@ -494,7 +505,7 @@ ___
 
 **#479** added Wednesday, 29. November 2017 05:36PM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
 
-**Keywords:** `children`, `contact`, `infants`, `dna`, `studies`, `health`, `development`, `epigenetic`
+`children`, `contact`, `infants`, `dna`, `studies`, `health`, `development`, `epigenetic`
 
 - showed that children who had been more distressed as infants and had received less physical contact had a molecular profile in their cells that was underdeveloped for their age
 
@@ -507,7 +518,7 @@ ___
 
 **#478** added Saturday, 25. November 2017 09:22PM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
 
-**Keywords:** `brain`, `memories`, `stimulation`, `research`, `activate`, `frequencies`, `function`, `brain region`
+`brain`, `memories`, `stimulation`, `research`, `activate`, `frequencies`, `function`, `brain region`
 
 - found that low-frequency rhythms of brain activity, when brain waves move up and down slowly, primarily drive communication between the frontal, temporal and medial temporal lobes, key brain regions that engage during memory processing
 
@@ -518,7 +529,7 @@ ___
 
 **#477** added Saturday, 25. November 2017 02:28AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
 
-**Keywords:** `brain`, `human`, `gene`, `primate`, `region`, `researcher`, `found`, `distinct`
+`brain`, `human`, `gene`, `primate`, `region`, `researcher`, `found`, `distinct`
 
 - all regions of the human brain have molecular signatures very similar to those of our primate relatives, yet some regions contain distinctly human patterns of gene activity that mark the brain's evolution and may contribute to our cognitive abilities
 
@@ -535,7 +546,7 @@ ___
 
 **#476** added Saturday, 25. November 2017 02:19AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
 
-**Keywords:** `goal`, `babies`, `agent`, `understand`, `infants`, `research`, `studied`, `mit`
+`goal`, `babies`, `agent`, `understand`, `infants`, `research`, `studied`, `mit`
 
 - Babies as young as 10 months can assess how much someone values a particular goal by observing how hard they are willing to work to achieve it
 
@@ -548,7 +559,7 @@ ___
 
 **#475** added Monday, 20. November 2017 02:45AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
 
-**Keywords:** `gestural`, `research`, `language`, `babies`, `speech`, `studied`, `showing`, `combination`
+`gestural`, `research`, `language`, `babies`, `speech`, `studied`, `showing`, `combination`
 
 - studied how 9 to 13-month-old babies tackle the shift from early babbling to the use of combinations of gestures and speech
 
@@ -561,7 +572,7 @@ ___
 
 **#474** added Sunday, 19. November 2017 04:08AM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
 
-**Keywords:** `cache`, `core`, `chip`, `jenga`, `data`, `latencies`, `memories`, `allocated`
+`cache`, `core`, `chip`, `jenga`, `data`, `latencies`, `memories`, `allocated`
 
 - Today's chips generally have three or even four different levels of cache, each of which is more capacious but slower than the last. The sizes of the caches represent a compromise between the needs of different kinds of programs, but it's rare that they're exactly suited to any one program.
 
@@ -574,7 +585,7 @@ ___
 
 **#473** added Sunday, 19. November 2017 03:44AM. Link: [http://www.sciencealert.com/brain-processes-sou...](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
 
-**Keywords:** `brain`, `research`, `perception`, `sounds`, `strobe`, `auditory`, `findings`, `sensitive`
+`brain`, `research`, `perception`, `sounds`, `strobe`, `auditory`, `findings`, `sensitive`
 
 - Using a simple noise identification experiment, involving 20 participants and 2,100 tests per participant, the research found that our ears take turns in being the most sensitive to sounds
 
@@ -587,7 +598,7 @@ ___
 
 **#472** added Friday, 10. November 2017 11:56AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
 
-**Keywords:** `similar`, `computation`, `flies`, `hash`, `navlakha`, `odor`, `similar search`, `smell`
+`similar`, `computation`, `flies`, `hash`, `navlakha`, `odor`, `similar search`, `smell`
 
 - discovered that the fruit fly brain has an elegant and efficient method of performing similarity searches
 
@@ -604,7 +615,7 @@ ___
 
 **#471** added Thursday, 02. November 2017 06:00PM. Link: [http://www.sciencealert.com/a-study-has-shown-t...](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
 
-**Keywords:** `dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
+`dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
 
 - Some dog owners love their four-legged friends so much that they treat them like they would a child - and sometimes even say they prefer them to some friends and family.
 
@@ -619,7 +630,7 @@ ___
 
 **#470** added Sunday, 22. October 2017 03:23PM. Link: [https://www.sciencedaily.com/releases/2017/10/1...](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
 
-**Keywords:** `brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
+`brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
 
 - One of the two brain-training methods most scientists use in research is significantly better in improving memory and attention
 
@@ -634,7 +645,7 @@ ___
 
 **#469** added Tuesday, 10. October 2017 03:56PM. Link: [https://www.sciencedaily.com/releases/2017/10/1...](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
 
-**Keywords:** `brain`, `reinhart`, `stimulate`, `participant`, `learn`, `region`, `somers`, `task`
+`brain`, `reinhart`, `stimulate`, `participant`, `learn`, `region`, `somers`, `task`
 
 - Two brain regions -- the medial frontal and lateral prefrontal cortices -- control most executive function. Researchers used high-definition transcranial alternating current stimulation (HD-tACS) to synchronize oscillations between them, improving brain processing. De-synchronizing did the opposite
 
@@ -651,7 +662,7 @@ ___
 
 **#468** added Tuesday, 03. October 2017 01:05AM. Link: [https://deepmind.com/blog/hippocampus-predictiv...](https://deepmind.com/blog/hippocampus-predictive-map/)
 
-**Keywords:** `learn`, `reward`, `future`, `hippocampus`, `model`, `estimate`, `algorithm`, `future reward`
+`learn`, `reward`, `future`, `hippocampus`, `model`, `estimate`, `algorithm`, `future reward`
 
 - Our new theory thinks about navigation as part of the more general problem of computing plans that maximise future reward
 
@@ -666,7 +677,7 @@ ___
 
 **#467** added Sunday, 01. October 2017 08:44PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
 
-**Keywords:** `decision`, `change`, `effort`, `handle`, `move`, `behaviour`, `express`, `less`
+`decision`, `change`, `effort`, `handle`, `move`, `behaviour`, `express`, `less`
 
 - new UCL study suggesting we're biased towards perceiving anything challenging to be less appealing
 
@@ -681,7 +692,7 @@ ___
 
 **#466** added Sunday, 01. October 2017 01:11AM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
 
-**Keywords:** `customer`, `price`, `zia`, `store`, `competitor`, `search`, `advertisement`, `expedia`
+`customer`, `price`, `zia`, `store`, `competitor`, `search`, `advertisement`, `expedia`
 
 - Research has shown that there is a lot of price dispersion in online stores. If customers want to save money, they should search on many different platforms, especially with travel products like flights and hotels
 
@@ -696,7 +707,7 @@ ___
 
 **#465** added Saturday, 30. September 2017 10:34PM. Link: [https://www.sciencedaily.com/releases/2017/09/1...](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
 
-**Keywords:** `brain`, `hippocampus`, `activation`, `functional`, `cortex`, `memories`, `brain wide functional connecting`, `optogenetic`
+`brain`, `hippocampus`, `activation`, `functional`, `cortex`, `memories`, `brain wide functional connecting`, `optogenetic`
 
 - the role of hippocampus in complex brain networks, particularly its influence on brain-wide functional connectivity, is not well understood by scientists
 
@@ -709,7 +720,7 @@ ___
 
 **#464** added Saturday, 30. September 2017 12:47AM. Link: [http://www.sciencealert.com/ultraviolet-light-h...](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
 
-**Keywords:** `ice`, `liquid`, `bubbled`, `water`, `research`, `space`, `tachibana`, `planets`
+`ice`, `liquid`, `bubbled`, `water`, `research`, `space`, `tachibana`, `planets`
 
 - Icy materials in space could behave like liquids at low temperatures and under ultraviolet light, suggests new research
 
@@ -724,7 +735,7 @@ ___
 
 **#463** added Friday, 29. September 2017 12:01AM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
 
-**Keywords:** `breath`, `brain`, `inhalation`, `face`, `emotion`, `fear`, `encountered`, `scientists`
+`breath`, `brain`, `inhalation`, `face`, `emotion`, `fear`, `encountered`, `scientists`
 
 - In the study, individuals were able to identify a fearful face more quickly if they encountered the face when breathing in compared to breathing out. Individuals also were more likely to remember an object if they encountered it on the inhaled breath than the exhaled one. The effect disappeared if breathing was through the mouth
 
@@ -735,7 +746,7 @@ ___
 
 **#462** added Wednesday, 27. September 2017 05:55PM. Link: [https://en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
 
-**Keywords:** `perplexed`, `model`, `word`, `probabilities`, `test`, `test sample`, `bits`, `tilde p`
+`perplexed`, `model`, `word`, `probabilities`, `test`, `test sample`, `bits`, `tilde p`
 
 - In information theory, perplexity is a measurement of how well a probability distribution or probability model predicts a sample. It may be used to compare probability models. A low perplexity indicates the probability distribution is good at predicting the sample.
 
@@ -746,7 +757,7 @@ ___
 
 **#461** added Wednesday, 27. September 2017 05:37PM. Link: [http://blog.shakirm.com/2016/02/learning-in-bra...](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
 
-**Keywords:** `learn`, `reward`, `st`, `predict`, `value`, `dopamine`, `brain`, `function`
+`learn`, `reward`, `st`, `predict`, `value`, `dopamine`, `brain`, `function`
 
 - The striatum is special since it is a major target of the neurotransmitter dopamine, and leads to the sneaking suspicion that dopamine plays an important role in reward-based learning
 
@@ -755,7 +766,7 @@ ___
 
 **#460** added Wednesday, 27. September 2017 05:22PM. Link: [http://people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
 
-**Keywords:** `learn`, `computable`, `robot`, `schmidhuber`, `optimal`, `neural`, `machine`, `evolution`
+`learn`, `computable`, `robot`, `schmidhuber`, `optimal`, `neural`, `machine`, `evolution`
 
 - According to Schmidhuber's formal theory of creativity, art and science and humor are just by-products of the desire to create / discover more data that is predictable or compressible in hitherto unknown ways
 
@@ -764,7 +775,7 @@ ___
 
 **#459** added Wednesday, 27. September 2017 05:02PM. Link: [https://en.wikipedia.org/wiki/Kolmogorov_comple...](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
-**Keywords:** `string`, `program`, `length`, `kolmogorov complex`, `theorem`, `complex`, `kolmogorov`, `2n`
+`string`, `program`, `length`, `kolmogorov complex`, `theorem`, `complex`, `kolmogorov`, `2n`
 
 - the Kolmogorov complexity of an object, such as a piece of text, is the length of the shortest computer program (in a predetermined programming language) that produces the object as output.
 
@@ -775,7 +786,7 @@ ___
 
 **#458** added Saturday, 23. September 2017 03:30PM. Link: [https://www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
 
-**Keywords:** `tdcs`, `mice`, `p 0`, `slices`, `ltp`, `control`, `tdcs mice`, `anodal tdcs`
+`tdcs`, `mice`, `p 0`, `slices`, `ltp`, `control`, `tdcs mice`, `anodal tdcs`
 
 - mice subjected to 20-min anodal tDCS exhibited one-week lasting increases in hippocampal LTP, learning and memory
 
@@ -786,7 +797,7 @@ ___
 
 **#457** added Friday, 22. September 2017 03:22PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
 
-**Keywords:** `surprise`, `song`, `harmonic surprise`, `professor grzywacz`, `brain`, `measurable`, `chord`, `preference`
+`surprise`, `song`, `harmonic surprise`, `professor grzywacz`, `brain`, `measurable`, `chord`, `preference`
 
 - Unsuspected chord changes, especially when followed by a predictable harmony, has been linked to a song's popularity, as judged by its placement in the Billboard Top 100 charts
 
@@ -799,7 +810,7 @@ ___
 
 **#456** added Thursday, 21. September 2017 10:06PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
 
-**Keywords:** `word`, `student`, `remember`, `distracted`, `participant`, `group`, `research`, `set of 20`
+`word`, `student`, `remember`, `distracted`, `participant`, `group`, `research`, `set of 20`
 
 - found that while divided attention does impair memory, people can still selectively focus on what is most important -- even while they're multitasking
 
@@ -816,7 +827,7 @@ ___
 
 **#455** added Thursday, 21. September 2017 09:44PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
 
-**Keywords:** `product`, `face`, `dominance`, `research`, `maeng`, `marketers`, `product design`, `human face`
+`product`, `face`, `dominance`, `research`, `maeng`, `marketers`, `product design`, `human face`
 
 - People are typically averse to wider human faces because they elicit fears of being dominated. However, consumers might like wider faces on some products they buy, such as watches or cars, when they want to be seen in a position of power in certain situations
 
@@ -827,7 +838,7 @@ ___
 
 **#454** added Thursday, 21. September 2017 01:57AM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
 
-**Keywords:** `cell`, `chandelier cell`, `brain`, `neuronal`, `information`, `inhibited`, `connect`, `hundred`
+`cell`, `chandelier cell`, `brain`, `neuronal`, `information`, `inhibited`, `connect`, `hundred`
 
 - chandelier cells, a distinctive kind of inhibitory cell type in the mammalian brain. They reveal for the first time how this candelabra-shaped cell interacts with hundreds of excitatory cells in its neighborhood, receiving information from some, imparting information to others
 
@@ -838,7 +849,7 @@ ___
 
 **#453** added Wednesday, 20. September 2017 06:32PM. Link: [https://www.newscientist.com/article/2146534-ne...](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
 
-**Keywords:** `think`, `music`, `tested`, `ferguson`, `creative`, `silence`, `happy music`, `dopamine`
+`think`, `music`, `tested`, `ferguson`, `creative`, `silence`, `happy music`, `dopamine`
 
 - The tests were designed to gauge two types of thinking: divergent thinking, which describes the process of generating new ideas, and convergent thinking, which is how we find the best solutions for a problem.
 
@@ -849,7 +860,7 @@ ___
 
 **#452** added Monday, 18. September 2017 11:33PM. Link: [http://giorgiopatrini.org/posts/2017/09/06/in-s...](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
 
-**Keywords:** `learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
+`learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
 
 - An overview of current trends for feature learning in the unsupervised way
 
@@ -876,7 +887,7 @@ ___
 
 **#451** added Monday, 18. September 2017 10:57PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
 
-**Keywords:** `event`, `brain`, `remember`, `memory`, `presented`, `image`, `replayed`, `encoding`
+`event`, `brain`, `remember`, `memory`, `presented`, `image`, `replayed`, `encoding`
 
 - when remembering a sequence of events, the brain focuses on the event paid the least attention, rather than replaying the events in the order they occurred
 
@@ -891,7 +902,7 @@ ___
 
 **#450** added Monday, 18. September 2017 10:50PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
 
-**Keywords:** `object`, `pathway`, `processed`, `distinct`, `information`, `dorsal pathway`, `represent`, `ventral pathway`
+`object`, `pathway`, `processed`, `distinct`, `information`, `dorsal pathway`, `represent`, `ventral pathway`
 
 - distinct roles for two brain pathways in processing information related to an object, with one carrying a largely invariant representation of an object and the other a flexible one depending on what we do with an object
 
@@ -906,7 +917,7 @@ ___
 
 **#449** added Saturday, 26. August 2017 06:43PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
 
-**Keywords:** `tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
+`tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
 
 - found that chronic tinnitus is associated with changes in certain networks in the brain, and furthermore, those changes cause the brain to stay more at attention and less at rest
 
@@ -921,7 +932,7 @@ ___
 
 **#448** added Saturday, 19. August 2017 11:49PM. Link: [https://www.wired.com/story/bacteria-may-rig-th...](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
 
-**Keywords:** `mutate`, `cell`, `houseley`, `gene`, `mechanism`, `adapt`, `copies`, `yeast`
+`mutate`, `cell`, `houseley`, `gene`, `mechanism`, `adapt`, `copies`, `yeast`
 
 - DNA often contains multiple copies of extended sequences of base pairs or even whole genes. The exact number can vary among individuals because, when cells are duplicating their DNA before cell division, certain mistakes can insert or delete copies of gene sequences
 
@@ -936,7 +947,7 @@ ___
 
 **#447** added Saturday, 19. August 2017 02:15PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
 
-**Keywords:** `brain`, `stimulate`, `activate`, `cells`, `pralle`, `neuronal`, `magneto thermal stimulate`, `research`
+`brain`, `stimulate`, `activate`, `cells`, `pralle`, `neuronal`, `magneto thermal stimulate`, `research`
 
 - Scientists have used magnetism to activate tiny groups of cells in the brain, inducing bodily movements that include running, rotating and losing control of the extremities
 
@@ -951,7 +962,7 @@ ___
 
 **#446** added Friday, 18. August 2017 10:57PM. Link: [http://www.sciencealert.com/landmark-vitamin-di...](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
 
-**Keywords:** `birth defects`, `research`, `nad`, `defects`, `babies`, `supplement`, `women`, `vitamin b3`
+`birth defects`, `research`, `nad`, `defects`, `babies`, `supplement`, `women`, `vitamin b3`
 
 - Researchers have identified a deficiency in a developmental molecule called NAD that can keep a baby's organs from forming properly in the womb – but the shortfall could be addressed by pregnant women taking vitamin B3, which may prevent a range of birth defects.
 
@@ -962,7 +973,7 @@ ___
 
 **#445** added Monday, 07. August 2017 09:30PM. Link: [http://www.sciencealert.com/hydrogen-fuel-could...](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
 
-**Keywords:** `hydrogen`, `alloy`, `aluminium`, `fuel`, `water`, `reaction`, `research`, `hydrogen gas`
+`hydrogen`, `alloy`, `aluminium`, `fuel`, `water`, `reaction`, `research`, `hydrogen gas`
 
 - Researchers at the US Army Aberdeen Proving Ground Research Laboratory were developing a high-strength aluminium alloy when they made a startling discovery. During routine testing of the alloy, water poured over its surface started bubbling and producing hydrogen gas
 
@@ -977,7 +988,7 @@ ___
 
 **#444** added Monday, 07. August 2017 01:12AM. Link: [https://phys.org/news/2017-08-redefine-statisti...](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
 
-**Keywords:** `p value`, `suggest`, `percent`, `paper`, `changed`, `science`, `example`, `05`
+`p value`, `suggest`, `percent`, `paper`, `changed`, `science`, `example`, `05`
 
 - A large group of scientists and statisticians has uploaded a paper to the PsyArXiv preprint server arguing for changing the p-value from .05 to .005
 
@@ -988,7 +999,7 @@ ___
 
 **#443** added Saturday, 22. July 2017 07:47PM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
 
-**Keywords:** `grid cells`, `cells`, `place cells`, `model`, `activated`, `neuronal`, `hexagonal`, `temporal`
+`grid cells`, `cells`, `place cells`, `model`, `activated`, `neuronal`, `hexagonal`, `temporal`
 
 - new theory for the origin of the grid cells required for spatial orientation in the mammalian brain, which assigns a vital role to the timing of trains of signals they receive from neurons called place cells
 
@@ -999,7 +1010,7 @@ ___
 
 **#442** added Tuesday, 18. July 2017 09:41PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
 
-**Keywords:** `activation`, `art`, `kaimal`, `artists`, `reward`, `study`, `doodled`, `participants`
+`activation`, `art`, `kaimal`, `artists`, `reward`, `study`, `doodled`, `participants`
 
 - Your brain's reward pathways become active during art-making activities like doodling
 
@@ -1016,7 +1027,7 @@ ___
 
 **#441** added Tuesday, 18. July 2017 09:31PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
 
-**Keywords:** `exercise`, `brain`, `effects`, `acute exercise`, `changes`, `behavioral`, `cognitive`, `function`
+`exercise`, `brain`, `effects`, `acute exercise`, `changes`, `behavioral`, `cognitive`, `function`
 
 - the most consistent behavioral effects of acute exercise are improved executive function, enhanced mood, and decreased stress levels
 
@@ -1029,7 +1040,7 @@ ___
 
 **#440** added Tuesday, 18. July 2017 09:19PM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
 
-**Keywords:** `robot`, `human`, `empowerment`, `concept`, `harm`, `laws`, `salge`, `asimov`
+`robot`, `human`, `empowerment`, `concept`, `harm`, `laws`, `salge`, `asimov`
 
 - chime_sound.set_volume(0.5)
 		mixer.Sound.play(chime_sound)
@@ -1044,7 +1055,7 @@ ___
 
 **#439** added Monday, 03. July 2017 11:32AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
 
-**Keywords:** `mitoflash`, `long term`, `synaptic plasticity`, `synaptic`, `short term synaptic`, `ros`, `memories`, `signal`
+`mitoflash`, `long term`, `synaptic plasticity`, `synaptic`, `short term synaptic`, `ros`, `memories`, `signal`
 
 - revealed the essential role of dendritic mitochondrial flash in transforming short-term synaptic plasticity into long-term plasticity, which is known to be the cellular correlates of long-term memory. 
 
@@ -1063,7 +1074,7 @@ ___
 
 **#438** added Sunday, 25. June 2017 04:46PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
 
-**Keywords:** `smartphone`, `participants`, `phone`, `cognitive`, `cognitive capacity`, `person`, `experiment`, `reduce`
+`smartphone`, `participants`, `phone`, `cognitive`, `cognitive capacity`, `person`, `experiment`, `reduce`
 
 - Your cognitive capacity is significantly reduced when your smartphone is within reach -- even if it's off.
 
@@ -1078,7 +1089,7 @@ ___
 
 **#437** added Thursday, 22. June 2017 03:44AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
 
-**Keywords:** `memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
+`memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
 
 - research identifies a brain mechanism that enables more efficient multitasking. The key to this is "reactivating the learned memory," a process that allows a person to more efficiently learn or engage in two tasks in close conjunction
 
@@ -1099,7 +1110,7 @@ ___
 
 **#436** added Thursday, 22. June 2017 03:27AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
 
-**Keywords:** `memories`, `forget`, `brain`, `remember`, `information`, `neuron`, `richards`, `mechanism`
+`memories`, `forget`, `brain`, `remember`, `information`, `neuron`, `richards`, `mechanism`
 
 - A new review paper proposes that the goal of memory is not to transmit the most accurate information over time, but to guide and optimize intelligent decision making by only holding on to valuable information
 
@@ -1118,7 +1129,7 @@ ___
 
 **#435** added Thursday, 22. June 2017 02:51AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
 
-**Keywords:** `brain`, `short term memories`, `mean`, `information`, `memories`, `finding`, `remember`, `create`
+`brain`, `short term memories`, `mean`, `information`, `memories`, `finding`, `remember`, `create`
 
 - When we are learning new information, our brain has two different ways to remember the material for a short period of time, either by mentally rehearsing the sounds of the words or thinking about the meaning of the words
 
@@ -1129,7 +1140,7 @@ ___
 
 **#434** added Thursday, 22. June 2017 02:36AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
 
-**Keywords:** `studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
+`studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
 
 - Multitasking while studying may impair overall memory for the study material, but your ability to strategically identify and remember the most important information may stay intact
 
@@ -1146,7 +1157,7 @@ ___
 
 **#433** added Tuesday, 20. June 2017 01:36AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
 
-**Keywords:** `brain`, `patients`, `word`, `process`, `ries`, `activate`, `neuronal`, `region`
+`brain`, `patients`, `word`, `process`, `ries`, `activate`, `neuronal`, `region`
 
 - Most adults can quickly and effortlessly recall as many as 100,000 regularly used words when prompted, but how the brain accomplishes this has long boggled scientists. How does the brain nearly always find the needle in the haystack?
 
@@ -1161,7 +1172,7 @@ ___
 
 **#432** added Monday, 12. June 2017 10:48PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
 
-**Keywords:** `function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
+`function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
 
 - fronto-parietal network is responsible for a range of highly diverse functions, from planning and executing movements to mental rotation, and from spatial attention to working memory. But how can a single network participate in such a wide variety of functions?
 
@@ -1180,7 +1191,7 @@ ___
 
 **#431** added Monday, 12. June 2017 03:52PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
 
-**Keywords:** `computation`, `problem`, `oscillating`, `solve`, `color`, `system`, `graph`, `graph color problem`
+`computation`, `problem`, `oscillating`, `solve`, `color`, `system`, `graph`, `graph color problem`
 
 - We wanted to find a way to solve a problem without using the normal binary representations that have been the backbone of computing for decades
 
@@ -1197,7 +1208,7 @@ ___
 
 **#430** added Monday, 12. June 2017 12:18AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
 
-**Keywords:** `brain`, `pitkow`, `model`, `computations`, `bias`, `research`, `neuron`, `neuroscience`
+`brain`, `pitkow`, `model`, `computations`, `bias`, `research`, `neuron`, `neuroscience`
 
 - the brain's ability to perform "approximate probabilistic inference" cannot be truly studied with simple tasks that are "ill-suited to expose the inferential computations that make the brain special."
 
@@ -1214,7 +1225,7 @@ ___
 
 **#429** added Sunday, 11. June 2017 11:24PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
 
-**Keywords:** `farmer`, `plant`, `pest`, `optimal`, `system`, `decisions`, `water`, `reach`
+`farmer`, `plant`, `pest`, `optimal`, `system`, `decisions`, `water`, `reach`
 
 - Bali's famous rice terraces, when seen from above, look like colorful mosaics because some farmers plant synchronously, while others plant at different times
 
@@ -1233,7 +1244,7 @@ ___
 
 **#428** added Saturday, 10. June 2017 05:45PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
 
-**Keywords:** `event`, `neuron`, `activation`, `cell`, `sequence`, `brain`, `hippocampus`, `smell`
+`event`, `neuron`, `activation`, `cell`, `sequence`, `brain`, `hippocampus`, `smell`
 
 - The hippocampus can generalize, putting not just places but also events into sequence by changing the neural code in the rat brain
 
@@ -1246,7 +1257,7 @@ ___
 
 **#427** added Saturday, 10. June 2017 03:55PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
 
-**Keywords:** `neuron`, `drnda`, `sleep`, `active`, `animal`, `gradinaru`, `drnda neuron`, `wake`
+`neuron`, `drnda`, `sleep`, `active`, `animal`, `gradinaru`, `drnda neuron`, `wake`
 
 - identified a neural circuit in the brain that controls wakefulness
 
@@ -1263,7 +1274,7 @@ ___
 
 **#426** added Friday, 09. June 2017 09:41PM. Link: [http://www.sciencealert.com/plant-seeds-use-min...](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
 
-**Keywords:** `plant`, `germinate`, `cell`, `plant seed`, `sprout`, `seed`, `research`, `separation`
+`plant`, `germinate`, `cell`, `plant seed`, `sprout`, `seed`, `research`, `separation`
 
 - found two small groups of cells inside plant embryos that operate in a similar way to the human brain, and help decide when the plant should start sprouting
 
@@ -1276,7 +1287,7 @@ ___
 
 **#425** added Friday, 09. June 2017 06:01PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
 
-**Keywords:** `research`, `brain`, `serious`, `studied`, `judgement`, `asts`, `intention`, `universal`
+`research`, `brain`, `serious`, `studied`, `judgement`, `asts`, `intention`, `universal`
 
 - Researchers studied the areas of the brain involved in processes which prompt us to forgive those who have seriously, but unintentionally, messed up.
 
@@ -1287,7 +1298,7 @@ ___
 
 **#424** added Friday, 09. June 2017 05:54PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
 
-**Keywords:** `green space`, `environment`, `study`, `urban environment`, `urban`, `older`, `health`, `older people`
+`green space`, `environment`, `study`, `urban environment`, `urban`, `older`, `health`, `older people`
 
 - Walking between busy urban environments and green spaces triggers changes in levels of excitement, engagement and frustration in the brain, a study of older people has found
 
@@ -1298,7 +1309,7 @@ ___
 
 **#423** added Friday, 09. June 2017 05:33PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
 
-**Keywords:** `cognitive control`, `temperature`, `research`, `psychological`, `dr shalev`, `cool`, `cold`, `effect`
+`cognitive control`, `temperature`, `research`, `psychological`, `dr shalev`, `cool`, `cold`, `effect`
 
 - "Previous research focused on the actual effect of temperature on the psychological phenomenon known as 'cognitive control,'" says Dr. Shalev. "But this is the first time we were able to measure the effects of perceived temperature."
 
@@ -1313,7 +1324,7 @@ ___
 
 **#422** added Friday, 09. June 2017 02:23PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
 
-**Keywords:** `cell`, `develop`, `chandelier cell`, `axon`, `synapse`, `neurons`, `cell axon`, `varicosities`
+`cell`, `develop`, `chandelier cell`, `axon`, `synapse`, `neurons`, `cell axon`, `varicosities`
 
 - A basic tenet of neural development is that young neurons make far more connections than they will actually use, with very little specificity. They selectively maintain only the ones that they end up needing
 
@@ -1328,7 +1339,7 @@ ___
 
 **#421** added Friday, 09. June 2017 03:53AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
 
-**Keywords:** `studies`, `brain`, `associated`, `alcohol consumption`, `cognitive`, `findings`, `drinking`, `alcohol`
+`studies`, `brain`, `associated`, `alcohol consumption`, `cognitive`, `findings`, `drinking`, `alcohol`
 
 - Alcohol consumption, even at moderate levels, is associated with increased risk of adverse brain outcomes and steeper decline in cognitive (mental) skills
 
@@ -1345,7 +1356,7 @@ ___
 
 **#420** added Friday, 09. June 2017 03:29AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
 
-**Keywords:** `eat`, `food`, `eat alone`, `mirror`, `research`, `social facilitation of eat`, `ate`, `appeal`
+`eat`, `food`, `eat alone`, `mirror`, `research`, `social facilitation of eat`, `ate`, `appeal`
 
 - Researchers at Nagoya University reveal that eating in front of a mirror -- or even with a picture of yourself eating -- makes food more appealing.
 
@@ -1362,7 +1373,7 @@ ___
 
 **#419** added Friday, 09. June 2017 03:19AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
 
-**Keywords:** `brain`, `computation`, `vision`, `visual`, `object`, `sharpee`, `data`, `process`
+`brain`, `computation`, `vision`, `visual`, `object`, `sharpee`, `data`, `process`
 
 - analyzed how neurons in a critical part of the brain, called V2, respond to natural scenes, providing a better understanding of vision processing.
 
@@ -1379,7 +1390,7 @@ ___
 
 **#418** added Thursday, 08. June 2017 04:01AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
-**Keywords:** `learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
+`learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
 
 - Neurons in the prefrontal cortex "teach" neurons in the hippocampus to "learn" rules that distinguish memory-based predictions in otherwise identical situations, suggesting that learning in the present helps guide learning in the future
 
@@ -1398,7 +1409,7 @@ ___
 
 **#417** added Thursday, 08. June 2017 03:52AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
-**Keywords:** `social capital`, `school`, `student`, `teacher`, `parental`, `goddard`, `levels of social capital`, `study`
+`social capital`, `school`, `student`, `teacher`, `parental`, `goddard`, `levels of social capital`, `study`
 
 - Most factors that help make schools successful cost lots of money - think teachers, technology and textbooks
 
@@ -1415,7 +1426,7 @@ ___
 
 **#416** added Thursday, 08. June 2017 03:16AM. Link: [http://www.sciencealert.com/physicists-finally-...](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
 
-**Keywords:** `magnet`, `properties`, `layer`, `chromium triiodide`, `material`, `two dimensional`, `2d`, `even`
+`magnet`, `properties`, `layer`, `chromium triiodide`, `material`, `two dimensional`, `2d`, `even`
 
 - After years of searching, many suspected that true two-dimensional magnets might not actually exist. But now we finally have proof - physicists have created the first ever 2D magnet
 
@@ -1434,7 +1445,7 @@ ___
 
 **#415** added Thursday, 08. June 2017 03:05AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
-**Keywords:** `test`, `studies`, `eyes test`, `cognitive empathy`, `genetic`, `eyes`, `genetic variants`, `autism`
+`test`, `studies`, `eyes test`, `cognitive empathy`, `genetic`, `eyes`, `genetic variants`, `autism`
 
 - people can rapidly interpret what another person is thinking or feeling from looking at their eyes alone. It also showed that some of us are better at this than others, and that women on average score better on this test than men
 
@@ -1445,7 +1456,7 @@ ___
 
 **#414** added Thursday, 08. June 2017 12:07AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
-**Keywords:** `dlpfc`, `participants`, `problem`, `stimulated`, `solve`, `mental`, `creative`, `tdcs`
+`dlpfc`, `participants`, `problem`, `stimulated`, `solve`, `mental`, `creative`, `tdcs`
 
 - Scientists have found a way to improve creativity through brain stimulation
 
@@ -1464,7 +1475,7 @@ ___
 
 **#413** added Wednesday, 07. June 2017 04:14AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
-**Keywords:** `neuron`, `decision`, `collect`, `monkey`, `data`, `information`, `single neuron`, `neuroscience`
+`neuron`, `decision`, `collect`, `monkey`, `data`, `information`, `single neuron`, `neuroscience`
 
 - When many individual neurons collect data, how do they reach a unanimous decision? 
 
@@ -1481,7 +1492,7 @@ ___
 
 **#412** added Tuesday, 30. May 2017 02:45PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
-**Keywords:** `listened`, `speaker`, `studies`, `pupil dilate`, `findings`, `conscious`, `narrative`, `eye`
+`listened`, `speaker`, `studies`, `pupil dilate`, `findings`, `conscious`, `narrative`, `eye`
 
 - Listeners are most likely to tune in when a speaker delivers the most emotional peaks of his/her narrative, as revealed by synchronous pupil dilation patterns of speakers and listeners due to shared attention.
 
@@ -1492,7 +1503,7 @@ ___
 
 **#411** added Tuesday, 30. May 2017 02:40PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
 
-**Keywords:** `myers`, `understand`, `language`, `sound`, `phonemes`, `distinct`, `speech`, `ability`
+`myers`, `understand`, `language`, `sound`, `phonemes`, `distinct`, `speech`, `ability`
 
 - people retain what they've learned in a language class better if they go to bed before they get the chance hear a lot of their own language during the rest of the day. Evening classes are better.
 
@@ -1501,7 +1512,7 @@ ___
 
 **#410** added Tuesday, 30. May 2017 04:26AM. Link: [http://people.idsia.ch/~juergen/goedelmachine.h...](http://people.idsia.ch/~juergen/goedelmachine.html)
 
-**Keywords:** `optimal`, `proof`, `self`, `self rewrite`, `self referential`, `machine`, `initial code`, `proof searcher`
+`optimal`, `proof`, `self`, `self rewrite`, `self referential`, `machine`, `initial code`, `proof searcher`
 
 - Goedel machines are self-referential universal problem solvers making provably optimal self- improvements.
 
@@ -1512,7 +1523,7 @@ ___
 
 **#409** added Tuesday, 30. May 2017 04:15AM. Link: [http://people.idsia.ch/~juergen/compressednetwo...](http://people.idsia.ch/~juergen/compressednetworksearch.html)
 
-**Keywords:** `program`, `weight`, `encode`, `gp`, `learn`, `network`, `20`, `visual input`
+`program`, `weight`, `encode`, `gp`, `learn`, `network`, `20`, `visual input`
 
 - Many traditional methods of Evolutionary Computation [15-19] can evolve problem solvers with hundreds of parameters, but not millions. Ours can [1,2], by greatly reducing the search space through evolving compact, compressed descriptions [3-8] of huge solvers.
 
@@ -1525,7 +1536,7 @@ ___
 
 **#408** added Tuesday, 30. May 2017 03:50AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
 
-**Keywords:** `word`, `neural`, `kimppa`, `exposure`, `learned`, `finnish`, `participants`, `brain`
+`word`, `neural`, `kimppa`, `exposure`, `learned`, `finnish`, `participants`, `brain`
 
 - A new study has focused on language acquisition in the brain. Even short repetitive exposure to novel words induced a rapid neural response increase that is suggested to manifest memory-trace formation.
 
@@ -1538,7 +1549,7 @@ ___
 
 **#407** added Tuesday, 30. May 2017 03:22AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
 
-**Keywords:** `language`, `bilinguals`, `duration`, `container`, `swedish`, `spanish`, `time`, `passage of time`
+`language`, `bilinguals`, `duration`, `container`, `swedish`, `spanish`, `time`, `passage of time`
 
 - Linguists have discovered that people who speak two languages fluently think about time differently depending on the language context in which they are estimating the duration of events.
 
@@ -1553,7 +1564,7 @@ ___
 
 **#406** added Tuesday, 30. May 2017 03:17AM. Link: [https://www.scientificamerican.com/article/scie...](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
 
-**Keywords:** `cell`, `brain`, `mutation`, `somatic mutation`, `research`, `genetic`, `neuron`, `genome`
+`cell`, `brain`, `mutation`, `somatic mutation`, `research`, `genetic`, `neuron`, `genome`
 
 - Accepted dogma holds that—although every cell in the body contains its own DNA—the genetic instructions in each cell nucleus are identical. But new research has now proved this assumption wrong.
 
@@ -1566,7 +1577,7 @@ ___
 
 **#405** added Tuesday, 30. May 2017 03:13AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
 
-**Keywords:** `children`, `aroma`, `memory`, `room`, `effect`, `test`, `dr mark`, `academic performance`
+`children`, `aroma`, `memory`, `room`, `effect`, `test`, `dr mark`, `academic performance`
 
 - Exposure to the aroma of rosemary essential oil can significantly enhance working memory in children.
 
@@ -1579,7 +1590,7 @@ ___
 
 **#404** added Tuesday, 30. May 2017 12:08AM. Link: [https://phys.org/news/2017-05-predators-faster-...](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
 
-**Keywords:** `predator`, `prey`, `model`, `group`, `behavior`, `research`, `resulted`, `chasing`
+`predator`, `prey`, `model`, `group`, `behavior`, `research`, `resulted`, `chasing`
 
 - Since a gazelle can run faster than a lion, how do lions ever catch gazelles? A new model of predator-prey interaction shows how groups of predators use collective chasing strategies, such as cornering and circling, to pursue and capture faster prey. Without this tactical collaboration, the predators would have no chance of catching these prey.
 
@@ -1588,7 +1599,7 @@ ___
 
 **#403** added Monday, 29. May 2017 10:59PM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
 
-**Keywords:** `learn`, `neuron`, `signal`, `cell`, `response`, `associate`, `brain`, `research`
+`learn`, `neuron`, `signal`, `cell`, `response`, `associate`, `brain`, `research`
 
 - Individual neurons can learn not only single responses to a particular signal, but also a series of reactions at precisely timed intervals
 
@@ -1599,7 +1610,7 @@ ___
 
 **#402** added Saturday, 27. May 2017 06:14AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
 
-**Keywords:** `brain`, `network`, `executive function`, `modular`, `structural`, `researchers`, `brain network`, `global integrated`
+`brain`, `network`, `executive function`, `modular`, `structural`, `researchers`, `brain network`, `global integrated`
 
 - As children age into adolescence and on into young adulthood, they show dramatic improvements in their ability to control impulses, stay organized, and make decisions. Those "executive functions" of the brain are key factors in determining outcomes, including educational success, drug use, and psychiatric illness.
 
@@ -1612,7 +1623,7 @@ ___
 
 **#401** added Saturday, 27. May 2017 01:06AM. Link: [http://www.sciencealert.com/the-brain-literally...](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
 
-**Keywords:** `sleep`, `brain`, `synapses`, `activates`, `astrocyte`, `chronic sleep deprived`, `cell`, `process`
+`sleep`, `brain`, `synapses`, `activates`, `astrocyte`, `chronic sleep deprived`, `cell`, `process`
 
 - persistently poor sleep causes the brain to clear a significant amount of neurons and synaptic connections, and recovering sleep might not be able to reverse the damage
 
@@ -1629,7 +1640,7 @@ ___
 
 **#400** added Saturday, 27. May 2017 12:47AM. Link: [http://www.sciencealert.com/scientists-have-fou...](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
 
-**Keywords:** `brain`, `monkey`, `social interacting`, `video`, `human`, `activated`, `object`, `process`
+`brain`, `monkey`, `social interacting`, `video`, `human`, `activated`, `object`, `process`
 
 - a network in the monkey brain that's exclusively devoted to analysing social interactions.
 
@@ -1640,7 +1651,7 @@ ___
 
 **#399** added Friday, 26. May 2017 06:04PM. Link: [http://www.sciencealert.com/for-the-first-time-...](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
 
-**Keywords:** `birth rate`, `per 1 000`, `pregnancies`, `babies`, `birth`, `mother`, `better`, `women age`
+`birth rate`, `per 1 000`, `pregnancies`, `babies`, `birth`, `mother`, `better`, `women age`
 
 - For the first time in human history, American women in their 30s are having more babies than women in their 20s, with the average age of first-time mothers sitting at about 28 - a massive two-year leap from 2014.
 
@@ -1651,7 +1662,7 @@ ___
 
 **#398** added Saturday, 20. May 2017 08:17PM. Link: [http://www.sciencealert.com/researchers-have-di...](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
 
-**Keywords:** `gene`, `metabolism`, `rna`, `function`, `caetano anolls`, `organic`, `develop`, `molecules`
+`gene`, `metabolism`, `rna`, `function`, `caetano anolls`, `organic`, `develop`, `molecules`
 
 - A new study on how genes function across the living world has added weight to the hypothesis that life on Earth was capturing energy from chemical reactions before it was copying its codes.
 
@@ -1664,7 +1675,7 @@ ___
 
 **#397** added Monday, 08. May 2017 02:04PM. Link: [https://www.newscientist.com/article/2130205-in...](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
 
-**Keywords:** `question`, `sentence`, `learn`, `read`, `ask`, `mazidi`, `ask question`, `du`
+`question`, `sentence`, `learn`, `read`, `ask`, `mazidi`, `ask question`, `du`
 
 - The machine-learning algorithm can read a passage of text and come up with the kind of questions you might ask to check someone’s understanding of a topic.
 
@@ -1677,7 +1688,7 @@ ___
 
 **#396** added Saturday, 29. April 2017 09:43PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
 
-**Keywords:** `worried`, `sweeny`, `motivate`, `prevent`, `emotional`, `report`, `feeling of worried`, `pleasurable`
+`worried`, `sweeny`, `motivate`, `prevent`, `emotional`, `report`, `feeling of worried`, `pleasurable`
 
 - Despite its negative reputation, not all worry is destructive or even futile
 
@@ -1692,7 +1703,7 @@ ___
 
 **#395** added Thursday, 27. April 2017 01:13AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
 
-**Keywords:** `dbi`, `neurons`, `brain`, `monyer`, `hippocampus`, `process`, `gaba`, `peptide`
+`dbi`, `neurons`, `brain`, `monyer`, `hippocampus`, `process`, `gaba`, `peptide`
 
 - until now it has been unknown which molecular processes translate environmental changes into the production of new neurons
 
@@ -1709,7 +1720,7 @@ ___
 
 **#394** added Wednesday, 26. April 2017 05:46PM. Link: [https://www.scientificamerican.com/article/put-...](https://www.scientificamerican.com/article/put-a-bird-on-it/)
 
-**Keywords:** `identities`, `coaster`, `decorated`, `custom`, `studies`, `flip game`, `custom coaster`, `cleats`
+`identities`, `coaster`, `decorated`, `custom`, `studies`, `flip game`, `custom coaster`, `cleats`
 
 - In several studies in an upcoming issue of the Journal of Marketing Research, students worked and played better when using items they had decorated to portray aspects of themselves.
 
@@ -1722,7 +1733,7 @@ ___
 
 **#393** added Tuesday, 25. April 2017 08:58PM. Link: [https://www.newscientist.com/article/2128695-hu...](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
 
-**Keywords:** `ghrelin`, `brain cell`, `memories`, `parkinsons disease`, `hormone`, `levels`, `effect`, `people`
+`ghrelin`, `brain cell`, `memories`, `parkinsons disease`, `hormone`, `levels`, `effect`, `people`
 
 - Animals that have reduced-calorie diets have better mental abilities, and ghrelin might be part of the reason why. Injecting the hormone into mice improves their performance in learning and memory tests, and seems to boost the number of neuron connections in their brains.
 
@@ -1735,7 +1746,7 @@ ___
 
 **#392** added Monday, 24. April 2017 02:07AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
 
-**Keywords:** `students`, `course`, `ramirez`, `forget`, `studies`, `psychological`, `stress`, `material`
+`students`, `course`, `ramirez`, `forget`, `studies`, `psychological`, `stress`, `material`
 
 - University students who identify as strong in mathematics quickly forgot much of the material from a mathematics course. The explanation: We tend to forget unpleasant experiences and memories that threaten our self-image as a way to preserve our psychological well-being.
 
@@ -1748,7 +1759,7 @@ ___
 
 **#391** added Monday, 24. April 2017 12:40AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
 
-**Keywords:** `robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
+`robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
 
 - For the first time, researchers in the field of evolutionary robotics have used physically embodied robots to study epigenetic effects on robot evolution
 
@@ -1763,7 +1774,7 @@ ___
 
 **#390** added Monday, 17. April 2017 12:57PM. Link: [https://www.newscientist.com/article/2127804-cr...](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
 
-**Keywords:** `antinori`, `open`, `mixed percept`, `creative`, `experience`, `open people`, `person`, `brain`
+`antinori`, `open`, `mixed percept`, `creative`, `experience`, `open people`, `person`, `brain`
 
 - There’s some evidence that people with a greater degree of openness also have better visual awareness. For example, when focusing on letters moving on a screen, they are more likely to notice a grey square appearing elsewhere on the display.
 
@@ -1779,7 +1790,7 @@ ___
 
 **#389** added Saturday, 15. April 2017 06:50PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
 
-**Keywords:** `granule cell`, `dentate gyrus`, `neurogenesis`, `synapse`, `neuron`, `connections`, `brain`, `cell`
+`granule cell`, `dentate gyrus`, `neurogenesis`, `synapse`, `neuron`, `connections`, `brain`, `cell`
 
 - Does the brain create additional synapses from the cortical neurons to the new granule cells, or do some cortical neurons transfer connections from mature granule cells to the new granule cells? Researchers have found that the connections are transferred, without adding to the number of synapses.
 
@@ -1790,7 +1801,7 @@ ___
 
 **#388** added Saturday, 15. April 2017 06:26PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
 
-**Keywords:** `synapse`, `sleep`, `size`, `brain`, `shy`, `wake`, `cirelli`, `tononi`
+`synapse`, `sleep`, `size`, `brain`, `shy`, `wake`, `cirelli`, `tononi`
 
 - Striking electron microscope pictures from inside the brains of mice suggest what happens in our own brain every day: Our synapses -- the junctions between nerve cells -- grow strong and large during the stimulation of daytime, then shrink by nearly 20 percent while we sleep, creating room for more growth and learning the next day.
 
@@ -1801,7 +1812,7 @@ ___
 
 **#387** added Saturday, 15. April 2017 05:10PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
 
-**Keywords:** `memories`, `hippocampus`, `prefrontal cortex`, `store`, `engram cells`, `trace`, `research`, `studies`
+`memories`, `hippocampus`, `prefrontal cortex`, `store`, `engram cells`, `trace`, `research`, `studies`
 
 - A study of neural circuits that underlie memory consolidation reveals memories are formed simultaneously in the hippocampus and long-term storage location of brain's cortex, with long-term memories remaining 'silent' for two weeks before maturing, which upends dominant theories of memory consolidation.
 
@@ -1814,7 +1825,7 @@ ___
 
 **#386** added Saturday, 15. April 2017 04:40AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
 
-**Keywords:** `random`, `human`, `abilities`, `studies`, `abilities to behave random`, `age`, `coin flips`, `hypothetical results`
+`random`, `human`, `abilities`, `studies`, `abilities to behave random`, `age`, `coin flips`, `hypothetical results`
 
 - People's ability to make random choices or mimic a random process, such as coming up with hypothetical results for a series of coin flips, peaks around age 25, according to a study.
 
@@ -1829,7 +1840,7 @@ ___
 
 **#385** added Tuesday, 28. March 2017 06:13PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
 
-**Keywords:** `chocolate`, `understand`, `maxi`, `child`, `research`, `four year`, `thoughts`, `brain`
+`chocolate`, `understand`, `maxi`, `child`, `research`, `four year`, `thoughts`, `brain`
 
 - At around the age of four we suddenly do what three-year-olds are unable to do: put ourselves in someone else's shoes.
 
@@ -1844,7 +1855,7 @@ ___
 
 **#384** added Monday, 20. March 2017 02:21AM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
 
-**Keywords:** `infant`, `mother`, `de l etoile`, `infant direct sing`, `song`, `interact`, `tempo`, `behavior`
+`infant`, `mother`, `de l etoile`, `infant direct sing`, `song`, `interact`, `tempo`, `behavior`
 
 - Unlike other forms of caregiving, the act of mothers singing to infants is a universal behavior that seemingly withstands the test of time.
 
@@ -1857,7 +1868,7 @@ ___
 
 **#383** added Saturday, 18. March 2017 03:14PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
 
-**Keywords:** `memprize`, `learn`, `radboud university`, `effective`, `words`, `find`, `project`, `team`
+`memprize`, `learn`, `radboud university`, `effective`, `words`, `find`, `project`, `team`
 
 - Language learning app Memrise has announced the winner of its first Memprize: a competition to find the world's most efficient vocabulary learning technique.
 
@@ -1872,7 +1883,7 @@ ___
 
 **#382** added Friday, 10. March 2017 12:36AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
 
-**Keywords:** `dendrite`, `spike`, `neuron`, `computation`, `soma`, `brain`, `activate`, `scientists`
+`dendrite`, `spike`, `neuron`, `computation`, `soma`, `brain`, `activate`, `scientists`
 
 - Neurons are large, tree-like structures made up of a body, the soma, with numerous branches called dendrites extending outward. Somas generate brief electrical pulses called "spikes" in order to connect and communicate with each other. Scientists had generally believed that the somatic spikes activate the dendrites, which passively send currents to other neurons' somas
 
@@ -1885,7 +1896,7 @@ ___
 
 **#381** added Wednesday, 08. March 2017 12:40AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
 
-**Keywords:** `touch`, `huisman`, `hey bracelet`, `bracelet`, `university of twente`, `squeeze`, `shown`, `technology`
+`touch`, `huisman`, `hey bracelet`, `bracelet`, `university of twente`, `squeeze`, `shown`, `technology`
 
 - A new study has shown that virtual characters that can touch you are seen as being warmer and friendlier. Previous research had already shown that this applies to human interaction. 
 
@@ -1896,7 +1907,7 @@ ___
 
 **#380** added Tuesday, 07. March 2017 10:33AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
 
-**Keywords:** `memories`, `object`, `move`, `flombaum`, `recognize`, `researchers`, `expect`, `brain`
+`memories`, `object`, `move`, `flombaum`, `recognize`, `researchers`, `expect`, `brain`
 
 - Schurgin and Flombaum wondered if people's vast ability for recall, a skill machines and computers cannot come close to matching, had something to do with our "core knowledge" of the world, the innate understanding of basic physics that all humans, and many animals, are born with.
 
@@ -1909,7 +1920,7 @@ ___
 
 **#379** added Sunday, 05. March 2017 11:39PM. Link: [http://www.bbc.com/earth/story/20170301-life-ma...](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
 
-**Keywords:** `watson`, `evolvability`, `organism`, `adapt`, `gene network`, `gene`, `evolution`, `might`
+`watson`, `evolvability`, `organism`, `adapt`, `gene network`, `gene`, `evolution`, `might`
 
 - The networks of genes in each animal is a bit like the network of neurons in our brains, which suggests they might be "learning" as they go
 
@@ -1924,7 +1935,7 @@ ___
 
 **#378** added Sunday, 05. March 2017 03:01PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
 
-**Keywords:** `motivated`, `lecture`, `studied`, `effort`, `dietrich`, `individual`, `brbel kracke`, `julia dietrich`
+`motivated`, `lecture`, `studied`, `effort`, `dietrich`, `individual`, `brbel kracke`, `julia dietrich`
 
 - Psychologist at University of Jena uncovers strong variability in motivation in learning situations
 
@@ -1941,7 +1952,7 @@ ___
 
 **#377** added Tuesday, 28. February 2017 10:34AM. Link: [http://www.nature.com/news/a-giant-neuron-found...](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
 
-**Keywords:** `brain`, `neuron`, `claustrum`, `koch`, `mice`, `trace`, `connect`, `organ`
+`brain`, `neuron`, `claustrum`, `koch`, `mice`, `trace`, `connect`, `organ`
 
 - A giant neuron found wrapped around entire mouse brain
 
