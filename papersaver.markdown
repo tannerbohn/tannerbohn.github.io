@@ -4,7 +4,47 @@ comments: false
 title:  "PaperSaver"
 permalink: /papersaver/
 ---
-**Top keywords:** **`model`** (16), **`learn`** (12), **`neural`** (8), **`approach`** (6), **`network`** (5), **`sentence`** (4), **`sequence`** (4), **`trained`** (4), **`models`** (4), **`learning`** (3), **`semantic`** (3), **`text`** (3), **`rnn`** (3), **`rl`** (3), **`architecture`** (3)
+**Top keywords:** **`model`** (16), **`learn`** (12), **`neural`** (8), **`approach`** (6), **`network`** (5), **`sentence`** (4), **`sequence`** (4), **`learning`** (4), **`trained`** (4), **`word`** (4), **`models`** (4), **`semantic`** (3), **`text`** (3), **`rnn`** (3), **`rl`** (3)
+
+___
+
+**(#50) Title:** [From Word Embeddings To Document Distances](http://www.cs.cornell.edu/~kilian/papers/wmd_metric.pdf) (added 2018 March 28 09:57PM)
+
+**Meta:** Matt J. Kusner, Yu Sun, Nicholas I. Kolkin, Kilian Q. Weinberger, Proceedings of the 32 nd International Conference on Machine Learning, Lille, France, 2015
+
+**Keywords:** `distance`, `document`, `word`, `wmd`, `metric`, `movers distance`, `embedded`, `document classification`
+
+**Abstract:** We present the Word Movers Distance (WMD),
+a novel distance function between text documents.
+Our work is based on recent results in
+word embeddings that learn semantically meaningful
+representations for words from local cooccurrences
+in sentences. The WMD distance
+measures the dissimilarity between two text documents
+as the minimum amount of distance that
+the embedded words of one document need to
+travel to reach the embedded words of another
+document. We show that this distance metric can
+be cast as an instance of the Earth Movers Distance,
+a well studied transportation problem for
+which several highly efficient solvers have been
+developed. Our metric has no hyperparameters
+and is straight-forward to implement. Further, we
+demonstrate on eight real world document classification
+data sets, in comparison with seven stateof-the-art
+baselines, that the WMD metric leads
+to unprecedented low k-nearest neighbor document
+classification error rates.
+
+___
+
+**(#49) Title:** [The Transition to Minimal Consciousness through the Evolution of Associative Learning](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01954/full) (added 2018 March 28 09:53PM)
+
+**Meta:** 22 December 2016
+
+**Keywords:** `sentience`, `consciousness`, `ual`, `minimal consciousness`, `minimal`, `proposal`, `learning`, `function`
+
+**Abstract:** The minimal state of consciousness is sentience. This includes any phenomenal sensory experience  exteroceptive, such as vision and olfaction; interoceptive, such as pain and hunger; or proprioceptive, such as the sense of bodily position and movement. We propose unlimited associative learning (UAL) as the marker of the evolutionary transition to minimal consciousness (or sentience), its phylogenetically earliest sustainable manifestation and the driver of its evolution. We define and describe UAL at the behavioral and functional level and argue that the structural-anatomical implementations of this mode of learning in different taxa entail subjective feelings (sentience). We end with a discussion of the implications of our proposal for the distribution of consciousness in the animal kingdom, suggesting testable predictions, and revisiting the ongoing debate about the function of minimal consciousness in light of our approach.
 
 ___
 
