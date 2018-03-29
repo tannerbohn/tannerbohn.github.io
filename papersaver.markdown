@@ -4,7 +4,53 @@ comments: false
 title:  "PaperSaver"
 permalink: /papersaver/
 ---
-**Top keywords:** **`model`** (14), **`learn`** (12), **`neural`** (8), **`approach`** (6), **`network`** (5), **`sentence`** (4), **`sequence`** (4), **`trained`** (4), **`models`** (4), **`semantic`** (3), **`text`** (3), **`rnn`** (3), **`learning`** (3), **`rl`** (3), **`architecture`** (3)
+**Top keywords:** **`model`** (16), **`learn`** (12), **`neural`** (8), **`approach`** (6), **`network`** (5), **`sentence`** (4), **`sequence`** (4), **`trained`** (4), **`models`** (4), **`learning`** (3), **`semantic`** (3), **`text`** (3), **`rnn`** (3), **`rl`** (3), **`architecture`** (3)
+
+___
+
+**(#48) Title:** [OUT-OF-CLASS NOVELTY GENERATION: AN EXPERIMENTAL FOUNDATION](https://openreview.net/pdf?id=ByEPMj5el) (added 2018 March 28 04:35PM)
+
+**Meta:** Mehdi Cherti & Balazs K   egl, Akn Kazakc , Under review as a conference paper at ICLR 2017
+
+**Keywords:** `generate`, `creativity`, `model`, `classes`, `machine learning`, `novelty`, `evaluating`, `distribution novelty`
+
+**Abstract:** Recent advances in machine learning have brought the field closer to computational
+creativity research. From a creativity research point of view, this offers the
+potential to study creativity in relationship with knowledge acquisition. From a
+machine learning perspective, however, several aspects of creativity need to be
+better defined to allow the machine learning community to develop and test hypotheses
+in a systematic way. We propose an actionable definition of creativity as
+the generation of out-of-distribution novelty. We assess several metrics designed
+for evaluating the quality of generative models on this new task. We also propose
+a new experimental setup. Inspired by the usual held-out validation, we hold out
+entire classes for evaluating the generative potential of models. The goal of the
+novelty generator is then to use training classes to build a model that can generate
+objects from future (hold-out) classes, unknown at training time - and thus, are
+novel with respect to the knowledge the model incorporates. Through extensive
+experiments on various types of generative models, we are able to find architectures
+and hyperparameter combinations which lead to out-of-distribution novelty.
+
+___
+
+**(#47) Title:** [TOWARDS AN AUTOMATIC TURING TEST: LEARNING TO EVALUATE DIALOGUE RESPONSES](https://openreview.net/pdf?id=HJ5PIaseg) (added 2018 March 28 04:32PM)
+
+**Meta:** Under review as a conference paper at ICLR 2017, Ryan Lowe Michael Noseworthy Iulian V. Serban Nicolas Angelard-Gontier Yoshua Bengio Joelle Pineau
+
+**Keywords:** `evaluating`, `response`, `model`, `human`, `adem`, `automatic evaluating`, `dialogue`, `correlate`
+
+**Abstract:** Automatically evaluating the quality of dialogue responses for unstructured domains
+is a challenging problem. Unfortunately, existing automatic evaluation
+metrics are biased and correlate very poorly with human judgements of response
+quality (Liu et al., 2016). Yet having an accurate automatic evaluation procedure
+is crucial for dialogue research, as it allows rapid prototyping and testing of new
+models with fewer expensive human evaluations. In response to this challenge, we
+formulate automatic dialogue evaluation as a learning problem. We present an evaluation
+model (ADEM) that learns to predict human-like scores to input responses,
+using a new dataset of human response scores. We show that the ADEM models
+predictions correlate significantly, and at level much higher than word-overlap metrics
+such as BLEU, with human judgements at both the utterance and system-level.
+We also show that ADEM can generalize to evaluating dialogue models unseen
+during training, an important step for automatic dialogue evaluation
 
 ___
 

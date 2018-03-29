@@ -4,13 +4,22 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (52), **`research`** (29), **`learn`** (16), **`studies`** (14), **`memories`** (13), **`word`** (12), **`neuron`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
+**Top keywords:** **`brain`** (53), **`research`** (29), **`learn`** (16), **`studies`** (14), **`neuron`** (13), **`memories`** (13), **`word`** (12), **`participants`** (11), **`studied`** (9), **`cell`** (9), **`human`** (9), **`memory`** (8), **`study`** (7), **`information`** (7), **`language`** (7)
 
 ___
 
-Monday, 26. March 2018 06:13PM
+**#517** added Wednesday, 28. March 2018 08:50PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180322125028.htm)
 
-**Url:** [https://en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
+**Keywords:** `brain`, `signal`, `area`, `neuron`, `connection`, `understand`, `model`, `nyu`
+
+- Brain areas tend to be organized in a hierarchy, ranging from "lower" sensory areas to "higher" cognitive areas
+
+- Unexpectedly, our model reveals that only when the signal is strong enough, above a threshold level, the signal reaches a large set of areas of the brain region called the prefrontal cortex, which plays a critical role in high-level cognition
+
+
+___
+
+**#516** added Monday, 26. March 2018 06:13PM. Link: [https://en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
 
 **Keywords:** `ergodic`, `displaystyle`, `measurable`, `displaystyle mu`, `mu`, `average`, `markov chain`, `probability`
 
@@ -18,14 +27,10 @@ Monday, 26. March 2018 06:13PM
 
 - In physics the term implies that a system satisfies the ergodic hypothesis of thermodynamics.
 
-- Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
-
 
 ___
 
-Monday, 26. March 2018 03:00AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161103091026.htm](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
+**#515** added Monday, 26. March 2018 03:00AM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
 
 **Keywords:** `pain`, `brain`, `patient`, `provide`, `tune`, `chronic pain`, `alpha waves`, `manchester`
 
@@ -36,9 +41,7 @@ Monday, 26. March 2018 03:00AM
 
 ___
 
-Sunday, 25. March 2018 09:32PM
-
-**Url:** [https://www.scientificamerican.com/article/nurturing-genius/](https://www.scientificamerican.com/article/nurturing-genius/)
+**#514** added Sunday, 25. March 2018 09:32PM. Link: [https://www.scientificamerican.com/article/nurt...](https://www.scientificamerican.com/article/nurturing-genius/)
 
 **Keywords:** `student`, `talent`, `studied`, `stanley`, `abilities`, `gifted`, `test`, `smpy`
 
@@ -51,9 +54,7 @@ Sunday, 25. March 2018 09:32PM
 
 ___
 
-Sunday, 25. March 2018 09:18PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161019082543.htm](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
+**#513** added Sunday, 25. March 2018 09:18PM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
 
 **Keywords:** `memories`, `learned`, `remember`, `run`, `study`, `cortisol`, `information`, `stress`
 
@@ -64,9 +65,7 @@ Sunday, 25. March 2018 09:18PM
 
 ___
 
-Sunday, 25. March 2018 09:06PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170314081547.htm](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
+**#512** added Sunday, 25. March 2018 09:06PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
 
 **Keywords:** `brain`, `stimulated`, `memory`, `patients`, `task`, `activity`, `current`, `dr violante`
 
@@ -79,9 +78,7 @@ Sunday, 25. March 2018 09:06PM
 
 ___
 
-Sunday, 25. March 2018 08:42PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170308081024.htm](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
+**#511** added Sunday, 25. March 2018 08:42PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
 
 **Keywords:** `memory`, `sleep`, `stimulation`, `studied`, `deep sleep`, `northwestern`, `improve`, `older`
 
@@ -94,9 +91,7 @@ Sunday, 25. March 2018 08:42PM
 
 ___
 
-Sunday, 25. March 2018 08:36PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170209133358.htm](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
+**#510** added Sunday, 25. March 2018 08:36PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
 
 **Keywords:** `shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
 
@@ -109,9 +104,7 @@ Sunday, 25. March 2018 08:36PM
 
 ___
 
-Sunday, 25. March 2018 08:26PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170330132354.htm](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
+**#509** added Sunday, 25. March 2018 08:26PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
 
 **Keywords:** `sound`, `brain`, `relax`, `active`, `collaborating`, `stress`, `effect`, `listened to natural`
 
@@ -122,9 +115,7 @@ Sunday, 25. March 2018 08:26PM
 
 ___
 
-Sunday, 25. March 2018 08:14PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170424141340.htm](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
+**#508** added Sunday, 25. March 2018 08:14PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
 
 **Keywords:** `brain`, `blood`, `walking`, `impact`, `arterial`, `foot impact`, `blood flow`, `pressure`
 
@@ -135,9 +126,7 @@ Sunday, 25. March 2018 08:14PM
 
 ___
 
-Sunday, 25. March 2018 08:04PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170419131745.htm](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
+**#507** added Sunday, 25. March 2018 08:04PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
 
 **Keywords:** `learned`, `environment`, `brain`, `metaplasticity`, `reward`, `synapses`, `learned rate`, `studies`
 
@@ -150,9 +139,7 @@ Sunday, 25. March 2018 08:04PM
 
 ___
 
-Sunday, 25. March 2018 07:58PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180314145019.htm](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
+**#506** added Sunday, 25. March 2018 07:58PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
 
 **Keywords:** `bird`, `research`, `grassquit`, `bullfinch`, `differed`, `barbados`, `receptor`, `innovation`
 
@@ -163,9 +150,7 @@ Sunday, 25. March 2018 07:58PM
 
 ___
 
-Sunday, 25. March 2018 03:37PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180319120106.htm](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
+**#505** added Sunday, 25. March 2018 03:37PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
 
 **Keywords:** `read`, `sacchi`, `spaces`, `word`, `letter spaces`, `letter`, `visual`, `effect`
 
@@ -180,9 +165,7 @@ Sunday, 25. March 2018 03:37PM
 
 ___
 
-Sunday, 25. March 2018 03:08PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180314125446.htm](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
+**#504** added Sunday, 25. March 2018 03:08PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
 
 **Keywords:** `synapses`, `brain`, `memories`, `store`, `sejnowski`, `information`, `capacity`, `salk`
 
@@ -191,9 +174,7 @@ Sunday, 25. March 2018 03:08PM
 
 ___
 
-Sunday, 18. March 2018 06:27PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180315122945.htm](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
+**#503** added Sunday, 18. March 2018 06:27PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
 
 **Keywords:** `learn`, `object`, `language`, `word`, `adults`, `correspond`, `strategies`, `research`
 
@@ -204,9 +185,7 @@ Sunday, 18. March 2018 06:27PM
 
 ___
 
-Sunday, 18. March 2018 06:17PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180312085109.htm](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
+**#502** added Sunday, 18. March 2018 06:17PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
 
 **Keywords:** `children`, `brain`, `theory of mind`, `network`, `scan`, `develop`, `studied`, `mit`
 
@@ -217,9 +196,7 @@ Sunday, 18. March 2018 06:17PM
 
 ___
 
-Sunday, 18. March 2018 06:07PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180312084826.htm](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
+**#501** added Sunday, 18. March 2018 06:07PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
 
 **Keywords:** `rate`, `evaluate`, `successive`, `study`, `judges`, `participants`, `o connor`, `grade`
 
@@ -230,9 +207,7 @@ Sunday, 18. March 2018 06:07PM
 
 ___
 
-Sunday, 18. March 2018 05:54PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180312132937.htm](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
+**#500** added Sunday, 18. March 2018 05:54PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
 
 **Keywords:** `learn`, `brain`, `task`, `neuron`, `activity`, `research`, `change`, `carnegie mellon`
 
@@ -247,9 +222,7 @@ Sunday, 18. March 2018 05:54PM
 
 ___
 
-Thursday, 15. March 2018 03:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180313113442.htm](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
+**#499** added Thursday, 15. March 2018 03:45PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
 
 **Keywords:** `brain`, `music`, `sequence`, `broca s area`, `non local dependencies`, `grammatical`, `cheung`, `processed`
 
@@ -262,9 +235,7 @@ Thursday, 15. March 2018 03:45PM
 
 ___
 
-Tuesday, 13. March 2018 12:28AM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180306115803.htm](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
+**#498** added Tuesday, 13. March 2018 12:28AM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
 
 **Keywords:** `dog`, `speech`, `human`, `adult`, `babies`, `interact`, `speaker`, `adult dog`
 
@@ -279,9 +250,7 @@ Tuesday, 13. March 2018 12:28AM
 
 ___
 
-Tuesday, 13. March 2018 12:21AM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180220104114.htm](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
+**#497** added Tuesday, 13. March 2018 12:21AM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
 
 **Keywords:** `word`, `sense`, `language`, `mean`, `emerge`, `cognitive`, `human`, `word sense`
 
@@ -296,9 +265,7 @@ Tuesday, 13. March 2018 12:21AM
 
 ___
 
-Monday, 12. March 2018 07:11PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180222125736.htm](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
+**#496** added Monday, 12. March 2018 07:11PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
 
 **Keywords:** `computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
 
@@ -313,9 +280,7 @@ Monday, 12. March 2018 07:11PM
 
 ___
 
-Monday, 12. March 2018 07:01PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180220170348.htm](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
+**#495** added Monday, 12. March 2018 07:01PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
 
 **Keywords:** `event`, `difficult life event`, `wisdom`, `life`, `aldwin`, `develop`, `participant`, `challenge`
 
@@ -330,9 +295,7 @@ Monday, 12. March 2018 07:01PM
 
 ___
 
-Wednesday, 07. March 2018 07:39PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/03/180307112743.htm](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
+**#494** added Wednesday, 07. March 2018 07:39PM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
 
 **Keywords:** `strategies`, `trained`, `memory trained`, `task`, `memory`, `study`, `participants`, `effective`
 
@@ -343,9 +306,7 @@ Wednesday, 07. March 2018 07:39PM
 
 ___
 
-Saturday, 17. February 2018 04:51PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180214093823.htm](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
+**#493** added Saturday, 17. February 2018 04:51PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
 
 **Keywords:** `stress`, `exercise`, `memory`, `mice`, `edwards`, `ltp`, `run`, `stress mice`
 
@@ -356,9 +317,7 @@ Saturday, 17. February 2018 04:51PM
 
 ___
 
-Saturday, 17. February 2018 04:44PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180213183552.htm](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
+**#492** added Saturday, 17. February 2018 04:44PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
 
 **Keywords:** `brain`, `entropy`, `studies`, `research`, `saxe`, `intelligence`, `score`, `active`
 
@@ -371,9 +330,7 @@ Saturday, 17. February 2018 04:44PM
 
 ___
 
-Saturday, 17. February 2018 04:31PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180216142646.htm](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
+**#491** added Saturday, 17. February 2018 04:31PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
 
 **Keywords:** `dopamine`, `hallucinations`, `expect`, `participants`, `process`, `perceptual`, `perceptual distorted`, `schizophrenia`
 
@@ -384,9 +341,7 @@ Saturday, 17. February 2018 04:31PM
 
 ___
 
-Saturday, 17. February 2018 04:27PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/02/180215110039.htm](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
+**#490** added Saturday, 17. February 2018 04:27PM. Link: [https://www.sciencedaily.com/releases/2018/02/1...](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
 
 **Keywords:** `blink`, `event`, `participants`, `related`, `studies`, `human`, `visual`, `physiological`
 
@@ -399,9 +354,7 @@ Saturday, 17. February 2018 04:27PM
 
 ___
 
-Thursday, 01. February 2018 03:19PM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/01/180130094713.htm](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
+**#489** added Thursday, 01. February 2018 03:19PM. Link: [https://www.sciencedaily.com/releases/2018/01/1...](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
 
 **Keywords:** `language`, `learn`, `brain systems`, `language learn`, `studied`, `findings`, `brain`, `research`
 
@@ -412,9 +365,7 @@ Thursday, 01. February 2018 03:19PM
 
 ___
 
-Tuesday, 30. January 2018 04:10AM
-
-**Url:** [https://www.sciencedaily.com/releases/2018/01/180129131309.htm](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
+**#488** added Tuesday, 30. January 2018 04:10AM. Link: [https://www.sciencedaily.com/releases/2018/01/1...](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
 
 **Keywords:** `learn`, `communities`, `word`, `grammar`, `language`, `cultural`, `simpler`, `speakers`
 
@@ -427,9 +378,7 @@ Tuesday, 30. January 2018 04:10AM
 
 ___
 
-Saturday, 06. January 2018 01:11AM
-
-**Url:** [http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
+**#487** added Saturday, 06. January 2018 01:11AM. Link: [http://www.sciencealert.com/study-finds-that-so...](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
 
 **Keywords:** `read`, `book`, `infant`, `parent`, `characters`, `shared book read`, `babies`, `learn`
 
@@ -440,9 +389,7 @@ Saturday, 06. January 2018 01:11AM
 
 ___
 
-Wednesday, 03. January 2018 12:32AM
-
-**Url:** [http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
+**#486** added Wednesday, 03. January 2018 12:32AM. Link: [http://www.sciencealert.com/sugar-consumption-d...](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
 
 **Keywords:** `glucose`, `sugar`, `test`, `participants`, `effect`, `fructose`, `cognitive function`, `sucrose`
 
@@ -459,9 +406,7 @@ Wednesday, 03. January 2018 12:32AM
 
 ___
 
-Friday, 29. December 2017 12:53AM
-
-**Url:** [https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
+**#485** added Friday, 29. December 2017 12:53AM. Link: [https://www.scientificamerican.com/article/pupp...](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
 
 **Keywords:** `dog`, `human`, `dingo`, `wolves`, `eye contact`, `owners`, `bond`, `eye`
 
@@ -474,9 +419,7 @@ Friday, 29. December 2017 12:53AM
 
 ___
 
-Thursday, 28. December 2017 07:08PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/12/171221122543.htm](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
+**#484** added Thursday, 28. December 2017 07:08PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
 
 **Keywords:** `exercise`, `brain`, `studies`, `showed`, `10 minute`, `heath`, `research`, `benefits`
 
@@ -489,9 +432,7 @@ Thursday, 28. December 2017 07:08PM
 
 ___
 
-Thursday, 28. December 2017 03:09AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/12/171220121831.htm](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
+**#483** added Thursday, 28. December 2017 03:09AM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
 
 **Keywords:** `neuron`, `predict`, `theories`, `previous`, `code`, `framework`, `encode`, `signal`
 
@@ -510,9 +451,7 @@ Thursday, 28. December 2017 03:09AM
 
 ___
 
-Thursday, 14. December 2017 11:00PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/12/171211192738.htm](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
+**#482** added Thursday, 14. December 2017 11:00PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
 
 **Keywords:** `food`, `begdache`, `mood`, `mental distress`, `adult`, `young adult`, `brain`, `increase`
 
@@ -525,9 +464,7 @@ Thursday, 14. December 2017 11:00PM
 
 ___
 
-Tuesday, 12. December 2017 12:50PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/12/171212102158.htm](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
+**#481** added Tuesday, 12. December 2017 12:50PM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
 
 **Keywords:** `game`, `cognition`, `play`, `cognition abilities`, `action`, `gamer`, `action video game`, `studies`
 
@@ -542,9 +479,7 @@ Tuesday, 12. December 2017 12:50PM
 
 ___
 
-Sunday, 03. December 2017 01:19AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/12/171201090940.htm](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
+**#480** added Sunday, 03. December 2017 01:19AM. Link: [https://www.sciencedaily.com/releases/2017/12/1...](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
 
 **Keywords:** `memory`, `studies`, `read`, `active`, `word`, `aloud`, `macleod`, `waterloo`
 
@@ -557,9 +492,7 @@ Sunday, 03. December 2017 01:19AM
 
 ___
 
-Wednesday, 29. November 2017 05:36PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/11/171127094928.htm](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
+**#479** added Wednesday, 29. November 2017 05:36PM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
 
 **Keywords:** `children`, `contact`, `infants`, `dna`, `studies`, `health`, `development`, `epigenetic`
 
@@ -572,9 +505,7 @@ Wednesday, 29. November 2017 05:36PM
 
 ___
 
-Saturday, 25. November 2017 09:22PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/11/171122093036.htm](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
+**#478** added Saturday, 25. November 2017 09:22PM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
 
 **Keywords:** `brain`, `memories`, `stimulation`, `research`, `activate`, `frequencies`, `function`, `brain region`
 
@@ -585,9 +516,7 @@ Saturday, 25. November 2017 09:22PM
 
 ___
 
-Saturday, 25. November 2017 02:28AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/11/171124084336.htm](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
+**#477** added Saturday, 25. November 2017 02:28AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
 
 **Keywords:** `brain`, `human`, `gene`, `primate`, `region`, `researcher`, `found`, `distinct`
 
@@ -604,9 +533,7 @@ Saturday, 25. November 2017 02:28AM
 
 ___
 
-Saturday, 25. November 2017 02:19AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/11/171124084330.htm](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
+**#476** added Saturday, 25. November 2017 02:19AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
 
 **Keywords:** `goal`, `babies`, `agent`, `understand`, `infants`, `research`, `studied`, `mit`
 
@@ -619,9 +546,7 @@ Saturday, 25. November 2017 02:19AM
 
 ___
 
-Monday, 20. November 2017 02:45AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170426093310.htm](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
+**#475** added Monday, 20. November 2017 02:45AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
 
 **Keywords:** `gestural`, `research`, `language`, `babies`, `speech`, `studied`, `showing`, `combination`
 
@@ -634,9 +559,7 @@ Monday, 20. November 2017 02:45AM
 
 ___
 
-Sunday, 19. November 2017 04:08AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/07/170710172011.htm](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
+**#474** added Sunday, 19. November 2017 04:08AM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
 
 **Keywords:** `cache`, `core`, `chip`, `jenga`, `data`, `latencies`, `memories`, `allocated`
 
@@ -649,9 +572,7 @@ Sunday, 19. November 2017 04:08AM
 
 ___
 
-Sunday, 19. November 2017 03:44AM
-
-**Url:** [http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
+**#473** added Sunday, 19. November 2017 03:44AM. Link: [http://www.sciencealert.com/brain-processes-sou...](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
 
 **Keywords:** `brain`, `research`, `perception`, `sounds`, `strobe`, `auditory`, `findings`, `sensitive`
 
@@ -664,9 +585,7 @@ Sunday, 19. November 2017 03:44AM
 
 ___
 
-Friday, 10. November 2017 11:56AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/11/171109140751.htm](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
+**#472** added Friday, 10. November 2017 11:56AM. Link: [https://www.sciencedaily.com/releases/2017/11/1...](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
 
 **Keywords:** `similar`, `computation`, `flies`, `hash`, `navlakha`, `odor`, `similar search`, `smell`
 
@@ -683,9 +602,7 @@ Friday, 10. November 2017 11:56AM
 
 ___
 
-Thursday, 02. November 2017 06:00PM
-
-**Url:** [http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
+**#471** added Thursday, 02. November 2017 06:00PM. Link: [http://www.sciencealert.com/a-study-has-shown-t...](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
 
 **Keywords:** `dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
 
@@ -700,9 +617,7 @@ Thursday, 02. November 2017 06:00PM
 
 ___
 
-Sunday, 22. October 2017 03:23PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/10/171017114335.htm](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
+**#470** added Sunday, 22. October 2017 03:23PM. Link: [https://www.sciencedaily.com/releases/2017/10/1...](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
 
 **Keywords:** `brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
 
@@ -717,9 +632,7 @@ Sunday, 22. October 2017 03:23PM
 
 ___
 
-Tuesday, 10. October 2017 03:56PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/10/171009154941.htm](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
+**#469** added Tuesday, 10. October 2017 03:56PM. Link: [https://www.sciencedaily.com/releases/2017/10/1...](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
 
 **Keywords:** `brain`, `reinhart`, `stimulate`, `participant`, `learn`, `region`, `somers`, `task`
 
@@ -736,9 +649,7 @@ Tuesday, 10. October 2017 03:56PM
 
 ___
 
-Tuesday, 03. October 2017 01:05AM
-
-**Url:** [https://deepmind.com/blog/hippocampus-predictive-map/](https://deepmind.com/blog/hippocampus-predictive-map/)
+**#468** added Tuesday, 03. October 2017 01:05AM. Link: [https://deepmind.com/blog/hippocampus-predictiv...](https://deepmind.com/blog/hippocampus-predictive-map/)
 
 **Keywords:** `learn`, `reward`, `future`, `hippocampus`, `model`, `estimate`, `algorithm`, `future reward`
 
@@ -753,9 +664,7 @@ Tuesday, 03. October 2017 01:05AM
 
 ___
 
-Sunday, 01. October 2017 08:44PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170221101016.htm](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
+**#467** added Sunday, 01. October 2017 08:44PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
 
 **Keywords:** `decision`, `change`, `effort`, `handle`, `move`, `behaviour`, `express`, `less`
 
@@ -770,9 +679,7 @@ Sunday, 01. October 2017 08:44PM
 
 ___
 
-Sunday, 01. October 2017 01:11AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/07/170727104544.htm](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
+**#466** added Sunday, 01. October 2017 01:11AM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
 
 **Keywords:** `customer`, `price`, `zia`, `store`, `competitor`, `search`, `advertisement`, `expedia`
 
@@ -787,9 +694,7 @@ Sunday, 01. October 2017 01:11AM
 
 ___
 
-Saturday, 30. September 2017 10:34PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/09/170929093215.htm](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
+**#465** added Saturday, 30. September 2017 10:34PM. Link: [https://www.sciencedaily.com/releases/2017/09/1...](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
 
 **Keywords:** `brain`, `hippocampus`, `activation`, `functional`, `cortex`, `memories`, `brain wide functional connecting`, `optogenetic`
 
@@ -802,9 +707,7 @@ Saturday, 30. September 2017 10:34PM
 
 ___
 
-Saturday, 30. September 2017 12:47AM
-
-**Url:** [http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
+**#464** added Saturday, 30. September 2017 12:47AM. Link: [http://www.sciencealert.com/ultraviolet-light-h...](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
 
 **Keywords:** `ice`, `liquid`, `bubbled`, `water`, `research`, `space`, `tachibana`, `planets`
 
@@ -819,9 +722,7 @@ Saturday, 30. September 2017 12:47AM
 
 ___
 
-Friday, 29. September 2017 12:01AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161207093034.htm](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
+**#463** added Friday, 29. September 2017 12:01AM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
 
 **Keywords:** `breath`, `brain`, `inhalation`, `face`, `emotion`, `fear`, `encountered`, `scientists`
 
@@ -832,9 +733,7 @@ Friday, 29. September 2017 12:01AM
 
 ___
 
-Wednesday, 27. September 2017 05:55PM
-
-**Url:** [https://en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
+**#462** added Wednesday, 27. September 2017 05:55PM. Link: [https://en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
 
 **Keywords:** `perplexed`, `model`, `word`, `probabilities`, `test`, `test sample`, `bits`, `tilde p`
 
@@ -845,9 +744,7 @@ Wednesday, 27. September 2017 05:55PM
 
 ___
 
-Wednesday, 27. September 2017 05:37PM
-
-**Url:** [http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
+**#461** added Wednesday, 27. September 2017 05:37PM. Link: [http://blog.shakirm.com/2016/02/learning-in-bra...](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
 
 **Keywords:** `learn`, `reward`, `st`, `predict`, `value`, `dopamine`, `brain`, `function`
 
@@ -856,9 +753,7 @@ Wednesday, 27. September 2017 05:37PM
 
 ___
 
-Wednesday, 27. September 2017 05:22PM
-
-**Url:** [http://people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
+**#460** added Wednesday, 27. September 2017 05:22PM. Link: [http://people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
 
 **Keywords:** `learn`, `computable`, `robot`, `schmidhuber`, `optimal`, `neural`, `machine`, `evolution`
 
@@ -867,9 +762,7 @@ Wednesday, 27. September 2017 05:22PM
 
 ___
 
-Wednesday, 27. September 2017 05:02PM
-
-**Url:** [https://en.wikipedia.org/wiki/Kolmogorov_complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+**#459** added Wednesday, 27. September 2017 05:02PM. Link: [https://en.wikipedia.org/wiki/Kolmogorov_comple...](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
 **Keywords:** `string`, `program`, `length`, `kolmogorov complex`, `theorem`, `complex`, `kolmogorov`, `2n`
 
@@ -880,9 +773,7 @@ Wednesday, 27. September 2017 05:02PM
 
 ___
 
-Saturday, 23. September 2017 03:30PM
-
-**Url:** [https://www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
+**#458** added Saturday, 23. September 2017 03:30PM. Link: [https://www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
 
 **Keywords:** `tdcs`, `mice`, `p 0`, `slices`, `ltp`, `control`, `tdcs mice`, `anodal tdcs`
 
@@ -893,9 +784,7 @@ Saturday, 23. September 2017 03:30PM
 
 ___
 
-Friday, 22. September 2017 03:22PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170823094104.htm](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
+**#457** added Friday, 22. September 2017 03:22PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
 
 **Keywords:** `surprise`, `song`, `harmonic surprise`, `professor grzywacz`, `brain`, `measurable`, `chord`, `preference`
 
@@ -908,9 +797,7 @@ Friday, 22. September 2017 03:22PM
 
 ___
 
-Thursday, 21. September 2017 10:06PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170824094045.htm](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
+**#456** added Thursday, 21. September 2017 10:06PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
 
 **Keywords:** `word`, `student`, `remember`, `distracted`, `participant`, `group`, `research`, `set of 20`
 
@@ -927,9 +814,7 @@ Thursday, 21. September 2017 10:06PM
 
 ___
 
-Thursday, 21. September 2017 09:44PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170822092159.htm](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
+**#455** added Thursday, 21. September 2017 09:44PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
 
 **Keywords:** `product`, `face`, `dominance`, `research`, `maeng`, `marketers`, `product design`, `human face`
 
@@ -940,9 +825,7 @@ Thursday, 21. September 2017 09:44PM
 
 ___
 
-Thursday, 21. September 2017 01:57AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170821122804.htm](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
+**#454** added Thursday, 21. September 2017 01:57AM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
 
 **Keywords:** `cell`, `chandelier cell`, `brain`, `neuronal`, `information`, `inhibited`, `connect`, `hundred`
 
@@ -953,9 +836,7 @@ Thursday, 21. September 2017 01:57AM
 
 ___
 
-Wednesday, 20. September 2017 06:32PM
-
-**Url:** [https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
+**#453** added Wednesday, 20. September 2017 06:32PM. Link: [https://www.newscientist.com/article/2146534-ne...](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
 
 **Keywords:** `think`, `music`, `tested`, `ferguson`, `creative`, `silence`, `happy music`, `dopamine`
 
@@ -966,9 +847,7 @@ Wednesday, 20. September 2017 06:32PM
 
 ___
 
-Monday, 18. September 2017 11:33PM
-
-**Url:** [http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
+**#452** added Monday, 18. September 2017 11:33PM. Link: [http://giorgiopatrini.org/posts/2017/09/06/in-s...](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
 
 **Keywords:** `learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
 
@@ -995,9 +874,7 @@ Monday, 18. September 2017 11:33PM
 
 ___
 
-Monday, 18. September 2017 10:57PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170814134832.htm](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
+**#451** added Monday, 18. September 2017 10:57PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
 
 **Keywords:** `event`, `brain`, `remember`, `memory`, `presented`, `image`, `replayed`, `encoding`
 
@@ -1012,9 +889,7 @@ Monday, 18. September 2017 10:57PM
 
 ___
 
-Monday, 18. September 2017 10:50PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170814134836.htm](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
+**#450** added Monday, 18. September 2017 10:50PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
 
 **Keywords:** `object`, `pathway`, `processed`, `distinct`, `information`, `dorsal pathway`, `represent`, `ventral pathway`
 
@@ -1029,9 +904,7 @@ Monday, 18. September 2017 10:50PM
 
 ___
 
-Saturday, 26. August 2017 06:43PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170825124900.htm](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
+**#449** added Saturday, 26. August 2017 06:43PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
 
 **Keywords:** `tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
 
@@ -1046,9 +919,7 @@ Saturday, 26. August 2017 06:43PM
 
 ___
 
-Saturday, 19. August 2017 11:49PM
-
-**Url:** [https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
+**#448** added Saturday, 19. August 2017 11:49PM. Link: [https://www.wired.com/story/bacteria-may-rig-th...](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
 
 **Keywords:** `mutate`, `cell`, `houseley`, `gene`, `mechanism`, `adapt`, `copies`, `yeast`
 
@@ -1063,9 +934,7 @@ Saturday, 19. August 2017 11:49PM
 
 ___
 
-Saturday, 19. August 2017 02:15PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/08/170816134658.htm](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
+**#447** added Saturday, 19. August 2017 02:15PM. Link: [https://www.sciencedaily.com/releases/2017/08/1...](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
 
 **Keywords:** `brain`, `stimulate`, `activate`, `cells`, `pralle`, `neuronal`, `magneto thermal stimulate`, `research`
 
@@ -1080,9 +949,7 @@ Saturday, 19. August 2017 02:15PM
 
 ___
 
-Friday, 18. August 2017 10:57PM
-
-**Url:** [http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
+**#446** added Friday, 18. August 2017 10:57PM. Link: [http://www.sciencealert.com/landmark-vitamin-di...](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
 
 **Keywords:** `birth defects`, `research`, `nad`, `defects`, `babies`, `supplement`, `women`, `vitamin b3`
 
@@ -1093,9 +960,7 @@ Friday, 18. August 2017 10:57PM
 
 ___
 
-Monday, 07. August 2017 09:30PM
-
-**Url:** [http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
+**#445** added Monday, 07. August 2017 09:30PM. Link: [http://www.sciencealert.com/hydrogen-fuel-could...](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
 
 **Keywords:** `hydrogen`, `alloy`, `aluminium`, `fuel`, `water`, `reaction`, `research`, `hydrogen gas`
 
@@ -1110,9 +975,7 @@ Monday, 07. August 2017 09:30PM
 
 ___
 
-Monday, 07. August 2017 01:12AM
-
-**Url:** [https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
+**#444** added Monday, 07. August 2017 01:12AM. Link: [https://phys.org/news/2017-08-redefine-statisti...](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
 
 **Keywords:** `p value`, `suggest`, `percent`, `paper`, `changed`, `science`, `example`, `05`
 
@@ -1123,9 +986,7 @@ Monday, 07. August 2017 01:12AM
 
 ___
 
-Saturday, 22. July 2017 07:47PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/07/170721095440.htm](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
+**#443** added Saturday, 22. July 2017 07:47PM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
 
 **Keywords:** `grid cells`, `cells`, `place cells`, `model`, `activated`, `neuronal`, `hexagonal`, `temporal`
 
@@ -1136,9 +997,7 @@ Saturday, 22. July 2017 07:47PM
 
 ___
 
-Tuesday, 18. July 2017 09:41PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170613120531.htm](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
+**#442** added Tuesday, 18. July 2017 09:41PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
 
 **Keywords:** `activation`, `art`, `kaimal`, `artists`, `reward`, `study`, `doodled`, `participants`
 
@@ -1155,9 +1014,7 @@ Tuesday, 18. July 2017 09:41PM
 
 ___
 
-Tuesday, 18. July 2017 09:31PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170612115320.htm](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
+**#441** added Tuesday, 18. July 2017 09:31PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
 
 **Keywords:** `exercise`, `brain`, `effects`, `acute exercise`, `changes`, `behavioral`, `cognitive`, `function`
 
@@ -1170,9 +1027,7 @@ Tuesday, 18. July 2017 09:31PM
 
 ___
 
-Tuesday, 18. July 2017 09:19PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/07/170718103528.htm](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
+**#440** added Tuesday, 18. July 2017 09:19PM. Link: [https://www.sciencedaily.com/releases/2017/07/1...](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
 
 **Keywords:** `robot`, `human`, `empowerment`, `concept`, `harm`, `laws`, `salge`, `asimov`
 
@@ -1187,9 +1042,7 @@ Tuesday, 18. July 2017 09:19PM
 
 ___
 
-Monday, 03. July 2017 11:32AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170627105445.htm](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
+**#439** added Monday, 03. July 2017 11:32AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
 
 **Keywords:** `mitoflash`, `long term`, `synaptic plasticity`, `synaptic`, `short term synaptic`, `ros`, `memories`, `signal`
 
@@ -1208,9 +1061,7 @@ Monday, 03. July 2017 11:32AM
 
 ___
 
-Sunday, 25. June 2017 04:46PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170623133039.htm](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
+**#438** added Sunday, 25. June 2017 04:46PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
 
 **Keywords:** `smartphone`, `participants`, `phone`, `cognitive`, `cognitive capacity`, `person`, `experiment`, `reduce`
 
@@ -1225,9 +1076,7 @@ Sunday, 25. June 2017 04:46PM
 
 ___
 
-Thursday, 22. June 2017 03:44AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170621125329.htm](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
+**#437** added Thursday, 22. June 2017 03:44AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
 
 **Keywords:** `memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
 
@@ -1248,9 +1097,7 @@ Thursday, 22. June 2017 03:44AM
 
 ___
 
-Thursday, 22. June 2017 03:27AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170621132910.htm](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
+**#436** added Thursday, 22. June 2017 03:27AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
 
 **Keywords:** `memories`, `forget`, `brain`, `remember`, `information`, `neuron`, `richards`, `mechanism`
 
@@ -1269,9 +1116,7 @@ Thursday, 22. June 2017 03:27AM
 
 ___
 
-Thursday, 22. June 2017 02:51AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170620140624.htm](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
+**#435** added Thursday, 22. June 2017 02:51AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
 
 **Keywords:** `brain`, `short term memories`, `mean`, `information`, `memories`, `finding`, `remember`, `create`
 
@@ -1282,9 +1127,7 @@ Thursday, 22. June 2017 02:51AM
 
 ___
 
-Thursday, 22. June 2017 02:36AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170621082442.htm](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
+**#434** added Thursday, 22. June 2017 02:36AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
 
 **Keywords:** `studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
 
@@ -1301,9 +1144,7 @@ Thursday, 22. June 2017 02:36AM
 
 ___
 
-Tuesday, 20. June 2017 01:36AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170619144827.htm](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
+**#433** added Tuesday, 20. June 2017 01:36AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
 
 **Keywords:** `brain`, `patients`, `word`, `process`, `ries`, `activate`, `neuronal`, `region`
 
@@ -1318,9 +1159,7 @@ Tuesday, 20. June 2017 01:36AM
 
 ___
 
-Monday, 12. June 2017 10:48PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170612094139.htm](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
+**#432** added Monday, 12. June 2017 10:48PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
 
 **Keywords:** `function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
 
@@ -1339,9 +1178,7 @@ Monday, 12. June 2017 10:48PM
 
 ___
 
-Monday, 12. June 2017 03:52PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170612115345.htm](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
+**#431** added Monday, 12. June 2017 03:52PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
 
 **Keywords:** `computation`, `problem`, `oscillating`, `solve`, `color`, `system`, `graph`, `graph color problem`
 
@@ -1358,9 +1195,7 @@ Monday, 12. June 2017 03:52PM
 
 ___
 
-Monday, 12. June 2017 12:18AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170608133355.htm](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
+**#430** added Monday, 12. June 2017 12:18AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
 
 **Keywords:** `brain`, `pitkow`, `model`, `computations`, `bias`, `research`, `neuron`, `neuroscience`
 
@@ -1377,9 +1212,7 @@ Monday, 12. June 2017 12:18AM
 
 ___
 
-Sunday, 11. June 2017 11:24PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170609133807.htm](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
+**#429** added Sunday, 11. June 2017 11:24PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
 
 **Keywords:** `farmer`, `plant`, `pest`, `optimal`, `system`, `decisions`, `water`, `reach`
 
@@ -1398,9 +1231,7 @@ Sunday, 11. June 2017 11:24PM
 
 ___
 
-Saturday, 10. June 2017 05:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170608123646.htm](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
+**#428** added Saturday, 10. June 2017 05:45PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
 
 **Keywords:** `event`, `neuron`, `activation`, `cell`, `sequence`, `brain`, `hippocampus`, `smell`
 
@@ -1413,9 +1244,7 @@ Saturday, 10. June 2017 05:45PM
 
 ___
 
-Saturday, 10. June 2017 03:55PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170608123641.htm](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
+**#427** added Saturday, 10. June 2017 03:55PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
 
 **Keywords:** `neuron`, `drnda`, `sleep`, `active`, `animal`, `gradinaru`, `drnda neuron`, `wake`
 
@@ -1432,9 +1261,7 @@ Saturday, 10. June 2017 03:55PM
 
 ___
 
-Friday, 09. June 2017 09:41PM
-
-**Url:** [http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
+**#426** added Friday, 09. June 2017 09:41PM. Link: [http://www.sciencealert.com/plant-seeds-use-min...](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
 
 **Keywords:** `plant`, `germinate`, `cell`, `plant seed`, `sprout`, `seed`, `research`, `separation`
 
@@ -1447,9 +1274,7 @@ Friday, 09. June 2017 09:41PM
 
 ___
 
-Friday, 09. June 2017 06:01PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170410110226.htm](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
+**#425** added Friday, 09. June 2017 06:01PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
 
 **Keywords:** `research`, `brain`, `serious`, `studied`, `judgement`, `asts`, `intention`, `universal`
 
@@ -1460,9 +1285,7 @@ Friday, 09. June 2017 06:01PM
 
 ___
 
-Friday, 09. June 2017 05:54PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170410085324.htm](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
+**#424** added Friday, 09. June 2017 05:54PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
 
 **Keywords:** `green space`, `environment`, `study`, `urban environment`, `urban`, `older`, `health`, `older people`
 
@@ -1473,9 +1296,7 @@ Friday, 09. June 2017 05:54PM
 
 ___
 
-Friday, 09. June 2017 05:33PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170410085010.htm](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
+**#423** added Friday, 09. June 2017 05:33PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
 
 **Keywords:** `cognitive control`, `temperature`, `research`, `psychological`, `dr shalev`, `cool`, `cold`, `effect`
 
@@ -1490,9 +1311,7 @@ Friday, 09. June 2017 05:33PM
 
 ___
 
-Friday, 09. June 2017 02:23PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170609091229.htm](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
+**#422** added Friday, 09. June 2017 02:23PM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
 
 **Keywords:** `cell`, `develop`, `chandelier cell`, `axon`, `synapse`, `neurons`, `cell axon`, `varicosities`
 
@@ -1507,9 +1326,7 @@ Friday, 09. June 2017 02:23PM
 
 ___
 
-Friday, 09. June 2017 03:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170606201359.htm](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
+**#421** added Friday, 09. June 2017 03:53AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
 
 **Keywords:** `studies`, `brain`, `associated`, `alcohol consumption`, `cognitive`, `findings`, `drinking`, `alcohol`
 
@@ -1526,9 +1343,7 @@ Friday, 09. June 2017 03:53AM
 
 ___
 
-Friday, 09. June 2017 03:29AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170608073249.htm](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
+**#420** added Friday, 09. June 2017 03:29AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
 
 **Keywords:** `eat`, `food`, `eat alone`, `mirror`, `research`, `social facilitation of eat`, `ate`, `appeal`
 
@@ -1545,9 +1360,7 @@ Friday, 09. June 2017 03:29AM
 
 ___
 
-Friday, 09. June 2017 03:19AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170608145602.htm](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
+**#419** added Friday, 09. June 2017 03:19AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
 
 **Keywords:** `brain`, `computation`, `vision`, `visual`, `object`, `sharpee`, `data`, `process`
 
@@ -1564,9 +1377,7 @@ Friday, 09. June 2017 03:19AM
 
 ___
 
-Thursday, 08. June 2017 04:01AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170406163511.htm](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
+**#418** added Thursday, 08. June 2017 04:01AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
 **Keywords:** `learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
 
@@ -1585,9 +1396,7 @@ Thursday, 08. June 2017 04:01AM
 
 ___
 
-Thursday, 08. June 2017 03:52AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170403123319.htm](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
+**#417** added Thursday, 08. June 2017 03:52AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
 **Keywords:** `social capital`, `school`, `student`, `teacher`, `parental`, `goddard`, `levels of social capital`, `study`
 
@@ -1604,9 +1413,7 @@ Thursday, 08. June 2017 03:52AM
 
 ___
 
-Thursday, 08. June 2017 03:16AM
-
-**Url:** [http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
+**#416** added Thursday, 08. June 2017 03:16AM. Link: [http://www.sciencealert.com/physicists-finally-...](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
 
 **Keywords:** `magnet`, `properties`, `layer`, `chromium triiodide`, `material`, `two dimensional`, `2d`, `even`
 
@@ -1625,9 +1432,7 @@ Thursday, 08. June 2017 03:16AM
 
 ___
 
-Thursday, 08. June 2017 03:05AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170607123843.htm](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
+**#415** added Thursday, 08. June 2017 03:05AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
 **Keywords:** `test`, `studies`, `eyes test`, `cognitive empathy`, `genetic`, `eyes`, `genetic variants`, `autism`
 
@@ -1638,9 +1443,7 @@ Thursday, 08. June 2017 03:05AM
 
 ___
 
-Thursday, 08. June 2017 12:07AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170607085455.htm](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
+**#414** added Thursday, 08. June 2017 12:07AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
 **Keywords:** `dlpfc`, `participants`, `problem`, `stimulated`, `solve`, `mental`, `creative`, `tdcs`
 
@@ -1659,9 +1462,7 @@ Thursday, 08. June 2017 12:07AM
 
 ___
 
-Wednesday, 07. June 2017 04:14AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/06/170606135736.htm](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
+**#413** added Wednesday, 07. June 2017 04:14AM. Link: [https://www.sciencedaily.com/releases/2017/06/1...](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
 **Keywords:** `neuron`, `decision`, `collect`, `monkey`, `data`, `information`, `single neuron`, `neuroscience`
 
@@ -1678,9 +1479,7 @@ Wednesday, 07. June 2017 04:14AM
 
 ___
 
-Tuesday, 30. May 2017 02:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170410161938.htm](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
+**#412** added Tuesday, 30. May 2017 02:45PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
 **Keywords:** `listened`, `speaker`, `studies`, `pupil dilate`, `findings`, `conscious`, `narrative`, `eye`
 
@@ -1691,9 +1490,7 @@ Tuesday, 30. May 2017 02:45PM
 
 ___
 
-Tuesday, 30. May 2017 02:40PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170410155003.htm](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
+**#411** added Tuesday, 30. May 2017 02:40PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
 
 **Keywords:** `myers`, `understand`, `language`, `sound`, `phonemes`, `distinct`, `speech`, `ability`
 
@@ -1702,9 +1499,7 @@ Tuesday, 30. May 2017 02:40PM
 
 ___
 
-Tuesday, 30. May 2017 04:26AM
-
-**Url:** [http://people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
+**#410** added Tuesday, 30. May 2017 04:26AM. Link: [http://people.idsia.ch/~juergen/goedelmachine.h...](http://people.idsia.ch/~juergen/goedelmachine.html)
 
 **Keywords:** `optimal`, `proof`, `self`, `self rewrite`, `self referential`, `machine`, `initial code`, `proof searcher`
 
@@ -1715,9 +1510,7 @@ Tuesday, 30. May 2017 04:26AM
 
 ___
 
-Tuesday, 30. May 2017 04:15AM
-
-**Url:** [http://people.idsia.ch/~juergen/compressednetworksearch.html](http://people.idsia.ch/~juergen/compressednetworksearch.html)
+**#409** added Tuesday, 30. May 2017 04:15AM. Link: [http://people.idsia.ch/~juergen/compressednetwo...](http://people.idsia.ch/~juergen/compressednetworksearch.html)
 
 **Keywords:** `program`, `weight`, `encode`, `gp`, `learn`, `network`, `20`, `visual input`
 
@@ -1730,9 +1523,7 @@ Tuesday, 30. May 2017 04:15AM
 
 ___
 
-Tuesday, 30. May 2017 03:50AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/05/170502084630.htm](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
+**#408** added Tuesday, 30. May 2017 03:50AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
 
 **Keywords:** `word`, `neural`, `kimppa`, `exposure`, `learned`, `finnish`, `participants`, `brain`
 
@@ -1745,9 +1536,7 @@ Tuesday, 30. May 2017 03:50AM
 
 ___
 
-Tuesday, 30. May 2017 03:22AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/05/170502112607.htm](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
+**#407** added Tuesday, 30. May 2017 03:22AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
 
 **Keywords:** `language`, `bilinguals`, `duration`, `container`, `swedish`, `spanish`, `time`, `passage of time`
 
@@ -1762,9 +1551,7 @@ Tuesday, 30. May 2017 03:22AM
 
 ___
 
-Tuesday, 30. May 2017 03:17AM
-
-**Url:** [https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
+**#406** added Tuesday, 30. May 2017 03:17AM. Link: [https://www.scientificamerican.com/article/scie...](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
 
 **Keywords:** `cell`, `brain`, `mutation`, `somatic mutation`, `research`, `genetic`, `neuron`, `genome`
 
@@ -1777,9 +1564,7 @@ Tuesday, 30. May 2017 03:17AM
 
 ___
 
-Tuesday, 30. May 2017 03:13AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/05/170502204545.htm](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
+**#405** added Tuesday, 30. May 2017 03:13AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
 
 **Keywords:** `children`, `aroma`, `memory`, `room`, `effect`, `test`, `dr mark`, `academic performance`
 
@@ -1792,9 +1577,7 @@ Tuesday, 30. May 2017 03:13AM
 
 ___
 
-Tuesday, 30. May 2017 12:08AM
-
-**Url:** [https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
+**#404** added Tuesday, 30. May 2017 12:08AM. Link: [https://phys.org/news/2017-05-predators-faster-...](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
 
 **Keywords:** `predator`, `prey`, `model`, `group`, `behavior`, `research`, `resulted`, `chasing`
 
@@ -1803,9 +1586,7 @@ Tuesday, 30. May 2017 12:08AM
 
 ___
 
-Monday, 29. May 2017 10:59PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/05/170529090526.htm](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
+**#403** added Monday, 29. May 2017 10:59PM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
 
 **Keywords:** `learn`, `neuron`, `signal`, `cell`, `response`, `associate`, `brain`, `research`
 
@@ -1816,9 +1597,7 @@ Monday, 29. May 2017 10:59PM
 
 ___
 
-Saturday, 27. May 2017 06:14AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/05/170525123048.htm](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
+**#402** added Saturday, 27. May 2017 06:14AM. Link: [https://www.sciencedaily.com/releases/2017/05/1...](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
 
 **Keywords:** `brain`, `network`, `executive function`, `modular`, `structural`, `researchers`, `brain network`, `global integrated`
 
@@ -1831,9 +1610,7 @@ Saturday, 27. May 2017 06:14AM
 
 ___
 
-Saturday, 27. May 2017 01:06AM
-
-**Url:** [http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
+**#401** added Saturday, 27. May 2017 01:06AM. Link: [http://www.sciencealert.com/the-brain-literally...](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
 
 **Keywords:** `sleep`, `brain`, `synapses`, `activates`, `astrocyte`, `chronic sleep deprived`, `cell`, `process`
 
@@ -1850,9 +1627,7 @@ Saturday, 27. May 2017 01:06AM
 
 ___
 
-Saturday, 27. May 2017 12:47AM
-
-**Url:** [http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
+**#400** added Saturday, 27. May 2017 12:47AM. Link: [http://www.sciencealert.com/scientists-have-fou...](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
 
 **Keywords:** `brain`, `monkey`, `social interacting`, `video`, `human`, `activated`, `object`, `process`
 
@@ -1863,9 +1638,7 @@ Saturday, 27. May 2017 12:47AM
 
 ___
 
-Friday, 26. May 2017 06:04PM
-
-**Url:** [http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
+**#399** added Friday, 26. May 2017 06:04PM. Link: [http://www.sciencealert.com/for-the-first-time-...](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
 
 **Keywords:** `birth rate`, `per 1 000`, `pregnancies`, `babies`, `birth`, `mother`, `better`, `women age`
 
@@ -1876,9 +1649,7 @@ Friday, 26. May 2017 06:04PM
 
 ___
 
-Saturday, 20. May 2017 08:17PM
-
-**Url:** [http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
+**#398** added Saturday, 20. May 2017 08:17PM. Link: [http://www.sciencealert.com/researchers-have-di...](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
 
 **Keywords:** `gene`, `metabolism`, `rna`, `function`, `caetano anolls`, `organic`, `develop`, `molecules`
 
@@ -1891,9 +1662,7 @@ Saturday, 20. May 2017 08:17PM
 
 ___
 
-Monday, 08. May 2017 02:04PM
-
-**Url:** [https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
+**#397** added Monday, 08. May 2017 02:04PM. Link: [https://www.newscientist.com/article/2130205-in...](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
 
 **Keywords:** `question`, `sentence`, `learn`, `read`, `ask`, `mazidi`, `ask question`, `du`
 
@@ -1906,9 +1675,7 @@ Monday, 08. May 2017 02:04PM
 
 ___
 
-Saturday, 29. April 2017 09:43PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170427120906.htm](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
+**#396** added Saturday, 29. April 2017 09:43PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
 
 **Keywords:** `worried`, `sweeny`, `motivate`, `prevent`, `emotional`, `report`, `feeling of worried`, `pleasurable`
 
@@ -1923,9 +1690,7 @@ Saturday, 29. April 2017 09:43PM
 
 ___
 
-Thursday, 27. April 2017 01:13AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170407103604.htm](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
+**#395** added Thursday, 27. April 2017 01:13AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
 
 **Keywords:** `dbi`, `neurons`, `brain`, `monyer`, `hippocampus`, `process`, `gaba`, `peptide`
 
@@ -1942,9 +1707,7 @@ Thursday, 27. April 2017 01:13AM
 
 ___
 
-Wednesday, 26. April 2017 05:46PM
-
-**Url:** [https://www.scientificamerican.com/article/put-a-bird-on-it/](https://www.scientificamerican.com/article/put-a-bird-on-it/)
+**#394** added Wednesday, 26. April 2017 05:46PM. Link: [https://www.scientificamerican.com/article/put-...](https://www.scientificamerican.com/article/put-a-bird-on-it/)
 
 **Keywords:** `identities`, `coaster`, `decorated`, `custom`, `studies`, `flip game`, `custom coaster`, `cleats`
 
@@ -1957,9 +1720,7 @@ Wednesday, 26. April 2017 05:46PM
 
 ___
 
-Tuesday, 25. April 2017 08:58PM
-
-**Url:** [https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
+**#393** added Tuesday, 25. April 2017 08:58PM. Link: [https://www.newscientist.com/article/2128695-hu...](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
 
 **Keywords:** `ghrelin`, `brain cell`, `memories`, `parkinsons disease`, `hormone`, `levels`, `effect`, `people`
 
@@ -1972,9 +1733,7 @@ Tuesday, 25. April 2017 08:58PM
 
 ___
 
-Monday, 24. April 2017 02:07AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170420090300.htm](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
+**#392** added Monday, 24. April 2017 02:07AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
 
 **Keywords:** `students`, `course`, `ramirez`, `forget`, `studies`, `psychological`, `stress`, `material`
 
@@ -1987,9 +1746,7 @@ Monday, 24. April 2017 02:07AM
 
 ___
 
-Monday, 24. April 2017 12:40AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170403123325.htm](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
+**#391** added Monday, 24. April 2017 12:40AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
 
 **Keywords:** `robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
 
@@ -2004,9 +1761,7 @@ Monday, 24. April 2017 12:40AM
 
 ___
 
-Monday, 17. April 2017 12:57PM
-
-**Url:** [https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
+**#390** added Monday, 17. April 2017 12:57PM. Link: [https://www.newscientist.com/article/2127804-cr...](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
 
 **Keywords:** `antinori`, `open`, `mixed percept`, `creative`, `experience`, `open people`, `person`, `brain`
 
@@ -2022,9 +1777,7 @@ Monday, 17. April 2017 12:57PM
 
 ___
 
-Saturday, 15. April 2017 06:50PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170203103432.htm](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
+**#389** added Saturday, 15. April 2017 06:50PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
 
 **Keywords:** `granule cell`, `dentate gyrus`, `neurogenesis`, `synapse`, `neuron`, `connections`, `brain`, `cell`
 
@@ -2035,9 +1788,7 @@ Saturday, 15. April 2017 06:50PM
 
 ___
 
-Saturday, 15. April 2017 06:26PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170202141913.htm](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
+**#388** added Saturday, 15. April 2017 06:26PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
 
 **Keywords:** `synapse`, `sleep`, `size`, `brain`, `shy`, `wake`, `cirelli`, `tononi`
 
@@ -2048,9 +1799,7 @@ Saturday, 15. April 2017 06:26PM
 
 ___
 
-Saturday, 15. April 2017 05:10PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170406143936.htm](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
+**#387** added Saturday, 15. April 2017 05:10PM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
 
 **Keywords:** `memories`, `hippocampus`, `prefrontal cortex`, `store`, `engram cells`, `trace`, `research`, `studies`
 
@@ -2063,9 +1812,7 @@ Saturday, 15. April 2017 05:10PM
 
 ___
 
-Saturday, 15. April 2017 04:40AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/04/170413141122.htm](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
+**#386** added Saturday, 15. April 2017 04:40AM. Link: [https://www.sciencedaily.com/releases/2017/04/1...](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
 
 **Keywords:** `random`, `human`, `abilities`, `studies`, `abilities to behave random`, `age`, `coin flips`, `hypothetical results`
 
@@ -2080,9 +1827,7 @@ Saturday, 15. April 2017 04:40AM
 
 ___
 
-Tuesday, 28. March 2017 06:13PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170327083433.htm](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
+**#385** added Tuesday, 28. March 2017 06:13PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
 
 **Keywords:** `chocolate`, `understand`, `maxi`, `child`, `research`, `four year`, `thoughts`, `brain`
 
@@ -2097,9 +1842,7 @@ Tuesday, 28. March 2017 06:13PM
 
 ___
 
-Monday, 20. March 2017 02:21AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170217012453.htm](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
+**#384** added Monday, 20. March 2017 02:21AM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
 
 **Keywords:** `infant`, `mother`, `de l etoile`, `infant direct sing`, `song`, `interact`, `tempo`, `behavior`
 
@@ -2112,9 +1855,7 @@ Monday, 20. March 2017 02:21AM
 
 ___
 
-Saturday, 18. March 2017 03:14PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170312130257.htm](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
+**#383** added Saturday, 18. March 2017 03:14PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
 
 **Keywords:** `memprize`, `learn`, `radboud university`, `effective`, `words`, `find`, `project`, `team`
 
@@ -2129,9 +1870,7 @@ Saturday, 18. March 2017 03:14PM
 
 ___
 
-Friday, 10. March 2017 12:36AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170309150634.htm](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
+**#382** added Friday, 10. March 2017 12:36AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
 
 **Keywords:** `dendrite`, `spike`, `neuron`, `computation`, `soma`, `brain`, `activate`, `scientists`
 
@@ -2144,9 +1883,7 @@ Friday, 10. March 2017 12:36AM
 
 ___
 
-Wednesday, 08. March 2017 12:40AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170306091735.htm](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
+**#381** added Wednesday, 08. March 2017 12:40AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
 
 **Keywords:** `touch`, `huisman`, `hey bracelet`, `bracelet`, `university of twente`, `squeeze`, `shown`, `technology`
 
@@ -2157,9 +1894,7 @@ Wednesday, 08. March 2017 12:40AM
 
 ___
 
-Tuesday, 07. March 2017 10:33AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170306114155.htm](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
+**#380** added Tuesday, 07. March 2017 10:33AM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
 
 **Keywords:** `memories`, `object`, `move`, `flombaum`, `recognize`, `researchers`, `expect`, `brain`
 
@@ -2172,9 +1907,7 @@ Tuesday, 07. March 2017 10:33AM
 
 ___
 
-Sunday, 05. March 2017 11:39PM
-
-**Url:** [http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
+**#379** added Sunday, 05. March 2017 11:39PM. Link: [http://www.bbc.com/earth/story/20170301-life-ma...](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
 
 **Keywords:** `watson`, `evolvability`, `organism`, `adapt`, `gene network`, `gene`, `evolution`, `might`
 
@@ -2189,9 +1922,7 @@ Sunday, 05. March 2017 11:39PM
 
 ___
 
-Sunday, 05. March 2017 03:01PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/03/170303091526.htm](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
+**#378** added Sunday, 05. March 2017 03:01PM. Link: [https://www.sciencedaily.com/releases/2017/03/1...](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
 
 **Keywords:** `motivated`, `lecture`, `studied`, `effort`, `dietrich`, `individual`, `brbel kracke`, `julia dietrich`
 
@@ -2208,9 +1939,7 @@ Sunday, 05. March 2017 03:01PM
 
 ___
 
-Tuesday, 28. February 2017 10:34AM
-
-**Url:** [http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
+**#377** added Tuesday, 28. February 2017 10:34AM. Link: [http://www.nature.com/news/a-giant-neuron-found...](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
 
 **Keywords:** `brain`, `neuron`, `claustrum`, `koch`, `mice`, `trace`, `connect`, `organ`
 
@@ -2223,9 +1952,7 @@ Tuesday, 28. February 2017 10:34AM
 
 ___
 
-Tuesday, 21. February 2017 05:27PM
-
-**Url:** [http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated](http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated)
+**#376** added Tuesday, 21. February 2017 05:27PM. Link: [http://www.sciencealert.com/we-just-found-evide...](http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated)
 
 - Researchers have discovered a brand new mechanism that controls the way nerve cells in our brain communicate with each other to regulate learning and long-term memory.
 
@@ -2236,9 +1963,7 @@ Tuesday, 21. February 2017 05:27PM
 
 ___
 
-Monday, 06. February 2017 05:20PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/02/170203135107.htm](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
+**#375** added Monday, 06. February 2017 05:20PM. Link: [https://www.sciencedaily.com/releases/2017/02/1...](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
 
 - Researchers reveal an optimal strategy for foragers -- animals searching for berries in the woods or prospectors seeking oil in the desert. The statistical model builds on previous foraging theories by accounting for trajectory and resources consumed
 
@@ -2247,18 +1972,14 @@ Monday, 06. February 2017 05:20PM
 
 ___
 
-Wednesday, 25. January 2017 04:49PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170124140842.htm](https://www.sciencedaily.com/releases/2017/01/170124140842.htm)
+**#374** added Wednesday, 25. January 2017 04:49PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170124140842.htm)
 
 - the release of the chemical 'acetylcholine' fluctuates during the day but found that the release is at its highest when the brain is engaged with more challenging mental tasks. The fluctuations are coordinated across the brain indicating a brain-wide signal to increase mental capacity with specific spikes in acetylcholine release occurring at particularly arousing times such as gaining reward.
 
 
 ___
 
-Wednesday, 25. January 2017 04:37PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170124111318.htm](https://www.sciencedaily.com/releases/2017/01/170124111318.htm)
+**#373** added Wednesday, 25. January 2017 04:37PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170124111318.htm)
 
 - Humans have a type of long-term memory (called 'implicit memory') that means we respond less to stimuli as they are repeated over time, in a process called neural adaptation. But the new research suggests that dyslexics recover faster than non-dyslexics from their responses to stimuli such as sounds and written words, leading to their perceptual and reading difficulties. 
 
@@ -2269,9 +1990,7 @@ Wednesday, 25. January 2017 04:37PM
 
 ___
 
-Monday, 23. January 2017 07:42PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161003131352.htm](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
+**#372** added Monday, 23. January 2017 07:42PM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
 
 - Rather than having strictly defined routes of communication between different areas, the level of coordination between different parts of the brain seems to ebb and flow. Now, by analyzing the brains of a large number of people at rest or carrying out complex tasks, researchers at have learned that the integration between those brain regions also fluctuates. When the brain is more integrated, people do better on complex tasks.
 
@@ -2284,9 +2003,7 @@ Monday, 23. January 2017 07:42PM
 
 ___
 
-Monday, 23. January 2017 02:34AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170120193803.htm](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)
+**#371** added Monday, 23. January 2017 02:34AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)
 
 - A new Processing Speed Training Game (PSTG) has been developed for a Tablet PC, which they say can significantly improve processing speed and inhibition among healthy older adults, while also reducing their depressive moods when played regularly.
 
@@ -2301,9 +2018,7 @@ Monday, 23. January 2017 02:34AM
 
 ___
 
-Sunday, 22. January 2017 07:37PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170112141210.htm](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)
+**#370** added Sunday, 22. January 2017 07:37PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)
 
 - Researchers have pinpointed a brain region monkeys use to evaluate their ability to recall memories. To date, this metamemory process, which requires a higher level of self-reflection about our own cognition, was thought by some to be unique to humans
 
@@ -2314,9 +2029,7 @@ Sunday, 22. January 2017 07:37PM
 
 ___
 
-Sunday, 22. January 2017 07:20PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170117083830.htm](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
+**#369** added Sunday, 22. January 2017 07:20PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
 
 - Students who are given information and tell someone about it immediately recall the details better and longer
 
@@ -2331,9 +2044,7 @@ Sunday, 22. January 2017 07:20PM
 
 ___
 
-Sunday, 22. January 2017 07:15PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170117140005.htm](https://www.sciencedaily.com/releases/2017/01/170117140005.htm)
+**#368** added Sunday, 22. January 2017 07:15PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170117140005.htm)
 
 - Fast talkers tend to convey less information with each word and syntactic structure than slower-paced speakers, meaning that no matter our pace, we all say just about as much in a given time, a new study finds.
 
@@ -2346,9 +2057,7 @@ Sunday, 22. January 2017 07:15PM
 
 ___
 
-Saturday, 21. January 2017 04:51AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170109162336.htm](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
+**#367** added Saturday, 21. January 2017 04:51AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
 
 - Researchers have developed a new computational model of a neural circuit in the brain, which could shed light on the biological role of inhibitory neurons
 
@@ -2371,9 +2080,7 @@ Saturday, 21. January 2017 04:51AM
 
 ___
 
-Saturday, 21. January 2017 04:41AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170102143458.htm](https://www.sciencedaily.com/releases/2017/01/170102143458.htm)
+**#366** added Saturday, 21. January 2017 04:41AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170102143458.htm)
 
 - Many new parents still think that babies should develop at their own pace, and that they shouldn't be challenged to do things that they're not yet ready for.
 
@@ -2390,9 +2097,7 @@ Saturday, 21. January 2017 04:41AM
 
 ___
 
-Saturday, 21. January 2017 04:34AM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/09/150921133948.htm](https://www.sciencedaily.com/releases/2015/09/150921133948.htm)
+**#365** added Saturday, 21. January 2017 04:34AM. Link: [https://www.sciencedaily.com/releases/2015/09/1...](https://www.sciencedaily.com/releases/2015/09/150921133948.htm)
 
 - Short-term memory traces in the hippocampus, an area deep in the brain, are then relocated to more outer parts of the brain. An international team of neuroscientists now shows how a three-step brain oscillation plays an important part in that process.
 
@@ -2409,9 +2114,7 @@ Saturday, 21. January 2017 04:34AM
 
 ___
 
-Thursday, 19. January 2017 10:15PM
-
-**Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
+**#364** added Thursday, 19. January 2017 10:15PM. Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC43...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
 
 - There is evidence for hippocampal neurogenesis in adult humans, although whether its extent is sufficient to have functional significance has been questioned
 
@@ -2422,9 +2125,7 @@ Thursday, 19. January 2017 10:15PM
 
 ___
 
-Tuesday, 17. January 2017 04:55PM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170109124959.htm](https://www.sciencedaily.com/releases/2017/01/170109124959.htm)
+**#363** added Tuesday, 17. January 2017 04:55PM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170109124959.htm)
 
 - The driver of our instincts is the brainstem -- the region at the very base of your brain, just above the spinal chord. Scientists have known for some time that another brain region, the prefrontal cortex, plays a role in keeping those instincts in check
 
@@ -2439,9 +2140,7 @@ Tuesday, 17. January 2017 04:55PM
 
 ___
 
-Monday, 16. January 2017 01:32AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170111093428.htm](https://www.sciencedaily.com/releases/2017/01/170111093428.htm)
+**#362** added Monday, 16. January 2017 01:32AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170111093428.htm)
 
 - investigated how the sense of touch of 30 study participants could be changed after a training phase. Half of them received a medium dose of the stress hormone cortisol, while the other half received a placebo drug.
 
@@ -2454,9 +2153,7 @@ Monday, 16. January 2017 01:32AM
 
 ___
 
-Friday, 13. January 2017 01:07AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170112141251.htm](https://www.sciencedaily.com/releases/2017/01/170112141251.htm)
+**#361** added Friday, 13. January 2017 01:07AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170112141251.htm)
 
 - Until now, the entorhinal cortex has been considered subservient to the hippocampus in both memory formation and recall. But we show that the medial entorhinal cortex can replay the firing pattern associated with moving in a maze independent of the hippocampus
 
@@ -2469,9 +2166,7 @@ Friday, 13. January 2017 01:07AM
 
 ___
 
-Tuesday, 10. January 2017 05:01AM
-
-**Url:** [https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
+**#360** added Tuesday, 10. January 2017 05:01AM. Link: [https://www.newscientist.com/article/2117458-wh...](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
 
 -  it seems many mammal babies prefer to approach their mother from one side too – and the explanation may lie in the contrasting talents of each half of the brain
 
@@ -2486,9 +2181,7 @@ Tuesday, 10. January 2017 05:01AM
 
 ___
 
-Saturday, 07. January 2017 04:25AM
-
-**Url:** [https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
+**#359** added Saturday, 07. January 2017 04:25AM. Link: [https://www.newscientist.com/article/mg23331074...](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
 
 - False memory was discovered in an experiment that asked volunteers to memorise lists of related words and then recall them. When they learned “bed”, “drowsy” and “dream”, about half later also remembered the word “sleep”. 
 
@@ -2503,9 +2196,7 @@ Saturday, 07. January 2017 04:25AM
 
 ___
 
-Saturday, 07. January 2017 03:35AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170106150925.htm](https://www.sciencedaily.com/releases/2017/01/170106150925.htm)
+**#358** added Saturday, 07. January 2017 03:35AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170106150925.htm)
 
 - "Every time you move your eye, the whole world moves on your retina," says Gaby Maimon, head of the Laboratory of Integrative Brain Function. "But you don't perceive an earthquake happening several times a second."
 
@@ -2520,9 +2211,7 @@ Saturday, 07. January 2017 03:35AM
 
 ___
 
-Saturday, 07. January 2017 03:29AM
-
-**Url:** [https://www.sciencedaily.com/releases/2017/01/170106163007.htm](https://www.sciencedaily.com/releases/2017/01/170106163007.htm)
+**#357** added Saturday, 07. January 2017 03:29AM. Link: [https://www.sciencedaily.com/releases/2017/01/1...](https://www.sciencedaily.com/releases/2017/01/170106163007.htm)
 
 - A new model for identifying personality traits may help organizations save money by improving the hiring process and with evaluating employee performance.
 
@@ -2533,9 +2222,7 @@ Saturday, 07. January 2017 03:29AM
 
 ___
 
-Wednesday, 28. December 2016 05:41PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161226211235.htm](https://www.sciencedaily.com/releases/2016/12/161226211235.htm)
+**#356** added Wednesday, 28. December 2016 05:41PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161226211235.htm)
 
 - Scientists have discovered that networks of inhibitory brain cells or neurons develop through a mechanism opposite to the one followed by excitatory networks. Excitatory neurons sculpt and refine maps of the external world throughout development and experience, while inhibitory neurons form maps that become broader with maturation
 
@@ -2552,9 +2239,7 @@ Wednesday, 28. December 2016 05:41PM
 
 ___
 
-Tuesday, 27. December 2016 03:21PM
-
-**Url:** [https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
+**#355** added Tuesday, 27. December 2016 03:21PM. Link: [https://www.scientificamerican.com/article/eye-...](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
 
 - eye contact is one of the most important forms of nonverbal communication
 
@@ -2567,18 +2252,14 @@ Tuesday, 27. December 2016 03:21PM
 
 ___
 
-Monday, 26. December 2016 09:25PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161221125505.htm](https://www.sciencedaily.com/releases/2016/12/161221125505.htm)
+**#354** added Monday, 26. December 2016 09:25PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161221125505.htm)
 
 - Neurons in the brain store RNA molecules -- DNA gene copies -- in order to rapidly react to stimuli. This storage dramatically accelerates the production of proteins. This is one of the reasons why neurons in the brain can adapt quickly during learning processes.
 
 
 ___
 
-Monday, 26. December 2016 09:21PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161219133831.htm](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
+**#353** added Monday, 26. December 2016 09:21PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
 
 - A decision to express disgust or anger depends on the motives a person seeks to communicate
 
@@ -2591,9 +2272,7 @@ Monday, 26. December 2016 09:21PM
 
 ___
 
-Wednesday, 21. December 2016 06:30PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161221090120.htm](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
+**#352** added Wednesday, 21. December 2016 06:30PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
 
 - In an experiment, cognitive psychologists have shown how word comprehension can be sped up – namely by having study participants grasp objects while reading at the same time
 
@@ -2608,9 +2287,7 @@ Wednesday, 21. December 2016 06:30PM
 
 ___
 
-Sunday, 11. December 2016 05:54PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161207133541.htm](https://www.sciencedaily.com/releases/2016/12/161207133541.htm)
+**#351** added Sunday, 11. December 2016 05:54PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161207133541.htm)
 
 - Using LED lights flickering at a specific frequency, researchers have shown that they can significantly reduce the beta amyloid plaques seen in Alzheimer's disease in the visual cortex of mice. This treatment appears to work by stimulating brain waves known as gamma oscillations, which the researchers discovered help the brain suppress beta amyloid production and invigorate cells responsible for destroying the plaques.
 
@@ -2625,9 +2302,7 @@ Sunday, 11. December 2016 05:54PM
 
 ___
 
-Sunday, 11. December 2016 05:32AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161206111709.htm](https://www.sciencedaily.com/releases/2016/12/161206111709.htm)
+**#350** added Sunday, 11. December 2016 05:32AM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161206111709.htm)
 
 - Four-year-olds with average and lower vocabulary skills learn more effectively with an adult reading an eBook to them versus relying solely on the eBook's voiceover, research shows.
 
@@ -2636,9 +2311,7 @@ Sunday, 11. December 2016 05:32AM
 
 ___
 
-Sunday, 11. December 2016 05:16AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161206111715.htm](https://www.sciencedaily.com/releases/2016/12/161206111715.htm)
+**#349** added Sunday, 11. December 2016 05:16AM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161206111715.htm)
 
 - Researchers have determined the role of the hippocampus in future imaging lies in the process of constructing a scene in one's mind.
 
@@ -2647,9 +2320,7 @@ Sunday, 11. December 2016 05:16AM
 
 ___
 
-Tuesday, 06. December 2016 04:32PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161130131234.htm](https://www.sciencedaily.com/releases/2016/11/161130131234.htm)
+**#348** added Tuesday, 06. December 2016 04:32PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161130131234.htm)
 
 - the occasional bout of bad feelings can actually improve students' academic success
 
@@ -2662,9 +2333,7 @@ Tuesday, 06. December 2016 04:32PM
 
 ___
 
-Tuesday, 06. December 2016 04:00PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/12/161206110138.htm](https://www.sciencedaily.com/releases/2016/12/161206110138.htm)
+**#347** added Tuesday, 06. December 2016 04:00PM. Link: [https://www.sciencedaily.com/releases/2016/12/1...](https://www.sciencedaily.com/releases/2016/12/161206110138.htm)
 
 - During consolidation, the brain produces new proteins that strengthen fragile memory traces. However, if a new experience occurs while an existing memory trace is being consolidated, the new stimuli could disrupt the consolidation process
 
@@ -2681,9 +2350,7 @@ Tuesday, 06. December 2016 04:00PM
 
 ___
 
-Tuesday, 06. December 2016 12:35PM
-
-**Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/)
+**#346** added Tuesday, 06. December 2016 12:35PM. Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC31...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/)
 
 - Despite the fact that mood and cognitive functions are lowered by prolonged sleep loss and despite convincing data that insomnia is a strong risk factor for subsequent depression,1 acute SD for one night or even partial SD in the second half of the night improves mood in about 60% of depressed patients the day after.
 
@@ -2692,18 +2359,14 @@ Tuesday, 06. December 2016 12:35PM
 
 ___
 
-Monday, 05. December 2016 12:52PM
-
-**Url:** [https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
+**#345** added Monday, 05. December 2016 12:52PM. Link: [https://www.newscientist.com/article/2115093-sh...](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
 
 - When people describe the episode, their brain activity patterns are almost exactly the same as each other’s, for each scene. And there’s also evidence that, when a person tells someone else about it, they implant that same activity into their brain as well.
 
 
 ___
 
-Sunday, 27. November 2016 06:39PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160921091636.htm](https://www.sciencedaily.com/releases/2016/09/160921091636.htm)
+**#344** added Sunday, 27. November 2016 06:39PM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160921091636.htm)
 
 - Earlier studies have shown that functional MRI can identify whether a person is thinking about a face or a house. Our study is the first to show that specific emotions like fear and anger can be decoded from these scans as well.
 
@@ -2712,9 +2375,7 @@ Sunday, 27. November 2016 06:39PM
 
 ___
 
-Sunday, 27. November 2016 06:20PM
-
-**Url:** [https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
+**#343** added Sunday, 27. November 2016 06:20PM. Link: [https://www.scientificamerican.com/article/wher...](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
 
 - Previous studies have revealed several brain regions, collectively called the semantic system, that process meaning. Yet such studies have typically focused on specific distinctions, such as abstract versus concrete words, or found discrete areas responsive to groups of related words, such as tools or food
 
@@ -2727,9 +2388,7 @@ Sunday, 27. November 2016 06:20PM
 
 ___
 
-Tuesday, 22. November 2016 02:09PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161115145823.htm](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
+**#342** added Tuesday, 22. November 2016 02:09PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
 
 - Every night while you sleep, electrical waves of brain activity circle around each side of your brain, tracing a pattern that, were it on the surface of your head, might look like the twin hair buns of Star Wars' Princess Leia.
 
@@ -2748,9 +2407,7 @@ Tuesday, 22. November 2016 02:09PM
 
 ___
 
-Saturday, 19. November 2016 07:41PM
-
-**Url:** [https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
+**#341** added Saturday, 19. November 2016 07:41PM. Link: [https://www.newscientist.com/article/2112921-el...](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
 
 - Such “deep brain stimulation” (DBS) works miracles on people with otherwise untreatable epilepsy or Parkinson’s disease – but drilling into someone’s head is an extreme step. In future, we may be able to get the same effects by using stimulators placed outside the head
 
@@ -2761,9 +2418,7 @@ Saturday, 19. November 2016 07:41PM
 
 ___
 
-Saturday, 19. November 2016 02:52PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161117104641.htm](https://www.sciencedaily.com/releases/2016/11/161117104641.htm)
+**#340** added Saturday, 19. November 2016 02:52PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161117104641.htm)
 
 - A new study explains the brain mechanisms associated with the lack of sensitivity to music
 
@@ -2776,9 +2431,7 @@ Saturday, 19. November 2016 02:52PM
 
 ___
 
-Monday, 14. November 2016 08:53PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161018194302.htm](https://www.sciencedaily.com/releases/2016/10/161018194302.htm)
+**#339** added Monday, 14. November 2016 08:53PM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161018194302.htm)
 
 - One of the differences between adults and preschoolers when it comes to private speech is that adults typically talk to themselves in their heads, while preschoolers talk to themselves aloud, particularly while playing or working on a task
 
@@ -2787,9 +2440,7 @@ Monday, 14. November 2016 08:53PM
 
 ___
 
-Monday, 14. November 2016 12:51PM
-
-**Url:** [http://phys.org/news/2016-11-motion-genes-human-genome.html](http://phys.org/news/2016-11-motion-genes-human-genome.html)
+**#338** added Monday, 14. November 2016 12:51PM. Link: [http://phys.org/news/2016-11-motion-genes-human...](http://phys.org/news/2016-11-motion-genes-human-genome.html)
 
 - dynamic elements within the human genome interact with each other in a way that strongly resembles the patterns seen in populations of predators and prey
 
@@ -2806,9 +2457,7 @@ Monday, 14. November 2016 12:51PM
 
 ___
 
-Monday, 14. November 2016 12:40PM
-
-**Url:** [http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html](http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html)
+**#337** added Monday, 14. November 2016 12:40PM. Link: [http://phys.org/news/2016-11-mathematical-algor...](http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html)
 
 - Mathematical algorithms calculate social behavior
 
@@ -2823,9 +2472,7 @@ Monday, 14. November 2016 12:40PM
 
 ___
 
-Sunday, 13. November 2016 06:30PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161110115239.htm](https://www.sciencedaily.com/releases/2016/11/161110115239.htm)
+**#336** added Sunday, 13. November 2016 06:30PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161110115239.htm)
 
 - For observations based on sensory data, the human brain must constantly verify which "version" of reality underlies the perception
 
@@ -2834,9 +2481,7 @@ Sunday, 13. November 2016 06:30PM
 
 ___
 
-Saturday, 12. November 2016 01:27AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161110085010.htm](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
+**#335** added Saturday, 12. November 2016 01:27AM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
 
 - For the first time, scientists have identified a sub-region in the brain that works to form a particular kind of memory: fear-associated with a specific environmental cue or “contextual fear memory.”
 
@@ -2851,9 +2496,7 @@ Saturday, 12. November 2016 01:27AM
 
 ___
 
-Friday, 11. November 2016 09:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161110120227.htm](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
+**#334** added Friday, 11. November 2016 09:45PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
 
 - Artificial-intelligence system surfs web to improve its performance
 
@@ -2864,9 +2507,7 @@ Friday, 11. November 2016 09:45PM
 
 ___
 
-Thursday, 10. November 2016 01:18AM
-
-**Url:** [http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature](http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature)
+**#333** added Thursday, 10. November 2016 01:18AM. Link: [http://www.sciencealert.com/electrons-cooled-al...](http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature)
 
 - electrons cooled close to absolute zero slow down so much that they can be studied individually
 
@@ -2875,9 +2516,7 @@ Thursday, 10. November 2016 01:18AM
 
 ___
 
-Tuesday, 08. November 2016 05:18PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161102075955.htm](https://www.sciencedaily.com/releases/2016/11/161102075955.htm)
+**#332** added Tuesday, 08. November 2016 05:18PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161102075955.htm)
 
 - Fear of retaliation: Why we tend not to enforce social norms
 
@@ -2888,9 +2527,7 @@ Tuesday, 08. November 2016 05:18PM
 
 ___
 
-Sunday, 06. November 2016 10:23PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161104190535.htm](https://www.sciencedaily.com/releases/2016/11/161104190535.htm)
+**#331** added Sunday, 06. November 2016 10:23PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161104190535.htm)
 
 - For the first time, we have found a connection between the brainstem region involved in arousal and regions involved in awareness, two prerequisites for consciousness
 
@@ -2901,9 +2538,7 @@ Sunday, 06. November 2016 10:23PM
 
 ___
 
-Friday, 04. November 2016 04:27PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/11/161101103242.htm](https://www.sciencedaily.com/releases/2016/11/161101103242.htm)
+**#330** added Friday, 04. November 2016 04:27PM. Link: [https://www.sciencedaily.com/releases/2016/11/1...](https://www.sciencedaily.com/releases/2016/11/161101103242.htm)
 
 - A study's participants who were asked to think about their own death before taking to the basketball court scored more points than those in a control group
 
@@ -2914,9 +2549,7 @@ Friday, 04. November 2016 04:27PM
 
 ___
 
-Monday, 31. October 2016 12:10PM
-
-**Url:** [http://phys.org/news/2016-10-mind-cortical-conscious-network.html](http://phys.org/news/2016-10-mind-cortical-conscious-network.html)
+**#329** added Monday, 31. October 2016 12:10PM. Link: [http://phys.org/news/2016-10-mind-cortical-cons...](http://phys.org/news/2016-10-mind-cortical-conscious-network.html)
 
 - used network theory in order to cope with this complexity and to determine how the structure of the human cortical network can support complex data integration and conscious activity
 Read more at: http://phys.org/news/2016-10-mind-cortical-conscious-network.html#jCp
@@ -2924,9 +2557,7 @@ Read more at: http://phys.org/news/2016-10-mind-cortical-conscious-network.html#
 
 ___
 
-Monday, 31. October 2016 04:24AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161014214919.htm](https://www.sciencedaily.com/releases/2016/10/161014214919.htm)
+**#328** added Monday, 31. October 2016 04:24AM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161014214919.htm)
 
 - Patients who knowingly took placebos reported 30 percent less pain and 29 percent reduction in disability compared to control group
 
@@ -2935,27 +2566,21 @@ Monday, 31. October 2016 04:24AM
 
 ___
 
-Monday, 31. October 2016 04:21AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161026105336.htm](https://www.sciencedaily.com/releases/2016/10/161026105336.htm)
+**#327** added Monday, 31. October 2016 04:21AM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161026105336.htm)
 
 - Omega-3 polyunsaturated fatty acids, which are found in fish oil, could improve the function of the glymphatic system, which facilitates the clearance of waste from the brain, and promote the clearance of metabolites
 
 
 ___
 
-Wednesday, 19. October 2016 02:02AM
-
-**Url:** [http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers](http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers)
+**#326** added Wednesday, 19. October 2016 02:02AM. Link: [http://www.sciencealert.com/consciousness-could...](http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers)
 
 - what if consciousness arises naturally as a result of our brains maximising their information content? In other words, what if consciousness is a side effect of our brain moving towards a state of entropy?
 
 
 ___
 
-Saturday, 08. October 2016 04:22AM
-
-**Url:** [http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones](http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones)
+**#325** added Saturday, 08. October 2016 04:22AM. Link: [http://www.sciencealert.com/scientists-show-how...](http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones)
 
 - figured out a model that could explain how we're able to make new memories while keeping old ones intact
 
@@ -2970,9 +2595,7 @@ Saturday, 08. October 2016 04:22AM
 
 ___
 
-Friday, 07. October 2016 01:55AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160909111723.htm](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
+**#324** added Friday, 07. October 2016 01:55AM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
 
 - The hippocampal CA3 region plays a key role in learning and memory. One of the most remarkable properties of the network is its ability to retrieve previously stored memories from incomplete or degraded versions, a phenomenon that is widely known as pattern completion.
 
@@ -2991,27 +2614,21 @@ Friday, 07. October 2016 01:55AM
 
 ___
 
-Friday, 07. October 2016 01:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160912101801.htm](https://www.sciencedaily.com/releases/2016/09/160912101801.htm)
+**#323** added Friday, 07. October 2016 01:53AM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160912101801.htm)
 
 - Maintaining a positive social image is an essential feature of human psychology, as it fosters collaborative group behaviour more efficiently than other motivations
 
 
 ___
 
-Wednesday, 05. October 2016 12:24AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/10/161004125829.htm](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
+**#322** added Wednesday, 05. October 2016 12:24AM. Link: [https://www.sciencedaily.com/releases/2016/10/1...](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
 
 - cannabis disrupts the activity of dopamine in the brain. With chronic users a significant reduction was seen in the frequency of spontaneous eye blinking, an indication of a reduction in dopamine production
 
 
 ___
 
-Sunday, 02. October 2016 05:47AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160929140547.htm](https://www.sciencedaily.com/releases/2016/09/160929140547.htm)
+**#321** added Sunday, 02. October 2016 05:47AM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160929140547.htm)
 
 - Our brains hold on to memories via physical changes in synapses, the tiny connections between neurons. Unexpected molecular mechanisms by which these changes take place have now been revealed
 
@@ -3022,9 +2639,7 @@ Sunday, 02. October 2016 05:47AM
 
 ___
 
-Saturday, 01. October 2016 04:52AM
-
-**Url:** [http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html](http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html)
+**#320** added Saturday, 01. October 2016 04:52AM. Link: [http://phys.org/news/2016-09-algorithm-enable-v...](http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html)
 
 - The reason our eyes are sensitive only in this narrow part of the spectrum is because this is where light and matter interact most
 Read more at: http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html#jCp
@@ -3032,9 +2647,7 @@ Read more at: http://phys.org/news/2016-09-algorithm-enable-visible-light-based-
 
 ___
 
-Friday, 23. September 2016 10:52PM
-
-**Url:** [https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
+**#319** added Friday, 23. September 2016 10:52PM. Link: [https://theconversation.com/is-your-nervous-sys...](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
 
 - For some behaviors, a single nerve cell does act as a dictator, triggering an entire set of movements via the electrical signals it uses to send messages.
 
@@ -3047,9 +2660,7 @@ Friday, 23. September 2016 10:52PM
 
 ___
 
-Friday, 23. September 2016 10:34PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/07/160725192354.htm](https://www.sciencedaily.com/releases/2016/07/160725192354.htm)
+**#318** added Friday, 23. September 2016 10:34PM. Link: [https://www.sciencedaily.com/releases/2016/07/1...](https://www.sciencedaily.com/releases/2016/07/160725192354.htm)
 
 - Beta rhythms, or waves of brain activity with an approximately 20 Hz frequency, accompany vital fundamental behaviors such as attention, sensation and motion and are associated with some disorders such as Parkinson's disease.
 
@@ -3062,9 +2673,7 @@ Friday, 23. September 2016 10:34PM
 
 ___
 
-Friday, 23. September 2016 10:32PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/07/160726123214.htm](https://www.sciencedaily.com/releases/2016/07/160726123214.htm)
+**#317** added Friday, 23. September 2016 10:32PM. Link: [https://www.sciencedaily.com/releases/2016/07/1...](https://www.sciencedaily.com/releases/2016/07/160726123214.htm)
 
 - research shows for the first time that elite endurance athletes have superior ability to resist mental fatigue
 
@@ -3073,9 +2682,7 @@ Friday, 23. September 2016 10:32PM
 
 ___
 
-Friday, 23. September 2016 10:28PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160803161609.htm](https://www.sciencedaily.com/releases/2016/08/160803161609.htm)
+**#316** added Friday, 23. September 2016 10:28PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160803161609.htm)
 
 - Researchers have identified a protein essential for building memories that appears to predict the progression of memory loss and brain atrophy in Alzheimer's patients. Their findings suggest there is a link between brain activity and the presence of this protein.
 
@@ -3084,18 +2691,14 @@ Friday, 23. September 2016 10:28PM
 
 ___
 
-Friday, 23. September 2016 10:09PM
-
-**Url:** [https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/](https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/)
+**#315** added Friday, 23. September 2016 10:09PM. Link: [https://www.newscientist.com/article/2099246-cr...](https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/)
 
 - New Caledonian crows have figured out how to move two things in one fell swoop. The adept tool users have been filmed inserting sticks into objects to transport both items at once – a feat that has never been seen in non-humans.
 
 
 ___
 
-Friday, 23. September 2016 09:55PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160804135417.htm](https://www.sciencedaily.com/releases/2016/08/160804135417.htm)
+**#314** added Friday, 23. September 2016 09:55PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160804135417.htm)
 
 - piquing people's curiosity can influence their choices by steering them away from tempting desires, like unhealthy foods or taking the elevator, and toward less tempting, but healthier options, such as buying more fresh produce or taking the stairs
 
@@ -3110,9 +2713,7 @@ Friday, 23. September 2016 09:55PM
 
 ___
 
-Friday, 23. September 2016 09:37PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160815185555.htm](https://www.sciencedaily.com/releases/2016/08/160815185555.htm)
+**#313** added Friday, 23. September 2016 09:37PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160815185555.htm)
 
 - identified the neural networks that connect the cerebral cortex to the adrenal medulla, which is responsible for the body's rapid response in stressful situations.
 
@@ -3121,9 +2722,7 @@ Friday, 23. September 2016 09:37PM
 
 ___
 
-Monday, 19. September 2016 05:17AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160918180006.htm](https://www.sciencedaily.com/releases/2016/09/160918180006.htm)
+**#312** added Monday, 19. September 2016 05:17AM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160918180006.htm)
 
 - A pilot study from a group of Dutch scientists implies that being told that an image is an artwork automatically changes our response, both on a neural and behavioural level. 
 
@@ -3134,9 +2733,7 @@ Monday, 19. September 2016 05:17AM
 
 ___
 
-Friday, 16. September 2016 02:25AM
-
-**Url:** [https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/](https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/)
+**#311** added Friday, 16. September 2016 02:25AM. Link: [https://www.newscientist.com/article/2105986-wh...](https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/)
 
 - giving mice with flu glucose saved their lives, but it killed those that were infected with bacteria
 
@@ -3147,9 +2744,7 @@ Friday, 16. September 2016 02:25AM
 
 ___
 
-Friday, 09. September 2016 02:03AM
-
-**Url:** [http://phys.org/news/2016-09-physicists-laser.html](http://phys.org/news/2016-09-physicists-laser.html)
+**#310** added Friday, 09. September 2016 02:03AM. Link: [http://phys.org/news/2016-09-physicists-laser.h...](http://phys.org/news/2016-09-physicists-laser.html)
 
 - Powerful laser beams, given the right conditions, will act as their own lenses and "self-focus" into a tighter, even more intense beam. University of Maryland physicists have discovered that these self-focused laser pulses also generate violent swirls of optical energy that strongly resemble smoke rings. In these donut-shaped light structures, known as "spatiotemporal optical vortices," the light energy flows through the inside of the ring and then loops back around the outside.
 Read more at: http://phys.org/news/2016-09-physicists-laser.html#jCp
@@ -3160,9 +2755,7 @@ Read more at: http://phys.org/news/2016-09-physicists-laser.html#jCp
 
 ___
 
-Thursday, 08. September 2016 02:00AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/09/160902111425.htm](https://www.sciencedaily.com/releases/2016/09/160902111425.htm)
+**#309** added Thursday, 08. September 2016 02:00AM. Link: [https://www.sciencedaily.com/releases/2016/09/1...](https://www.sciencedaily.com/releases/2016/09/160902111425.htm)
 
 - The more foreign languages we learn, the more effectively our brain reacts and processes the data accumulated in the course of learning.
 
@@ -3171,9 +2764,7 @@ Thursday, 08. September 2016 02:00AM
 
 ___
 
-Saturday, 20. August 2016 12:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/07/160728143247.htm](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
+**#308** added Saturday, 20. August 2016 12:53AM. Link: [https://www.sciencedaily.com/releases/2016/07/1...](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
 
 - For years, researchers have recorded electrical brain activity that oscillates or alternates during sleep; they present as waves on an electroencephalogram (EEG). These waves are called sleep spindles, and scientists have suspected their involvement in cataloging and storing memories as we sleep
 
@@ -3186,9 +2777,7 @@ Saturday, 20. August 2016 12:53AM
 
 ___
 
-Saturday, 20. August 2016 12:45AM
-
-**Url:** [https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/](https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/)
+**#307** added Saturday, 20. August 2016 12:45AM. Link: [https://spectrumnews.org/opinion/viewpoint/timi...](https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/)
 
 - People with autism tend to integrate auditory and visual information over longer windows of time than most of us do
 
@@ -3199,9 +2788,7 @@ Saturday, 20. August 2016 12:45AM
 
 ___
 
-Tuesday, 09. August 2016 08:49PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160804152428.htm](https://www.sciencedaily.com/releases/2016/08/160804152428.htm)
+**#306** added Tuesday, 09. August 2016 08:49PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160804152428.htm)
 
 - Exaggerating the visual appearance of mistakes could help people further improve their motor skills after an initial performance peak
 
@@ -3214,9 +2801,7 @@ Tuesday, 09. August 2016 08:49PM
 
 ___
 
-Tuesday, 09. August 2016 08:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160804172359.htm](https://www.sciencedaily.com/releases/2016/08/160804172359.htm)
+**#305** added Tuesday, 09. August 2016 08:45PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160804172359.htm)
 
 - viewing an action in slow motion compared to regular speed can cause viewers to perceive an action as more intentional.
 
@@ -3227,9 +2812,7 @@ Tuesday, 09. August 2016 08:45PM
 
 ___
 
-Friday, 05. August 2016 06:50PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160803124445.htm](https://www.sciencedaily.com/releases/2016/08/160803124445.htm)
+**#304** added Friday, 05. August 2016 06:50PM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160803124445.htm)
 
 - exercise causes more new neurons to be formed in a critical brain region, and contrary to an earlier study, these new neurons do not cause the individual to forget old memories
 
@@ -3240,9 +2823,7 @@ Friday, 05. August 2016 06:50PM
 
 ___
 
-Thursday, 04. August 2016 04:30PM
-
-**Url:** [http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever](http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever)
+**#303** added Thursday, 04. August 2016 04:30PM. Link: [http://www.sciencealert.com/scientists-have-jus...](http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever)
 
 - Scientists have been able to observe birds falling asleep mid-flight for the first time - an ability that's long been suspected but never been proven
 
@@ -3259,9 +2840,7 @@ Thursday, 04. August 2016 04:30PM
 
 ___
 
-Thursday, 04. August 2016 01:41AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/08/160803140140.htm](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
+**#302** added Thursday, 04. August 2016 01:41AM. Link: [https://www.sciencedaily.com/releases/2016/08/1...](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
 
 - Sleep is governed by two systems -- the circadian clock and the sleep homeostat. While the circadian clock is quite well understood, very little is known about the sleep homeostat
 
@@ -3272,9 +2851,7 @@ Thursday, 04. August 2016 01:41AM
 
 ___
 
-Sunday, 24. July 2016 06:32PM
-
-**Url:** [http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/](http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/)
+**#301** added Sunday, 24. July 2016 06:32PM. Link: [http://www.scientificamerican.com/article/how-t...](http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/)
 
 - When two events happen in short succession, they feel somehow linked to each other. It turns out that apparent link has a physical manifestation in our brains
 
@@ -3291,9 +2868,7 @@ Sunday, 24. July 2016 06:32PM
 
 ___
 
-Tuesday, 05. July 2016 11:02PM
-
-**Url:** [http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover](http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover)
+**#300** added Tuesday, 05. July 2016 11:02PM. Link: [http://www.sciencealert.com/zapping-the-brain-s...](http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover)
 
 - applying an electrical current to the brain can improve people's vision temporarily, and the worse your eyesight is, the more powerful the boosting effect
 
@@ -3304,9 +2879,7 @@ Tuesday, 05. July 2016 11:02PM
 
 ___
 
-Sunday, 03. July 2016 08:35PM
-
-**Url:** [https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
+**#299** added Sunday, 03. July 2016 08:35PM. Link: [https://en.wikipedia.org/wiki/Brain-derived_neu...](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
 
 - Brain-derived neurotrophic factor, also known as BDNF, is a protein[1] that, in humans, is encoded by the BDNF gene.[2][3] BDNF is a member of the neurotrophin family of growth factors, which are related to the canonical Nerve Growth Factor. Neurotrophic factors are found in the brain and the periphery.
 
@@ -3317,9 +2890,7 @@ Sunday, 03. July 2016 08:35PM
 
 ___
 
-Saturday, 02. July 2016 07:16PM
-
-**Url:** [http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html](http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html)
+**#298** added Saturday, 02. July 2016 07:16PM. Link: [http://phys.org/news/2012-02-classical-musical-...](http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html)
 
 - A team of researchers, led by Daniel Levitin of McGill University, has found after analyzing over two thousand pieces of classical music that span four hundred years of history, that virtually all of them follow a one-over-f (1/f) power distribution equation
 
@@ -3330,18 +2901,14 @@ Saturday, 02. July 2016 07:16PM
 
 ___
 
-Saturday, 02. July 2016 07:14PM
-
-**Url:** [https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
+**#297** added Saturday, 02. July 2016 07:14PM. Link: [https://www.newscientist.com/article/dn28728-me...](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
 
 - Memory recollection usually starts with a cue – a few notes of a jangly doorbell, say, might remind you of a song. Information about the cue is transmitted from your eyes and ears to your brain’s hippocampus, where a set of cells recognise it. These cells then trigger a pattern of activity in the front of the brain that matches that of the memory.
 
 
 ___
 
-Saturday, 02. July 2016 07:09PM
-
-**Url:** [http://www.sciencealert.com/scientists-say-this-strategy-can-help-you-learn-anything](http://www.sciencealert.com/scientists-say-this-strategy-can-help-you-learn-anything)
+**#296** added Saturday, 02. July 2016 07:09PM. Link: [http://www.sciencealert.com/scientists-say-this...](http://www.sciencealert.com/scientists-say-this-strategy-can-help-you-learn-anything)
 
 - A 2003 study, cited in a meta-analysis by Henry L. Roediger III and Jeffrey D. Karpicke, highlights the power of testing for making information stick.
 
@@ -3356,9 +2923,7 @@ Saturday, 02. July 2016 07:09PM
 
 ___
 
-Saturday, 02. July 2016 07:07PM
-
-**Url:** [http://www.sciencealert.com/scientists-have-discovered-brain-networks-linked-to-intelligence-for-the-first-time](http://www.sciencealert.com/scientists-have-discovered-brain-networks-linked-to-intelligence-for-the-first-time)
+**#295** added Saturday, 02. July 2016 07:07PM. Link: [http://www.sciencealert.com/scientists-have-dis...](http://www.sciencealert.com/scientists-have-discovered-brain-networks-linked-to-intelligence-for-the-first-time)
 
 - For the first time ever, scientists have identified clusters of genes in the brain that are believed to be linked to human intelligence
 
@@ -3367,18 +2932,14 @@ Saturday, 02. July 2016 07:07PM
 
 ___
 
-Saturday, 02. July 2016 06:56PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/12/151203081228.htm](https://www.sciencedaily.com/releases/2015/12/151203081228.htm)
+**#294** added Saturday, 02. July 2016 06:56PM. Link: [https://www.sciencedaily.com/releases/2015/12/1...](https://www.sciencedaily.com/releases/2015/12/151203081228.htm)
 
 - people who were able to respond more quickly to general knowledge questions and visual tasks were perceived as more charismatic by their friends, independently of IQ and other personality traits
 
 
 ___
 
-Saturday, 02. July 2016 05:18PM
-
-**Url:** [http://arxiv.org/abs/1406.2572](http://arxiv.org/abs/1406.2572)
+**#293** added Saturday, 02. July 2016 05:18PM. Link: [http://arxiv.org/abs/1406.2572](http://arxiv.org/abs/1406.2572)
 
 - A central challenge to many fields of science and engineering involves minimizing non-convex error functions over continuous, high dimensional spaces
 
@@ -3389,18 +2950,14 @@ Saturday, 02. July 2016 05:18PM
 
 ___
 
-Saturday, 02. July 2016 04:32PM
-
-**Url:** [http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)
+**#292** added Saturday, 02. July 2016 04:32PM. Link: [http://blogs.scientificamerican.com/guest-blog/...](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)
 
 - "One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one's greatest efforts." —Albert Einstein
 
 
 ___
 
-Saturday, 02. July 2016 04:08PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160303120637.htm](https://www.sciencedaily.com/releases/2016/03/160303120637.htm)
+**#291** added Saturday, 02. July 2016 04:08PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160303120637.htm)
 
 - Neuronal calculations consider expectations
 
@@ -3411,9 +2968,7 @@ Saturday, 02. July 2016 04:08PM
 
 ___
 
-Saturday, 02. July 2016 03:59PM
-
-**Url:** [http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
+**#290** added Saturday, 02. July 2016 03:59PM. Link: [http://phys.org/news/2016-06-statisticians-conv...](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
 
 - Convinced that better use of data will improve research, innovation and literacy across other disciplines, six leading statisticians recently published "Ten Simple Rules for Effective Statistical Practice" in the journal PLOS Computational Biology
 
@@ -3433,9 +2988,7 @@ Rule 10: Make Your Analysis Reproducible
 
 ___
 
-Saturday, 02. July 2016 03:51PM
-
-**Url:** [http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance](http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance)
+**#289** added Saturday, 02. July 2016 03:51PM. Link: [http://www.sciencealert.com/telling-yourself-yo...](http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance)
 
 - After testing more than 44,000 people playing an online game, the team found that those who kept telling themselves they could improve - a common trick used by psychologists - achieved the best scores.
 
@@ -3446,9 +2999,7 @@ Saturday, 02. July 2016 03:51PM
 
 ___
 
-Sunday, 26. June 2016 02:06AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160623122940.htm](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
+**#288** added Sunday, 26. June 2016 02:06AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
 
 - A couple of proteins have been shown to fuel exercise-induced neuron growth, but a new study presents a new candidate, cathepsin B -- one that can be directly traced from the muscles to the brain in mice
 
@@ -3459,9 +3010,7 @@ Sunday, 26. June 2016 02:06AM
 
 ___
 
-Sunday, 26. June 2016 02:04AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160623115732.htm](https://www.sciencedaily.com/releases/2016/06/160623115732.htm)
+**#287** added Sunday, 26. June 2016 02:04AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160623115732.htm)
 
 - an increase in probability feels riskier than a decrease
 
@@ -3472,9 +3021,7 @@ Sunday, 26. June 2016 02:04AM
 
 ___
 
-Saturday, 25. June 2016 03:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160615095123.htm](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
+**#286** added Saturday, 25. June 2016 03:53AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
 
 - Combining a positive emotional component with a given stimulus promotes memory for future stimuli of the same type
 
@@ -3493,9 +3040,7 @@ Saturday, 25. June 2016 03:53AM
 
 ___
 
-Saturday, 25. June 2016 03:49AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160229135339.htm](https://www.sciencedaily.com/releases/2016/02/160229135339.htm)
+**#285** added Saturday, 25. June 2016 03:49AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160229135339.htm)
 
 - adolescents who sleep five hours a night for a week experience significant cognitive degradation
 
@@ -3508,9 +3053,7 @@ Saturday, 25. June 2016 03:49AM
 
 ___
 
-Saturday, 25. June 2016 03:40AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160613130813.htm](https://www.sciencedaily.com/releases/2016/06/160613130813.htm)
+**#284** added Saturday, 25. June 2016 03:40AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160613130813.htm)
 
 - after restricting sleep to 5 hours per night, caffeine use no longer improved alertness or performance after three nights
 
@@ -3521,9 +3064,7 @@ Saturday, 25. June 2016 03:40AM
 
 ___
 
-Saturday, 25. June 2016 03:13AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160229182658.htm](https://www.sciencedaily.com/releases/2016/02/160229182658.htm)
+**#283** added Saturday, 25. June 2016 03:13AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160229182658.htm)
 
 - the 'Johnny Depp Effect' -- which involves women tending to prefer men with more feminine faces -- holds in some contexts, but not in others
 
@@ -3538,9 +3079,7 @@ Saturday, 25. June 2016 03:13AM
 
 ___
 
-Saturday, 25. June 2016 02:23AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160613153411.htm](https://www.sciencedaily.com/releases/2016/06/160613153411.htm)
+**#282** added Saturday, 25. June 2016 02:23AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160613153411.htm)
 
 - The first study to systematically measure the number of neurons in the brains of birds has found that they have significantly more neurons packed into their small brains than are stuffed into mammalian and even primate brains of the same mass.
 
@@ -3553,9 +3092,7 @@ Saturday, 25. June 2016 02:23AM
 
 ___
 
-Saturday, 25. June 2016 02:11AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160318085641.htm](https://www.sciencedaily.com/releases/2016/03/160318085641.htm)
+**#281** added Saturday, 25. June 2016 02:11AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160318085641.htm)
 
 - Gross and colleagues studied the hippocampus, a region of the brain that's long been known to help form memories. Information enters this part of the brain through three different routes. As memories are cemented, connections between neurons along the 'main' route become stronger.
 
@@ -3568,9 +3105,7 @@ Saturday, 25. June 2016 02:11AM
 
 ___
 
-Saturday, 25. June 2016 02:04AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160323082223.htm](https://www.sciencedaily.com/releases/2016/03/160323082223.htm)
+**#280** added Saturday, 25. June 2016 02:04AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160323082223.htm)
 
 - each person has an individual motor signature (IMS), a blueprint of the subtle differences in the way they move compared to someone else, such as speed or weight of movement for example
 
@@ -3579,18 +3114,14 @@ Saturday, 25. June 2016 02:04AM
 
 ___
 
-Saturday, 25. June 2016 01:59AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160621111541.htm](https://www.sciencedaily.com/releases/2016/06/160621111541.htm)
+**#279** added Saturday, 25. June 2016 01:59AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160621111541.htm)
 
 - Blackjack players who hold high-value cards tend to glance fleetingly to the right, whereas those with a lower-value hand do so spontaneously to the left.
 
 
 ___
 
-Thursday, 23. June 2016 05:21PM
-
-**Url:** [http://arxiv.org/abs/1605.07648v1](http://arxiv.org/abs/1605.07648v1)
+**#278** added Thursday, 23. June 2016 05:21PM. Link: [http://arxiv.org/abs/1605.07648v1](http://arxiv.org/abs/1605.07648v1)
 
 - FractalNet: Ultra-Deep Neural Networks without Residuals
 
@@ -3601,9 +3132,7 @@ Thursday, 23. June 2016 05:21PM
 
 ___
 
-Thursday, 23. June 2016 12:49PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160609151205.htm](https://www.sciencedaily.com/releases/2016/06/160609151205.htm)
+**#277** added Thursday, 23. June 2016 12:49PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160609151205.htm)
 
 - New research explains why so many biological networks, including the human brain (a network of neurons), exhibit a hierarchical structure
 
@@ -3616,9 +3145,7 @@ Thursday, 23. June 2016 12:49PM
 
 ___
 
-Thursday, 23. June 2016 12:41PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160609115526.htm](https://www.sciencedaily.com/releases/2016/06/160609115526.htm)
+**#276** added Thursday, 23. June 2016 12:41PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160609115526.htm)
 
 - In recording moment-by-moment deliberations by macaque monkeys over which option is likely to yield the most fruit juice, UC Berkeley scientists have captured the dynamics of decision-making down to millisecond changes in neurons in the brain's orbitofrontal cortex.
 
@@ -3629,18 +3156,14 @@ Thursday, 23. June 2016 12:41PM
 
 ___
 
-Thursday, 23. June 2016 12:35PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160602122202.htm](https://www.sciencedaily.com/releases/2016/06/160602122202.htm)
+**#275** added Thursday, 23. June 2016 12:35PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160602122202.htm)
 
 - Neurofeedback using electroencephalograpy boasts thousands of practitioners and appears to both improve normal brain function and alleviate a wide variety of mental disorders -- from anxiety to alcoholism. But after examining the scientific literature and consulting experts in Europe and the U.S., researchers now conclude that clinical improvements from this increasingly popular alternative therapy are due to placebo effects.
 
 
 ___
 
-Sunday, 19. June 2016 02:02AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160616140717.htm](https://www.sciencedaily.com/releases/2016/06/160616140717.htm)
+**#274** added Sunday, 19. June 2016 02:02AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160616140717.htm)
 
 - A new study suggests an intriguing strategy to boost memory for what you've just learned: hit the gym four hours later.
 
@@ -3649,9 +3172,7 @@ Sunday, 19. June 2016 02:02AM
 
 ___
 
-Thursday, 16. June 2016 12:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160615134946.htm](https://www.sciencedaily.com/releases/2016/06/160615134946.htm)
+**#273** added Thursday, 16. June 2016 12:53AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160615134946.htm)
 
 - Cortisol lowers significantly after just 45 minutes of art creation
 
@@ -3662,9 +3183,7 @@ Thursday, 16. June 2016 12:53AM
 
 ___
 
-Thursday, 16. June 2016 12:53AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160614133617.htm](https://www.sciencedaily.com/releases/2016/06/160614133617.htm)
+**#272** added Thursday, 16. June 2016 12:53AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160614133617.htm)
 
 - the autonomic nervous system, which is responsible for control of bodily functions not consciously directed (such as breathing, heartbeat, and digestive processes) plays a role in promoting memory consolidation -- the process of converting information from short-term to long-term memory -- during sleep
 
@@ -3675,9 +3194,7 @@ Thursday, 16. June 2016 12:53AM
 
 ___
 
-Wednesday, 15. June 2016 02:58AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160614100237.htm](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
+**#271** added Wednesday, 15. June 2016 02:58AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
 
 - the act of perceiving others' pain (i.e., empathy for others' pain) does not appear to involve the same neural circuitry as experiencing pain in one's own body, suggesting that they are different interactions within the brain
 
@@ -3686,9 +3203,7 @@ Wednesday, 15. June 2016 02:58AM
 
 ___
 
-Wednesday, 15. June 2016 02:58AM
-
-**Url:** [https://culurciello.github.io/tech/2016/06/04/nets.html](https://culurciello.github.io/tech/2016/06/04/nets.html)
+**#270** added Wednesday, 15. June 2016 02:58AM. Link: [https://culurciello.github.io/tech/2016/06/04/n...](https://culurciello.github.io/tech/2016/06/04/nets.html)
 
 - the great advantage of VGG was the insight that multiple 3x3 convolution in sequence can emulate the effect of larger receptive fields, for examples 5x5 and 7x7. These ideas will be also used in more recent network architectures as Inception and ResNet.
 
@@ -3701,9 +3216,7 @@ Wednesday, 15. June 2016 02:58AM
 
 ___
 
-Tuesday, 14. June 2016 06:23PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160310111843.htm](https://www.sciencedaily.com/releases/2016/03/160310111843.htm)
+**#269** added Tuesday, 14. June 2016 06:23PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160310111843.htm)
 
 - The research, which examined levels of life satisfaction and income changes in more than 18,000 adults over a nine year period, revealed that income change is only important when individuals with specific personality characteristics experience an income loss
 
@@ -3712,9 +3225,7 @@ Tuesday, 14. June 2016 06:23PM
 
 ___
 
-Tuesday, 14. June 2016 06:16PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160310111855.htm](https://www.sciencedaily.com/releases/2016/03/160310111855.htm)
+**#268** added Tuesday, 14. June 2016 06:16PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160310111855.htm)
 
 - research suggests that there is an "atomic" unit of recognition -- a minimum amount of information an image must contain for recognition to occur
 
@@ -3725,9 +3236,7 @@ Tuesday, 14. June 2016 06:16PM
 
 ___
 
-Tuesday, 14. June 2016 03:31PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160614083116.htm](https://www.sciencedaily.com/releases/2016/06/160614083116.htm)
+**#267** added Tuesday, 14. June 2016 03:31PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160614083116.htm)
 
 - A new equation, showing how our happiness depends not only on what happens to us but also how this compares to other people, has been developed by UCL researchers funded by Wellcome
 
@@ -3742,9 +3251,7 @@ Tuesday, 14. June 2016 03:31PM
 
 ___
 
-Tuesday, 14. June 2016 03:18PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/05/160513084549.htm](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
+**#266** added Tuesday, 14. June 2016 03:18PM. Link: [https://www.sciencedaily.com/releases/2016/05/1...](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
 
 - the brain has a network of brain regions involved in advanced mathematics, as well as simpler arithmetic operations. This network is only activated when numbers are seen, in a population of high-level university students including both experts in mathematics and non-mathematicians
 
@@ -3757,9 +3264,7 @@ Tuesday, 14. June 2016 03:18PM
 
 ___
 
-Tuesday, 14. June 2016 02:53PM
-
-**Url:** [http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/](http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/)
+**#265** added Tuesday, 14. June 2016 02:53PM. Link: [http://www.scientificamerican.com/article/do-al...](http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/)
 
 - nearly all the trees whipped by winds blowing at speeds of 94 miles per hour or more had snapped, regardless of their species, height or diameter, whereas most trees hit by gusts below that threshold were left intact
 
@@ -3768,9 +3273,7 @@ Tuesday, 14. June 2016 02:53PM
 
 ___
 
-Monday, 13. June 2016 12:17AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160610094747.htm](https://www.sciencedaily.com/releases/2016/06/160610094747.htm)
+**#264** added Monday, 13. June 2016 12:17AM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160610094747.htm)
 
 - blue wavelength light exposure led to subsequent increases in brain activity in the dorsolateral prefrontal cortex (DLPFC) and the ventrolateral prefrontal cortex (VLPFC) when participants were engaging in a cognitive task after cessation of light exposure
 
@@ -3779,9 +3282,7 @@ Monday, 13. June 2016 12:17AM
 
 ___
 
-Sunday, 12. June 2016 10:24PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160609174804.htm](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
+**#263** added Sunday, 12. June 2016 10:24PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
 
 - research suggests that people who take photos of their experiences usually enjoy the events more than people who don't.
 
@@ -3798,9 +3299,7 @@ Sunday, 12. June 2016 10:24PM
 
 ___
 
-Sunday, 12. June 2016 09:32PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/06/160610173512.htm](https://www.sciencedaily.com/releases/2016/06/160610173512.htm)
+**#262** added Sunday, 12. June 2016 09:32PM. Link: [https://www.sciencedaily.com/releases/2016/06/1...](https://www.sciencedaily.com/releases/2016/06/160610173512.htm)
 
 - the brain anticipates all of the new situations that it may encounter in a lifetime by creating a special kind of neural network that is 'pre-adapted' to face any eventuality.
 
@@ -3809,9 +3308,7 @@ Sunday, 12. June 2016 09:32PM
 
 ___
 
-Friday, 10. June 2016 11:59PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/05/160512085222.htm](https://www.sciencedaily.com/releases/2016/05/160512085222.htm)
+**#261** added Friday, 10. June 2016 11:59PM. Link: [https://www.sciencedaily.com/releases/2016/05/1...](https://www.sciencedaily.com/releases/2016/05/160512085222.htm)
 
 - How does Google decide which search results to display? Doctoral candidate Anne Schuth developed a new method by which dozens or even hundreds of search algorithms can be compared with each other simultaneously
 
@@ -3820,18 +3317,14 @@ Friday, 10. June 2016 11:59PM
 
 ___
 
-Friday, 03. June 2016 04:32PM
-
-**Url:** [https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/](https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/)
+**#260** added Friday, 03. June 2016 04:32PM. Link: [https://www.newscientist.com/article/2089062-gr...](https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/)
 
 - While white, blue, red and amber light all increase migraine pain, low-intensity green light seems to reduce it
 
 
 ___
 
-Wednesday, 25. May 2016 03:14PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/05/160525140534.htm](https://www.sciencedaily.com/releases/2016/05/160525140534.htm)
+**#259** added Wednesday, 25. May 2016 03:14PM. Link: [https://www.sciencedaily.com/releases/2016/05/1...](https://www.sciencedaily.com/releases/2016/05/160525140534.htm)
 
 - During sensory stimulation, increases in blood flow are not precisely 'tuned' to local neural activity
 
@@ -3842,9 +3335,7 @@ Wednesday, 25. May 2016 03:14PM
 
 ___
 
-Monday, 23. May 2016 06:26PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/01/160111162659.htm](https://www.sciencedaily.com/releases/2016/01/160111162659.htm)
+**#258** added Monday, 23. May 2016 06:26PM. Link: [https://www.sciencedaily.com/releases/2016/01/1...](https://www.sciencedaily.com/releases/2016/01/160111162659.htm)
 
 - Researchers have created a digital audio platform that can modify the emotional tone of people's voices while they are talking, to make them sound happier, sadder or more fearful. New results show that while listening to their altered voices, participants' emotional state change in accordance with the new emotion
 
@@ -3855,18 +3346,14 @@ Monday, 23. May 2016 06:26PM
 
 ___
 
-Thursday, 19. May 2016 06:38PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160328191855.htm](https://www.sciencedaily.com/releases/2016/03/160328191855.htm)
+**#257** added Thursday, 19. May 2016 06:38PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160328191855.htm)
 
 - much of what a person can remember is based on their expectation of the information they will need to recall.
 
 
 ___
 
-Thursday, 19. May 2016 06:17PM
-
-**Url:** [http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/](http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/)
+**#256** added Thursday, 19. May 2016 06:17PM. Link: [http://blogs.scientificamerican.com/mind-guest-...](http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/)
 
 - The clinical term for this experience is alexithymia and is defined as the inability to recognize emotions and their subtleties and textures
 
@@ -3875,18 +3362,14 @@ Thursday, 19. May 2016 06:17PM
 
 ___
 
-Thursday, 19. May 2016 06:01PM
-
-**Url:** [https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
+**#255** added Thursday, 19. May 2016 06:01PM. Link: [https://www.newscientist.com/article/2082420-br...](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
 
 - large, sudden surges in calcium flow in the brains of mice seconds after they receive low doses of tDCS. These surges seem to start in cells called astrocytes – star-shaped cells that don’t fire themselves, but help to strengthen the connections between neurons and regulate the electrical signals that pass between them
 
 
 ___
 
-Thursday, 19. May 2016 05:47PM
-
-**Url:** [http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism](http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism)
+**#254** added Thursday, 19. May 2016 05:47PM. Link: [http://www.sciencealert.com/new-eye-tracking-te...](http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism)
 
 - Two separate groups of researchers have uncovered similar techniques for figuring out whether children have autism that's quick, cheap, easy, and highly accurate: tracking the way their eyes move using a webcam and software
 
@@ -3895,9 +3378,7 @@ Thursday, 19. May 2016 05:47PM
 
 ___
 
-Thursday, 19. May 2016 05:17PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/04/160401111903.htm](https://www.sciencedaily.com/releases/2016/04/160401111903.htm)
+**#253** added Thursday, 19. May 2016 05:17PM. Link: [https://www.sciencedaily.com/releases/2016/04/1...](https://www.sciencedaily.com/releases/2016/04/160401111903.htm)
 
 - Our brain automatically pays great attention to everyday actions linked to a social context
 
@@ -3906,9 +3387,7 @@ Thursday, 19. May 2016 05:17PM
 
 ___
 
-Wednesday, 18. May 2016 09:46PM
-
-**Url:** [https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/](https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/)
+**#252** added Wednesday, 18. May 2016 09:46PM. Link: [https://www.newscientist.com/article/2086509-th...](https://www.newscientist.com/article/2086509-the-teenager-who-cant-help-speaking-in-a-french-accent/)
 
 - About 140 cases of foreign accent syndrome (FAS) have been described in scientific studies, but most of these people developed the condition after having a stroke
 
@@ -3917,9 +3396,7 @@ Wednesday, 18. May 2016 09:46PM
 
 ___
 
-Wednesday, 18. May 2016 05:21PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/05/160518074211.htm](https://www.sciencedaily.com/releases/2016/05/160518074211.htm)
+**#251** added Wednesday, 18. May 2016 05:21PM. Link: [https://www.sciencedaily.com/releases/2016/05/1...](https://www.sciencedaily.com/releases/2016/05/160518074211.htm)
 
 - Enhanced hippocampal-cortical coupling improves memory
 
@@ -3928,9 +3405,7 @@ Wednesday, 18. May 2016 05:21PM
 
 ___
 
-Monday, 25. April 2016 11:04PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160215172104.htm](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
+**#250** added Monday, 25. April 2016 11:04PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
 
 - Financial incentives aimed at increasing physical activity were most effective when the rewards were put at risk of being lost
 
@@ -3941,9 +3416,7 @@ Monday, 25. April 2016 11:04PM
 
 ___
 
-Monday, 25. April 2016 10:48PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160331124719.htm](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
+**#249** added Monday, 25. April 2016 10:48PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
 
 - The study in rats reveals how forgetting can be the result of an active deletion process rather than a failure to remember.
 
@@ -3956,9 +3429,7 @@ Monday, 25. April 2016 10:48PM
 
 ___
 
-Monday, 25. April 2016 10:37PM
-
-**Url:** [https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/](https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/)
+**#248** added Monday, 25. April 2016 10:37PM. Link: [https://www.newscientist.com/article/2084524-we...](https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/)
 
 - Our brains appear to rewrite history so that the choices we make after an event seem to precede it.
 
@@ -3969,9 +3440,7 @@ Monday, 25. April 2016 10:37PM
 
 ___
 
-Monday, 25. April 2016 10:22PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/04/160418145453.htm](https://www.sciencedaily.com/releases/2016/04/160418145453.htm)
+**#247** added Monday, 25. April 2016 10:22PM. Link: [https://www.sciencedaily.com/releases/2016/04/1...](https://www.sciencedaily.com/releases/2016/04/160418145453.htm)
 
 - people associate certain sounds with nearness and others with distance, say researchers, whose new study adds to the body of knowledge about symbolic sound
 
@@ -3982,9 +3451,7 @@ Monday, 25. April 2016 10:22PM
 
 ___
 
-Monday, 25. April 2016 10:15PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/04/160421133821.htm](https://www.sciencedaily.com/releases/2016/04/160421133821.htm)
+**#246** added Monday, 25. April 2016 10:15PM. Link: [https://www.sciencedaily.com/releases/2016/04/1...](https://www.sciencedaily.com/releases/2016/04/160421133821.htm)
 
 - drawing pictures of information that needs to be remembered is a strong and reliable strategy to enhance memory
 
@@ -3993,9 +3460,7 @@ Monday, 25. April 2016 10:15PM
 
 ___
 
-Saturday, 23. April 2016 03:14PM
-
-**Url:** [http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
+**#245** added Saturday, 23. April 2016 03:14PM. Link: [http://www.sciencealert.com/scientists-just-fou...](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
 
 - what regulates our ability to store and recall information? New research suggests one of the processes involved is 'anti-memories' – connections between neurons that generate the exact opposite pattern of electrical activity to that of the original memory
 
@@ -4010,9 +3475,7 @@ Saturday, 23. April 2016 03:14PM
 
 ___
 
-Monday, 18. April 2016 04:17PM
-
-**Url:** [http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material](http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material)
+**#244** added Monday, 18. April 2016 04:17PM. Link: [http://www.sciencealert.com/scientists-have-dis...](http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material)
 
 - The 'carbon family' is one very resourceful family. But even with all these developments, carbyne remained elusive
 
@@ -4023,9 +3486,7 @@ Monday, 18. April 2016 04:17PM
 
 ___
 
-Saturday, 16. April 2016 12:18AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/04/160414095549.htm](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
+**#243** added Saturday, 16. April 2016 12:18AM. Link: [https://www.sciencedaily.com/releases/2016/04/1...](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
 
 - Complex ideas can enter consciousness automatically
 
@@ -4036,9 +3497,7 @@ Saturday, 16. April 2016 12:18AM
 
 ___
 
-Friday, 15. April 2016 09:41PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/04/160414214830.htm](https://www.sciencedaily.com/releases/2016/04/160414214830.htm)
+**#242** added Friday, 15. April 2016 09:41PM. Link: [https://www.sciencedaily.com/releases/2016/04/1...](https://www.sciencedaily.com/releases/2016/04/160414214830.htm)
 
 - How the brain consolidates memory during deep sleep
 
@@ -4055,18 +3514,14 @@ Friday, 15. April 2016 09:41PM
 
 ___
 
-Thursday, 14. April 2016 01:36AM
-
-**Url:** [http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/](http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/)
+**#241** added Thursday, 14. April 2016 01:36AM. Link: [http://www.wired.com/2016/04/susie-mckinnon-aut...](http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/)
 
 - McKinnon is the first person ever identified with a condition called severely deficient autobiographical memory. She knows plenty of facts about her life, but she lacks the ability to mentally relive any of it
 
 
 ___
 
-Thursday, 14. April 2016 01:11AM
-
-**Url:** [http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests](http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests)
+**#240** added Thursday, 14. April 2016 01:11AM. Link: [http://www.sciencealert.com/consciousness-occur...](http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests)
 
 - Consciousness occurs in 'time slices' lasting only milliseconds, study suggests
 
@@ -4077,36 +3532,28 @@ Thursday, 14. April 2016 01:11AM
 
 ___
 
-Saturday, 09. April 2016 05:50PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160330085617.htm](https://www.sciencedaily.com/releases/2016/03/160330085617.htm)
+**#239** added Saturday, 09. April 2016 05:50PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160330085617.htm)
 
 - People frequently report zoning out on purpose, and the causes of this 'intentional' type of mind wandering can differ from the causes of unintentional mind wandering
 
 
 ___
 
-Saturday, 26. March 2016 09:58PM
-
-**Url:** [http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
+**#238** added Saturday, 26. March 2016 09:58PM. Link: [http://www.scientificamerican.com/article/bacte...](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
 
 - new evidence reveals that bacteria may have another way to “talk” to one another: communication via electrical signaling—a mechanism previously thought to occur only in multicellular organisms
 
 
 ___
 
-Friday, 25. March 2016 11:20PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160307093515.htm](https://www.sciencedaily.com/releases/2016/03/160307093515.htm)
+**#237** added Friday, 25. March 2016 11:20PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160307093515.htm)
 
 - a web-based platform which uses artificial neural networks to answer standard crossword clues better than existing commercial products specifically designed for the task
 
 
 ___
 
-Friday, 25. March 2016 11:15PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160301144805.htm](https://www.sciencedaily.com/releases/2016/03/160301144805.htm)
+**#236** added Friday, 25. March 2016 11:15PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160301144805.htm)
 
 - An individual's propensity to learn from successful cultural models -- a common strategy that allows us to copy efficient solutions from others -- reduces the diversity of solutions
 
@@ -4123,9 +3570,7 @@ Friday, 25. March 2016 11:15PM
 
 ___
 
-Friday, 25. March 2016 06:05PM
-
-**Url:** [https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/](https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/)
+**#235** added Friday, 25. March 2016 06:05PM. Link: [https://www.newscientist.com/article/2081640-ma...](https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/)
 
 - Giant manta rays have been filmed checking out their reflections in a way that suggests they are self-aware
 
@@ -4134,9 +3579,7 @@ Friday, 25. March 2016 06:05PM
 
 ___
 
-Wednesday, 23. March 2016 05:34PM
-
-**Url:** [https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
+**#234** added Wednesday, 23. March 2016 05:34PM. Link: [https://www.newscientist.com/article/2082105-ex...](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
 
 - Infection with Toxoplasma gondii, a protozoan parasite carried by cats, has been linked to a human psychiatric condition called intermittent explosive disorder
 
@@ -4145,9 +3588,7 @@ Wednesday, 23. March 2016 05:34PM
 
 ___
 
-Monday, 21. March 2016 06:27PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160321081433.htm](https://www.sciencedaily.com/releases/2016/03/160321081433.htm)
+**#233** added Monday, 21. March 2016 06:27PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160321081433.htm)
 
 - narcissism is positively associated with market performance of artworks, and contradicts previous research that concludes narcissism is short term and transient
 
@@ -4158,9 +3599,7 @@ Monday, 21. March 2016 06:27PM
 
 ___
 
-Sunday, 20. March 2016 05:12AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160225101241.htm](https://www.sciencedaily.com/releases/2016/02/160225101241.htm)
+**#232** added Sunday, 20. March 2016 05:12AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160225101241.htm)
 
 - Vigorous exercise boosts critical neurotransmitters, may help restore mental health
 
@@ -4171,27 +3610,21 @@ Sunday, 20. March 2016 05:12AM
 
 ___
 
-Friday, 18. March 2016 09:01PM
-
-**Url:** [http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists](http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists)
+**#231** added Friday, 18. March 2016 09:01PM. Link: [http://www.sciencealert.com/learning-complex-ta...](http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists)
 
 - complex learning tasks give us the ability to conduct large-scale reorganisations in our cerebral cortex, overwriting the ways our brain normally deals with sensory information
 
 
 ___
 
-Friday, 18. March 2016 04:11PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160317105627.htm](https://www.sciencedaily.com/releases/2016/03/160317105627.htm)
+**#230** added Friday, 18. March 2016 04:11PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160317105627.htm)
 
 - higher levels of academic success may be achieved by adopting an alternative pedagogical model, one which has a recent student teaching fellow students
 
 
 ___
 
-Thursday, 17. March 2016 05:31PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160317151132.htm](https://www.sciencedaily.com/releases/2016/03/160317151132.htm)
+**#229** added Thursday, 17. March 2016 05:31PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160317151132.htm)
 
 - A new glimpse into working memory: Bursts of neural activity found as brain holds information in mind
 
@@ -4200,9 +3633,7 @@ Thursday, 17. March 2016 05:31PM
 
 ___
 
-Tuesday, 15. March 2016 02:59AM
-
-**Url:** [http://www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
+**#228** added Tuesday, 15. March 2016 02:59AM. Link: [http://www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
 
 - Unstructured interviews have an r2 of 0.14, meaning that they can explain only 14 percent of an employee’s performance
 
@@ -4211,9 +3642,7 @@ Tuesday, 15. March 2016 02:59AM
 
 ___
 
-Tuesday, 15. March 2016 01:50AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160310124902.htm](https://www.sciencedaily.com/releases/2016/03/160310124902.htm)
+**#227** added Tuesday, 15. March 2016 01:50AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160310124902.htm)
 
 - Most brain cells are produced before birth, but a few select brain regions continue to grow new cells into adulthood. One such region is called the dentate gyrus, a tiny structure in the hippocampus, the brain's headquarters for learning and memory.
 
@@ -4222,9 +3651,7 @@ Tuesday, 15. March 2016 01:50AM
 
 ___
 
-Tuesday, 15. March 2016 01:47AM
-
-**Url:** [http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds](http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds)
+**#226** added Tuesday, 15. March 2016 01:47AM. Link: [http://www.sciencealert.com/teaching-children-p...](http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds)
 
 - Teaching children philosophy can improve their reading and math skills, study finds
 
@@ -4235,9 +3662,7 @@ Tuesday, 15. March 2016 01:47AM
 
 ___
 
-Tuesday, 15. March 2016 01:39AM
-
-**Url:** [https://en.wikipedia.org/wiki/Probably_approximately_correct_learning](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
+**#225** added Tuesday, 15. March 2016 01:39AM. Link: [https://en.wikipedia.org/wiki/Probably_approxim...](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
 
 - probably approximately correct learning (PAC learning) is a framework for mathematical analysis of machine learning
 
@@ -4248,18 +3673,14 @@ Tuesday, 15. March 2016 01:39AM
 
 ___
 
-Monday, 14. March 2016 10:45PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160314151645.htm](https://www.sciencedaily.com/releases/2016/03/160314151645.htm)
+**#224** added Monday, 14. March 2016 10:45PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160314151645.htm)
 
 - while environmental intervention can raise general intelligence, the effects aren't permanent
 
 
 ___
 
-Monday, 14. March 2016 03:36AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160309083116.htm](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
+**#223** added Monday, 14. March 2016 03:36AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
 
 - Robot makers may want to follow Ikea's strategy for customer satisfaction and give people a chance to partially assemble their new robots to ease acceptance of the devices, according to researchers.
 
@@ -4270,9 +3691,7 @@ Monday, 14. March 2016 03:36AM
 
 ___
 
-Sunday, 13. March 2016 03:21AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160311125019.htm](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
+**#222** added Sunday, 13. March 2016 03:21AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
 
 - Researchers have discovered how the rat brain 's memory and executive hubs talk with each other as decision-making is informed by past experiences
 
@@ -4281,9 +3700,7 @@ Sunday, 13. March 2016 03:21AM
 
 ___
 
-Tuesday, 05. January 2016 07:16PM
-
-**Url:** [https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
+**#221** added Tuesday, 05. January 2016 07:16PM. Link: [https://www.newscientist.com/article/dn28704-sl...](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
 
 - having a rest helps a person to remember what they were told a few minutes earlier. And the effect seems to last
 
@@ -4292,9 +3709,7 @@ Tuesday, 05. January 2016 07:16PM
 
 ___
 
-Wednesday, 03. February 2016 01:18AM
-
-**Url:** [http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
+**#220** added Wednesday, 03. February 2016 01:18AM. Link: [http://yyue.blogspot.ca/2015/01/a-brief-overvie...](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 
 - If you are using LSTMs and you want to train them on problems with very long range dependencies, you should initialize the biases of the forget gates of the LSTMs to large values
 
@@ -4303,27 +3718,21 @@ Wednesday, 03. February 2016 01:18AM
 
 ___
 
-Wednesday, 03. February 2016 01:30AM
-
-**Url:** [http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
+**#219** added Wednesday, 03. February 2016 01:30AM. Link: [http://www.sciencealert.com/resting-brainwaves-...](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
 
 - resting brain patterns have been identified before in simple, universal rules of nature, known as harmonic waves.
 
 
 ___
 
-Wednesday, 03. February 2016 12:16PM
-
-**Url:** [http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
+**#218** added Wednesday, 03. February 2016 12:16PM. Link: [http://blogs.scientificamerican.com/illusion-ch...](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
 
 - Before developing perceptual constancy, three- to four-month-old babies have a striking ability to see image differences that are invisible to adults. They lose this superior skill around the age of five months
 
 
 ___
 
-Thursday, 11. February 2016 12:42AM
-
-**Url:** [http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
+**#217** added Thursday, 11. February 2016 12:42AM. Link: [http://www.sciencealert.com/scientists-discover...](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
 
 - Sighing is actually a life-saving reflex, and scientists have found the switch that controls it
 
@@ -4332,18 +3741,14 @@ Thursday, 11. February 2016 12:42AM
 
 ___
 
-Friday, 26. February 2016 04:36PM
-
-**Url:** [https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
+**#216** added Friday, 26. February 2016 04:36PM. Link: [https://en.wikipedia.org/wiki/Canadian_Aborigin...](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
 
 - Canadian "syllabic" scripts are not syllabaries, in which every consonant–vowel sequence has a separate glyph,[4] but abugidas,[5] in which consonants are modified in order to indicate an associated vowel—in this case through a change in orientation, which is unique to Canadian syllabics
 
 
 ___
 
-Tuesday, 01. December 2015 10:15PM
-
-**Url:** [http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
+**#215** added Tuesday, 01. December 2015 10:15PM. Link: [http://www.sciencealert.com/study-suggests-your...](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
 
 - domestic cats have very similar personalities to lions, with their strongest traits being dominance, impulsivity, and neuroticism
 
@@ -4352,18 +3757,14 @@ Tuesday, 01. December 2015 10:15PM
 
 ___
 
-Tuesday, 01. December 2015 10:33PM
-
-**Url:** [https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
+**#214** added Tuesday, 01. December 2015 10:33PM. Link: [https://www.cs.utexas.edu/users/ml/papers/venug...](https://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf)
 
 - novel end-to-end sequence-to-sequence model to generate captions for videos
 
 
 ___
 
-Tuesday, 01. December 2015 10:19PM
-
-**Url:** [http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy](http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy)
+**#213** added Tuesday, 01. December 2015 10:19PM. Link: [http://www.sciencealert.com/first-of-its-kind-g...](http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy)
 
 - Tokamaks can only control the plasma in short bursts that last for no more than 7 minutes
 
@@ -4372,36 +3773,28 @@ Tuesday, 01. December 2015 10:19PM
 
 ___
 
-Monday, 04. January 2016 10:39PM
-
-**Url:** [http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
+**#212** added Monday, 04. January 2016 10:39PM. Link: [http://www.sciencealert.com/banana-peel-surpris...](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
 
 -  you can eat banana peels. And not only are they edible, they're also good for you
 
 
 ___
 
-Sunday, 06. December 2015 08:12PM
-
-**Url:** [http://phys.org/news/2015-11-nist-team-spooky-action-distance.html](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
+**#211** added Sunday, 06. December 2015 08:12PM. Link: [http://phys.org/news/2015-11-nist-team-spooky-a...](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
 
 - You can't prove quantum mechanics, but local realism, or hidden local action, is incompatible with our experiment
 
 
 ___
 
-Wednesday, 09. December 2015 10:01PM
-
-**Url:** [http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years](http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years)
+**#210** added Wednesday, 09. December 2015 10:01PM. Link: [http://spectrum.ieee.org/automaton/robotics/rob...](http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years)
 
 - ROS: An Open-Source Robot Operating System
 
 
 ___
 
-Friday, 11. March 2016 03:38AM
-
-**Url:** [http://phys.org/news/2016-03-invisibility-cloaks.html](http://phys.org/news/2016-03-invisibility-cloaks.html)
+**#209** added Friday, 11. March 2016 03:38AM. Link: [http://phys.org/news/2016-03-invisibility-cloak...](http://phys.org/news/2016-03-invisibility-cloaks.html)
 
 - limitations imposed by special relativity mean that the best invisibility cloaks would only be able to render objects partially transparent because they would suffer from obvious visible distortions due to motion
 
@@ -4410,9 +3803,7 @@ Friday, 11. March 2016 03:38AM
 
 ___
 
-Thursday, 10. March 2016 04:47PM
-
-**Url:** [https://www.sciencedaily.com/releases/2012/08/120801154716.htm](https://www.sciencedaily.com/releases/2012/08/120801154716.htm)
+**#208** added Thursday, 10. March 2016 04:47PM. Link: [https://www.sciencedaily.com/releases/2012/08/1...](https://www.sciencedaily.com/releases/2012/08/120801154716.htm)
 
 - New research suggests that as much as 10 percent of individual differences in intelligence can be explained by the strength of neural pathways connecting the left lateral prefrontal cortex to the rest of the brain.
 
@@ -4421,9 +3812,7 @@ Thursday, 10. March 2016 04:47PM
 
 ___
 
-Thursday, 10. March 2016 04:43PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/07/150727130821.htm](https://www.sciencedaily.com/releases/2015/07/150727130821.htm)
+**#207** added Thursday, 10. March 2016 04:43PM. Link: [https://www.sciencedaily.com/releases/2015/07/1...](https://www.sciencedaily.com/releases/2015/07/150727130821.htm)
 
 - when it comes to taking on intellectually challenging tasks, groups of neurons tune in to one another for a fraction of a second and harmonize, then go back to improvising
 
@@ -4434,9 +3823,7 @@ Thursday, 10. March 2016 04:43PM
 
 ___
 
-Thursday, 10. March 2016 04:34PM
-
-**Url:** [http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/](http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/)
+**#206** added Thursday, 10. March 2016 04:34PM. Link: [http://makezine.com/2014/05/29/10-ways-to-make-...](http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/)
 
 - while eye contact is important, gaze aversion can make a robot look more intentional, thoughtful, and creative
 
@@ -4449,9 +3836,7 @@ Thursday, 10. March 2016 04:34PM
 
 ___
 
-Thursday, 10. March 2016 03:59PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/07/150721134831.htm](https://www.sciencedaily.com/releases/2015/07/150721134831.htm)
+**#205** added Thursday, 10. March 2016 03:59PM. Link: [https://www.sciencedaily.com/releases/2015/07/1...](https://www.sciencedaily.com/releases/2015/07/150721134831.htm)
 
 - A new study shows that words have a profound effect even on the first electrical twitches of perception.
 
@@ -4462,9 +3847,7 @@ Thursday, 10. March 2016 03:59PM
 
 ___
 
-Wednesday, 09. March 2016 07:47PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160309125520.htm](https://www.sciencedaily.com/releases/2016/03/160309125520.htm)
+**#204** added Wednesday, 09. March 2016 07:47PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160309125520.htm)
 
 - A new study shows that the more flights of stairs a person climbs, and the more years of school a person completes, the 'younger' their brain physically appears.
 
@@ -4473,27 +3856,21 @@ Wednesday, 09. March 2016 07:47PM
 
 ___
 
-Tuesday, 08. March 2016 01:21AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160307144013.htm](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
+**#203** added Tuesday, 08. March 2016 01:21AM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
 
 - A series of experiments showed that sudden insight may yield more correct solutions than using gradual, methodical thinking. In other words, say the researchers, it's absolutely worth listening to your "aha!" moments.
 
 
 ___
 
-Monday, 07. March 2016 05:48PM
-
-**Url:** [http://phys.org/news/2016-03-reveal-molecular-patterns.html](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
+**#202** added Monday, 07. March 2016 05:48PM. Link: [http://phys.org/news/2016-03-reveal-molecular-p...](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
 
 - In nature and society, everything from predatory animals to submarine-seeking ships has developed search strategies where slow, localized searches alternate with long, non-searching movements to explore vast areas where targets are sparse
 
 
 ___
 
-Monday, 07. March 2016 11:07AM
-
-**Url:** [http://phys.org/news/2016-03-american-statistical-association-statement-significance.html](http://phys.org/news/2016-03-american-statistical-association-statement-significance.html)
+**#201** added Monday, 07. March 2016 11:07AM. Link: [http://phys.org/news/2016-03-american-statistic...](http://phys.org/news/2016-03-american-statistical-association-statement-significance.html)
 
 - By itself, a p-value does not provide a good measure of evidence regarding a model or hypothesis.
 
@@ -4504,9 +3881,7 @@ Monday, 07. March 2016 11:07AM
 
 ___
 
-Sunday, 06. March 2016 01:45AM
-
-**Url:** [http://science.sciencemag.org/content/351/6277/1074](http://science.sciencemag.org/content/351/6277/1074)
+**#200** added Sunday, 06. March 2016 01:45AM. Link: [http://science.sciencemag.org/content/351/6277/...](http://science.sciencemag.org/content/351/6277/1074)
 
 - Empathy-based altruism is primarily characterized by a positive connectivity from the anterior cingulate cortex (ACC) to the anterior insula (AI)
 
@@ -4515,9 +3890,7 @@ Sunday, 06. March 2016 01:45AM
 
 ___
 
-Saturday, 05. March 2016 11:13PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160303134427.htm](https://www.sciencedaily.com/releases/2016/03/160303134427.htm)
+**#199** added Saturday, 05. March 2016 11:13PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160303134427.htm)
 
 - Making learning problems simple does not help students as much as making those same problems difficult.
 
@@ -4526,9 +3899,7 @@ Saturday, 05. March 2016 11:13PM
 
 ___
 
-Saturday, 05. March 2016 11:09PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/03/160303133628.htm](https://www.sciencedaily.com/releases/2016/03/160303133628.htm)
+**#198** added Saturday, 05. March 2016 11:09PM. Link: [https://www.sciencedaily.com/releases/2016/03/1...](https://www.sciencedaily.com/releases/2016/03/160303133628.htm)
 
 - Scientists have just identified a new pain control center situated in the hypothalamus
 
@@ -4537,9 +3908,7 @@ Saturday, 05. March 2016 11:09PM
 
 ___
 
-Wednesday, 02. March 2016 03:04AM
-
-**Url:** [http://phys.org/news/2016-03-celestial-bodies-sizes.html](http://phys.org/news/2016-03-celestial-bodies-sizes.html)
+**#197** added Wednesday, 02. March 2016 03:04AM. Link: [http://phys.org/news/2016-03-celestial-bodies-s...](http://phys.org/news/2016-03-celestial-bodies-sizes.html)
 
 - Constructal Law, which states that natural systems evolve to facilitate flow.
 
@@ -4550,9 +3919,7 @@ Wednesday, 02. March 2016 03:04AM
 
 ___
 
-Tuesday, 01. March 2016 03:34PM
-
-**Url:** [http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
+**#196** added Tuesday, 01. March 2016 03:34PM. Link: [http://www.sciencealert.com/the-ability-to-comp...](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
 
 - In spite of the deleterious effects on the human mind, neuropsychiatric disorders have persisted in evolution suggesting that they perhaps also carry advantageous effects such as creativity
 
@@ -4563,9 +3930,7 @@ Tuesday, 01. March 2016 03:34PM
 
 ___
 
-Monday, 29. February 2016 09:52PM
-
-**Url:** [http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say](http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say)
+**#195** added Monday, 29. February 2016 09:52PM. Link: [http://www.sciencealert.com/shame-is-a-survival...](http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say)
 
 - The function of shame is to prevent us from damaging our social relationships, or to motivate us to repair them.
 
@@ -4574,27 +3939,21 @@ Monday, 29. February 2016 09:52PM
 
 ___
 
-Monday, 29. February 2016 12:14AM
-
-**Url:** [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
+**#194** added Monday, 29. February 2016 12:14AM. Link: [http://arxiv.org/abs/1508.06576](http://arxiv.org/abs/1508.06576)
 
 - A Neural Algorithm of Artistic Style
 
 
 ___
 
-Sunday, 28. February 2016 08:43PM
-
-**Url:** [http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/](http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/)
+**#193** added Sunday, 28. February 2016 08:43PM. Link: [http://www.scientificamerican.com/article/can-k...](http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/)
 
 - After two years, children who got the physically active lessons had significantly higher scores in math and spelling than their peers who didn't exercise during class.
 
 
 ___
 
-Sunday, 28. February 2016 03:41PM
-
-**Url:** [http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/](http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/)
+**#192** added Sunday, 28. February 2016 03:41PM. Link: [http://www.scientificamerican.com/article/neder...](http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/)
 
 - The brain gets rid of some 1.5 kilograms of waste products a year, equivalent to its own weight
 
@@ -4603,9 +3962,7 @@ Sunday, 28. February 2016 03:41PM
 
 ___
 
-Sunday, 28. February 2016 04:30AM
-
-**Url:** [https://www.sciencedaily.com/releases/2013/10/131016122032.htm](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
+**#191** added Sunday, 28. February 2016 04:30AM. Link: [https://www.sciencedaily.com/releases/2013/10/1...](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
 
 - Researchers have found that neurons in the brain regulate their own activity in such a way that the overall activity level in the network remains as constant as possible
 
@@ -4614,18 +3971,14 @@ Sunday, 28. February 2016 04:30AM
 
 ___
 
-Sunday, 28. February 2016 01:00AM
-
-**Url:** [http://arxiv.org/abs/1111.1567](http://arxiv.org/abs/1111.1567)
+**#190** added Sunday, 28. February 2016 01:00AM. Link: [http://arxiv.org/abs/1111.1567](http://arxiv.org/abs/1111.1567)
 
 - Generalization of Conway's "Game of Life" to a continuous domain - SmoothLife
 
 
 ___
 
-Sunday, 28. February 2016 12:14AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160224070645.htm](https://www.sciencedaily.com/releases/2016/02/160224070645.htm)
+**#189** added Sunday, 28. February 2016 12:14AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160224070645.htm)
 
 - Do speakers of different languages hear music differently?
 
@@ -4636,9 +3989,7 @@ Sunday, 28. February 2016 12:14AM
 
 ___
 
-Saturday, 27. February 2016 09:07PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160211141337.htm](https://www.sciencedaily.com/releases/2016/02/160211141337.htm)
+**#188** added Saturday, 27. February 2016 09:07PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160211141337.htm)
 
 - High school students may improve their science grades by learning about the personal struggles and failed experiments of great scientists such as Albert Einstein and Marie Curie
 
@@ -4649,9 +4000,7 @@ Saturday, 27. February 2016 09:07PM
 
 ___
 
-Saturday, 27. February 2016 08:53PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/01/160113144546.htm](https://www.sciencedaily.com/releases/2016/01/160113144546.htm)
+**#187** added Saturday, 27. February 2016 08:53PM. Link: [https://www.sciencedaily.com/releases/2016/01/1...](https://www.sciencedaily.com/releases/2016/01/160113144546.htm)
 
 - New role for motor neurons discovered
 
@@ -4660,9 +4009,7 @@ Saturday, 27. February 2016 08:53PM
 
 ___
 
-Saturday, 27. February 2016 08:46PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/01/160115100906.htm](https://www.sciencedaily.com/releases/2016/01/160115100906.htm)
+**#186** added Saturday, 27. February 2016 08:46PM. Link: [https://www.sciencedaily.com/releases/2016/01/1...](https://www.sciencedaily.com/releases/2016/01/160115100906.htm)
 
 - Mentally challenging activities key to a healthy aging mind
 
@@ -4671,54 +4018,42 @@ Saturday, 27. February 2016 08:46PM
 
 ___
 
-Saturday, 27. February 2016 08:39PM
-
-**Url:** [https://en.wikipedia.org/wiki/Efficient-market_hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+**#185** added Saturday, 27. February 2016 08:39PM. Link: [https://en.wikipedia.org/wiki/Efficient-market_...](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 
 - In financial economics, the efficient-market hypothesis (EMH) states that asset prices fully reflect all available information. A direct implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information or changes in discount rates (the latter may be predictable or unpredictable).
 
 
 ___
 
-Saturday, 27. February 2016 08:02PM
-
-**Url:** [http://phys.org/news/2016-02-physicists-properties-superconductivity.html](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
+**#184** added Saturday, 27. February 2016 08:02PM. Link: [http://phys.org/news/2016-02-physicists-propert...](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
 
 - The term "nematicity" commonly refers to when liquid crystals spontaneously align under an electric field in liquid crystal displays. In this case, it is the electronic orbitals that enter the nematic state as the temperature drops below a critical point.
 
 
 ___
 
-Saturday, 27. February 2016 07:53PM
-
-**Url:** [http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
+**#183** added Saturday, 27. February 2016 07:53PM. Link: [http://www.sciencealert.com/why-do-obese-people...](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
 
 - A new study has found that yeast cells with increased levels of triacylglycerol (TAG) – the main constituent of body fat in humans and animals – lived longer, but when the cells were prevented from synthesising TAG and became leaner, they ended up dying earlier.
 
 
 ___
 
-Saturday, 27. February 2016 07:29PM
-
-**Url:** [http://lifehacker.com/im-alton-brown-and-this-is-how-i-work-1718241519](http://lifehacker.com/im-alton-brown-and-this-is-how-i-work-1718241519)
+**#182** added Saturday, 27. February 2016 07:29PM. Link: [http://lifehacker.com/im-alton-brown-and-this-i...](http://lifehacker.com/im-alton-brown-and-this-is-how-i-work-1718241519)
 
 - Until proven wrong, assume you are the weak link in any system.
 
 
 ___
 
-Saturday, 27. February 2016 07:19PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160224133417.htm](https://www.sciencedaily.com/releases/2016/02/160224133417.htm)
+**#181** added Saturday, 27. February 2016 07:19PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160224133417.htm)
 
 - Conservatives prefer using nouns, new transatlantic research suggests. The research also established that conservatives generally, to a greater degree than liberals, tend to refer to things by their names, rather than describing them in terms of their features. An example would be saying someone 'is an optimist', rather than 'is optimistic'.
 
 
 ___
 
-Saturday, 27. February 2016 06:38PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160225135008.htm](https://www.sciencedaily.com/releases/2016/02/160225135008.htm)
+**#180** added Saturday, 27. February 2016 06:38PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160225135008.htm)
 
 - Mastering the art of ignoring makes people more efficient
 
@@ -4729,9 +4064,7 @@ Saturday, 27. February 2016 06:38PM
 
 ___
 
-Friday, 26. February 2016 09:22PM
-
-**Url:** [https://en.wikipedia.org/wiki/How_to_Solve_It](https://en.wikipedia.org/wiki/How_to_Solve_It)
+**#179** added Friday, 26. February 2016 09:22PM. Link: [https://en.wikipedia.org/wiki/How_to_Solve_It](https://en.wikipedia.org/wiki/How_to_Solve_It)
 
 - First, you have to understand the problem.
 
@@ -4744,9 +4077,7 @@ Friday, 26. February 2016 09:22PM
 
 ___
 
-Friday, 26. February 2016 09:16PM
-
-**Url:** [https://www.sciencedaily.com/releases/2014/06/140612121354.htm](https://www.sciencedaily.com/releases/2014/06/140612121354.htm)
+**#178** added Friday, 26. February 2016 09:16PM. Link: [https://www.sciencedaily.com/releases/2014/06/1...](https://www.sciencedaily.com/releases/2014/06/140612121354.htm)
 
 - Synchronized brain waves enable rapid learning
 
@@ -4757,9 +4088,7 @@ Friday, 26. February 2016 09:16PM
 
 ___
 
-Friday, 26. February 2016 09:12PM
-
-**Url:** [http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/](http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/)
+**#177** added Friday, 26. February 2016 09:12PM. Link: [http://www.wired.com/2015/05/9-clever-visual-tr...](http://www.wired.com/2015/05/9-clever-visual-tricks-behind-iconic-poster-designs/)
 
 - Simplify
 
@@ -4768,18 +4097,14 @@ Friday, 26. February 2016 09:12PM
 
 ___
 
-Friday, 26. February 2016 09:08PM
-
-**Url:** [http://phys.org/news/2015-05-fair-theory-income-inequality.html](http://phys.org/news/2015-05-fair-theory-income-inequality.html)
+**#176** added Friday, 26. February 2016 09:08PM. Link: [http://phys.org/news/2015-05-fair-theory-income...](http://phys.org/news/2015-05-fair-theory-income-inequality.html)
 
 - Economists have long wondered what it is that Adam Smith's `invisible hand' is supposed to be maximizing and what are the firms trying to jointly maximize in potential game theory. Our theory suggests that what the participants are jointly maximizing is fairness.
 
 
 ___
 
-Friday, 26. February 2016 08:59PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/05/150528084158.htm](https://www.sciencedaily.com/releases/2015/05/150528084158.htm)
+**#175** added Friday, 26. February 2016 08:59PM. Link: [https://www.sciencedaily.com/releases/2015/05/1...](https://www.sciencedaily.com/releases/2015/05/150528084158.htm)
 
 - A surprising link has been found between creative problem-solving and heightened activity in the cerebellum, a structure located in the back of the brain and more typically thought of as the body's movement-coordination center.
 
@@ -4788,18 +4113,14 @@ Friday, 26. February 2016 08:59PM
 
 ___
 
-Friday, 26. February 2016 08:57PM
-
-**Url:** [https://en.wikipedia.org/wiki/Engel%27s_law](https://en.wikipedia.org/wiki/Engel%27s_law)
+**#174** added Friday, 26. February 2016 08:57PM. Link: [https://en.wikipedia.org/wiki/Engel%27s_law](https://en.wikipedia.org/wiki/Engel%27s_law)
 
 - Engel's law is an observation in economics stating that as income rises, the proportion of income spent on food falls, even if actual expenditure on food rises. In other words, the income elasticity of demand of food is between 0 and 1.
 
 
 ___
 
-Friday, 26. February 2016 08:53PM
-
-**Url:** [http://www.wired.com/2013/02/math-and-nature-universality/](http://www.wired.com/2013/02/math-and-nature-universality/)
+**#173** added Friday, 26. February 2016 08:53PM. Link: [http://www.wired.com/2013/02/math-and-nature-un...](http://www.wired.com/2013/02/math-and-nature-universality/)
 
 - a precise balance of randomness and regularity known as “universality,” which has been observed in the spectra of many complex, correlated systems
 
@@ -4808,18 +4129,14 @@ Friday, 26. February 2016 08:53PM
 
 ___
 
-Friday, 26. February 2016 08:50PM
-
-**Url:** [https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/](https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/)
+**#172** added Friday, 26. February 2016 08:50PM. Link: [https://www.newscientist.com/article/mg22129610...](https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/)
 
 - Giving robots a series of small behavioural tics can make help them appear a lot more human, which makes us feel more comfortable interacting with them
 
 
 ___
 
-Friday, 26. February 2016 08:44PM
-
-**Url:** [https://en.wikipedia.org/wiki/Meijer_G-function](https://en.wikipedia.org/wiki/Meijer_G-function)
+**#171** added Friday, 26. February 2016 08:44PM. Link: [https://en.wikipedia.org/wiki/Meijer_G-function](https://en.wikipedia.org/wiki/Meijer_G-function)
 
 - In mathematics, the G-function was introduced by Cornelis Simon Meijer (1936) as a very general function intended to include most of the known special functions as particular cases.
 
@@ -4828,9 +4145,7 @@ Friday, 26. February 2016 08:44PM
 
 ___
 
-Friday, 26. February 2016 07:03PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/02/150223122548.htm](https://www.sciencedaily.com/releases/2015/02/150223122548.htm)
+**#170** added Friday, 26. February 2016 07:03PM. Link: [https://www.sciencedaily.com/releases/2015/02/1...](https://www.sciencedaily.com/releases/2015/02/150223122548.htm)
 
 - How brain waves guide memory formation
 
@@ -4839,9 +4154,7 @@ Friday, 26. February 2016 07:03PM
 
 ___
 
-Friday, 26. February 2016 06:56PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/02/150217202753.htm](http://www.sciencedaily.com/releases/2015/02/150217202753.htm)
+**#169** added Friday, 26. February 2016 06:56PM. Link: [http://www.sciencedaily.com/releases/2015/02/15...](http://www.sciencedaily.com/releases/2015/02/150217202753.htm)
 
 - The science of teaching: Study finds brain processes that hold the key to understanding students
 
@@ -4854,9 +4167,7 @@ Friday, 26. February 2016 06:56PM
 
 ___
 
-Friday, 26. February 2016 06:38PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/02/150217122700.htm](https://www.sciencedaily.com/releases/2015/02/150217122700.htm)
+**#168** added Friday, 26. February 2016 06:38PM. Link: [https://www.sciencedaily.com/releases/2015/02/1...](https://www.sciencedaily.com/releases/2015/02/150217122700.htm)
 
 - Even animals compose: What it means to be a musical species
 
@@ -4865,18 +4176,14 @@ Friday, 26. February 2016 06:38PM
 
 ___
 
-Tuesday, 01. December 2015 10:12PM
-
-**Url:** [http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
+**#167** added Tuesday, 01. December 2015 10:12PM. Link: [http://www.sciencealert.com/poorly-ventilated-o...](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
 
 - people working in well-ventilated office spaces with below-average levels of indoor pollutants and carbon dioxide (CO2) demonstrate significantly higher cognitive functioning scores than workers in offices with typical levels of pollutants and CO2
 
 
 ___
 
-Friday, 26. February 2016 06:30PM
-
-**Url:** [http://people.idsia.ch/~juergen/interest.html](http://people.idsia.ch/~juergen/interest.html)
+**#166** added Friday, 26. February 2016 06:30PM. Link: [http://people.idsia.ch/~juergen/interest.html](http://people.idsia.ch/~juergen/interest.html)
 
 - curious agents are interested in learnable but yet unknown regularities, and get bored by both predictable and inherently unpredictable things.
 
@@ -4885,18 +4192,14 @@ Friday, 26. February 2016 06:30PM
 
 ___
 
-Tuesday, 26. January 2016 10:32PM
-
-**Url:** [http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
+**#165** added Tuesday, 26. January 2016 10:32PM. Link: [http://www.sciencealert.com/scientists-have-dis...](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
 
 - Neurotrophins are a type of protein that promote the development of neurons, but which come with some drawbacks, including low stability and low penetration levels
 
 
 ___
 
-Tuesday, 01. December 2015 09:37PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/11/151119122317.htm](https://www.sciencedaily.com/releases/2015/11/151119122317.htm)
+**#164** added Tuesday, 01. December 2015 09:37PM. Link: [https://www.sciencedaily.com/releases/2015/11/1...](https://www.sciencedaily.com/releases/2015/11/151119122317.htm)
 
 - Critical mechanism of memory formation revealed by scientists
 
@@ -4907,9 +4210,7 @@ Tuesday, 01. December 2015 09:37PM
 
 ___
 
-Friday, 26. February 2016 04:43PM
-
-**Url:** [https://en.wikipedia.org/wiki/Duployan_shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand)
+**#163** added Friday, 26. February 2016 04:43PM. Link: [https://en.wikipedia.org/wiki/Duployan_shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand)
 
 - The Duployan stenography is classified as a geometric, alphabetic, stenography and is written left-to-right in connected stenographic style
 
@@ -4918,18 +4219,14 @@ Friday, 26. February 2016 04:43PM
 
 ___
 
-Friday, 26. February 2016 04:32PM
-
-**Url:** [https://en.wikipedia.org/wiki/Distinctive_feature](https://en.wikipedia.org/wiki/Distinctive_feature)
+**#162** added Friday, 26. February 2016 04:32PM. Link: [https://en.wikipedia.org/wiki/Distinctive_feature](https://en.wikipedia.org/wiki/Distinctive_feature)
 
 - In linguistics, a distinctive feature is the most basic unit of phonological structure that may be analyzed in phonological theory.
 
 
 ___
 
-Friday, 26. February 2016 03:20PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160224100548.htm](https://www.sciencedaily.com/releases/2016/02/160224100548.htm)
+**#161** added Friday, 26. February 2016 03:20PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160224100548.htm)
 
 - Refined interview technique can reveal plans of terror: How to get answers without asking questions
 
@@ -4942,9 +4239,7 @@ Friday, 26. February 2016 03:20PM
 
 ___
 
-Wednesday, 24. February 2016 08:49PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160224133411.htm](https://www.sciencedaily.com/releases/2016/02/160224133411.htm)
+**#160** added Wednesday, 24. February 2016 08:49PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160224133411.htm)
 
 - Computers can tell if you're bored, shows new study
 
@@ -4955,9 +4250,7 @@ Wednesday, 24. February 2016 08:49PM
 
 ___
 
-Tuesday, 23. February 2016 11:02AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160212130132.htm](https://www.sciencedaily.com/releases/2016/02/160212130132.htm)
+**#159** added Tuesday, 23. February 2016 11:02AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160212130132.htm)
 
 - Memory replay prioritizes high-reward memories
 
@@ -4968,9 +4261,7 @@ Tuesday, 23. February 2016 11:02AM
 
 ___
 
-Tuesday, 23. February 2016 10:58AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160211184012.htm](https://www.sciencedaily.com/releases/2016/02/160211184012.htm)
+**#158** added Tuesday, 23. February 2016 10:58AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160211184012.htm)
 
 - Scientists learn how young brains form lifelong memories by studying worms' food choices
 
@@ -4979,9 +4270,7 @@ Tuesday, 23. February 2016 10:58AM
 
 ___
 
-Monday, 22. February 2016 10:59PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160222111103.htm](https://www.sciencedaily.com/releases/2016/02/160222111103.htm)
+**#157** added Monday, 22. February 2016 10:59PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160222111103.htm)
 
 - Quantum experiments designed by machines
 
@@ -4990,9 +4279,7 @@ Monday, 22. February 2016 10:59PM
 
 ___
 
-Monday, 22. February 2016 10:40PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160222111106.htm](https://www.sciencedaily.com/releases/2016/02/160222111106.htm)
+**#156** added Monday, 22. February 2016 10:40PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160222111106.htm)
 
 - Squirm with purpose: Fidgeting is helpful for ADHD patients, study shows
 
@@ -5001,27 +4288,21 @@ Monday, 22. February 2016 10:40PM
 
 ___
 
-Sunday, 21. February 2016 06:05PM
-
-**Url:** [http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148](http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148)
+**#155** added Sunday, 21. February 2016 06:05PM. Link: [http://lifehacker.com/how-we-work-2016-thorin-k...](http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148)
 
 - Do/read/watch/play/listen to something you wouldn’t normally and when you edge out of that comfort zone you’ll always walk away a little happier.
 
 
 ___
 
-Sunday, 21. February 2016 05:25PM
-
-**Url:** [http://lifehacker.com/reward-yourself-with-things-that-get-you-closer-to-your-1760422979](http://lifehacker.com/reward-yourself-with-things-that-get-you-closer-to-your-1760422979)
+**#154** added Sunday, 21. February 2016 05:25PM. Link: [http://lifehacker.com/reward-yourself-with-thin...](http://lifehacker.com/reward-yourself-with-things-that-get-you-closer-to-your-1760422979)
 
 - Reward Yourself With Things That Get You Closer to Your Goals
 
 
 ___
 
-Sunday, 21. February 2016 04:20PM
-
-**Url:** [https://www.sciencedaily.com/releases/2015/06/150602130553.htm](https://www.sciencedaily.com/releases/2015/06/150602130553.htm)
+**#153** added Sunday, 21. February 2016 04:20PM. Link: [https://www.sciencedaily.com/releases/2015/06/1...](https://www.sciencedaily.com/releases/2015/06/150602130553.htm)
 
 - Epicenter of brain's predictive ability pinpointed by scientists
 
@@ -5030,9 +4311,7 @@ Sunday, 21. February 2016 04:20PM
 
 ___
 
-Sunday, 21. February 2016 01:42AM
-
-**Url:** [http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
+**#152** added Sunday, 21. February 2016 01:42AM. Link: [http://phys.org/news/2016-02-holes-drilled-coll...](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
 
 - The scenario involves a wooden cube with 6-cm sides made of medium-density fiberboard. Each of the six faces is marked with a 6 x 6-cm square lattice for a total of 36 square cells per face. Then round holes (of diameter equal to the length of a square cell) are drilled through random cells all the way through the cube.
 
@@ -5041,18 +4320,14 @@ Sunday, 21. February 2016 01:42AM
 
 ___
 
-Sunday, 21. February 2016 01:32AM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160217180253.htm](https://www.sciencedaily.com/releases/2016/02/160217180253.htm)
+**#151** added Sunday, 21. February 2016 01:32AM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160217180253.htm)
 
 - Researchers find the tipping point between resilience and collapse in complex systems
 
 
 ___
 
-Friday, 19. February 2016 03:40PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160219134813.htm](https://www.sciencedaily.com/releases/2016/02/160219134813.htm)
+**#150** added Friday, 19. February 2016 03:40PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160219134813.htm)
 
 - Best to sleep on it: Brain activity patterns during sleep consolidate memory
 
@@ -5061,9 +4336,7 @@ Friday, 19. February 2016 03:40PM
 
 ___
 
-Friday, 19. February 2016 03:33PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160217090810.htm](https://www.sciencedaily.com/releases/2016/02/160217090810.htm)
+**#149** added Friday, 19. February 2016 03:33PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160217090810.htm)
 
 - Attending public preschool is linked to an increase in students taking the admissions test for gifted and talented programs
 
@@ -5072,9 +4345,7 @@ Friday, 19. February 2016 03:33PM
 
 ___
 
-Monday, 15. February 2016 03:24PM
-
-**Url:** [http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
+**#148** added Monday, 15. February 2016 03:24PM. Link: [http://phys.org/news/2016-02-eternal-5d-storage...](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
 
 - recording and retrieval processes of five dimensional (5D) digital data by femtosecond laser writing
 
@@ -5083,9 +4354,7 @@ Monday, 15. February 2016 03:24PM
 
 ___
 
-Monday, 15. February 2016 12:16AM
-
-**Url:** [http://www.sciencealert.com/scientists-have-figured-out-how-to-to-erase-your-painful-memories](http://www.sciencealert.com/scientists-have-figured-out-how-to-to-erase-your-painful-memories)
+**#147** added Monday, 15. February 2016 12:16AM. Link: [http://www.sciencealert.com/scientists-have-fig...](http://www.sciencealert.com/scientists-have-figured-out-how-to-to-erase-your-painful-memories)
 
 - memories can be manipulated because they act as if made from glass, existing in a molten state as they are being created, before turning solid
 
@@ -5096,18 +4365,14 @@ Monday, 15. February 2016 12:16AM
 
 ___
 
-Sunday, 14. February 2016 10:18PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160209161942.htm](https://www.sciencedaily.com/releases/2016/02/160209161942.htm)
+**#146** added Sunday, 14. February 2016 10:18PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160209161942.htm)
 
 - Plasmons, quasiparticles arising from the collective motion of electrons on the surface of a metal, can strongly modify the behavior of nearby light, and could be instrumental in building some of the key components of a quantum circuit
 
 
 ___
 
-Sunday, 14. February 2016 09:30PM
-
-**Url:** [https://www.sciencedaily.com/releases/2016/02/160210134944.htm](https://www.sciencedaily.com/releases/2016/02/160210134944.htm)
+**#145** added Sunday, 14. February 2016 09:30PM. Link: [https://www.sciencedaily.com/releases/2016/02/1...](https://www.sciencedaily.com/releases/2016/02/160210134944.htm)
 
 - Creating a color printer that uses a colorless, non-toxic ink inspired by nature
 
@@ -5118,9 +4383,7 @@ Sunday, 14. February 2016 09:30PM
 
 ___
 
-Sunday, 14. February 2016 08:32PM
-
-**Url:** [https://en.wikipedia.org/wiki/Neural_coding](https://en.wikipedia.org/wiki/Neural_coding)
+**#144** added Sunday, 14. February 2016 08:32PM. Link: [https://en.wikipedia.org/wiki/Neural_coding](https://en.wikipedia.org/wiki/Neural_coding)
 
 - Sparse coding may be a general strategy of neural systems to augment memory capacity.
 
@@ -5129,18 +4392,14 @@ Sunday, 14. February 2016 08:32PM
 
 ___
 
-Tuesday, 01. December 2015 09:35PM
-
-**Url:** [http://www.sciencealert.com/new-study-suggests-we-re-sending-our-kids-to-school-too-young](http://www.sciencealert.com/new-study-suggests-we-re-sending-our-kids-to-school-too-young)
+**#143** added Tuesday, 01. December 2015 09:35PM. Link: [http://www.sciencealert.com/new-study-suggests-...](http://www.sciencealert.com/new-study-suggests-we-re-sending-our-kids-to-school-too-young)
 
 - youngsters typically start kindergarten at the age of six. Those who started aged seven showed lower levels of inattention and hyperactivity, factors known to be influential in improving self-regulation, which in turn is linked to academic achievement
 
 
 ___
 
-Sunday, 14. February 2016 01:20PM
-
-**Url:** [http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions](http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions)
+**#142** added Sunday, 14. February 2016 01:20PM. Link: [http://www.sciencealert.com/new-mathematical-mo...](http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions)
 
 - temporal-difference algorithms of model-free learning
 account for both behavioral and neuroimaging data regarding habitbased
@@ -5153,18 +4412,14 @@ and to identify some of the key brain areas involved in it
 
 ___
 
-Friday, 12. February 2016 01:00AM
-
-**Url:** [http://skillet.lifehacker.com/teach-yourself-to-love-a-new-food-by-adding-a-dash-of-f-1757922948](http://skillet.lifehacker.com/teach-yourself-to-love-a-new-food-by-adding-a-dash-of-f-1757922948)
+**#141** added Friday, 12. February 2016 01:00AM. Link: [http://skillet.lifehacker.com/teach-yourself-to...](http://skillet.lifehacker.com/teach-yourself-to-love-a-new-food-by-adding-a-dash-of-f-1757922948)
 
 - Teach Yourself to Love a New Food by Adding a Dash of Fat, Sugar, or Salt
 
 
 ___
 
-Thursday, 11. February 2016 06:38PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/02/160211140426.htm](http://www.sciencedaily.com/releases/2016/02/160211140426.htm)
+**#140** added Thursday, 11. February 2016 06:38PM. Link: [http://www.sciencedaily.com/releases/2016/02/16...](http://www.sciencedaily.com/releases/2016/02/160211140426.htm)
 
 - Social animals seek out the company of others because their brains are wired to find it rewarding
 
@@ -5173,18 +4428,14 @@ Thursday, 11. February 2016 06:38PM
 
 ___
 
-Wednesday, 10. February 2016 02:57AM
-
-**Url:** [http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
+**#139** added Wednesday, 10. February 2016 02:57AM. Link: [http://www.sciencealert.com/bacterial-cells-are...](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
 
 - What the researchers discovered when studying Synechocystis – a species of cyanobacteria found in freshwater lakes and rivers – is that their cell bodies act like a lens. When light hits the spherical surface of the cell, it refracts into a point on the other side of the cell. This triggers movement by the cell away from the focused internal spot, towards the source of the light, with the cells using tiny tentacle-like structures called pili to pull themselves forwards.
 
 
 ___
 
-Sunday, 07. February 2016 02:36AM
-
-**Url:** [http://www.cs.virginia.edu/~robins/YouAndYourResearch.html](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+**#138** added Sunday, 07. February 2016 02:36AM. Link: [http://www.cs.virginia.edu/~robins/YouAndYourRe...](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 - What most people think are the best working conditions, are not.
 
@@ -5195,9 +4446,7 @@ Sunday, 07. February 2016 02:36AM
 
 ___
 
-Saturday, 06. February 2016 02:35AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151110171354.htm](http://www.sciencedaily.com/releases/2015/11/151110171354.htm)
+**#137** added Saturday, 06. February 2016 02:35AM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151110171354.htm)
 
 - Faster brain waves make shorter gaps in visual stream
 
@@ -5208,9 +4457,7 @@ Saturday, 06. February 2016 02:35AM
 
 ___
 
-Friday, 05. February 2016 01:54AM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/02/160204175640.htm](http://www.sciencedaily.com/releases/2016/02/160204175640.htm)
+**#136** added Friday, 05. February 2016 01:54AM. Link: [http://www.sciencedaily.com/releases/2016/02/16...](http://www.sciencedaily.com/releases/2016/02/160204175640.htm)
 
 - Scientists find brain plasticity assorted into functional networks
 
@@ -5219,72 +4466,56 @@ Friday, 05. February 2016 01:54AM
 
 ___
 
-Thursday, 04. February 2016 12:24AM
-
-**Url:** [http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast](http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast)
+**#135** added Thursday, 04. February 2016 12:24AM. Link: [http://www.sciencealert.com/scientists-have-fou...](http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast)
 
 - if you practise a slightly modified version of a task you want to master, you actually learn more and faster than if you just keep practising the exact same thing multiple times in a row
 
 
 ___
 
-Wednesday, 03. February 2016 04:38PM
-
-**Url:** [http://arxiv.org/pdf/1506.05869.pdf](http://arxiv.org/pdf/1506.05869.pdf)
+**#134** added Wednesday, 03. February 2016 04:38PM. Link: [http://arxiv.org/pdf/1506.05869.pdf](http://arxiv.org/pdf/1506.05869.pdf)
 
 - A Neural Conversational Model
 
 
 ___
 
-Saturday, 30. January 2016 11:17PM
-
-**Url:** [http://lifehacker.com/why-you-shouldn-t-take-some-medicines-with-grapefruit-j-1755800582](http://lifehacker.com/why-you-shouldn-t-take-some-medicines-with-grapefruit-j-1755800582)
+**#133** added Saturday, 30. January 2016 11:17PM. Link: [http://lifehacker.com/why-you-shouldn-t-take-so...](http://lifehacker.com/why-you-shouldn-t-take-some-medicines-with-grapefruit-j-1755800582)
 
 - It blocks a crucial enzyme (CYP3A4) that controls how much of the medicine you receive. So drinking grapefruit juice basically throws off the safe dose.
 
 
 ___
 
-Friday, 29. January 2016 04:28PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160129131756.htm](http://www.sciencedaily.com/releases/2016/01/160129131756.htm)
+**#132** added Friday, 29. January 2016 04:28PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160129131756.htm)
 
 - tracing over elements of maths problems enhanced how they understood and solved problems in geometry and algebra
 
 
 ___
 
-Thursday, 28. January 2016 02:40PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160128122348.htm](http://www.sciencedaily.com/releases/2016/01/160128122348.htm)
+**#131** added Thursday, 28. January 2016 02:40PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160128122348.htm)
 
 - A new technique offers potential to reconnect neurons of people with central nervous system damage.
 
 
 ___
 
-Thursday, 28. January 2016 02:31PM
-
-**Url:** [http://phys.org/news/2015-05-brain-map-geometries.html#nRlv](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
+**#130** added Thursday, 28. January 2016 02:31PM. Link: [http://phys.org/news/2015-05-brain-map-geometri...](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
 
 - Grid cells, space-mapping neurons of the entorhinal cortex of rodents, could also work for hyperbolic surfaces.
 
 
 ___
 
-Thursday, 28. January 2016 01:33AM
-
-**Url:** [http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time](http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time)
+**#129** added Thursday, 28. January 2016 01:33AM. Link: [http://www.sciencealert.com/massive-study-ident...](http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time)
 
 - presence of a highly active C4 gene variant could be cutting away neural connections in the brain, and putting an individual at an increased risk of developing the hallmarks of schizophrenia
 
 
 ___
 
-Sunday, 24. January 2016 02:24AM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160120143600.htm](http://www.sciencedaily.com/releases/2016/01/160120143600.htm)
+**#128** added Sunday, 24. January 2016 02:24AM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160120143600.htm)
 
 - Research has examined whether using performance brands such as Nike and 3M had any effect on consumers' output
 
@@ -5297,9 +4528,7 @@ Sunday, 24. January 2016 02:24AM
 
 ___
 
-Friday, 22. January 2016 12:51AM
-
-**Url:** [http://www.sciencealert.com/scientists-think-they-ve-figured-out-why-the-brain-uses-up-so-much-energy](http://www.sciencealert.com/scientists-think-they-ve-figured-out-why-the-brain-uses-up-so-much-energy)
+**#127** added Friday, 22. January 2016 12:51AM. Link: [http://www.sciencealert.com/scientists-think-th...](http://www.sciencealert.com/scientists-think-they-ve-figured-out-why-the-brain-uses-up-so-much-energy)
 
 - the brain is constantly looping signals through established pathways - pathways that can be thought of as city street maps for our minds
 
@@ -5308,27 +4537,21 @@ Friday, 22. January 2016 12:51AM
 
 ___
 
-Thursday, 21. January 2016 02:43AM
-
-**Url:** [http://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought](http://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought)
+**#126** added Thursday, 21. January 2016 02:43AM. Link: [http://www.sciencealert.com/our-brain-s-memory-...](http://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought)
 
 - This means that every 2 or 20 minutes, your synapses are going up or down to the next size,
 
 
 ___
 
-Wednesday, 20. January 2016 10:43PM
-
-**Url:** [http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774](http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774)
+**#125** added Wednesday, 20. January 2016 10:43PM. Link: [http://lifehacker.com/why-slow-internet-and-get...](http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774)
 
 - It’s the S trigger, and the S stands for stopped. You’re stopped — it’s like you’re being restrained. And any time an animal is restrained, it will engage in an aggressive reaction to get free.
 
 
 ___
 
-Monday, 18. January 2016 11:01AM
-
-**Url:** [http://www.scientificamerican.com/article/why-boredom-is-anything-but-boring/](http://www.scientificamerican.com/article/why-boredom-is-anything-but-boring/)
+**#124** added Monday, 18. January 2016 11:01AM. Link: [http://www.scientificamerican.com/article/why-b...](http://www.scientificamerican.com/article/why-boredom-is-anything-but-boring/)
 
 - Boredom even accounts for about 25% of variation in student achievement
 
@@ -5337,36 +4560,28 @@ Monday, 18. January 2016 11:01AM
 
 ___
 
-Sunday, 17. January 2016 10:16PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160115100906.htm](http://www.sciencedaily.com/releases/2016/01/160115100906.htm)
+**#123** added Sunday, 17. January 2016 10:16PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160115100906.htm)
 
 - Mentally challenging activities key to a healthy aging mind
 
 
 ___
 
-Sunday, 17. January 2016 01:20AM
-
-**Url:** [http://www.sciencealert.com/the-next-generation-of-computers-could-give-us-artificial-brain-boosts](http://www.sciencealert.com/the-next-generation-of-computers-could-give-us-artificial-brain-boosts)
+**#122** added Sunday, 17. January 2016 01:20AM. Link: [http://www.sciencealert.com/the-next-generation...](http://www.sciencealert.com/the-next-generation-of-computers-could-give-us-artificial-brain-boosts)
 
 - High oxygen levels mean the brain is working hard, and low levels mean it's basically cruising along on autopilot.
 
 
 ___
 
-Saturday, 16. January 2016 10:26PM
-
-**Url:** [http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields](http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields)
+**#121** added Saturday, 16. January 2016 10:26PM. Link: [http://www.sciencealert.com/scientists-discover...](http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields)
 
 - electrical fields can mediate propagation across layers of neurons. While the field is of low amplitude (approximately 2–6 mV/mm), it's able to excite and activate immediate neighbours
 
 
 ___
 
-Tuesday, 12. January 2016 02:40PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160112102026.htm](http://www.sciencedaily.com/releases/2016/01/160112102026.htm)
+**#120** added Tuesday, 12. January 2016 02:40PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160112102026.htm)
 
 - Individuals addicted to cocaine may have difficulty in controlling their addiction because of a previously-unknown 'back door' into the brain, circumventing their self-control, suggests a new study.
 
@@ -5377,99 +4592,77 @@ Tuesday, 12. January 2016 02:40PM
 
 ___
 
-Tuesday, 12. January 2016 02:38PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160112125419.htm](http://www.sciencedaily.com/releases/2016/01/160112125419.htm)
+**#119** added Tuesday, 12. January 2016 02:38PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160112125419.htm)
 
 - New research finds evidence for an innate ratio processing ability that may play a role in determining our aptitude for understanding fractions and other formal mathematical concepts.
 
 
 ___
 
-Tuesday, 12. January 2016 02:26PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160112125425.htm](http://www.sciencedaily.com/releases/2016/01/160112125425.htm)
+**#118** added Tuesday, 12. January 2016 02:26PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160112125425.htm)
 
 - Early intervention: New research shows that preschoolers with poor short-term recall are more at risk of dropping out of high school
 
 
 ___
 
-Monday, 11. January 2016 10:22AM
-
-**Url:** [http://phys.org/news/2016-01-one-way.html](http://phys.org/news/2016-01-one-way.html)
+**#117** added Monday, 11. January 2016 10:22AM. Link: [http://phys.org/news/2016-01-one-way.html](http://phys.org/news/2016-01-one-way.html)
 
 - Over the past few years, scientists have demonstrated the phenomenon of "one-way light," in which a light beam propagates in one direction only
 
 
 ___
 
-Monday, 11. January 2016 01:38AM
-
-**Url:** [http://www.sciencealert.com/scientists-create-world-s-most-expensive-material-valued-at-145-million-per-gram](http://www.sciencealert.com/scientists-create-world-s-most-expensive-material-valued-at-145-million-per-gram)
+**#116** added Monday, 11. January 2016 01:38AM. Link: [http://www.sciencealert.com/scientists-create-w...](http://www.sciencealert.com/scientists-create-world-s-most-expensive-material-valued-at-145-million-per-gram)
 
 - endohedral fullerenes are spherical carbon nanostructures that consist of a sturdy fullerene cage made from 60 carbon atoms, inside which the atoms of non-metals or simple molecules, such as nitrogen, phosphorus, and helium, are trapped
 
 
 ___
 
-Sunday, 10. January 2016 01:24AM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160108134211.htm](http://www.sciencedaily.com/releases/2016/01/160108134211.htm)
+**#115** added Sunday, 10. January 2016 01:24AM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160108134211.htm)
 
 - Even children with higher IQs behave better when their sleep apnea is fixed
 
 
 ___
 
-Saturday, 09. January 2016 07:42PM
-
-**Url:** [http://arxiv.org/abs/1512.04407](http://arxiv.org/abs/1512.04407)
+**#114** added Saturday, 09. January 2016 07:42PM. Link: [http://arxiv.org/abs/1512.04407](http://arxiv.org/abs/1512.04407)
 
 - We Are Humor Beings: Understanding and Predicting Visual Humor
 
 
 ___
 
-Saturday, 09. January 2016 07:31PM
-
-**Url:** [http://www.tandfonline.com/doi/abs/10.1080/87565641.2004.9651921](http://www.tandfonline.com/doi/abs/10.1080/87565641.2004.9651921)
+**#113** added Saturday, 09. January 2016 07:31PM. Link: [http://www.tandfonline.com/doi/abs/10.1080/8756...](http://www.tandfonline.com/doi/abs/10.1080/87565641.2004.9651921)
 
 - Discourse Macrolevel Processing After Severe Pediatric Traumatic Brain Injury
 
 
 ___
 
-Friday, 08. January 2016 08:42PM
-
-**Url:** [http://www.sciencedaily.com/releases/2014/12/141210080740.htm](http://www.sciencedaily.com/releases/2014/12/141210080740.htm)
+**#112** added Friday, 08. January 2016 08:42PM. Link: [http://www.sciencedaily.com/releases/2014/12/14...](http://www.sciencedaily.com/releases/2014/12/141210080740.htm)
 
 - The simple act of saving something, such as a file on a computer, may improve our memory for the information we encounter next, according to new research. The research suggests that the act of saving helps to free up cognitive resources that can be used to remember new information.
 
 
 ___
 
-Friday, 08. January 2016 08:29PM
-
-**Url:** [http://www.sciencealert.com/here-s-how-often-you-should-wash-your-bath-towel](http://www.sciencealert.com/here-s-how-often-you-should-wash-your-bath-towel)
+**#111** added Friday, 08. January 2016 08:29PM. Link: [http://www.sciencealert.com/here-s-how-often-yo...](http://www.sciencealert.com/here-s-how-often-you-should-wash-your-bath-towel)
 
 - If you can dry it completely, no more than three times max
 
 
 ___
 
-Friday, 08. January 2016 12:02AM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160105223948.htm](http://www.sciencedaily.com/releases/2016/01/160105223948.htm)
+**#110** added Friday, 08. January 2016 12:02AM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160105223948.htm)
 
 - Autistic girls are more socially motivated and have more intimate friendships than autistic boys, but are not as good as girls without autism at recognizing conflict in those friendships, new research suggests.
 
 
 ___
 
-Thursday, 07. January 2016 04:09PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160104130826.htm](http://www.sciencedaily.com/releases/2016/01/160104130826.htm)
+**#109** added Thursday, 07. January 2016 04:09PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160104130826.htm)
 
 - The brain-computer duel: Do we have free will?
 
@@ -5478,117 +4671,91 @@ Thursday, 07. January 2016 04:09PM
 
 ___
 
-Thursday, 07. January 2016 04:03PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107094111.htm](http://www.sciencedaily.com/releases/2016/01/160107094111.htm)
+**#108** added Thursday, 07. January 2016 04:03PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107094111.htm)
 
 - Brain scans show that stories that force us to think about our deepest values activate a region of the brain once thought to be its autopilot
 
 
 ___
 
-Thursday, 07. January 2016 04:01PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107094128.htm](http://www.sciencedaily.com/releases/2016/01/160107094128.htm)
+**#107** added Thursday, 07. January 2016 04:01PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107094128.htm)
 
 - Your symptoms? Evolution's way of telling you to stay home
 
 
 ___
 
-Thursday, 07. January 2016 03:55PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107140423.htm](http://www.sciencedaily.com/releases/2016/01/160107140423.htm)
+**#106** added Thursday, 07. January 2016 03:55PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107140423.htm)
 
 - Group proposes that an evolutionary change of protein interactions in cells some 600 million years ago changed life on Earth
 
 
 ___
 
-Thursday, 07. January 2016 02:32PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107104806.htm](http://www.sciencedaily.com/releases/2016/01/160107104806.htm)
+**#105** added Thursday, 07. January 2016 02:32PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107104806.htm)
 
 - Study shows thinking from God's perspective can reduce bias against others
 
 
 ___
 
-Thursday, 07. January 2016 02:30PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107094105.htm](http://www.sciencedaily.com/releases/2016/01/160107094105.htm)
+**#104** added Thursday, 07. January 2016 02:30PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107094105.htm)
 
 - Valuing your time more than the pursuit of money is linked to greater happiness, according to new research published by the Society for Personality and Social Psychology
 
 
 ___
 
-Thursday, 07. January 2016 02:04PM
-
-**Url:** [http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922](http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922)
+**#103** added Thursday, 07. January 2016 02:04PM. Link: [http://vitals.lifehacker.com/what-to-expect-whe...](http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922)
 
 - Strength doesn’t decline as quickly. After a month, you’ll still have most of your strength and your “power” (that’s your strength in quick movements, like your ability to do squat jumps)
 
 
 ___
 
-Thursday, 07. January 2016 01:59PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160107123956.htm](http://www.sciencedaily.com/releases/2016/01/160107123956.htm)
+**#102** added Thursday, 07. January 2016 01:59PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160107123956.htm)
 
 - Miniature glasses have proved that mantises use 3-D vision
 
 
 ___
 
-Monday, 04. January 2016 10:42PM
-
-**Url:** [http://www.sciencedaily.com/releases/2016/01/160104080041.htm](http://www.sciencedaily.com/releases/2016/01/160104080041.htm)
+**#101** added Monday, 04. January 2016 10:42PM. Link: [http://www.sciencedaily.com/releases/2016/01/16...](http://www.sciencedaily.com/releases/2016/01/160104080041.htm)
 
 - Recent techniques provide real-time access to crowd-based inputs, where individual contributions can be processed by a computer and sent to the next person for improvement or analysis of a different kind
 
 
 ___
 
-Monday, 04. January 2016 04:08PM
-
-**Url:** [http://phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
+**#100** added Monday, 04. January 2016 04:08PM. Link: [http://phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
 
 - getting a large group of unanimous witnesses is so unlikely, according to the laws of probability, that it's more likely that the system is unreliable
 
 
 ___
 
-Saturday, 02. January 2016 05:49PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151223130553.htm](http://www.sciencedaily.com/releases/2015/12/151223130553.htm)
+**#99** added Saturday, 02. January 2016 05:49PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151223130553.htm)
 
 - A system using images and a one-time numerical code could provide a secure and easy to use alternative to multi-factor systems dependent on hardware or software and one-time passwords, a study suggests.
 
 
 ___
 
-Wednesday, 30. December 2015 11:59PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151229204648.htm](http://www.sciencedaily.com/releases/2015/12/151229204648.htm)
+**#98** added Wednesday, 30. December 2015 11:59PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151229204648.htm)
 
 - In race stereotypes, issues are not so black and white
 
 
 ___
 
-Wednesday, 30. December 2015 07:42PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151223134123.htm](http://www.sciencedaily.com/releases/2015/12/151223134123.htm)
+**#97** added Wednesday, 30. December 2015 07:42PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151223134123.htm)
 
 - New research using computational neuroscience has unraveled a longstanding mystery of a fundamental property of the brain, topographic organization. The research shows that in the case of pathology, brain maps may undergo re-organization and their discontinuity can be quantified, allowing them to serve as a biomarker for detecting neuropsychiatric disease.
 
 
 ___
 
-Wednesday, 30. December 2015 12:44AM
-
-**Url:** [http://www.sciencealert.com/how-to-keep-your-new-year-s-resolutions-according-to-science](http://www.sciencealert.com/how-to-keep-your-new-year-s-resolutions-according-to-science)
+**#96** added Wednesday, 30. December 2015 12:44AM. Link: [http://www.sciencealert.com/how-to-keep-your-ne...](http://www.sciencealert.com/how-to-keep-your-new-year-s-resolutions-according-to-science)
 
 - the number one thing to stop relying on is your own willpower
 
@@ -5597,18 +4764,14 @@ Wednesday, 30. December 2015 12:44AM
 
 ___
 
-Wednesday, 30. December 2015 01:25AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151229070713.htm](http://www.sciencedaily.com/releases/2015/12/151229070713.htm)
+**#95** added Wednesday, 30. December 2015 01:25AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151229070713.htm)
 
 - Social, telepresence robots revealed by scientists
 
 
 ___
 
-Saturday, 26. December 2015 01:40PM
-
-**Url:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/)
+**#94** added Saturday, 26. December 2015 01:40PM. Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC46...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/)
 
 - Pills or Push-Ups? Effectiveness and Public Perception of Pharmacological and Non-Pharmacological Cognitive Enhancement
 
@@ -5619,45 +4782,35 @@ Saturday, 26. December 2015 01:40PM
 
 ___
 
-Thursday, 24. December 2015 03:05AM
-
-**Url:** [http://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is](http://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is)
+**#93** added Thursday, 24. December 2015 03:05AM. Link: [http://www.sciencealert.com/here-s-why-evolutio...](http://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is)
 
 - natural selection can change its own ability to evolve
 
 
 ___
 
-Thursday, 24. December 2015 02:07AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151223165503.htm](http://www.sciencedaily.com/releases/2015/12/151223165503.htm)
+**#92** added Thursday, 24. December 2015 02:07AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151223165503.htm)
 
 - Imagine standing on a basketball court, throwing the basketball and watching it arc into the net. Chances are you’ll make that shot without a problem if you’ve been practicing, according to new research.
 
 
 ___
 
-Monday, 21. December 2015 11:53PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151218084602.htm](http://www.sciencedaily.com/releases/2015/12/151218084602.htm)
+**#91** added Monday, 21. December 2015 11:53PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151218084602.htm)
 
 - George Loewenstein and Duane Seppi first introduced the 'ostrich effect' in 2009 to describe how investors 'put their heads in the sand' to dodge facing their financial portfolios when they're expecting bad news.
 
 
 ___
 
-Monday, 21. December 2015 09:39PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151221194128.htm](http://www.sciencedaily.com/releases/2015/12/151221194128.htm)
+**#90** added Monday, 21. December 2015 09:39PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151221194128.htm)
 
 - Researchers have shown that material purchases, from sweaters to skateboards, provide more frequent happiness over time, whereas experiential purchases, like a trip to the zoo, provide more intense happiness on individual occasions.
 
 
 ___
 
-Sunday, 20. December 2015 09:46PM
-
-**Url:** [http://www.sciencealert.com/researchers-have-proved-that-a-fundamental-quantum-physics-problem-really-is-unsolvable](http://www.sciencealert.com/researchers-have-proved-that-a-fundamental-quantum-physics-problem-really-is-unsolvable)
+**#89** added Sunday, 20. December 2015 09:46PM. Link: [http://www.sciencealert.com/researchers-have-pr...](http://www.sciencealert.com/researchers-have-proved-that-a-fundamental-quantum-physics-problem-really-is-unsolvable)
 
 - The reason this problem is impossible to solve in general is because models at this level exhibit extremely bizarre behaviour that essentially defeats any attempt to analyse them
 
@@ -5666,36 +4819,28 @@ Sunday, 20. December 2015 09:46PM
 
 ___
 
-Saturday, 19. December 2015 05:00PM
-
-**Url:** [http://www.ncbi.nlm.nih.gov/pubmed/26681262](http://www.ncbi.nlm.nih.gov/pubmed/26681262)
+**#88** added Saturday, 19. December 2015 05:00PM. Link: [http://www.ncbi.nlm.nih.gov/pubmed/26681262](http://www.ncbi.nlm.nih.gov/pubmed/26681262)
 
 - A take-home placebo treatment can reduce stress, anxiety and symptoms of depression in a non-patient population.
 
 
 ___
 
-Saturday, 19. December 2015 12:39AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151216115823.htm](http://www.sciencedaily.com/releases/2015/12/151216115823.htm)
+**#87** added Saturday, 19. December 2015 12:39AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151216115823.htm)
 
 - Study participants with anemia, defined as haemoglobin <13 g/dl in men and <12 g/dl in women, showed lower performances in verbal memory and executive functions.
 
 
 ___
 
-Friday, 18. December 2015 05:44AM
-
-**Url:** [http://www.sciencealert.com/a-common-face-cream-ingredient-might-help-us-live-longer-study-finds](http://www.sciencealert.com/a-common-face-cream-ingredient-might-help-us-live-longer-study-finds)
+**#86** added Friday, 18. December 2015 05:44AM. Link: [http://www.sciencealert.com/a-common-face-cream...](http://www.sciencealert.com/a-common-face-cream-ingredient-might-help-us-live-longer-study-finds)
 
 - Researchers in the UK have found that allantoin, a chemical compound found in botanical extracts of the comfrey plant and an ingredient in many anti-ageing skin creams, can increase the lifespan of certain worms by more than 20 percent 
 
 
 ___
 
-Thursday, 17. December 2015 04:44PM
-
-**Url:** [http://www.sciencealert.com/dogs-give-food-to-their-friends-in-first-of-its-kind-study](http://www.sciencealert.com/dogs-give-food-to-their-friends-in-first-of-its-kind-study)
+**#85** added Thursday, 17. December 2015 04:44PM. Link: [http://www.sciencealert.com/dogs-give-food-to-t...](http://www.sciencealert.com/dogs-give-food-to-their-friends-in-first-of-its-kind-study)
 
 - The researchers found that dogs, in the absence of any ulterior motive, do indeed exhibit prosocial behaviour, by voluntarily giving food to other dogs.
 
@@ -5704,27 +4849,21 @@ Thursday, 17. December 2015 04:44PM
 
 ___
 
-Monday, 14. December 2015 06:17PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151209091224.htm](http://www.sciencedaily.com/releases/2015/12/151209091224.htm)
+**#84** added Monday, 14. December 2015 06:17PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151209091224.htm)
 
 - Why send a message back in time, but lock it so that no one can ever read the contents? Because it may be the key to solving currently intractable problems.
 
 
 ___
 
-Monday, 14. December 2015 06:13PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151214145956.htm](http://www.sciencedaily.com/releases/2015/12/151214145956.htm)
+**#83** added Monday, 14. December 2015 06:13PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151214145956.htm)
 
 - People with tinnitus who are less bothered by their symptoms use different brain regions when processing emotional information, new research indicates
 
 
 ___
 
-Monday, 14. December 2015 01:07AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151211131546.htm](http://www.sciencedaily.com/releases/2015/12/151211131546.htm)
+**#82** added Monday, 14. December 2015 01:07AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151211131546.htm)
 
 - Ghent University researchers found that food labels influence the perception of flavour. Light products are considered less tasty
 
@@ -5733,9 +4872,7 @@ Monday, 14. December 2015 01:07AM
 
 ___
 
-Monday, 14. December 2015 12:56AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151211131723.htm](http://www.sciencedaily.com/releases/2015/12/151211131723.htm)
+**#81** added Monday, 14. December 2015 12:56AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151211131723.htm)
 
 - Getting enough sleep is an essential part of any athlete’s training program, but a new study reveals intensive bouts of exercise can make it hard to get 40 winks
 
@@ -5748,36 +4885,28 @@ Monday, 14. December 2015 12:56AM
 
 ___
 
-Monday, 14. December 2015 12:46AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151211130057.htm](http://www.sciencedaily.com/releases/2015/12/151211130057.htm)
+**#80** added Monday, 14. December 2015 12:46AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151211130057.htm)
 
 - Switzerland has honest students: The vast majority of the students that were questioned were against pharmacological cognitive enhancement.
 
 
 ___
 
-Sunday, 13. December 2015 08:55PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151209091359.htm](http://www.sciencedaily.com/releases/2015/12/151209091359.htm)
+**#79** added Sunday, 13. December 2015 08:55PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151209091359.htm)
 
 - Low wages rather than inadequate training are to blame for the STEM skills gap
 
 
 ___
 
-Sunday, 13. December 2015 08:51PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151210181933.htm](http://www.sciencedaily.com/releases/2015/12/151210181933.htm)
+**#78** added Sunday, 13. December 2015 08:51PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151210181933.htm)
 
 - Employee overqualification has been widely considered harmful for organizations, which is why most companies tend to screen out such job applicants. Research suggests, however, that hiring overqualified employees brings benefits.
 
 
 ___
 
-Saturday, 12. December 2015 04:44PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151208184335.htm](http://www.sciencedaily.com/releases/2015/12/151208184335.htm)
+**#77** added Saturday, 12. December 2015 04:44PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151208184335.htm)
 
 - Concentrating attention on a visual task can render you momentarily 'deaf' to sounds at normal levels
 
@@ -5788,9 +4917,7 @@ Saturday, 12. December 2015 04:44PM
 
 ___
 
-Saturday, 12. December 2015 04:41PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151210144912.htm](http://www.sciencedaily.com/releases/2015/12/151210144912.htm)
+**#76** added Saturday, 12. December 2015 04:41PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151210144912.htm)
 
 - Apigenin, a substance found in parsley, thyme, chamomile and red pepper, improves neuron formation and strengthens the connections between brain cells, new lab research demonstrates.
 
@@ -5801,63 +4928,49 @@ Saturday, 12. December 2015 04:41PM
 
 ___
 
-Saturday, 12. December 2015 04:38PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151210144543.htm](http://www.sciencedaily.com/releases/2015/12/151210144543.htm)
+**#75** added Saturday, 12. December 2015 04:38PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151210144543.htm)
 
 - Research-funded Ph.D. recipients earn high wages after graduation, participate in national and international labor markets, and make an important impact on local economic development, according to a new study.
 
 
 ___
 
-Saturday, 12. December 2015 04:29PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151210181622.htm](http://www.sciencedaily.com/releases/2015/12/151210181622.htm)
+**#74** added Saturday, 12. December 2015 04:29PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151210181622.htm)
 
 - Sensation seeking, or the tendency to seek out exciting experiences, has been linked to addiction. 
 
 
 ___
 
-Saturday, 12. December 2015 04:26PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151209183550.htm](http://www.sciencedaily.com/releases/2015/12/151209183550.htm)
+**#73** added Saturday, 12. December 2015 04:26PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151209183550.htm)
 
 - The increasing use of plus-sized models in advertising campaigns may be contributing to growing rates of obesity, suggests a Canadian new study.
 
 
 ___
 
-Friday, 11. December 2015 08:44PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151208094229.htm](http://www.sciencedaily.com/releases/2015/12/151208094229.htm)
+**#72** added Friday, 11. December 2015 08:44PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151208094229.htm)
 
 - Text messages that end in a period seen as less sincere
 
 
 ___
 
-Friday, 11. December 2015 08:41PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151210031206.htm](http://www.sciencedaily.com/releases/2015/12/151210031206.htm)
+**#71** added Friday, 11. December 2015 08:41PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151210031206.htm)
 
 - By studying videos from high-stakes court cases, researchers are building unique lie-detecting software based on real-world data.
 
 
 ___
 
-Friday, 11. December 2015 08:35PM
-
-**Url:** [http://news.sciencemag.org/health/2015/12/most-dangerous-pathogens-according-who](http://news.sciencemag.org/health/2015/12/most-dangerous-pathogens-according-who)
+**#70** added Friday, 11. December 2015 08:35PM. Link: [http://news.sciencemag.org/health/2015/12/most-...](http://news.sciencemag.org/health/2015/12/most-dangerous-pathogens-according-who)
 
 - Ebola, Marburg, severe acute respiratory syndrome, Middle East respiratory syndrome, Nipah, Lassa fever, Rift Valley fever, and Crimean Congo haemorrhagic fever
 
 
 ___
 
-Monday, 07. December 2015 08:39PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151207113900.htm](http://www.sciencedaily.com/releases/2015/12/151207113900.htm)
+**#69** added Monday, 07. December 2015 08:39PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151207113900.htm)
 
 - Men's interest in babies linked with hormonal responses to sexual stimuli
 
@@ -5866,9 +4979,7 @@ Monday, 07. December 2015 08:39PM
 
 ___
 
-Monday, 07. December 2015 08:01PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151207081815.htm](http://www.sciencedaily.com/releases/2015/12/151207081815.htm)
+**#68** added Monday, 07. December 2015 08:01PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151207081815.htm)
 
 - System combines biological ion channels with solid-state transistors to create a new kind of electronics
 
@@ -5877,45 +4988,35 @@ Monday, 07. December 2015 08:01PM
 
 ___
 
-Monday, 07. December 2015 07:54PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151207131728.htm](http://www.sciencedaily.com/releases/2015/12/151207131728.htm)
+**#67** added Monday, 07. December 2015 07:54PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151207131728.htm)
 
 - Study links Facebook connections, alcohol use in college-aged females
 
 
 ___
 
-Monday, 07. December 2015 07:39PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151207113957.htm](http://www.sciencedaily.com/releases/2015/12/151207113957.htm)
+**#66** added Monday, 07. December 2015 07:39PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151207113957.htm)
 
 - New untraceable messaging system comes with statistical guarantees
 
 
 ___
 
-Monday, 07. December 2015 07:38PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151207113959.htm](http://www.sciencedaily.com/releases/2015/12/151207113959.htm)
+**#65** added Monday, 07. December 2015 07:38PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151207113959.htm)
 
 - New study of Twitter use during social protests finds that a critical periphery of 'slacktivists' greatly amplify a movement's message
 
 
 ___
 
-Sunday, 06. December 2015 10:06PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151109084319.htm](http://www.sciencedaily.com/releases/2015/11/151109084319.htm)
+**#64** added Sunday, 06. December 2015 10:06PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151109084319.htm)
 
 - New research reveals that being pleasantly surprised or disappointed with a food product can actually change a person's mood.
 
 
 ___
 
-Sunday, 06. December 2015 10:01PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151109083415.htm](http://www.sciencedaily.com/releases/2015/11/151109083415.htm)
+**#63** added Sunday, 06. December 2015 10:01PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151109083415.htm)
 
 - Don't delay: Having to wait doesn't help young kids exercise self-control
 
@@ -5924,9 +5025,7 @@ Sunday, 06. December 2015 10:01PM
 
 ___
 
-Sunday, 06. December 2015 10:00PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151109110501.htm](http://www.sciencedaily.com/releases/2015/11/151109110501.htm)
+**#62** added Sunday, 06. December 2015 10:00PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151109110501.htm)
 
 - Positive emotions more contagious than negative ones on Twitter
 
@@ -5935,9 +5034,7 @@ Sunday, 06. December 2015 10:00PM
 
 ___
 
-Sunday, 06. December 2015 09:40PM
-
-**Url:** [http://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/](http://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/)
+**#61** added Sunday, 06. December 2015 09:40PM. Link: [http://www.scientificamerican.com/article/hunge...](http://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/)
 
 - As it turned out, the satiated group requested fewer binder clips than the hungry group. Once again, those who were hungry wanted more stuff
 
@@ -5946,45 +5043,35 @@ Sunday, 06. December 2015 09:40PM
 
 ___
 
-Sunday, 06. December 2015 09:36PM
-
-**Url:** [http://phys.org/news/2015-11-forge-proof-id-revolutionise.html](http://phys.org/news/2015-11-forge-proof-id-revolutionise.html)
+**#60** added Sunday, 06. December 2015 09:36PM. Link: [http://phys.org/news/2015-11-forge-proof-id-rev...](http://phys.org/news/2015-11-forge-proof-id-revolutionise.html)
 
 - uses atomic-scale imperfections that are impossible to clone as they comprise the unmanipulable building blocks of matter
 
 
 ___
 
-Sunday, 06. December 2015 09:31PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151110102344.htm](http://www.sciencedaily.com/releases/2015/11/151110102344.htm)
+**#59** added Sunday, 06. December 2015 09:31PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151110102344.htm)
 
 - New research suggests that our brain rewards us for looking at pretty faces.
 
 
 ___
 
-Sunday, 06. December 2015 09:26PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151109085103.htm](http://www.sciencedaily.com/releases/2015/11/151109085103.htm)
+**#58** added Sunday, 06. December 2015 09:26PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151109085103.htm)
 
 - Blood-brain barrier opened non-invasively with focused ultrasound for the first time
 
 
 ___
 
-Sunday, 06. December 2015 09:16PM
-
-**Url:** [http://www.scientificamerican.com/article/new-experiences-can-strengthen-old-memories/](http://www.scientificamerican.com/article/new-experiences-can-strengthen-old-memories/)
+**#57** added Sunday, 06. December 2015 09:16PM. Link: [http://www.scientificamerican.com/article/new-e...](http://www.scientificamerican.com/article/new-experiences-can-strengthen-old-memories/)
 
 - New evidence suggests that our initially weak memories are maintained by the brain for a period, during which they can be enhanced.
 
 
 ___
 
-Sunday, 06. December 2015 09:09PM
-
-**Url:** [http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/](http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/)
+**#56** added Sunday, 06. December 2015 09:09PM. Link: [http://www.scientificamerican.com/article/why-w...](http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/)
 
 - people with certain extreme pathological personality traits fare well in the game of love
 
@@ -5995,9 +5082,7 @@ Sunday, 06. December 2015 09:09PM
 
 ___
 
-Sunday, 06. December 2015 07:33PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151113051128.htm](http://www.sciencedaily.com/releases/2015/11/151113051128.htm)
+**#55** added Sunday, 06. December 2015 07:33PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151113051128.htm)
 
 - Eating sweet foods causes the brain to form a memory of a meal
 
@@ -6010,18 +5095,14 @@ Sunday, 06. December 2015 07:33PM
 
 ___
 
-Sunday, 06. December 2015 07:24PM
-
-**Url:** [http://lifehacker.com/if-you-cant-come-up-with-a-good-idea-put-two-other-ide-1741616445](http://lifehacker.com/if-you-cant-come-up-with-a-good-idea-put-two-other-ide-1741616445)
+**#54** added Sunday, 06. December 2015 07:24PM. Link: [http://lifehacker.com/if-you-cant-come-up-with-...](http://lifehacker.com/if-you-cant-come-up-with-a-good-idea-put-two-other-ide-1741616445)
 
 - take two concepts, regardless of whether they belong together, and see what you can make out of it
 
 
 ___
 
-Sunday, 06. December 2015 07:16PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151113050938.htm](http://www.sciencedaily.com/releases/2015/11/151113050938.htm)
+**#53** added Sunday, 06. December 2015 07:16PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151113050938.htm)
 
 - Brain structure may be root of apathy
 
@@ -6032,18 +5113,14 @@ Sunday, 06. December 2015 07:16PM
 
 ___
 
-Sunday, 06. December 2015 07:13PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151113050945.htm](http://www.sciencedaily.com/releases/2015/11/151113050945.htm)
+**#52** added Sunday, 06. December 2015 07:13PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151113050945.htm)
 
 - Scientists work with artists to learn more about the brain
 
 
 ___
 
-Sunday, 06. December 2015 07:10PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151111165436.htm](http://www.sciencedaily.com/releases/2015/11/151111165436.htm)
+**#51** added Sunday, 06. December 2015 07:10PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151111165436.htm)
 
 - Apologies are important to children who are 6 or 7 years old, an age when they are undergoing dramatic and important changes in cognitive development, a new project confirms.
 
@@ -6054,27 +5131,21 @@ Sunday, 06. December 2015 07:10PM
 
 ___
 
-Sunday, 06. December 2015 07:05PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151113115607.htm](http://www.sciencedaily.com/releases/2015/11/151113115607.htm)
+**#50** added Sunday, 06. December 2015 07:05PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151113115607.htm)
 
 - The notion that older people are happier than younger people is being challenged following a recent study. In fact it suggests that people get more depressed from age 65 onwards.
 
 
 ___
 
-Sunday, 06. December 2015 04:24PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203142549.htm](http://www.sciencedaily.com/releases/2015/12/151203142549.htm)
+**#49** added Sunday, 06. December 2015 04:24PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203142549.htm)
 
 - A research team has discovered that when a rare type of glial cells, called NG2 glia, are depleted from the brain in mice, depressive-like behaviors occur.
 
 
 ___
 
-Saturday, 05. December 2015 10:45PM
-
-**Url:** [http://www.fastcodesign.com/3053694/where-ideas-actually-come-from](http://www.fastcodesign.com/3053694/where-ideas-actually-come-from)
+**#48** added Saturday, 05. December 2015 10:45PM. Link: [http://www.fastcodesign.com/3053694/where-ideas...](http://www.fastcodesign.com/3053694/where-ideas-actually-come-from)
 
 - 1. Relentless Brainstorming
 
@@ -6083,9 +5154,7 @@ Saturday, 05. December 2015 10:45PM
 
 ___
 
-Saturday, 05. December 2015 10:37PM
-
-**Url:** [http://www.scientificamerican.com/article/the-surprising-problem-of-too-much-talent/](http://www.scientificamerican.com/article/the-surprising-problem-of-too-much-talent/)
+**#47** added Saturday, 05. December 2015 10:37PM. Link: [http://www.scientificamerican.com/article/the-s...](http://www.scientificamerican.com/article/the-surprising-problem-of-too-much-talent/)
 
 - Why is too much talent a bad thing? Think teamwork.
 
@@ -6094,9 +5163,7 @@ Saturday, 05. December 2015 10:37PM
 
 ___
 
-Saturday, 05. December 2015 10:04PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203140007.htm](http://www.sciencedaily.com/releases/2015/12/151203140007.htm)
+**#46** added Saturday, 05. December 2015 10:04PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203140007.htm)
 
 - Color affects ethical judgments of brands, research suggests
 
@@ -6105,45 +5172,35 @@ Saturday, 05. December 2015 10:04PM
 
 ___
 
-Saturday, 05. December 2015 05:57PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151204183630.htm](http://www.sciencedaily.com/releases/2015/12/151204183630.htm)
+**#45** added Saturday, 05. December 2015 05:57PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151204183630.htm)
 
 - A new, open-source software that can help track the embryonic development and movement of neuronal cells throughout the body of the worm, is now available to scientists.
 
 
 ___
 
-Saturday, 05. December 2015 04:56PM
-
-**Url:** [https://medium.com/life-tips/using-evernote-the-right-way-ef61f530d1ad#.imsxcietf](https://medium.com/life-tips/using-evernote-the-right-way-ef61f530d1ad#.imsxcietf)
+**#44** added Saturday, 05. December 2015 04:56PM. Link: [https://medium.com/life-tips/using-evernote-the...](https://medium.com/life-tips/using-evernote-the-right-way-ef61f530d1ad#.imsxcietf)
 
 - The key: Tags, not notebooks.
 
 
 ___
 
-Saturday, 05. December 2015 04:53PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/04/150410165344.htm](http://www.sciencedaily.com/releases/2015/04/150410165344.htm)
+**#43** added Saturday, 05. December 2015 04:53PM. Link: [http://www.sciencedaily.com/releases/2015/04/15...](http://www.sciencedaily.com/releases/2015/04/150410165344.htm)
 
 - Study of processing speed impact on cognitive training
 
 
 ___
 
-Saturday, 05. December 2015 04:52PM
-
-**Url:** [http://tobyrush.com/theorypages/index.html](http://tobyrush.com/theorypages/index.html)
+**#42** added Saturday, 05. December 2015 04:52PM. Link: [http://tobyrush.com/theorypages/index.html](http://tobyrush.com/theorypages/index.html)
 
 - Music Theory for Musicians and Normal People
 
 
 ___
 
-Saturday, 05. December 2015 04:49PM
-
-**Url:** [http://www.sciencedaily.com/releases/2014/09/140916111907.htm](http://www.sciencedaily.com/releases/2014/09/140916111907.htm)
+**#41** added Saturday, 05. December 2015 04:49PM. Link: [http://www.sciencedaily.com/releases/2014/09/14...](http://www.sciencedaily.com/releases/2014/09/140916111907.htm)
 
 - A new study finds that simply categorizing experiences can help consumers extend good experiences and shorten the bad ones
 
@@ -6152,9 +5209,7 @@ Saturday, 05. December 2015 04:49PM
 
 ___
 
-Saturday, 05. December 2015 04:47PM
-
-**Url:** [http://www.sciencedaily.com/releases/2014/10/141020212754.htm](http://www.sciencedaily.com/releases/2014/10/141020212754.htm)
+**#40** added Saturday, 05. December 2015 04:47PM. Link: [http://www.sciencedaily.com/releases/2014/10/14...](http://www.sciencedaily.com/releases/2014/10/141020212754.htm)
 
 - Mental rest and reflection boost learning, study suggests
 
@@ -6163,9 +5218,7 @@ Saturday, 05. December 2015 04:47PM
 
 ___
 
-Saturday, 05. December 2015 04:46PM
-
-**Url:** [http://www.sciencedaily.com/releases/2014/10/141030114749.htm](http://www.sciencedaily.com/releases/2014/10/141030114749.htm)
+**#39** added Saturday, 05. December 2015 04:46PM. Link: [http://www.sciencedaily.com/releases/2014/10/14...](http://www.sciencedaily.com/releases/2014/10/141030114749.htm)
 
 - Can parents make their kids smarter?
 
@@ -6176,9 +5229,7 @@ Saturday, 05. December 2015 04:46PM
 
 ___
 
-Friday, 04. December 2015 10:28PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/04/150428171404.htm](http://www.sciencedaily.com/releases/2015/04/150428171404.htm)
+**#38** added Friday, 04. December 2015 10:28PM. Link: [http://www.sciencedaily.com/releases/2015/04/15...](http://www.sciencedaily.com/releases/2015/04/150428171404.htm)
 
 - Switching on one-shot learning in the brain
 
@@ -6187,27 +5238,21 @@ Friday, 04. December 2015 10:28PM
 
 ___
 
-Friday, 04. December 2015 10:26PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/03/150303153222.htm](http://www.sciencedaily.com/releases/2015/03/150303153222.htm)
+**#37** added Friday, 04. December 2015 10:26PM. Link: [http://www.sciencedaily.com/releases/2015/03/15...](http://www.sciencedaily.com/releases/2015/03/150303153222.htm)
 
 - "Leaky" sensory gating, the propensity to filter out "irrelevant" sensory information, happens early, and involuntarily, in brain processing and may help people integrate ideas that are outside of the focus of attention, leading to creativity in the real world
 
 
 ___
 
-Friday, 04. December 2015 10:24PM
-
-**Url:** [https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
+**#36** added Friday, 04. December 2015 10:24PM. Link: [https://en.wikipedia.org/wiki/Yerkes%E2%80%93Do...](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
 
 -  difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation)
 
 
 ___
 
-Friday, 04. December 2015 08:47PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151130131847.htm](http://www.sciencedaily.com/releases/2015/11/151130131847.htm)
+**#35** added Friday, 04. December 2015 08:47PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151130131847.htm)
 
 - How funny is this word? The 'snunkoople' effect
 
@@ -6216,9 +5261,7 @@ Friday, 04. December 2015 08:47PM
 
 ___
 
-Friday, 04. December 2015 07:32PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/10/151005121422.htm](http://www.sciencedaily.com/releases/2015/10/151005121422.htm)
+**#34** added Friday, 04. December 2015 07:32PM. Link: [http://www.sciencedaily.com/releases/2015/10/15...](http://www.sciencedaily.com/releases/2015/10/151005121422.htm)
 
 - Training by repetition actually prevents learning for those with autism
 
@@ -6227,27 +5270,21 @@ Friday, 04. December 2015 07:32PM
 
 ___
 
-Friday, 04. December 2015 07:32PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/10/151006142422.htm](http://www.sciencedaily.com/releases/2015/10/151006142422.htm)
+**#33** added Friday, 04. December 2015 07:32PM. Link: [http://www.sciencedaily.com/releases/2015/10/15...](http://www.sciencedaily.com/releases/2015/10/151006142422.htm)
 
 - Repeating aloud boosts verbal memory, especially when you do it while addressing another person.
 
 
 ___
 
-Friday, 04. December 2015 03:41PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203183346.htm](http://www.sciencedaily.com/releases/2015/12/151203183346.htm)
+**#32** added Friday, 04. December 2015 03:41PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203183346.htm)
 
 - First worldwide survey of religion and science: No, not all scientists are atheists
 
 
 ___
 
-Friday, 04. December 2015 03:40PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203111215.htm](http://www.sciencedaily.com/releases/2015/12/151203111215.htm)
+**#31** added Friday, 04. December 2015 03:40PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203111215.htm)
 
 - researchers have determined the amount of weight people need to gain or lose before others notice or find them more attractive.
 
@@ -6258,9 +5295,7 @@ Friday, 04. December 2015 03:40PM
 
 ___
 
-Friday, 04. December 2015 03:25PM
-
-**Url:** [http://www.wired.com/2015/12/japanese-barely-eat-whale-whaling-big-deal/](http://www.wired.com/2015/12/japanese-barely-eat-whale-whaling-big-deal/)
+**#30** added Friday, 04. December 2015 03:25PM. Link: [http://www.wired.com/2015/12/japanese-barely-ea...](http://www.wired.com/2015/12/japanese-barely-eat-whale-whaling-big-deal/)
 
 - From the Japanese perspective, banning whaling before banning the killing of other animals is a bit logically inconsistent. If your argument is about conservation, then bluefin tuna, a far more important part of the Japanese diet, is also far more endangered
 
@@ -6269,18 +5304,14 @@ Friday, 04. December 2015 03:25PM
 
 ___
 
-Friday, 04. December 2015 03:22PM
-
-**Url:** [https://www.newscientist.com/article/dn28626-birds-prefer-to-eat-at-outdoor-cafes-with-slow-plate-clearing/](https://www.newscientist.com/article/dn28626-birds-prefer-to-eat-at-outdoor-cafes-with-slow-plate-clearing/)
+**#29** added Friday, 04. December 2015 03:22PM. Link: [https://www.newscientist.com/article/dn28626-bi...](https://www.newscientist.com/article/dn28626-birds-prefer-to-eat-at-outdoor-cafes-with-slow-plate-clearing/)
 
 - Haemig thinks that foraging where humans are present is a behaviour that evolved several times
 
 
 ___
 
-Friday, 04. December 2015 11:38AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151204090045.htm](http://www.sciencedaily.com/releases/2015/12/151204090045.htm)
+**#28** added Friday, 04. December 2015 11:38AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151204090045.htm)
 
 - New research helps explain the paradox of why we are quick to blame people but slow to credit them for their actions. 
 
@@ -6289,45 +5320,35 @@ Friday, 04. December 2015 11:38AM
 
 ___
 
-Friday, 04. December 2015 12:12AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/02/150212212100.htm](http://www.sciencedaily.com/releases/2015/02/150212212100.htm)
+**#27** added Friday, 04. December 2015 12:12AM. Link: [http://www.sciencedaily.com/releases/2015/02/15...](http://www.sciencedaily.com/releases/2015/02/150212212100.htm)
 
 - Choosing a screen name with a letter starting in the top half of the alphabet is as important as an attractive photo and a fluent headline in the online dating game, reveals an analysis of the best ways of finding love in the digital world.
 
 
 ___
 
-Thursday, 03. December 2015 10:52PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202095115.htm](http://www.sciencedaily.com/releases/2015/12/151202095115.htm)
+**#26** added Thursday, 03. December 2015 10:52PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202095115.htm)
 
 - We change after we start dating, study suggests
 
 
 ___
 
-Thursday, 03. December 2015 10:50PM
-
-**Url:** [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
+**#25** added Thursday, 03. December 2015 10:50PM. Link: [http://arxiv.org/abs/1512.00567](http://arxiv.org/abs/1512.00567)
 
 - Rethinking the Inception Architecture for Computer Vision
 
 
 ___
 
-Thursday, 03. December 2015 10:19PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203150241.htm](http://www.sciencedaily.com/releases/2015/12/151203150241.htm)
+**#24** added Thursday, 03. December 2015 10:19PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203150241.htm)
 
 - A new detailed map of the hippocampal region of the brain is helping the scientific community accelerate research and develop better treatments for patients suffering from epilepsy and other neurological and psychiatric disorders.
 
 
 ___
 
-Thursday, 03. December 2015 09:39PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203082207.htm](http://www.sciencedaily.com/releases/2015/12/151203082207.htm)
+**#23** added Thursday, 03. December 2015 09:39PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203082207.htm)
 
 - Cannabis increases the noise in your brain
 
@@ -6336,18 +5357,14 @@ Thursday, 03. December 2015 09:39PM
 
 ___
 
-Thursday, 03. December 2015 08:27PM
-
-**Url:** [http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/](http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/)
+**#22** added Thursday, 03. December 2015 08:27PM. Link: [http://blog.kaggle.com/2015/12/03/dato-winners-...](http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/)
 
 - Meta-modelling. Stacked generalization in a multi-layered fashion. As described in the Stacked Generalization paper, the output of a stacker model can serve as the input for yet another stacker model. We did this for 3 levels as it kept increasing our AUC score.
 
 
 ___
 
-Thursday, 03. December 2015 08:09PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202124607.htm](http://www.sciencedaily.com/releases/2015/12/151202124607.htm)
+**#21** added Thursday, 03. December 2015 08:09PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202124607.htm)
 
 - Quantum computer made of standard semiconductor materials
 Magnetic field helps qubit electrons store information longer
@@ -6355,18 +5372,14 @@ Magnetic field helps qubit electrons store information longer
 
 ___
 
-Thursday, 03. December 2015 08:08PM
-
-**Url:** [https://www.newscientist.com/article/dn28436-death-rates-rise-among-white-middle-aged-us-citizens/](https://www.newscientist.com/article/dn28436-death-rates-rise-among-white-middle-aged-us-citizens/)
+**#20** added Thursday, 03. December 2015 08:08PM. Link: [https://www.newscientist.com/article/dn28436-de...](https://www.newscientist.com/article/dn28436-death-rates-rise-among-white-middle-aged-us-citizens/)
 
 - A heady mix of booze, drug addiction and financial anxiety is dragging white, middle-aged people in the US to an early grave.
 
 
 ___
 
-Thursday, 03. December 2015 08:06PM
-
-**Url:** [https://www.newscientist.com/article/dn28467-alzheimers-drug-found-to-cause-harm-to-mouse-brain-cells/](https://www.newscientist.com/article/dn28467-alzheimers-drug-found-to-cause-harm-to-mouse-brain-cells/)
+**#19** added Thursday, 03. December 2015 08:06PM. Link: [https://www.newscientist.com/article/dn28467-al...](https://www.newscientist.com/article/dn28467-alzheimers-drug-found-to-cause-harm-to-mouse-brain-cells/)
 
 - But in mice with a version of Alzheimer’s, antibodies that work the same way seem to make brain cells hyperactive and then eventually stop functioning
 
@@ -6375,45 +5388,35 @@ Thursday, 03. December 2015 08:06PM
 
 ___
 
-Thursday, 03. December 2015 07:59PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203081228.htm](http://www.sciencedaily.com/releases/2015/12/151203081228.htm)
+**#18** added Thursday, 03. December 2015 07:59PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203081228.htm)
 
 - Charisma may rely on quick thinking, according to new research. The research shows that people who were able to respond more quickly to general knowledge questions and visual tasks were perceived as more charismatic by their friends, independently of IQ and other personality traits.
 
 
 ___
 
-Thursday, 03. December 2015 07:49PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203111337.htm](http://www.sciencedaily.com/releases/2015/12/151203111337.htm)
+**#17** added Thursday, 03. December 2015 07:49PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203111337.htm)
 
 - Researchers have developed power paper -- a new material with an outstanding ability to store energy. The material consists of nanocellulose and a conductive polymer.
 
 
 ___
 
-Thursday, 03. December 2015 07:43PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203112844.htm](http://www.sciencedaily.com/releases/2015/12/151203112844.htm)
+**#16** added Thursday, 03. December 2015 07:43PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203112844.htm)
 
 - People who have a higher sense of purpose in life are at lower risk of death and cardiovascular disease, reports a pooled data analysis.
 
 
 ___
 
-Thursday, 03. December 2015 03:30PM
-
-**Url:** [http://news.sciencemag.org/health/2015/12/feature-dog-lives-300-years-solving-mysteries-aging-our-pets](http://news.sciencemag.org/health/2015/12/feature-dog-lives-300-years-solving-mysteries-aging-our-pets)
+**#15** added Thursday, 03. December 2015 03:30PM. Link: [http://news.sciencemag.org/health/2015/12/featu...](http://news.sciencemag.org/health/2015/12/feature-dog-lives-300-years-solving-mysteries-aging-our-pets)
 
 - Large dogs like the 70-kilogram Irish Wolfhound are lucky to make it to age 7, whereas tiny pooches like the 4-kilo Papillon can live 10 years longer
 
 
 ___
 
-Thursday, 03. December 2015 03:26PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151203140234.htm](http://www.sciencedaily.com/releases/2015/12/151203140234.htm)
+**#14** added Thursday, 03. December 2015 03:26PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151203140234.htm)
 
 - Using data collected in the 2000s, researchers found that single young women experienced a similar decline in emotional distress when they moved in with a romantic partner or when they went straight to marriage for the first time.
 
@@ -6422,36 +5425,28 @@ Thursday, 03. December 2015 03:26PM
 
 ___
 
-Thursday, 03. December 2015 01:42AM
-
-**Url:** [http://www.sciencealert.com/scientists-have-found-a-link-between-low-intelligence-and-believing-philosophical-quotes](http://www.sciencealert.com/scientists-have-found-a-link-between-low-intelligence-and-believing-philosophical-quotes)
+**#13** added Thursday, 03. December 2015 01:42AM. Link: [http://www.sciencealert.com/scientists-have-fou...](http://www.sciencealert.com/scientists-have-found-a-link-between-low-intelligence-and-believing-philosophical-quotes)
 
 - And just in case you were wondering, yes, the word bullsh*it does appear in the article precisely 200 times, which is likely to be another first.
 
 
 ___
 
-Thursday, 03. December 2015 01:40AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202084741.htm](http://www.sciencedaily.com/releases/2015/12/151202084741.htm)
+**#12** added Thursday, 03. December 2015 01:40AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202084741.htm)
 
 - Industrial design researchers have solved two of the major challenges which prevent everyday items of clothing being turned into power sources for smartphones, tablets and other personal tech.
 
 
 ___
 
-Wednesday, 02. December 2015 10:45PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202084350.htm](http://www.sciencedaily.com/releases/2015/12/151202084350.htm)
+**#11** added Wednesday, 02. December 2015 10:45PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202084350.htm)
 
 - Children of incarcerated mothers are twice as likely to be arrested, convicted and incarcerated as adults, according to a new study
 
 
 ___
 
-Wednesday, 02. December 2015 10:31PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202132515.htm](http://www.sciencedaily.com/releases/2015/12/151202132515.htm)
+**#10** added Wednesday, 02. December 2015 10:31PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202132515.htm)
 
 - Watching a lot of TV and having a low physical activity level as a young adult were associated with worse cognitive function 25 years later in midlife, according to an article.
 
@@ -6460,9 +5455,7 @@ Wednesday, 02. December 2015 10:31PM
 
 ___
 
-Wednesday, 02. December 2015 10:27PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202132657.htm](http://www.sciencedaily.com/releases/2015/12/151202132657.htm)
+**#9** added Wednesday, 02. December 2015 10:27PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202132657.htm)
 
 - New research by behavioral neuroscientists suggests oxytocin may have different effects in men and women -- and in certain circumstances the hormone may actually trigger anxiety.
 
@@ -6471,18 +5464,14 @@ Wednesday, 02. December 2015 10:27PM
 
 ___
 
-Wednesday, 02. December 2015 03:59PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/11/151130111300.htm](http://www.sciencedaily.com/releases/2015/11/151130111300.htm)
+**#8** added Wednesday, 02. December 2015 03:59PM. Link: [http://www.sciencedaily.com/releases/2015/11/15...](http://www.sciencedaily.com/releases/2015/11/151130111300.htm)
 
 - Envy is a key motivator behind Facebook posts, researchers conclude, adding that it contributes to a decrease in mental well-being among users.
 
 
 ___
 
-Wednesday, 02. December 2015 03:53PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151202132521.htm](http://www.sciencedaily.com/releases/2015/12/151202132521.htm)
+**#7** added Wednesday, 02. December 2015 03:53PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151202132521.htm)
 
 - mild alterations in mitochondrial genes, and hence mitochondrial physiology, have large effects on how mammals respond to stressful changes in their environment
 
@@ -6491,18 +5480,14 @@ Wednesday, 02. December 2015 03:53PM
 
 ___
 
-Wednesday, 02. December 2015 09:50AM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151201152310.htm](http://www.sciencedaily.com/releases/2015/12/151201152310.htm)
+**#6** added Wednesday, 02. December 2015 09:50AM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151201152310.htm)
 
 - A rolling DNA-based motor that's 1,000 times faster than any other synthetic DNA motor has been devised by physical chemists, giving it potential for real-world applications, such as disease diagnostics.
 
 
 ___
 
-Wednesday, 02. December 2015 09:42AM
-
-**Url:** [https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/](https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/)
+**#5** added Wednesday, 02. December 2015 09:42AM. Link: [https://www.newscientist.com/article/dn28591-ul...](https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/)
 
 -  They found that the runners’ cartilage seemed to degrade during the first 2500 km of the race.
 But after that distance – around 60 marathons – the cartilage seemed to recover
@@ -6514,27 +5499,21 @@ But after that distance – around 60 marathons – the cartilage seemed to reco
 
 ___
 
-Wednesday, 02. December 2015 09:36AM
-
-**Url:** [http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino](http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino)
+**#4** added Wednesday, 02. December 2015 09:36AM. Link: [http://www.fastcocreate.com/3053961/7-tips-on-e...](http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino)
 
 - What Pixar taught me is to just keep writing even when I’m out of ideas. I learned that if you just keep going back to the well, it will uncork and there will be more.
 
 
 ___
 
-Wednesday, 02. December 2015 09:32AM
-
-**Url:** [http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html](http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html)
+**#3** added Wednesday, 02. December 2015 09:32AM. Link: [http://phys.org/news/2015-12-tiny-particles-var...](http://phys.org/news/2015-12-tiny-particles-varied-unusual-ways.html)
 
 - for a spheroid particle with a refractive index of 3.5, scattering in the forward direction can be maximized if the spheroid's major axis is just over twice the length of its minor axis
 
 
 ___
 
-Wednesday, 02. December 2015 09:03AM
-
-**Url:** [http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html](http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html)
+**#2** added Wednesday, 02. December 2015 09:03AM. Link: [http://phys.org/news/2015-12-physicists-simpler...](http://phys.org/news/2015-12-physicists-simpler-method-magnetic-vortex.html)
 
 - A team of scientists, including physicists from MIPT and the Russian Quantum Centre, have demonstrated a method of exciting magnetic vortices, which could potentially be used in the electronics of the future as information carriers, using less current
 
@@ -6543,8 +5522,6 @@ Wednesday, 02. December 2015 09:03AM
 
 ___
 
-Tuesday, 01. December 2015 09:47PM
-
-**Url:** [http://www.sciencedaily.com/releases/2015/12/151201131715.htm](http://www.sciencedaily.com/releases/2015/12/151201131715.htm)
+**#1** added Tuesday, 01. December 2015 09:47PM. Link: [http://www.sciencedaily.com/releases/2015/12/15...](http://www.sciencedaily.com/releases/2015/12/151201131715.htm)
 
 - A collaboration between developmental psychologists and computer scientists has demonstrated that robots can learn much like babies - by experiencing the world and eventually imitating humans
