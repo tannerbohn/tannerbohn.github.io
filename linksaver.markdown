@@ -4,7 +4,37 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (105), **`research`** (34), **`memories`** (31), **`learn`** (23), **`neurons`** (22), **`participants`** (20), **`studies`** (19), **`researchers`** (19), **`word`** (17), **`neuron`** (17), **`memory`** (16), **`hippocampus`** (16), **`sleep`** (15), **`scientists`** (15), **`cognitive`** (15)
+**Top keywords:** **`brain`** (106), **`research`** (36), **`memories`** (32), **`learn`** (23), **`neurons`** (22), **`studies`** (20), **`participants`** (20), **`researchers`** (19), **`word`** (17), **`neuron`** (17), **`memory`** (16), **`hippocampus`** (16), **`sleep`** (15), **`scientists`** (15), **`cognitive`** (15)
+
+___
+
+**#521** read Thursday, 05. April 2018 08:38PM. Link: [https://www.sciencedaily.com/releases/2018/04/1...](https://www.sciencedaily.com/releases/2018/04/180405093204.htm)
+
+`memories`, `miller`, `capacities`, `load`, `studies`, `research`, `regions`, `memories capacities`
+
+- Maximum working memory capacity -- for instance the total number of images a person can hold in working memory at the same time -- varies by individual but averages about four
+
+- "At peak memory load, the brain signals that maintain memories and guide actions based on these memories, reach their maximum," Pinotsis said. "Above this peak, the same signals break down."
+
+- Visual working memory is distinct for each side of the visual field. People have independent capacities on their left and their right, research has confirmed
+
+
+___
+
+**#520** read Wednesday, 04. April 2018 04:10AM. Link: [https://www.sciencedaily.com/releases/2018/03/1...](https://www.sciencedaily.com/releases/2018/03/180329141012.htm)
+
+`brain`, `wave`, `actively`, `ultra slow wave`, `slow`, `research`, `mri`, `electrical actively`
+
+- If you keep a close eye on an MRI scan of the brain, you'll see a wave pass through the entire brain like a heartbeat once every few seconds
+
+- like waves in the sea, with everything the brain does taking place in boats upon that sea. Research to date has been focused on the goings-on inside the boats, without much thought for the sea itself. But the new information suggests that the waves play a central role in how the complex brain coordinates itself and that the waves are directly linked to consciousness.
+
+- These slowly varying signals in the brain are a way to get a very large-scale coordination of the activities in all the diverse areas of the brain
+
+- found that the ultra-slow waves spontaneously started in a deep layer of mice's brains and spread in a predictable trajectory. As the waves passed through each area of the brain, they enhanced the electrical activity there. Neurons fired more enthusiastically when a wave was in the vicinity
+
+- the ultra-slow waves persisted when the mice were put under general anesthesia, but with the direction of the waves reversed.
+
 
 ___
 
