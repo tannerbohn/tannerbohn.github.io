@@ -4,7 +4,83 @@ comments: false
 title:  "PaperSaver"
 permalink: /papersaver/
 ---
-**Top keywords:** **`model`** (20), **`learn`** (14), **`neural`** (8), **`approach`** (7), **`sentence`** (7), **`network`** (6), **`sequence`** (6), **`word`** (5), **`neural network`** (5), **`text`** (5), **`learning`** (5), **`models`** (5), **`trained`** (4), **`architecture`** (4), **`embedding`** (4)
+**Top keywords:** **`model`** (22), **`learn`** (14), **`neural`** (8), **`approach`** (7), **`learning`** (7), **`sentence`** (7), **`word`** (6), **`network`** (6), **`sequence`** (6), **`neural network`** (5), **`text`** (5), **`embedding`** (5), **`models`** (5), **`trained`** (4), **`memory`** (4)
+
+___
+
+#### **(#66)** [Mimicking Word Embeddings using Subword RNNs](http://www.aclweb.org/anthology/D17-1010) (added 2018 April 07 09:19PM)
+
+`word embedding`, `word`, `mimick`, `embedding`, `distributional`, `oov word`, `improve`, `learning`
+
+Yuval Pinter Robert Guthrie Jacob Eisenstein, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing
+
+**Abstract:** Word embeddings improve generalization
+over lexical features by placing each word
+in a lower-dimensional space, using distributional
+information obtained from unlabeled
+data. However, the effectiveness
+of word embeddings for downstream
+NLP tasks is limited by out-of-vocabulary
+(OOV) words, for which embeddings do
+not exist. In this paper, we present MIMICK,
+an approach to generating OOV word
+embeddings compositionally, by learning
+a function from spellings to distributional
+embeddings. Unlike prior work, MIMICK
+does not require re-training on the original
+word embedding corpus; instead, learning
+is performed at the type level. Intrinsic
+and extrinsic evaluations demonstrate
+the power of this simple approach.
+On 23 languages, MIMICK improves performance
+over a word-based baseline for
+tagging part-of-speech and morphosyntactic
+attributes. It is competitive with (and
+complementary to) a supervised characterbased
+model in low-resource settings.
+
+
+
+- We approach the problem of out-of-vocabulary (OOV) embeddings as a generation problem: regardless of how the original embeddings were created, we assume there is a generative wordformbased protocol for creating these embeddings. By training a model over the existing vocabulary, we can later use that model for predicting the embedding of an unseen word
+
+
+___
+
+#### **(#65)** [Prefrontal cortex as a meta-reinforcement learning system](https://www.biorxiv.org/content/early/2018/04/06/295964) (added 2018 April 07 05:19PM)
+
+`dopamine`, `reward`, `findings`, `learning`, `reward based`, `recent`, `model`, `standard model`
+
+Jane X Wang, Zeb Kurth-Nelson, Dharshan Kumaran, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Demis Hassabis, Matthew Botvinick, April 6, 2018.
+
+**Abstract:** Over the past twenty years, neuroscience research on reward-based learning has converged on a canonical model, under which the neurotransmitter dopamine 'stamps in' associations between situations, actions and rewards by modulating the strength of synaptic connections between neurons. However, a growing number of recent findings have placed this standard model under strain. In the present work, we draw on recent advances in artificial intelligence to introduce a new theory of reward-based learning. Here, the dopamine system trains another part of the brain, the prefrontal cortex, to operate as its own free-standing learning system. This new perspective accommodates the findings that motivated the standard model, but also deals gracefully with a wider range of observations, providing a fresh foundation for future research.
+
+
+
+- by adjusting the connection weights within the prefrontal network, DA-based RL creates a second RL algorithm, implemented entirely in the prefrontal networks activation dynamics. This new learning algorithm is independent of the original one, and differs in ways that are suited to the task environment. Crucially, the emergent algorithm is a full-fledged RL procedure: It copes with the exploration-exploitation tradeoff37, 38, maintains a representation of the value function1 , and progressively adjusts the action policy
+
+- **a model-based RL alg introduces more temporally dense reward signals, increasing learning rate**
+
+- A prevalent view24 is that the role of the striatum within this cortico-basal ganglia-thalamocortical loop is to regulate the dynamics of PFC by gating the flow of information into PFC circuits
+
+- What might be the relative roles of mesolimbic, mesocortical and nigrostriatal DA pathways, in a meta-RL context?
+
+
+___
+
+#### **(#64)** [The Kanerva Machine: A Generative Distributed Memory](https://openreview.net/forum?id=S1HlA-ZAZ) (added 2018 April 06 07:42PM)
+
+`memory`, `distributed`, `train`, `adaptive`, `generates`, `generates model`, `significantly`, `model`
+
+Yan Wu, Greg Wayne, Alex Graves, Timothy Lillicrap, 15 Feb 2018 (modified: 02 Mar 2018)ICLR 2018 Conference Blind Submission
+
+**Abstract:** We present an end-to-end trained memory system that quickly adapts to new data and generates samples like them. Inspired by Kanerva's sparse distributed memory, it has a robust  distributed reading and writing mechanism. The memory is analytically tractable, which enables optimal on-line compression via a Bayesian update-rule. We formulate it as a hierarchical conditional generative model, where memory provides a rich data-dependent prior distribution. Consequently, the top-down memory and bottom-up perception are combined to produce the code representing an observation. Empirically, we demonstrate that the adaptive memory significantly improves generative models trained on both the Omniglot and CIFAR datasets. Compared with the Differentiable Neural Computer (DNC) and its variants, our memory model has greater capacity and is significantly easier to train.
+
+
+
+- Our memory architecture can be viewed as an extension of the variational autoencoder where the prior is derived from an adaptive memory store
+
+- An important feature of Kanervas sparse distributed memory is its iterative reading mechanism, by which output from the model is fed back as input for several iterations
+
 
 ___
 
