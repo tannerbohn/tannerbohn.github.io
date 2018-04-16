@@ -4,7 +4,13 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (106), **`research`** (37), **`memories`** (32), **`learn`** (23), **`participants`** (21), **`neurons`** (21), **`studies`** (20), **`word`** (17), **`neuron`** (17), **`memory`** (16), **`hippocampus`** (16), **`sleep`** (15), **`researchers`** (14), **`information`** (14), **`cognitive`** (14)
+**Top keywords:** **`brain`** (107), **`research`** (37), **`memories`** (32), **`learn`** (23), **`participants`** (21), **`neurons`** (21), **`studies`** (20), **`word`** (17), **`neuron`** (17), **`memory`** (16), **`hippocampus`** (16), **`sleep`** (15), **`researchers`** (14), **`information`** (14), **`cognitive`** (14)
+
+___
+
+**#502** read 2018 April 16 03:13AM. Link: [www.sciencedaily.com/releases/2018/04/180412110...](https://www.sciencedaily.com/releases/2018/04/180412110919.htm)
+
+`imagine`, `sound`, `aftereffect`, `location`, `berger`, `perception`, `brain`, `phase`
 
 ___
 
@@ -240,9 +246,9 @@ ___
 
 **#484** read 2018 March 25 08:36PM. Link: [www.sciencedaily.com/releases/2017/02/170209133...](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
 
-`shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
+## Gist: When word and shape pair are presented to slowly fade into conscious awareness, it happens faster when the pair is congruent (kiki-sharp, bubu-round).
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> When word and shape pair are presented to slowly fade into conscious awareness, it happens faster when the pair is congruent (kiki-sharp, bubu-round).
+`shape`, `sound`, `participants`, `word`, `kiki`, `research`, `hung`, `conscious aware`
 
 - To participants' dominant eye, the researchers presented a series of flashing images; to the nondominant eye, they presented a target image that gradually faded in. Initially, participants were unaware of the target image and could only see the competing, flashing images
 
@@ -416,9 +422,9 @@ ___
 
 **#470** read 2018 March 12 07:11PM. Link: [www.sciencedaily.com/releases/2018/02/180222125...](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
 
-`computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
+## Gist: There is a specific brain signal present when a listener understands what they have heard (absent when not understood or not paying attention) and reflects how similar or different a word is from those that precede it.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> There is a specific brain signal present when a listener understands what they have heard (absent when not understood or not paying attention) and reflects how similar or different a word is from those that precede it.
+`computation`, `brain`, `word`, `understand`, `mean`, `signal`, `speech`, `differ`
 
 - identified a specific brain signal associated with the conversion of speech into understanding. The signal is present when the listener has understood what they have heard, but it is absent when they either did not understand, or weren't paying attention
 
@@ -770,9 +776,9 @@ ___
 
 **#444** read 2017 October 22 03:23PM. Link: [www.sciencedaily.com/releases/2017/10/171017114...](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
 
-`brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
+## Gist: The dual n-back brain-training task appears demonstrably better at improving working memory than alternatives.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> The dual n-back brain-training task appears demonstrably better at improving working memory than alternatives.
+`brain`, `train`, `johns hopkins`, `cognition`, `task`, `memory`, `test`, `research`
 
 - One of the two brain-training methods most scientists use in research is significantly better in improving memory and attention
 
@@ -1002,9 +1008,9 @@ ___
 
 **#426** read 2017 September 18 11:33PM. Link: [giorgiopatrini.org/posts/2017/09/06/in-search-o...](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
 
-`learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
+## Gist: Unsupervised learning in a resettable, explorable environment can be achieved with a pair of agents, A, which tries to reach a state specified by B, and B, which tried to specify a state that takes A the longest time while still being possible.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Unsupervised learning in a resettable, explorable environment can be achieved with a pair of agents, A, which tries to reach a state specified by B, and B, which tried to specify a state that takes A the longest time while still being possible.
+`learn`, `feature`, `causal`, `object`, `train`, `idea`, `task`, `agent`
 
 - An overview of current trends for feature learning in the unsupervised way
 
@@ -1061,9 +1067,9 @@ ___
 
 **#423** read 2017 August 26 06:43PM. Link: [www.sciencedaily.com/releases/2017/08/170825124...](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
 
-`tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
+## Gist: In those with chronic tinnitus, the precuneus is more connected to the dorsal attention network (active when something holds your attention) and less connected to default mode network (active when at rest and not focused).
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> In those with chronic tinnitus, the precuneus is more connected to the dorsal attention network (active when something holds your attention) and less connected to default mode network (active when at rest and not focused).
+`tinnitus`, `patient`, `brain`, `study`, `precuneus`, `network`, `attention`, `connected`
 
 - found that chronic tinnitus is associated with changes in certain networks in the brain, and furthermore, those changes cause the brain to stay more at attention and less at rest
 
@@ -1235,9 +1241,9 @@ ___
 
 **#411** read 2017 June 22 03:44AM. Link: [www.sciencedaily.com/releases/2017/06/170621125...](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
 
-`memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
+## Gist: Brief reactivation of a learned memory (quickly typing numbers with one hand)  in temporal proximity of a very similar task (typing numbers with the other hand) gives that memory long-term immunity to interference with other tasks during multi-tasking.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Brief reactivation of a learned memory (quickly typing numbers with one hand)  in temporal proximity of a very similar task (typing numbers with the other hand) gives that memory long-term immunity to interference with other tasks during multi-tasking.
+`memories`, `task`, `brain`, `perform`, `learn`, `reactivated`, `research`, `censor`
 
 - research identifies a brain mechanism that enables more efficient multitasking. The key to this is "reactivating the learned memory," a process that allows a person to more efficiently learn or engage in two tasks in close conjunction
 
@@ -1288,9 +1294,9 @@ ___
 
 **#408** read 2017 June 22 02:36AM. Link: [www.sciencedaily.com/releases/2017/06/170621082...](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
 
-`studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
+## Gist: Multitasking while studying impairs memory, but still able to strategically identify and remember the most important information.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Multitasking while studying impairs memory, but still able to strategically identify and remember the most important information.
+`studied`, `word`, `student`, `attention`, `recall`, `distracted`, `participants`, `value`
 
 - Multitasking while studying may impair overall memory for the study material, but your ability to strategically identify and remember the most important information may stay intact
 
@@ -1322,9 +1328,9 @@ ___
 
 **#406** read 2017 June 12 10:48PM. Link: [www.sciencedaily.com/releases/2017/06/170612094...](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
 
-`function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
+## Gist: The fronto-parietal network appears to perform emulation, evidenced by the commonality of its deverse functions (planning and executing, mental rotation, working memory, etc.).
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> The fronto-parietal network appears to perform emulation, evidenced by the commonality of its deverse functions (planning and executing, mental rotation, working memory, etc.).
+`function`, `motor`, `cognition`, `movement`, `brain`, `network`, `motor skills`, `fronto parietal network`
 
 - fronto-parietal network is responsible for a range of highly diverse functions, from planning and executing movements to mental rotation, and from spatial attention to working memory. But how can a single network participate in such a wide variety of functions?
 
@@ -1542,9 +1548,9 @@ ___
 
 **#392** read 2017 June 08 04:01AM. Link: [www.sciencedaily.com/releases/2017/04/170406163...](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
-`learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
+## Gist: Hippocampal cells predict memory decisions through prospective coding, and the prefrontal cortex teaches the hippocampus to learn rules to distinguism memory-based predictions in otherwise identical situations (ex. you answer a telephone in your own home but not a stranger's).
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Hippocampal cells predict memory decisions through prospective coding, and the prefrontal cortex teaches the hippocampus to learn rules to distinguism memory-based predictions in otherwise identical situations (ex. you answer a telephone in your own home but not a stranger's).
+`learn`, `prefrontal cortex`, `goal`, `memories`, `hippocampal`, `hippocampus`, `rat`, `rat learn`
 
 - Neurons in the prefrontal cortex "teach" neurons in the hippocampus to "learn" rules that distinguish memory-based predictions in otherwise identical situations, suggesting that learning in the present helps guide learning in the future
 
@@ -1913,9 +1919,9 @@ ___
 
 **#365** read 2017 April 24 12:40AM. Link: [www.sciencedaily.com/releases/2017/04/170403123...](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
 
-`robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
+## Gist: The interplay between evolution and epigenetic changes (development) over a lifetime is called evo-devo.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> The interplay between evolution and epigenetic changes (development) over a lifetime is called evo-devo.
+`robot`, `evolution`, `develop`, `evolvability`, `epigenetic factor`, `evolutionary`, `create`, `physical embodied`
 
 - For the first time, researchers in the field of evolutionary robotics have used physically embodied robots to study epigenetic effects on robot evolution
 
@@ -2212,9 +2218,9 @@ ___
 
 **#343** read 2017 January 22 07:20PM. Link: [www.sciencedaily.com/releases/2017/01/170117083...](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
 
-`detail`, `film`, `students`, `recall`, `researchers`, `memory`, `better`, `central`
+## Gist: Telling someone about what you learned soon after learning it, or being given a small cue at test time, improves recall.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Telling someone about what you learned soon after learning it, or being given a small cue at test time, improves recall.
+`detail`, `film`, `students`, `recall`, `researchers`, `memory`, `better`, `central`
 
 - Students who are given information and tell someone about it immediately recall the details better and longer
 
@@ -2246,9 +2252,9 @@ ___
 
 **#341** read 2017 January 21 04:51AM. Link: [www.sciencedaily.com/releases/2017/01/170109162...](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
 
-`neuron`, `output neuron`, `inhibitory neuron`, `signal`, `circuit`, `model`, `converge neuron`, `researchers`
+## Gist: According to simulations, inhibitory neurons (stimuated by first activated neuron to suppress others in a group) useful for efficient "winner-take-all" dynamics
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> According to simulations, inhibitory neurons (stimuated by first activated neuron to suppress others in a group) useful for efficient "winner-take-all" dynamics
+`neuron`, `output neuron`, `inhibitory neuron`, `signal`, `circuit`, `model`, `converge neuron`, `researchers`
 
 - Researchers have developed a new computational model of a neural circuit in the brain, which could shed light on the biological role of inhibitory neurons
 
@@ -2371,9 +2377,9 @@ ___
 
 **#334** read 2017 January 10 05:01AM. Link: [www.newscientist.com/article/2117458-why-mums-a...](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
 
-`mother`, `left`, `infant`, `mammal`, `babies`, `situations`, `prefer`, `keep`
+## Gist: Perhaps due to brain hemisphere specialization, mammal infants like to position themselves on the left of their mothers, so as to better keep track of her. However, if a threat emerges, the positions reverse so the mother can better keep track of child.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Perhaps due to brain hemisphere specialization, mammal infants like to position themselves on the left of their mothers, so as to better keep track of her. However, if a threat emerges, the positions reverse so the mother can better keep track of child.
+`mother`, `left`, `infant`, `mammal`, `babies`, `situations`, `prefer`, `keep`
 
 -  it seems many mammal babies prefer to approach their mother from one side too – and the explanation may lie in the contrasting talents of each half of the brain
 
@@ -2612,9 +2618,9 @@ ___
 
 **#317** read 2016 November 22 02:09PM. Link: [www.sciencedaily.com/releases/2016/11/161115145...](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
 
-`brain`, `sleep spindle`, `wave`, `peaked`, `sleep`, `pattern`, `memory`, `around`
+## Gist: Sleep spindle oscillations, associated with memory consolidation, move around each side of the brain in Princess Leia waves -- resembling twin hair buns.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Sleep spindle oscillations, associated with memory consolidation, move around each side of the brain in Princess Leia waves -- resembling twin hair buns.
+`brain`, `sleep spindle`, `wave`, `peaked`, `sleep`, `pattern`, `memory`, `around`
 
 - Every night while you sleep, electrical waves of brain activity circle around each side of your brain, tracing a pattern that, were it on the surface of your head, might look like the twin hair buns of Star Wars' Princess Leia.
 
@@ -2738,9 +2744,9 @@ ___
 
 **#309** read 2016 November 11 09:45PM. Link: [www.sciencedaily.com/releases/2016/11/161110120...](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
 
-`extract`, `confidence score`, `system`, `data`, `text`, `pull`, `classification`, `web`
+## Gist: There is a machine-learning system which formulates search queries and gathers evidence on a question until it reaches a high level of confidence.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> There is a machine-learning system which formulates search queries and gathers evidence on a question until it reaches a high level of confidence.
+`extract`, `confidence score`, `system`, `data`, `text`, `pull`, `classification`, `web`
 
 - Artificial-intelligence system surfs web to improve its performance
 
@@ -2858,9 +2864,9 @@ ___
 
 **#299** read 2016 October 07 01:55AM. Link: [www.sciencedaily.com/releases/2016/09/160909111...](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
 
-`network`, `connection`, `ca3`, `pattern completion`, `cell`, `synaptic connection`, `ca3 region`, `hippocampal ca3`
+## Gist: The hippocampal CA3 region, critical for learning and memory, retrieves memories using pattern completion, enabled by a sparse (1%), small-world type architecture.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> The hippocampal CA3 region, critical for learning and memory, retrieves memories using pattern completion, enabled by a sparse (1%), small-world type architecture.
+`network`, `connection`, `ca3`, `pattern completion`, `cell`, `synaptic connection`, `ca3 region`, `hippocampal ca3`
 
 - The hippocampal CA3 region plays a key role in learning and memory. One of the most remarkable properties of the network is its ability to retrieve previously stored memories from incomplete or degraded versions, a phenomenon that is widely known as pattern completion.
 
@@ -3191,9 +3197,9 @@ ___
 
 **#274** read 2016 July 03 08:35PM. Link: [en.wikipedia.org/wiki/Brain-derived_neurotrophi...](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
 
-`bdnf`, `neurons`, `enhance`, `environmental enrichment`, `brain`, `neurotrophic factor`, `factor`, `growth factor`
+## Gist: Expression of the brain-derived neurotrophic factor (BDNF) protein, which supports growth and differentiation of neurons and synapses and is especially active in areas of the brain vital to learning, memory, and higher thinking, is enhanced by environmental enrichment, leading to improved performance on learning and memory tasks.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Expression of the brain-derived neurotrophic factor (BDNF) protein, which supports growth and differentiation of neurons and synapses and is especially active in areas of the brain vital to learning, memory, and higher thinking, is enhanced by environmental enrichment, leading to improved performance on learning and memory tasks.
+`bdnf`, `neurons`, `enhance`, `environmental enrichment`, `brain`, `neurotrophic factor`, `factor`, `growth factor`
 
 - Brain-derived neurotrophic factor, also known as BDNF, is a protein[1] that, in humans, is encoded by the BDNF gene.[2][3] BDNF is a member of the neurotrophin family of growth factors, which are related to the canonical Nerve Growth Factor. Neurotrophic factors are found in the brain and the periphery.
 
@@ -3361,9 +3367,9 @@ ___
 
 **#261** read 2016 June 25 03:53AM. Link: [www.sciencedaily.com/releases/2016/06/160615095...](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
 
-`reward`, `remember`, `categories`, `images`, `participant`, `objects`, `animals`, `stimuli`
+## Gist: Pairing stimuli with positive emotions (reward) improves memory for similar future stimuli (even if no reward), but only after sleeping first.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Pairing stimuli with positive emotions (reward) improves memory for similar future stimuli (even if no reward), but only after sleeping first.
+`reward`, `remember`, `categories`, `images`, `participant`, `objects`, `animals`, `stimuli`
 
 - Combining a positive emotional component with a given stimulus promotes memory for future stimuli of the same type
 
@@ -3566,9 +3572,9 @@ ___
 
 **#246** read 2016 June 15 02:58AM. Link: [www.sciencedaily.com/releases/2016/06/160614100...](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
 
-`pain`, `empathy`, `suggesting`, `process`, `deliberative`, `instinctive`, `perceiving`, `circuitry`
+## Gist: Perceiving another's pain and experiencing your own appear to use different parts of the brain, with empathy being a deliberative process rather than automatic.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Perceiving another's pain and experiencing your own appear to use different parts of the brain, with empathy being a deliberative process rather than automatic.
+`pain`, `empathy`, `suggesting`, `process`, `deliberative`, `instinctive`, `perceiving`, `circuitry`
 
 - the act of perceiving others' pain (i.e., empathy for others' pain) does not appear to involve the same neural circuitry as experiencing pain in one's own body, suggesting that they are different interactions within the brain
 
@@ -5949,9 +5955,9 @@ ___
 
 **#25** read 2015 December 05 10:37PM. Link: [www.scientificamerican.com/article/the-surprisi...](http://www.scientificamerican.com/article/the-surprising-problem-of-too-much-talent/)
 
-`talent`, `team`, `teamwork`, `attainment`, `flooded`, `pursuit`, `roster`, `prevent`
+## Gist: In the context of teamwork, too much talent may be bad, due to higher weight of personal goals over team goals.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> In the context of teamwork, too much talent may be bad, due to higher weight of personal goals over team goals.
+`talent`, `team`, `teamwork`, `attainment`, `flooded`, `pursuit`, `roster`, `prevent`
 
 - Why is too much talent a bad thing? Think teamwork.
 
@@ -6055,9 +6061,9 @@ ___
 
 **#15** read 2015 December 04 10:24PM. Link: [en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
 
-`arousal`, `demanding`, `tasks`, `level`, `stamina`, `intellectually`, `persistence`, `motivation`
+## Gist: Being calm may help concentration, benefitting intellectually demanding tasks, while tasks requiring stamina are better performed when excited (this more motivated).
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Being calm may help concentration, benefitting intellectually demanding tasks, while tasks requiring stamina are better performed when excited (this more motivated).
+`arousal`, `demanding`, `tasks`, `level`, `stamina`, `intellectually`, `persistence`, `motivation`
 
 -  difficult or intellectually demanding tasks may require a lower level of arousal (to facilitate concentration), whereas tasks demanding stamina or persistence may be performed better with higher levels of arousal (to increase motivation)
 
@@ -6066,9 +6072,9 @@ ___
 
 **#14** read 2015 December 04 08:47PM. Link: [www.sciencedaily.com/releases/2015/11/151130131...](http://www.sciencedaily.com/releases/2015/11/151130131847.htm)
 
-`funny`, `word`, `non word`, `snunkoople`, `predictably`, `seuss`, `entropy`, `effect`
+## Gist: Snunkoople effect: funny made-up words (ex. by Dr. Seuss) have uncommon letter combinations.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Snunkoople effect: funny made-up words (ex. by Dr. Seuss) have uncommon letter combinations.
+`funny`, `word`, `non word`, `snunkoople`, `predictably`, `seuss`, `entropy`, `effect`
 
 - How funny is this word? The 'snunkoople' effect
 
@@ -6081,9 +6087,9 @@ ___
 
 **#13** read 2015 December 04 07:32PM. Link: [www.sciencedaily.com/releases/2015/10/151005121...](http://www.sciencedaily.com/releases/2015/10/151005121422.htm)
 
-`autism`, `learned`, `training`, `actually`, `information`, `asd`, `harms`, `repetition`
+## Gist: For those on autism spectrum, training by reprtition can hurt generalization ability.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> For those on autism spectrum, training by reprtition can hurt generalization ability.
+`autism`, `learned`, `training`, `actually`, `information`, `asd`, `harms`, `repetition`
 
 - Training by repetition actually prevents learning for those with autism
 
@@ -6094,9 +6100,9 @@ ___
 
 **#12** read 2015 December 04 07:32PM. Link: [www.sciencedaily.com/releases/2015/10/151006142...](http://www.sciencedaily.com/releases/2015/10/151006142422.htm)
 
-`boosts`, `aloud`, `repeating`, `verbal`, `addressing`, `memory`, `especially`, `person`
+## Gist: Repetition helps verbal memory especially when aloud and/or to another person.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Repetition helps verbal memory especially when aloud and/or to another person.
+`boosts`, `aloud`, `repeating`, `verbal`, `addressing`, `memory`, `especially`, `person`
 
 - Repeating aloud boosts verbal memory, especially when you do it while addressing another person.
 
@@ -6105,9 +6111,9 @@ ___
 
 **#11** read 2015 December 04 11:38AM. Link: [www.sciencedaily.com/releases/2015/12/151204090...](http://www.sciencedaily.com/releases/2015/12/151204090045.htm)
 
-`outcome`, `intentional`, `paradox`, `blame`, `logical`, `helps`, `slow`, `quick`
+## Gist: We are more likely to assign credit to people for negative results than for positive.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> We are more likely to assign credit to people for negative results than for positive.
+`outcome`, `intentional`, `paradox`, `blame`, `logical`, `helps`, `slow`, `quick`
 
 - New research helps explain the paradox of why we are quick to blame people but slow to credit them for their actions. 
 
@@ -6118,9 +6124,9 @@ ___
 
 **#10** read 2015 December 04 12:12AM. Link: [www.sciencedaily.com/releases/2015/02/150212212...](http://www.sciencedaily.com/releases/2015/02/150212212100.htm)
 
-`fluent`, `headline`, `choosing`, `attractive`, `alphabet`, `reveals`, `dating`, `finding`
+## Gist: The first letter of a name influences its perception when read, and being in the first half of alphabet is beneficial.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> The first letter of a name influences its perception when read, and being in the first half of alphabet is beneficial.
+`fluent`, `headline`, `choosing`, `attractive`, `alphabet`, `reveals`, `dating`, `finding`
 
 - Choosing a screen name with a letter starting in the top half of the alphabet is as important as an attractive photo and a fluent headline in the online dating game, reveals an analysis of the best ways of finding love in the digital world.
 
@@ -6129,9 +6135,9 @@ ___
 
 **#9** read 2015 December 03 09:39PM. Link: [www.sciencedaily.com/releases/2015/12/151203082...](http://www.sciencedaily.com/releases/2015/12/151203082207.htm)
 
-`cannabis`, `effects`, `increased`, `active`, `psychosis`, `neural`, `neural noise`, `healthy`
+## Gist: Cannabis increases neural noise.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Cannabis increases neural noise.
+`cannabis`, `effects`, `increased`, `active`, `psychosis`, `neural`, `neural noise`, `healthy`
 
 - Cannabis increases the noise in your brain
 
@@ -6142,9 +6148,9 @@ ___
 
 **#8** read 2015 December 03 07:59PM. Link: [www.sciencedaily.com/releases/2015/12/151203081...](http://www.sciencedaily.com/releases/2015/12/151203081228.htm)
 
-`quick`, `research`, `charisma`, `charismatic`, `iq`, `traits`, `rely`, `independently`
+## Gist: Quick thinking enables charisma.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Quick thinking enables charisma.
+`quick`, `research`, `charisma`, `charismatic`, `iq`, `traits`, `rely`, `independently`
 
 - Charisma may rely on quick thinking, according to new research. The research shows that people who were able to respond more quickly to general knowledge questions and visual tasks were perceived as more charismatic by their friends, independently of IQ and other personality traits.
 
@@ -6153,9 +6159,9 @@ ___
 
 **#7** read 2015 December 03 07:43PM. Link: [www.sciencedaily.com/releases/2015/12/151203112...](http://www.sciencedaily.com/releases/2015/12/151203112844.htm)
 
-`pooled`, `cardiovascular`, `disease`, `risk`, `analysis`, `reports`, `purpose`, `sense`
+## Gist: Having a strong sense of purpose is healthy.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Having a strong sense of purpose is healthy.
+`pooled`, `cardiovascular`, `disease`, `risk`, `analysis`, `reports`, `purpose`, `sense`
 
 - People who have a higher sense of purpose in life are at lower risk of death and cardiovascular disease, reports a pooled data analysis.
 
@@ -6164,9 +6170,9 @@ ___
 
 **#6** read 2015 December 03 03:30PM. Link: [news.sciencemag.org/health/2015/12/feature-dog-...](http://news.sciencemag.org/health/2015/12/feature-dog-lives-300-years-solving-mysteries-aging-our-pets)
 
-`wolfhound`, `70`, `pooches`, `10`, `papillon`, `kilo`, `kilogram`, `lucky`
+## Gist: Small dogs live longer.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Small dogs live longer.
+`wolfhound`, `70`, `pooches`, `10`, `papillon`, `kilo`, `kilogram`, `lucky`
 
 - Large dogs like the 70-kilogram Irish Wolfhound are lucky to make it to age 7, whereas tiny pooches like the 4-kilo Papillon can live 10 years longer
 
@@ -6175,9 +6181,9 @@ ___
 
 **#5** read 2015 December 02 10:31PM. Link: [www.sciencedaily.com/releases/2015/12/151202132...](http://www.sciencedaily.com/releases/2015/12/151202132515.htm)
 
-`physical activity`, `tv`, `25`, `midlife`, `acknowledge`, `limitations`, `cognitive`, `watching`
+## Gist: Low physical activity when younger may affect cognitive function in adulthood.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Low physical activity when younger may affect cognitive function in adulthood.
+`physical activity`, `tv`, `25`, `midlife`, `acknowledge`, `limitations`, `cognitive`, `watching`
 
 - Watching a lot of TV and having a low physical activity level as a young adult were associated with worse cognitive function 25 years later in midlife, according to an article.
 
@@ -6188,9 +6194,9 @@ ___
 
 **#4** read 2015 December 02 10:27PM. Link: [www.sciencedaily.com/releases/2015/12/151202132...](http://www.sciencedaily.com/releases/2015/12/151202132657.htm)
 
-`oxytocin`, `women`, `neuroscientists`, `ptsd`, `hormone`, `anxiety`, `behavioral`, `trigger`
+## Gist: Effects of oxytocin are complex -- affecting men and women differently and elevation associated with some negative states.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Effects of oxytocin are complex -- affecting men and women differently and elevation associated with some negative states.
+`oxytocin`, `women`, `neuroscientists`, `ptsd`, `hormone`, `anxiety`, `behavioral`, `trigger`
 
 - New research by behavioral neuroscientists suggests oxytocin may have different effects in men and women -- and in certain circumstances the hormone may actually trigger anxiety.
 
@@ -6201,9 +6207,9 @@ ___
 
 **#3** read 2015 December 02 09:50AM. Link: [www.sciencedaily.com/releases/2015/12/151201152...](http://www.sciencedaily.com/releases/2015/12/151201152310.htm)
 
-`dna`, `motor`, `000`, `diagnostics`, `chemists`, `devised`, `synthetic`, `faster`
+## Gist: Motors can be made from DNA.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Motors can be made from DNA.
+`dna`, `motor`, `000`, `diagnostics`, `chemists`, `devised`, `synthetic`, `faster`
 
 - A rolling DNA-based motor that's 1,000 times faster than any other synthetic DNA motor has been devised by physical chemists, giving it potential for real-world applications, such as disease diagnostics.
 
@@ -6212,9 +6218,9 @@ ___
 
 **#2** read 2015 December 02 09:42AM. Link: [www.newscientist.com/article/dn28591-ultra-mara...](https://www.newscientist.com/article/dn28591-ultra-marathon-runners-brains-shrunk-while-racing-across-europe/)
 
-`cartilage`, `race`, `60`, `2500`, `marathons`, `degrade`, `shrink`, `brains`
+## Gist: Ultra-marathoners' cartilage degrades but then starts recovering during very long runs.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Ultra-marathoners' cartilage degrades but then starts recovering during very long runs.
+`cartilage`, `race`, `60`, `2500`, `marathons`, `degrade`, `shrink`, `brains`
 
 -  They found that the runners’ cartilage seemed to degrade during the first 2500 km of the race.
 But after that distance – around 60 marathons – the cartilage seemed to recover
@@ -6228,8 +6234,8 @@ ___
 
 **#1** read 2015 December 02 09:36AM. Link: [www.fastcocreate.com/3053961/7-tips-on-emotiona...](http://www.fastcocreate.com/3053961/7-tips-on-emotional-storytelling-pixar-style-from-the-writer-of-inside-out-and-the-good-dino)
 
-`keep`, `uncork`, `pixar`, `learned`, `taught`, `ideas`, `writing`, `even`
+## Gist: Even when out of ideas, just keep working and they will come.
 
-<img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/gist_2.png" height="15"> Even when out of ideas, just keep working and they will come.
+`keep`, `uncork`, `pixar`, `learned`, `taught`, `ideas`, `writing`, `even`
 
 - What Pixar taught me is to just keep writing even when I’m out of ideas. I learned that if you just keep going back to the well, it will uncork and there will be more.
