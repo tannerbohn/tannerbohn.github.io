@@ -6,11 +6,6 @@ permalink: /linksaver/
 ---
 **Top keywords:** **`brain`** (107), **`research`** (37), **`memories`** (32), **`learn`** (23), **`participants`** (21), **`neurons`** (21), **`studies`** (20), **`word`** (17), **`neuron`** (17), **`memory`** (16), **`hippocampus`** (16), **`sleep`** (15), **`researchers`** (14), **`information`** (14), **`cognitive`** (14)
 
-___
-
-**#502** read 2018 April 16 03:13AM. Link: [www.sciencedaily.com/releases/2018/04/180412110...](https://www.sciencedaily.com/releases/2018/04/180412110919.htm)
-
-`imagine`, `sound`, `aftereffect`, `location`, `berger`, `perception`, `brain`, `phase`
 
 ___
 
