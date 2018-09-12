@@ -4,11 +4,275 @@ comments: false
 title:  "PaperSaver"
 permalink: /papersaver/
 ---
-**Top keywords:** **`model`** (22), **`learn`** (14), **`neural`** (8), **`approach`** (7), **`learning`** (7), **`sentence`** (7), **`word`** (6), **`network`** (6), **`sequence`** (6), **`neural network`** (5), **`text`** (5), **`embedding`** (5), **`models`** (5), **`trained`** (4), **`memory`** (4)
+**Top keywords:** **`model`** (30), **`learn`** (19), **`learning`** (9), **`neural`** (9), **`trained`** (8), **`network`** (8), **`approach`** (8), **`word`** (7), **`sentence`** (7), **`neural network`** (6), **`sequence`** (6), **`dataset`** (6), **`models`** (6), **`tasks`** (5), **`text`** (5)
 
 ___
 
-#### **(#66)** [Mimicking Word Embeddings using Subword RNNs](http://www.aclweb.org/anthology/D17-1010) (added 2018 April 07 09:19PM)
+#### **(#86)** [Generative adversarial interpolative autoencoding: adversarial training on latent space interpolations encourage convex latent distributions](https://arxiv.org/abs/1807.06650) (added 2018 July 19 04:19 AM)
+
+`discriminator`, `ae`, `images`, `network`, `interpolations`, `adversarial`, `generative`, `latent`
+
+Tim Sainburg, Marvin Thielk, Brad Theilman, Benjamin Migliori, Timothy Gentner (Submitted on 17 Jul 2018)
+
+**Abstract:** We present a neural network architecture based upon the Autoencoder (AE) and Generative Adversarial Network (GAN) that promotes a convex latent distribution by training adversarially on latent space interpolations. By using an AE as both the generator and discriminator of a GAN, we pass a pixel-wise error function across the discriminator, yielding an AE which produces non-blurry samples that match both high- and low-level features of the original images. Interpolations between images in this space remain within the latent-space distribution of real images as trained by the discriminator, and therfore preserve realistic resemblances to the network inputs.
+
+
+
+- acts as a GAN in which both the generator and the discriminator are AEs
+
+- We then train the Generator to create images which autoencode well in the discriminator, and the discriminator to autoencode real images well, and generated images poorly. The generator also generates interpolated samples in latent space which are discriminated by the discriminator, thus training the network explicitly to produce samples which can be interpolated between
+
+
+___
+
+#### **(#85)** [Learning to Learn without Gradient Descent by Gradient Descent](https://arxiv.org/abs/1611.03824) (added 2018 July 17 10:02 PM)
+
+`optimization`, `learn`, `hyper parameter`, `parameter tuning`, `learn optimization`, `trained`, `functions`, `simple`
+
+Yutian Chen, Matthew W. Hoffman, Sergio Gomez Colmenarejo, Misha Denil, Timothy P. Lillicrap, Matt Botvinick, Nando de Freitas (Submitted on 11 Nov 2016 (v1), last revised 12 Jun 2017 (this version, v6)), Accepted by ICML 2017
+
+**Abstract:** We learn recurrent neural network optimizers trained on simple synthetic functions by gradient descent. We show that these learned optimizers exhibit a remarkable degree of transfer in that they can be used to efficiently optimize a broad range of derivative-free black-box functions, including Gaussian process bandits, simple control objectives, global optimization benchmarks and hyper-parameter tuning tasks. Up to the training horizon, the learned optimizers learn to trade-off exploration and exploitation, and compare favourably with heavily engineered Bayesian optimization packages for hyper-parameter tuning.
+
+___
+
+#### **(#84)** [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (added 2018 March 28 04:11 PM)
+
+`optimization`, `train`, `architectures`, `gradient`, `neural`, `discovering`, `controller`, `update`
+
+Irwan Bello, Barret Zoph, Vijay Vasudevan, Quoc V. Le, (Submitted on 21 Sep 2017 (v1), last revised 22 Sep 2017 (this version, v2))
+
+**Abstract:** We present an approach to automate the process of discovering optimization methods, with a focus on deep learning architectures. We train a Recurrent Neural Network controller to generate a string in a domain specific language that describes a mathematical update equation based on a list of primitive functions, such as the gradient, running average of the gradient, etc. The controller is trained with Reinforcement Learning to maximize the performance of a model after a few epochs. On CIFAR-10, our method discovers several update rules that are better than many commonly used optimizers, such as Adam, RMSProp, or SGD with and without Momentum on a ConvNet model. We introduce two new optimizers, named PowerSign and AddSign, which we show transfer well and improve training on a variety of different tasks and architectures, including ImageNet classification and Google's neural machine translation system.
+
+___
+
+#### **(#83)** [Learning Algorithms for Active Learning](https://arxiv.org/abs/1708.00088) (added 2018 July 17 09:51 PM)
+
+`model`, `learning`, `selection heuristic`, `construct prediction`, `prediction functions`, `item selection`, `labeled training`, `sets`
+
+Philip Bachman, Alessandro Sordoni, Adam Trischler (Submitted on 31 Jul 2017), Accepted for publication at ICML 2017
+
+**Abstract:** We introduce a model that learns active learning algorithms via metalearning. For a distribution of related tasks, our model jointly learns: a data representation, an item selection heuristic, and a method for constructing prediction functions from labeled training sets. Our model uses the item selection heuristic to gather labeled training sets from which to construct prediction functions. Using the Omniglot and MovieLens datasets, we test our model in synthetic and practical settings.
+
+___
+
+#### **(#82)** [The Shattered Gradients Problem: If resnets are the answer, then what is the question?](https://arxiv.org/abs/1702.08591) (added 2018 July 17 09:40 PM)
+
+`gradients`, `initialization`, `architectures`, `shattered`, `skip connected`, `networks`, `problem`, `standard feedforward`
+
+David Balduzzi, Marcus Frean, Lennox Leary, JP Lewis, Kurt Wan-Duo Ma, Brian McWilliams (Submitted on 28 Feb 2017 (v1), last revised 6 Jun 2018 (this version, v2)), ICML 2017, final version
+
+**Abstract:** A long-standing obstacle to progress in deep learning is the problem of vanishing and exploding gradients. Although, the problem has largely been overcome via carefully constructed initializations and batch normalization, architectures incorporating skip-connections such as highway and resnets perform much better than standard feedforward architectures despite well-chosen initialization and batch normalization. In this paper, we identify the shattered gradients problem. Specifically, we show that the correlation between gradients in standard feedforward networks decays exponentially with depth resulting in gradients that resemble white noise whereas, in contrast, the gradients in architectures with skip-connections are far more resistant to shattering, decaying sublinearly. Detailed empirical evidence is presented in support of the analysis, on both fully-connected networks and convnets. Finally, we present a new "looks linear" (LL) initialization that prevents shattering, with preliminary experiments showing the new initialization allows to train very deep networks without the addition of skip-connections.
+
+___
+
+#### **(#81)** [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341) (added 2018 July 17 03:52 PM)
+
+`pattern`, `e g`, `technical`, `paper`, `knowledge`, `term`, `community`, `trending`
+
+Zachary C. Lipton, Jacob Steinhardt (Submitted on 9 Jul 2018)
+
+**Abstract:** Collectively, machine learning (ML) researchers are engaged in the creation and dissemination of knowledge about data-driven algorithms. In a given paper, researchers might aspire to any subset of the following goals, among others: to theoretically characterize what is learnable, to obtain understanding through empirically rigorous experiments, or to build a working system that has high predictive accuracy. While determining which knowledge warrants inquiry may be subjective, once the topic is fixed, papers are most valuable to the community when they act in service of the reader, creating foundational knowledge and communicating as clearly as possible. 
+Recent progress in machine learning comes despite frequent departures from these ideals. In this paper, we focus on the following four patterns that appear to us to be trending in ML scholarship: (i) failure to distinguish between explanation and speculation; (ii) failure to identify the sources of empirical gains, e.g., emphasizing unnecessary modifications to neural architectures when gains actually stem from hyper-parameter tuning; (iii) mathiness: the use of mathematics that obfuscates or impresses rather than clarifies, e.g., by confusing technical and non-technical concepts; and (iv) misuse of language, e.g., by choosing terms of art with colloquial connotations or by overloading established technical terms. 
+While the causes behind these patterns are uncertain, possibilities include the rapid expansion of the community, the consequent thinness of the reviewer pool, and the often-misaligned incentives between scholarship and short-term measures of success (e.g., bibliometrics, attention, and entrepreneurial opportunity). While each pattern offers a corresponding remedy (don't do it), we also discuss some speculative suggestions for how the community might combat these trends.
+
+___
+
+#### **(#80)** [Machine Theory of Mind](https://arxiv.org/abs/1802.07740) (added 2018 July 17 03:17 PM)
+
+`agent`, `model`, `learning`, `behaviour`, `build`, `tomnet`, `observations`, `ai`
+
+Neil C. Rabinowitz, Frank Perbet, H. Francis Song, Chiyuan Zhang, S.M. Ali Eslami, Matthew Botvinick (Submitted on 21 Feb 2018 (v1), last revised 12 Mar 2018 (this version, v2))
+
+**Abstract:** Theory of mind (ToM; Premack & Woodruff, 1978) broadly refers to humans' ability to represent the mental states of others, including their desires, beliefs, and intentions. We propose to train a machine to build such models too. We design a Theory of Mind neural network -- a ToMnet -- which uses meta-learning to build models of the agents it encounters, from observations of their behaviour alone. Through this process, it acquires a strong prior model for agents' behaviour, as well as the ability to bootstrap to richer predictions about agents' characteristics and mental states using only a small number of behavioural observations. We apply the ToMnet to agents behaving in simple gridworld environments, showing that it learns to model random, algorithmic, and deep reinforcement learning agents from varied populations, and that it passes classic ToM tasks such as the "Sally-Anne" test (Wimmer & Perner, 1983; Baron-Cohen et al., 1985) of recognising that others can hold false beliefs about the world. We argue that this system -- which autonomously learns how to model other agents in its world -- is an important step forward for developing multi-agent AI systems, for building intermediating technology for machine-human interaction, and for advancing the progress on interpretable AI.
+
+
+
+- Our goal is not to assert a generative model of agents behaviour and an algorithm to invert it. Rather, we focus on the problem of how an observer could learn autonomously how to model other agents using limited data (Botvinick et al., 2017). This distinguishes our work from previous literature, which has relied on hand-crafted models of agents as noisy-rational planners  e.g. using inverse RL (Ng et al., 2000; Abbeel & Ng, 2004)
+
+- To do this, we formulate a meta-learning task. We construct an observer, who in each episode gets access to a set of behavioural traces of a novel agent. The observers goal is to make predictions of the agents future behaviour.
+
+- We distinguish between a general theory of mind  the learned weights of the network, which encapsulate predictions about the common behaviour of all agents in the training set  and an agent-specific theory of mind  the agent embedding formed from observations about a single agent at test time, which encapsulates what makes this agents character and mental state distinct from others. These correspond to a prior and posterior over agent behaviour
+
+
+___
+
+#### **(#79)** [Modeling Others using Oneself in Multi-Agent Reinforcement Learning](https://research.fb.com/wp-content/uploads/2018/07/Modeling-Others-using-Oneself-in-Multi-Agent-Reinforcement-Learning.pdf?) (added 2018 July 17 03:14 PM)
+
+`agent`, `learn`, `hidden state`, `tasks`, `setting`, `policies`, `approach`, `players hidden`
+
+Roberta Raileanu, Emily Denton, Arthur Szlam, Rob Fergus (Submitted on 26 Feb 2018 (v1), last revised 23 Mar 2018 (this version, v3)), submitted to ICML 2018
+
+**Abstract:** We consider the multi-agent reinforcement learning
+setting with imperfect information in which
+each agent is trying to maximize its own utility.
+The reward function depends on the hidden state
+(or goal) of both agents, so the agents must infer
+the other players hidden goals from their observed
+behavior in order to solve the tasks. We
+propose a new approach for learning in these domains:
+Self Other-Modeling (SOM), in which
+an agent uses its own policy to predict the other
+agents actions and update its belief of their hidden
+state in an online manner. We evaluate this
+approach on three different tasks and show that
+the agents are able to learn better policies using
+their estimate of the other players hidden states,
+in both cooperative and adversarial settings.
+
+___
+
+#### **(#78)** [On Accurate Evaluation of GANs for Language Generation](https://arxiv.org/abs/1806.04936) (added 2018 July 17 02:44 PM)
+
+`generated`, `gan model`, `model`, `metrics`, `lm`, `gan`, `sensitive`, `language generated`
+
+Stanislau Semeniuta, Aliaksei Severyn, Sylvain Gelly (Submitted on 13 Jun 2018 (v1), last revised 14 Jun 2018 (this version, v2))
+
+**Abstract:** Generative Adversarial Networks (GANs) are a promising approach to language generation. The latest works introducing novel GAN models for language generation use n-gram based metrics for evaluation and only report single scores of the best run. In this paper, we argue that this often misrepresents the true picture and does not tell the full story, as GAN models can be extremely sensitive to the random initialization and small deviations from the best hyperparameter choice. In particular, we demonstrate that the previously used BLEU score is not sensitive to semantic deterioration of generated texts and propose alternative metrics that better capture the quality and diversity of the generated samples. We also conduct a set of experiments comparing a number of GAN models for text with a conventional Language Model (LM) and find that neither of the considered models performs convincingly better than the LM.
+
+
+
+- proposed in the computer vision community, Frechet Inception Distance (FID) [16] computes the distance between distributions of features extracted from real and generated samples.
+
+
+___
+
+#### **(#77)** [Measuring abstract reasoning in neural networks](http://proceedings.mlr.press/v80/santoro18a.html) (added 2018 July 16 05:36 PM)
+
+`model`, `generalisation`, `differ`, `abstract reasoning`, `trained`, `test`, `dataset`, `neural networks`
+
+Adam Santoro, Felix Hill, David Barrett, Ari Morcos, Timothy Lillicrap ; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4477-4486, 2018.
+
+**Abstract:** Whether neural networks can learn abstract reasoning or whether they merely rely on superficial statistics is a topic of recent debate. Here, we propose a dataset and challenge designed to probe abstract reasoning, inspired by a well-known human IQ test. To succeed at this challenge, models must cope with various generalisation regimes in which the training data and test questions differ in clearly-defined ways. We show that popular models such as ResNets perform poorly, even when the training and test sets differ only minimally, and we present a novel architecture, with structure designed to encourage reasoning, that does significantly better. When we vary the way in which the test questions and training data differ, we find that our model is notably proficient at certain forms of generalisation, but notably weak at others. We further show that the models ability to generalise improves markedly if it is trained to predict symbolic explanations for its answers. Altogether, we introduce and explore ways to both measure and induce stronger abstract reasoning in neural networks. Our freely-available dataset should motivate further progress in this direction.
+
+___
+
+#### **(#76)** [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) (added 2018 July 16 02:57 PM)
+
+`learn`, `shot learn`, `images`, `classifier`, `rn`, `framework`, `relation`, `trained`
+
+Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales (Submitted on 16 Nov 2017 (v1), last revised 27 Mar 2018 (this version, v2))
+
+**Abstract:** We present a conceptually simple, flexible, and general framework for few-shot learning, where a classifier must learn to recognise new classes given only few examples from each. Our method, called the Relation Network (RN), is trained end-to-end from scratch. During meta-learning, it learns to learn a deep distance metric to compare a small number of images within episodes, each of which is designed to simulate the few-shot setting. Once trained, a RN is able to classify images of new classes by computing relation scores between query images and the few examples of each new class without further updating the network. Besides providing improved performance on few-shot learning, our framework is easily extended to zero-shot learning. Extensive experiments on five benchmarks demonstrate that our simple approach provides a unified and effective approach for both of these two tasks.
+
+___
+
+#### **(#75)** [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) (added 2018 July 12 10:47 PM)
+
+`task`, `nlp`, `scratch`, `fine tuning`, `transfer learning`, `method`, `training`, `model`
+
+Jeremy Howard, Sebastian Ruder (Submitted on 18 Jan 2018 (v1), last revised 23 May 2018 (this version, v5))
+
+**Abstract:** Inductive transfer learning has greatly impacted computer vision, but existing approaches in NLP still require task-specific modifications and training from scratch. We propose Universal Language Model Fine-tuning (ULMFiT), an effective transfer learning method that can be applied to any task in NLP, and introduce techniques that are key for fine-tuning a language model. Our method significantly outperforms the state-of-the-art on six text classification tasks, reducing the error by 18-24% on the majority of datasets. Furthermore, with only 100 labeled examples, it matches the performance of training from scratch on 100x more data. We open-source our pretrained models and code.
+
+___
+
+#### **(#74)** [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) (added 2018 July 12 10:45 PM)
+
+`model`, `deep`, `word`, `representation`, `internal`, `pre trained`, `analysis`, `across`
+
+Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer (Submitted on 15 Feb 2018 (v1), last revised 22 Mar 2018 (this version, v2))
+
+**Abstract:** We introduce a new type of deep contextualized word representation that models both (1) complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). Our word vectors are learned functions of the internal states of a deep bidirectional language model (biLM), which is pre-trained on a large text corpus. We show that these representations can be easily added to existing models and significantly improve the state of the art across six challenging NLP problems, including question answering, textual entailment and sentiment analysis. We also present an analysis showing that exposing the deep internals of the pre-trained network is crucial, allowing downstream models to mix different types of semi-supervision signals.
+
+___
+
+#### **(#73)** [Meta-Learning by the Baldwin Effect](https://arxiv.org/abs/1806.07917) (added 2018 July 04 04:28 PM)
+
+`learn`, `baldwin effect`, `gradient`, `maml`, `hyperparameters`, `biases`, `genetically accommodate`, `parameters`
+
+Chrisantha Thomas Fernando, Jakub Sygnowski, Simon Osindero, Jane Wang, Tom Schaul, Denis Teplyashin, Pablo Sprechmann, Alexander Pritzel, Andrei A. Rusu (Submitted on 6 Jun 2018 (v1), last revised 22 Jun 2018 (this version, v2))
+
+**Abstract:** The scope of the Baldwin effect was recently called into question by two papers that closely examined the seminal work of Hinton and Nowlan. To this date there has been no demonstration of its necessity in empirically challenging tasks. Here we show that the Baldwin effect is capable of evolving few-shot supervised and reinforcement learning mechanisms, by shaping the hyperparameters and the initial parameters of deep learning algorithms. Furthermore it can genetically accommodate strong learning biases on the same set of problems as a recent machine learning algorithm called MAML "Model Agnostic Meta-Learning" which uses second-order gradients instead of evolution to learn a set of reference parameters (initial weights) that can allow rapid adaptation to tasks sampled from a distribution. Whilst in simple cases MAML is more data efficient than the Baldwin effect, the Baldwin effect is more general in that it does not require gradients to be backpropagated to the reference parameters or hyperparameters, and permits effectively any number of gradient updates in the inner loop. The Baldwin effect learns strong learning dependent biases, rather than purely genetically accommodating fixed behaviours in a learning independent manner.
+
+___
+
+#### **(#72)** [Manifold Mixup: Encouraging Meaningful On-Manifold Interpolation as a Regularizer](https://arxiv.org/abs/1806.05236) (added 2018 June 20 10:56 PM)
+
+`data`, `trained`, `manifold mixup`, `manifold`, `adversarial examples`, `combinations`, `confident`, `improved`
+
+Vikas Verma, Alex Lamb, Christopher Beckham, Aaron Courville, Ioannis Mitliagkis, Yoshua Bengio (Submitted on 13 Jun 2018)
+
+**Abstract:** Deep networks often perform well on the data manifold on which they are trained, yet give incorrect (and often very confident) answers when evaluated on points from off of the training distribution. This is exemplified by the adversarial examples phenomenon but can also be seen in terms of model generalization and domain shift. We propose Manifold Mixup which encourages the network to produce more reasonable and less confident predictions at points with combinations of attributes not seen in the training set. This is accomplished by training on convex combinations of the hidden state representations of data samples. Using this method, we demonstrate improved semi-supervised learning, learning with limited labeled data, and robustness to adversarial examples. Manifold Mixup requires no (significant) additional computation. Analytical experiments on both real data and synthetic data directly support our hypothesis for why the Manifold Mixup method improves results.
+
+___
+
+#### **(#71)** [Autoregressive Quantile Networks for Generative Modeling](https://arxiv.org/abs/1806.05575) (added 2018 June 18 09:15 PM)
+
+`aiqn`, `model`, `quantile`, `implicit`, `perceptual quality`, `diverse`, `improvements`, `sample`
+
+Georg Ostrovski, Will Dabney, Remi Munos (Submitted on 14 Jun 2018)
+
+**Abstract:** We introduce autoregressive implicit quantile networks (AIQN), a fundamentally different approach to generative modeling than those commonly used, that implicitly captures the distribution using quantile regression. AIQN is able to achieve superior perceptual quality and improvements in evaluation metrics, without incurring a loss of sample diversity. The method can be applied to many existing models and architectures. In this work we extend the PixelCNN model with AIQN and demonstrate results on CIFAR-10 and ImageNet using Inception score, FID, non-cherry-picked samples, and inpainting results. We consistently observe that AIQN yields a highly stable algorithm that improves perceptual quality while maintaining a highly diverse distribution.
+
+___
+
+#### **(#70)** [q-Neurons: Neuron Activations based on Stochastic Jackson's Derivative Operators](https://arxiv.org/abs/1806.00149) (added 2018 June 18 06:55 PM)
+
+`stochastic`, `neurons`, `activation functions`, `q neurons`, `functions`, `scalable`, `experimentally`, `architectures`
+
+Frank Nielsen, Ke Sun (Submitted on 1 Jun 2018 (v1), last revised 14 Jun 2018 (this version, v2))
+
+**Abstract:** We propose a new generic type of stochastic neurons, called q-neurons, that considers activation functions based on Jackson's q-derivatives with stochastic parameters q. Our generalization of neural network architectures with q-neurons is shown to be both scalable and very easy to implement. We demonstrate experimentally consistently improved performances over state-of-the-art standard activation functions, both on training and testing loss functions.
+
+
+
+- Based on our experiments, one should almost always use q-activation instead of its deterministic counterpart
+
+- We can easily implement q-neurons based on the following reference code
+
+
+___
+
+#### **(#69)** [Hierarchical Neural Story Generation](https://arxiv.org/abs/1805.04833) (added 2018 June 18 06:05 PM)
+
+`model`, `improvements`, `stories generated`, `stories`, `human`, `dataset`, `hierarchical`, `prompt`
+
+Angela Fan, Mike Lewis, Yann Dauphin (Submitted on 13 May 2018)
+
+**Abstract:** We explore story generation: creative systems that can build coherent and fluent passages of text about a topic. We collect a large dataset of 300K human-written stories paired with writing prompts from an online forum. Our dataset enables hierarchical story generation, where the model first generates a premise, and then transforms it into a passage of text. We gain further improvements with a novel form of model fusion that improves the relevance of the story to the prompt, and adding a new gated multi-scale self-attention mechanism to model long-range context. Experiments show large improvements over strong baselines on both automated and human evaluations. Human judges prefer stories generated by our approach to those from a strong non-hierarchical model by a factor of two to one.
+
+
+
+- we allow the model to optionally attend to a 0 vector at each timestep, if it chooses to ignore the information of past timesteps
+
+- We propose a fusion-based approach to encourage conditioning on the prompt. We train a seq2seq model that has access to the hidden states of a pretrained seq2seq model. Doing so can be seen as a type of boosting or residual learning that allows the second model to focus on what the first model failed to learn
+
+- We use prompt ranking to assess how strongly a models output depends on its input. Stories are decoded under 10 different prompts9 randomly sampled prompts and 1 true corresponding promptand the likelihood of the story given the various prompts is recorded
+
+
+___
+
+#### **(#68)** [Playing Atari with Six Neurons](https://arxiv.org/abs/1806.01363) (added 2018 June 08 12:03 PM)
+
+`network`, `learn`, `deep`, `reinforcement learn`, `evolution strategies`, `neural network`, `techniques`, `atari games`
+
+Giuseppe Cuccu, Julian Togelius, Philippe Cudre-Mauroux, (Submitted on 4 Jun 2018)
+
+**Abstract:** Deep reinforcement learning on Atari games maps pixel directly to actions; internally, the deep neural network bears the responsibility of both extracting useful information and making decisions based on it. Aiming at devoting entire deep networks to decision making alone, we propose a new method for learning policies and compact state representations separately but simultaneously for policy approximation in reinforcement learning. State representations are generated by a novel algorithm based on Vector Quantization and Sparse Coding, trained online along with the network, and capable of growing its dictionary size over time. We also introduce new techniques allowing both the neural network and the evolution strategy to cope with varying dimensions. This enables networks of only 6 to 18 neurons to learn to play a selection of Atari games with performance comparable---and occasionally superior---to state-of-the-art techniques using evolution strategies on deep networks two orders of magnitude larger.
+
+___
+
+#### **(#67)** [Strong Baselines for Neural Semi-supervised Learning under Domain Shift](https://arxiv.org/abs/1804.09530) (added 2018 April 27 01:18 AM)
+
+`neural`, `approaches`, `tri training`, `models`, `classic`, `novel`, `baseline`, `evaluate`
+
+Sebastian Ruder, Barbara Plank, (Submitted on 25 Apr 2018), ACL 2018
+
+**Abstract:** Novel neural models have been proposed in recent years for learning under domain shift. Most models, however, only evaluate on a single task, on proprietary datasets, or compare to weak baselines, which makes comparison of models difficult. In this paper, we re-evaluate classic general-purpose bootstrapping approaches in the context of neural networks under domain shifts vs. recent neural approaches and propose a novel multi-task tri-training method that reduces the time and space complexity of classic tri-training. Extensive experiments on two benchmarks are negative: while our novel method establishes a new state-of-the-art for sentiment analysis, it does not fare consistently the best. More importantly, we arrive at the somewhat surprising conclusion that classic tri-training, with some additions, outperforms the state of the art. We conclude that classic approaches constitute an important and strong baseline.
+
+___
+
+#### **(#66)** [Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/abs/1804.07036) (added 2018 April 23 07:20 PM)
+
+`coherence`, `summaries`, `neural coherence model`, `neural extracting summarization`, `rnes`, `extracting`, `propose neural`, `propose`
+
+Yuxiang Wu, Baotian Hu, Yuxiang Wu, Baotian Hu
+
+**Abstract:** Coherence plays a critical role in producing a high-quality summary from a document. In recent years, neural extractive summarization is becoming increasingly attractive. However, most of them ignore the coherence of summaries when extracting sentences. As an effort towards extracting coherent summaries, we propose a neural coherence model to capture the cross-sentence semantic and syntactic coherence patterns. The proposed neural coherence model obviates the need for feature engineering and can be trained in an end-to-end fashion using unlabeled data. Empirical results show that the proposed neural coherence model can efficiently capture the cross-sentence coherence patterns. Using the combined output of the neural coherence model and ROUGE package as the reward, we design a reinforcement learning method to train a proposed neural extractive summarizer which is named Reinforced Neural Extractive Summarization (RNES) model. The RNES model learns to optimize coherence and informative importance of the summary simultaneously. Experimental results show that the proposed RNES outperforms existing baselines and achieves state-of-the-art performance in term of ROUGE on CNN/Daily Mail dataset. The qualitative evaluation indicates that summaries produced by RNES are more coherent and readable.
+
+___
+
+#### **(#65)** [Mimicking Word Embeddings using Subword RNNs](http://www.aclweb.org/anthology/D17-1010) (added 2018 April 07 09:19 PM)
 
 `word embedding`, `word`, `mimick`, `embedding`, `distributional`, `oov word`, `improve`, `learning`
 
@@ -46,7 +310,7 @@ model in low-resource settings.
 
 ___
 
-#### **(#65)** [Prefrontal cortex as a meta-reinforcement learning system](https://www.biorxiv.org/content/early/2018/04/06/295964) (added 2018 April 07 05:19PM)
+#### **(#64)** [Prefrontal cortex as a meta-reinforcement learning system](https://www.biorxiv.org/content/early/2018/04/06/295964) (added 2018 April 07 05:19 PM)
 
 `dopamine`, `reward`, `findings`, `learning`, `reward based`, `recent`, `model`, `standard model`
 
@@ -67,7 +331,7 @@ Jane X Wang, Zeb Kurth-Nelson, Dharshan Kumaran, Dhruva Tirumala, Hubert Soyer, 
 
 ___
 
-#### **(#64)** [The Kanerva Machine: A Generative Distributed Memory](https://openreview.net/forum?id=S1HlA-ZAZ) (added 2018 April 06 07:42PM)
+#### **(#63)** [The Kanerva Machine: A Generative Distributed Memory](https://openreview.net/forum?id=S1HlA-ZAZ) (added 2018 April 06 07:42 PM)
 
 `memory`, `distributed`, `train`, `adaptive`, `generates`, `generates model`, `significantly`, `model`
 
@@ -84,7 +348,7 @@ Yan Wu, Greg Wayne, Alex Graves, Timothy Lillicrap, 15 Feb 2018 (modified: 02 Ma
 
 ___
 
-#### **(#63)** [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) (added 2018 April 05 07:25PM)
+#### **(#62)** [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) (added 2018 April 05 07:25 PM)
 
 `image`, `mapping`, `paired`, `learn`, `translate`, `tasks`, `paired training`, `transfer`
 
@@ -94,7 +358,7 @@ Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros, (Submitted on 30 Mar 
 
 ___
 
-#### **(#62)** [Charagram: Embedding Words and Sentences via Character n-grams](https://arxiv.org/abs/1607.02789) (added 2018 April 05 07:22PM)
+#### **(#61)** [Charagram: Embedding Words and Sentences via Character n-grams](https://arxiv.org/abs/1607.02789) (added 2018 April 05 07:22 PM)
 
 `similarity`, `character`, `charagram embedding`, `embedding`, `tasks`, `sentence`, `word`, `based`
 
@@ -104,7 +368,7 @@ John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu, (Submitted on 10 Jul 20
 
 ___
 
-#### **(#61)** [Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization](https://arxiv.org/abs/1708.07690v1) (added 2018 April 05 04:23PM)
+#### **(#60)** [Revisiting the Centroid-based Method: A Strong Baseline for Multi-Document Summarization](https://arxiv.org/abs/1708.07690v1) (added 2018 April 05 04:23 PM)
 
 `summaries`, `sentences`, `document summarization`, `centroid`, `ranking`, `document`, `simple`, `model`
 
@@ -121,7 +385,7 @@ Demian Gholipour Ghalandari, (Submitted on 25 Aug 2017)
 
 ___
 
-#### **(#60)** [A Semantic QA-Based Approach for Text Summarization Evaluation](https://arxiv.org/abs/1704.06259v1) (added 2018 April 05 04:21PM)
+#### **(#59)** [A Semantic QA-Based Approach for Text Summarization Evaluation](https://arxiv.org/abs/1704.06259v1) (added 2018 April 05 04:21 PM)
 
 `applications`, `text passage`, `content`, `text`, `summarization`, `compare`, `differences`, `existing`
 
@@ -136,7 +400,7 @@ Ping Chen, Fei Wu, Tong Wang, (Submitted on 21 Apr 2017)
 
 ___
 
-#### **(#59)** [Detecting (Un)Important Content for Single-Document News Summarization](https://arxiv.org/abs/1702.07998v1) (added 2018 April 05 04:14PM)
+#### **(#58)** [Detecting (Un)Important Content for Single-Document News Summarization](https://arxiv.org/abs/1702.07998v1) (added 2018 April 05 04:14 PM)
 
 `document`, `beginning`, `summarization`, `document summarization`, `outperform`, `approach`, `article baseline`, `single document`
 
@@ -151,7 +415,7 @@ Yinfei Yang, Forrest Sheng Bao, Ani Nenkova, (Submitted on 26 Feb 2017)
 
 ___
 
-#### **(#58)** [DisSent: Sentence Representation Learning from Explicit Discourse Relations](https://arxiv.org/abs/1710.04334) (added 2018 April 05 04:08PM)
+#### **(#57)** [DisSent: Sentence Representation Learning from Explicit Discourse Relations](https://arxiv.org/abs/1710.04334) (added 2018 April 05 04:08 PM)
 
 `sentence`, `model`, `train`, `meaning`, `dataset`, `embedding`, `discourse markers`, `sentence embedding`
 
@@ -161,7 +425,7 @@ Allen Nie, Erin D. Bennett, Noah D. Goodman, (Submitted on 12 Oct 2017)
 
 ___
 
-#### **(#57)** [Learning to Ask: Neural Question Generation for Reading Comprehension](https://arxiv.org/abs/1705.00106) (added 2018 April 05 03:20PM)
+#### **(#56)** [Learning to Ask: Neural Question Generation for Reading Comprehension](https://arxiv.org/abs/1705.00106) (added 2018 April 05 03:20 PM)
 
 `system`, `evaluation`, `automatic`, `sequence`, `sequence learning`, `sentence`, `answer`, `question generated`
 
@@ -178,7 +442,7 @@ Xinya Du, Junru Shao, Claire Cardie, (Submitted on 29 Apr 2017)
 
 ___
 
-#### **(#56)** [A Semantic Relevance Based Neural Network for Text Summarization and Text Simplification](https://arxiv.org/abs/1710.02318v1) (added 2018 April 05 03:14PM)
+#### **(#55)** [A Semantic Relevance Based Neural Network for Text Summarization and Text Simplification](https://arxiv.org/abs/1710.02318v1) (added 2018 April 05 03:14 PM)
 
 `text`, `text summarization`, `text simplification`, `model`, `summarization and text`, `semantic relevance`, `summaries`, `similar`
 
@@ -193,7 +457,7 @@ Shuming Ma, Xu Sun, (Submitted on 6 Oct 2017)
 
 ___
 
-#### **(#55)** [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208) (added 2018 April 05 03:12PM)
+#### **(#54)** [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208) (added 2018 April 05 03:12 PM)
 
 `index`, `model`, `posit`, `key`, `learn`, `existence`, `learn index`, `index structure`
 
@@ -203,7 +467,7 @@ Tim Kraska, Alex Beutel, Ed H. Chi, Jeffrey Dean, Neoklis Polyzotis, (Submitted 
 
 ___
 
-#### **(#54)** [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://arxiv.org/abs/1511.00083) (added 2018 April 05 03:04PM)
+#### **(#53)** [Why Neurons Have Thousands of Synapses, A Theory of Sequence Memory in Neocortex](https://arxiv.org/abs/1511.00083) (added 2018 April 05 03:04 PM)
 
 `neuron`, `synapses`, `pattern`, `network`, `propose`, `sequence`, `robust`, `recognize`
 
@@ -220,7 +484,7 @@ Jeff Hawkins, Subutai Ahmad, (Submitted on 31 Oct 2015 (v1), last revised 1 Dec 
 
 ___
 
-#### **(#53)** [Natural Language Processing with Small Feed-Forward Networks](https://arxiv.org/abs/1708.00214) (added 2018 April 05 02:51PM)
+#### **(#52)** [Natural Language Processing with Small Feed-Forward Networks](https://arxiv.org/abs/1708.00214) (added 2018 April 05 02:51 PM)
 
 `small`, `neural network`, `models`, `memory`, `tradeoffs`, `unstructured`, `allocate`, `recurrent`
 
@@ -237,7 +501,7 @@ Jan A. Botha, Emily Pitler, Ji Ma, Anton Bakalov, Alex Salcianu, David Weiss, Ry
 
 ___
 
-#### **(#52)** [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443) (added 2018 March 31 03:55PM)
+#### **(#51)** [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/abs/1802.04443) (added 2018 March 31 03:55 PM)
 
 `topological`, `architecture`, `empirical`, `complexity`, `neural network`, `data`, `characterization`, `dataset`
 
@@ -247,7 +511,7 @@ William H. Guss, Ruslan Salakhutdinov, (Submitted on 13 Feb 2018)
 
 ___
 
-#### **(#51)** [Emergent Tangled Graph Representations for Atari Game Playing Agents](https://web.cs.dal.ca/~mheywood/OpenAccess/open-kelly17a.pdf) (added 2018 March 29 09:28PM)
+#### **(#50)** [Emergent Tangled Graph Representations for Atari Game Playing Agents](https://web.cs.dal.ca/~mheywood/OpenAccess/open-kelly17a.pdf) (added 2018 March 29 09:28 PM)
 
 `program`, `deep learning`, `tpg`, `learning`, `human`, `game`, `20 game`, `15`
 
@@ -272,7 +536,7 @@ for deep learning.
 
 ___
 
-#### **(#50)** [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning](https://arxiv.org/abs/1705.07830) (added 2018 March 28 03:15PM)
+#### **(#49)** [Ask the Right Questions: Active Question Reformulation with Reinforcement Learning](https://arxiv.org/abs/1705.07830) (added 2018 March 28 03:15 PM)
 
 `reformulate`, `question`, `agent`, `answer`, `learned`, `question answer`, `system`, `qa`
 
@@ -287,7 +551,7 @@ Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea
 
 ___
 
-#### **(#49)** [Neural Models for Key Phrase Detection and Question Generation](https://arxiv.org/abs/1706.04560v2) (added 2018 March 28 04:07PM)
+#### **(#48)** [Neural Models for Key Phrase Detection and Question Generation](https://arxiv.org/abs/1706.04560v2) (added 2018 March 28 04:07 PM)
 
 `model`, `sequence`, `key phrase`, `approach`, `answer`, `question generated`, `question`, `neural`
 
@@ -314,7 +578,7 @@ Sandeep Subramanian, Tong Wang, Xingdi Yuan, Saizheng Zhang, Adam Trischler, Yos
 
 ___
 
-#### **(#48)** [Learning to Skim Text](https://arxiv.org/abs/1704.06877) (added 2018 March 28 04:12PM)
+#### **(#47)** [Learning to Skim Text](https://arxiv.org/abs/1704.06877) (added 2018 March 28 04:12 PM)
 
 `read`, `model`, `recurrent`, `jump`, `word`, `text`, `lstm`, `promise`
 
@@ -324,7 +588,7 @@ Adams Wei Yu, Hongrae Lee, Quoc V. Le, (Submitted on 23 Apr 2017 (v1), last revi
 
 ___
 
-#### **(#47)** [From Word Embeddings To Document Distances](http://www.cs.cornell.edu/~kilian/papers/wmd_metric.pdf) (added 2018 March 28 09:57PM)
+#### **(#46)** [From Word Embeddings To Document Distances](http://www.cs.cornell.edu/~kilian/papers/wmd_metric.pdf) (added 2018 March 28 09:57 PM)
 
 `distance`, `document`, `word`, `wmd`, `metric`, `movers distance`, `embedded`, `document classification`
 
@@ -354,7 +618,7 @@ classification error rates.
 
 ___
 
-#### **(#46)** [The Transition to Minimal Consciousness through the Evolution of Associative Learning](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01954/full) (added 2018 March 28 09:53PM)
+#### **(#45)** [The Transition to Minimal Consciousness through the Evolution of Associative Learning](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01954/full) (added 2018 March 28 09:53 PM)
 
 `sentience`, `consciousness`, `ual`, `minimal consciousness`, `minimal`, `proposal`, `learning`, `function`
 
@@ -364,7 +628,7 @@ ___
 
 ___
 
-#### **(#45)** [OUT-OF-CLASS NOVELTY GENERATION: AN EXPERIMENTAL FOUNDATION](https://openreview.net/pdf?id=ByEPMj5el) (added 2018 March 28 04:35PM)
+#### **(#44)** [OUT-OF-CLASS NOVELTY GENERATION: AN EXPERIMENTAL FOUNDATION](https://openreview.net/pdf?id=ByEPMj5el) (added 2018 March 28 04:35 PM)
 
 `generate`, `creativity`, `model`, `classes`, `machine learning`, `novelty`, `evaluating`, `distribution novelty`
 
@@ -388,7 +652,7 @@ and hyperparameter combinations which lead to out-of-distribution novelty.
 
 ___
 
-#### **(#44)** [TOWARDS AN AUTOMATIC TURING TEST: LEARNING TO EVALUATE DIALOGUE RESPONSES](https://openreview.net/pdf?id=HJ5PIaseg) (added 2018 March 28 04:32PM)
+#### **(#43)** [TOWARDS AN AUTOMATIC TURING TEST: LEARNING TO EVALUATE DIALOGUE RESPONSES](https://openreview.net/pdf?id=HJ5PIaseg) (added 2018 March 28 04:32 PM)
 
 `evaluating`, `response`, `model`, `human`, `adem`, `automatic evaluating`, `dialogue`, `correlate`
 
@@ -410,17 +674,7 @@ during training, an important step for automatic dialogue evaluation
 
 ___
 
-#### **(#43)** [Neural Optimizer Search with Reinforcement Learning](https://arxiv.org/abs/1709.07417) (added 2018 March 28 04:11PM)
-
-`optimization`, `train`, `architectures`, `gradient`, `neural`, `discovering`, `controller`, `update`
-
-Irwan Bello, Barret Zoph, Vijay Vasudevan, Quoc V. Le, (Submitted on 21 Sep 2017 (v1), last revised 22 Sep 2017 (this version, v2))
-
-**Abstract:** We present an approach to automate the process of discovering optimization methods, with a focus on deep learning architectures. We train a Recurrent Neural Network controller to generate a string in a domain specific language that describes a mathematical update equation based on a list of primitive functions, such as the gradient, running average of the gradient, etc. The controller is trained with Reinforcement Learning to maximize the performance of a model after a few epochs. On CIFAR-10, our method discovers several update rules that are better than many commonly used optimizers, such as Adam, RMSProp, or SGD with and without Momentum on a ConvNet model. We introduce two new optimizers, named PowerSign and AddSign, which we show transfer well and improve training on a variety of different tasks and architectures, including ImageNet classification and Google's neural machine translation system.
-
-___
-
-#### **(#42)** [Searching for Activation Functions](https://arxiv.org/abs/1710.05941) (added 2018 March 28 04:10PM)
+#### **(#42)** [Searching for Activation Functions](https://arxiv.org/abs/1710.05941) (added 2018 March 28 04:10 PM)
 
 `activation function`, `relu`, `swish`, `search`, `swish unit`, `replace relus`, `discover activation`, `discover`
 
@@ -430,7 +684,7 @@ Prajit Ramachandran, Barret Zoph, Quoc V. Le, (Submitted on 16 Oct 2017 (v1), la
 
 ___
 
-#### **(#41)** [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) (added 2018 March 28 04:00PM)
+#### **(#41)** [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) (added 2018 March 28 04:00 PM)
 
 `conversation`, `model`, `dataset`, `domain`, `sentence`, `simple`, `find`, `noisy`
 
@@ -440,7 +694,7 @@ Oriol Vinyals, Quoc Le, (Submitted on 19 Jun 2015 (v1), last revised 22 Jul 2015
 
 ___
 
-#### **(#40)** [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388) (added 2018 March 28 03:55PM)
+#### **(#40)** [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388) (added 2018 March 28 03:55 PM)
 
 `sense`, `word`, `model`, `embedding`, `disambiguate`, `neural`, `multiple`, `process`
 
@@ -450,7 +704,7 @@ Andrew Trask, Phil Michalak, John Liu, (Submitted on 19 Nov 2015)
 
 ___
 
-#### **(#39)** [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) (added 2018 March 28 03:54PM)
+#### **(#39)** [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088) (added 2018 March 28 03:54 PM)
 
 `technique`, `transfer`, `style`, `image`, `semantic`, `texture`, `sketch`, `visual attribute`
 
@@ -461,7 +715,7 @@ Our technique finds semantically-meaningful dense correspondences between two in
 
 ___
 
-#### **(#38)** [Feynman Machine: The Universal Dynamical Systems Computer](https://arxiv.org/abs/1609.03971) (added 2018 March 28 03:51PM)
+#### **(#38)** [Feynman Machine: The Universal Dynamical Systems Computer](https://arxiv.org/abs/1609.03971) (added 2018 March 28 03:51 PM)
 
 `computation`, `machine`, `dynamical systems`, `intelligence`, `model`, `mammalian`, `interacting dynamical`, `findings`
 
@@ -471,7 +725,7 @@ Eric Laukien, Richard Crowder, Fergal Byrne, (Submitted on 13 Sep 2016)
 
 ___
 
-#### **(#37)** [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474) (added 2018 March 28 03:16PM)
+#### **(#37)** [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474) (added 2018 March 28 03:16 PM)
 
 `learn`, `algorithm`, `tasks`, `problem`, `design`, `neural`, `optimization algorithm`, `trained`
 
@@ -481,7 +735,7 @@ Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, 
 
 ___
 
-#### **(#36)** [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763) (added 2018 March 28 03:14PM)
+#### **(#36)** [Learning to reinforcement learn](https://arxiv.org/abs/1611.05763) (added 2018 March 28 03:14 PM)
 
 `rl`, `trained`, `learned`, `deep`, `approach`, `recurrent`, `rl algorithm`, `reinforcement learned`
 
@@ -491,7 +745,7 @@ Jane X Wang, Zeb Kurth-Nelson, Dhruva Tirumala, Hubert Soyer, Joel Z Leibo, Remi
 
 ___
 
-#### **(#35)** [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349) (added 2018 March 28 03:13PM)
+#### **(#35)** [A Deep Reinforcement Learning Chatbot](https://arxiv.org/abs/1709.02349) (added 2018 March 28 03:13 PM)
 
 `models`, `system`, `learning`, `milabot`, `reinforcement learning`, `ensemble`, `neural network`, `sequence`
 
@@ -501,7 +755,7 @@ Iulian V. Serban, Chinnadhurai Sankar, Mathieu Germain, Saizheng Zhang, Zhouhan 
 
 ___
 
-#### **(#34)** [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955) (added 2018 March 28 05:49AM)
+#### **(#34)** [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955) (added 2018 March 28 05:49 AM)
 
 `attribute`, `generating`, `learning`, `sentence`, `discriminators`, `semantic`, `representations`, `generating model`
 
@@ -511,7 +765,7 @@ Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing, (Sub
 
 ___
 
-#### **(#33)** [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (added 2018 March 28 05:47AM)
+#### **(#33)** [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135) (added 2018 March 28 05:47 AM)
 
 `speech`, `text`, `tacotron`, `model`, `generates`, `synthesis`, `sequence`, `audio`
 
@@ -521,7 +775,7 @@ Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Ja
 
 ___
 
-#### **(#32)** [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://arxiv.org/abs/1703.01253) (added 2018 March 28 05:46AM)
+#### **(#32)** [Machine Learning on Sequential Data Using a Recurrent Weighted Average](https://arxiv.org/abs/1703.01253) (added 2018 March 28 05:46 AM)
 
 `model`, `symbol`, `rnn`, `rwa`, `processed`, `computational`, `classification`, `rnn architecture`
 
@@ -531,7 +785,7 @@ Jared Ostmeyer, Lindsay Cowell, (Submitted on 3 Mar 2017 (v1), last revised 4 Ma
 
 ___
 
-#### **(#31)** [Representing Sentences as Low-Rank Subspaces](https://arxiv.org/abs/1704.05358v1) (added 2018 March 28 05:44AM)
+#### **(#31)** [Representing Sentences as Low-Rank Subspaces](https://arxiv.org/abs/1704.05358v1) (added 2018 March 28 05:44 AM)
 
 `sentence`, `semantic`, `representation`, `word`, `datasets`, `vectors`, `rank subspace`, `observation`
 
@@ -541,7 +795,7 @@ Jiaqi Mu, Suma Bhat, Pramod Viswanath, (Submitted on 18 Apr 2017)
 
 ___
 
-#### **(#30)** [Affect-LM: A Neural Language Model for Customizable Affective Text Generation](https://arxiv.org/abs/1704.06851) (added 2018 March 28 05:43AM)
+#### **(#30)** [Affect-LM: A Neural Language Model for Customizable Affective Text Generation](https://arxiv.org/abs/1704.06851) (added 2018 March 28 05:43 AM)
 
 `affect`, `affect lm`, `emotional`, `generated`, `language model`, `conversational text`, `propose`, `sentences`
 
@@ -551,7 +805,7 @@ Sayan Ghosh, Mathieu Chollet, Eugene Laksana, Louis-Philippe Morency, Stefan Sch
 
 ___
 
-#### **(#29)** [The More You Know: Using Knowledge Graphs for Image Classification](https://arxiv.org/abs/1612.04844) (added 2018 March 28 05:40AM)
+#### **(#29)** [The More You Know: Using Knowledge Graphs for Image Classification](https://arxiv.org/abs/1612.04844) (added 2018 March 28 05:40 AM)
 
 `knowledge`, `learn`, `graph`, `classification`, `characteristic`, `neural network`, `knowledge graph`, `vision`
 
@@ -561,7 +815,7 @@ Kenneth Marino, Ruslan Salakhutdinov, Abhinav Gupta, Submitted on 14 Dec 2016 (v
 
 ___
 
-#### **(#28)** [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649) (added 2018 March 28 05:39AM)
+#### **(#28)** [Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649) (added 2018 March 28 05:39 AM)
 
 `model`, `temporal`, `predict`, `elements`, `dependencies`, `unpredictable elements`, `observations`, `temporal model`
 
@@ -571,7 +825,7 @@ Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo
 
 ___
 
-#### **(#27)** [Multi-step Reinforcement Learning: A Unifying Algorithm](https://arxiv.org/abs/1703.01327) (added 2018 March 28 05:37AM)
+#### **(#27)** [Multi-step Reinforcement Learning: A Unifying Algorithm](https://arxiv.org/abs/1703.01327) (added 2018 March 28 05:37 AM)
 
 `algorithm`, `perform`, `step`, `unifies`, `td`, `learning`, `case`, `sarsa`
 
@@ -581,7 +835,7 @@ Kristopher De Asis, J. Fernando Hernandez-Garcia, G. Zacharias Holland, Richard 
 
 ___
 
-#### **(#26)** [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) (added 2018 March 28 05:35AM)
+#### **(#26)** [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) (added 2018 March 28 05:35 AM)
 
 `model`, `ensemble`, `compress`, `deploy`, `predictions`, `learn`, `specialist model`, `improve`
 
@@ -591,7 +845,7 @@ Geoffrey Hinton, Oriol Vinyals, Jeff Dean, Submitted on 9 Mar 2015
 
 ___
 
-#### **(#25)** [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) (added 2018 March 28 05:32AM)
+#### **(#25)** [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) (added 2018 March 28 05:32 AM)
 
 `tasks`, `learn`, `sequential`, `networks`, `approach`, `2600`, `connectionist`, `mnist`
 
@@ -601,7 +855,7 @@ James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desja
 
 ___
 
-#### **(#24)** [PixelCNN Models with Auxiliary Variables for Natural Image Modeling](https://arxiv.org/abs/1612.08185) (added 2018 March 28 05:30AM)
+#### **(#24)** [PixelCNN Models with Auxiliary Variables for Natural Image Modeling](https://arxiv.org/abs/1612.08185) (added 2018 March 28 05:30 AM)
 
 `image`, `models`, `pixelcnn`, `probabilistic models`, `auxiliary variables`, `image samples`, `proposed models`, `level image`
 
@@ -611,7 +865,7 @@ Alexander Kolesnikov, Christoph H. Lampert, Submitted on 24 Dec 2016 (v1), last 
 
 ___
 
-#### **(#23)** [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603) (added 2018 March 28 05:19AM)
+#### **(#23)** [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603) (added 2018 March 28 05:19 AM)
 
 `context`, `query`, `directional attention`, `attention`, `summarization`, `answering`, `bi directional`, `mc`
 
@@ -621,7 +875,7 @@ Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hannaneh Hajishirzi, Submitted on 
 
 ___
 
-#### **(#22)** [Convolutional Neural Fabrics](https://arxiv.org/abs/1606.02492v4) (added 2018 March 28 04:58AM)
+#### **(#22)** [Convolutional Neural Fabrics](https://arxiv.org/abs/1606.02492v4) (added 2018 March 28 04:58 AM)
 
 `fabric`, `architecture`, `connectivity`, `paths`, `scales`, `layers`, `parameters`, `optimal architecture`
 
@@ -631,7 +885,7 @@ Shreyas Saxena, Jakob Verbeek, Submitted on 8 Jun 2016 (v1), last revised 30 Jan
 
 ___
 
-#### **(#21)** [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (added 2018 March 28 04:53AM)
+#### **(#21)** [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (added 2018 March 28 04:53 AM)
 
 `learn`, `plan`, `straw`, `macro actions`, `temporally`, `prediction`, `demonstrate`, `end`
 
@@ -641,7 +895,7 @@ Alexander (Sasha) Vezhnevets, Volodymyr Mnih, John Agapiou, Simon Osindero, Alex
 
 ___
 
-#### **(#20)** [Pointer Networks](https://arxiv.org/abs/1506.03134) (added 2018 March 28 04:28AM)
+#### **(#20)** [Pointer Networks](https://arxiv.org/abs/1506.03134) (added 2018 March 28 04:28 AM)
 
 `sequence`, `problem`, `attention`, `neural`, `ptr net`, `input`, `output`, `learn`
 
@@ -651,7 +905,7 @@ Oriol Vinyals, Meire Fortunato, Navdeep Jaitly, Submitted on 9 Jun 2015 (v1), la
 
 ___
 
-#### **(#19)** [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](https://arxiv.org/abs/1511.09249) (added 2018 March 28 04:23AM)
+#### **(#19)** [On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models](https://arxiv.org/abs/1511.09249) (added 2018 March 28 04:23 AM)
 
 `learn`, `rnnai`, `model`, `rnn based`, `rl`, `rnn`, `abstract`, `reasoning`
 
@@ -661,7 +915,7 @@ Submitted on 30 Nov 2015
 
 ___
 
-#### **(#18)** [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v6) (added 2018 March 28 04:22AM)
+#### **(#18)** [On the Expressive Power of Deep Neural Networks](https://arxiv.org/abs/1606.05336v6) (added 2018 March 28 04:22 AM)
 
 `network`, `expressivity`, `regularization`, `trajectory`, `compute`, `weights`, `trajectory length`, `neural network`
 
@@ -674,7 +928,7 @@ Submitted on 16 Jun 2016 (v1), last revised 18 Jun 2017 (this version, v6)
 
 ___
 
-#### **(#17)** [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) (added 2018 March 28 04:20AM)
+#### **(#17)** [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) (added 2018 March 28 04:20 AM)
 
 `convolution`, `inception v3`, `inception`, `depthwise separable convolution`, `inception module`, `architecture`, `outperforms inception`, `xception`
 
@@ -684,7 +938,7 @@ Submitted on 7 Oct 2016 (v1), last revised 4 Apr 2017 (this version, v3)
 
 ___
 
-#### **(#16)** [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454v2) (added 2018 March 28 04:18AM)
+#### **(#16)** [Reasoning with Memory Augmented Neural Networks for Language Comprehension](https://arxiv.org/abs/1610.06454v2) (added 2018 March 28 04:18 AM)
 
 `hypothesis test`, `approach`, `test`, `nse`, `comprehension`, `neural`, `hypothesis`, `previous`
 
@@ -694,7 +948,7 @@ Submitted on 20 Oct 2016 (v1), last revised 28 Feb 2017 (this version, v2)
 
 ___
 
-#### **(#15)** [Neural Networks with Few Multiplications](https://arxiv.org/abs/1510.03009) (added 2018 March 28 04:05AM)
+#### **(#15)** [Neural Networks with Few Multiplications](https://arxiv.org/abs/1510.03009) (added 2018 March 28 04:05 AM)
 
 `training`, `multiplications`, `binarize`, `stochastic`, `computation`, `weights`, `neural networks`, `convert`
 
@@ -704,7 +958,7 @@ Submitted on 11 Oct 2015 (v1), last revised 26 Feb 2016 (this version, v3)
 
 ___
 
-#### **(#14)** [Memory Networks](https://arxiv.org/abs/1410.3916) (added 2018 March 28 04:04AM)
+#### **(#14)** [Memory Networks](https://arxiv.org/abs/1410.3916) (added 2018 March 28 04:04 AM)
 
 `models`, `long term memory`, `qa`, `component`, `learn`, `memory networks`, `task`, `memory`
 
@@ -714,7 +968,7 @@ Submitted on 15 Oct 2014 (v1), last revised 29 Nov 2015 (this version, v11)
 
 ___
 
-#### **(#13)** [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) (added 2018 March 28 04:03AM)
+#### **(#13)** [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) (added 2018 March 28 04:03 AM)
 
 `infogan`, `dataset`, `representations`, `digit`, `learn`, `disentangled`, `interpretable`, `generative adversarial`
 
@@ -724,7 +978,7 @@ Submitted on 12 Jun 2016
 
 ___
 
-#### **(#12)** [On Multiplicative Integration with Recurrent Neural Networks](https://arxiv.org/abs/1606.06630) (added 2018 March 28 03:59AM)
+#### **(#12)** [On Multiplicative Integration with Recurrent Neural Networks](https://arxiv.org/abs/1606.06630) (added 2018 March 28 03:59 AM)
 
 `rnn models`, `rnn`, `multiplicative integrated`, `introduce`, `structural`, `integrated`, `mi`, `difference`
 
@@ -734,7 +988,7 @@ Submitted on 21 Jun 2016 (v1), last revised 12 Nov 2016 (this version, v2)
 
 ___
 
-#### **(#11)** [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937v2) (added 2018 March 28 03:55AM)
+#### **(#11)** [Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937v2) (added 2018 March 28 03:55 AM)
 
 `network`, `processed`, `architecture`, `mpii`, `outcompeting`, `convolutional`, `upsampling`, `flic`
 
@@ -744,7 +998,7 @@ Submitted on 22 Mar 2016 (v1), last revised 26 Jul 2016 (this version, v2)
 
 ___
 
-#### **(#10)** [Learning to Understand Phrases by Embedding the Dictionary](https://arxiv.org/abs/1504.00548) (added 2018 March 28 03:50AM)
+#### **(#10)** [Learning to Understand Phrases by Embedding the Dictionary](https://arxiv.org/abs/1504.00548) (added 2018 March 28 03:50 AM)
 
 `definition`, `lexical`, `dictionaries`, `representations`, `phrases`, `trained`, `models`, `architectures`
 
@@ -754,7 +1008,7 @@ Submitted on 2 Apr 2015 (v1), last revised 22 Mar 2016 (this version, v4)
 
 ___
 
-#### **(#9)** [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895) (added 2018 March 28 03:49AM)
+#### **(#9)** [End-To-End Memory Networks](https://arxiv.org/abs/1503.08895) (added 2018 March 28 03:49 AM)
 
 `model`, `hops`, `multiple computational`, `trained`, `less supervision`, `memory`, `approach`, `memory network`
 
@@ -764,7 +1018,7 @@ Submitted on 31 Mar 2015 (v1), last revised 24 Nov 2015 (this version, v5)
 
 ___
 
-#### **(#8)** [Neural Language Correction with Character-Based Attention](https://arxiv.org/abs/1603.09727v1) (added 2018 March 28 03:46AM)
+#### **(#8)** [Neural Language Correction with Character-Based Attention](https://arxiv.org/abs/1603.09727v1) (added 2018 March 28 03:46 AM)
 
 `error`, `approach`, `method`, `network`, `language`, `learner`, `flexibility`, `neural`
 
@@ -774,7 +1028,7 @@ Submitted on 31 Mar 2016
 
 ___
 
-#### **(#7)** [Masked Autoregressive Flow for Density Estimation](https://arxiv.org/abs/1705.07057) (added 2018 March 28 03:40AM)
+#### **(#7)** [Masked Autoregressive Flow for Density Estimation](https://arxiv.org/abs/1705.07057) (added 2018 March 28 03:40 AM)
 
 `model`, `autoregressive model`, `autoregressive flow`, `density estimation`, `flow`, `masked autoregressive`, `stack`, `random numbers`
 
@@ -784,7 +1038,7 @@ last revised 11 Jan 2018 (this version, v3)
 
 ___
 
-#### **(#6)** [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (added 2018 March 28 03:37AM)
+#### **(#6)** [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (added 2018 March 28 03:37 AM)
 
 `representation`, `learn`, `model`, `vae`, `vq`, `discrete`, `vector quantisation`, `autoregressive`
 
@@ -794,7 +1048,7 @@ Submitted on 2 Nov 2017
 
 ___
 
-#### **(#5)** [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654v3) (added 2018 March 28 03:36AM)
+#### **(#5)** [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654v3) (added 2018 March 28 03:36 AM)
 
 `deep voice 3`, `tts`, `neural`, `synthesis`, `speech synthesis`, `speech`, `scale`, `ten`
 
@@ -804,7 +1058,7 @@ last revised 22 Feb 2018 (this version, v3)
 
 ___
 
-#### **(#4)** [From neural PCA to deep unsupervised learning](https://arxiv.org/abs/1411.7783) (added 2018 March 28 03:29AM)
+#### **(#4)** [From neural PCA to deep unsupervised learning](https://arxiv.org/abs/1411.7783) (added 2018 March 28 03:29 AM)
 
 `network`, `learn`, `autoencoder`, `hierarchy`, `layer`, `level`, `denoising`, `encoder`
 
@@ -814,7 +1068,7 @@ Submitted on 28 Nov 2014 (v1), last revised 2 Feb 2015 (this version, v2)
 
 ___
 
-#### **(#3)** [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188v1) (added 2018 March 28 03:27AM)
+#### **(#3)** [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188v1) (added 2018 March 28 03:27 AM)
 
 `network`, `sentence`, `convolutional`, `dcnn`, `pooling`, `sentiment prediction`, `dynamic`, `task`
 
@@ -824,7 +1078,7 @@ Submitted on 8 Apr 2014
 
 ___
 
-#### **(#2)** [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057) (added 2018 March 28 03:21AM)
+#### **(#2)** [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057) (added 2018 March 28 03:21 AM)
 
 `paragraph`, `model`, `embedding`, `coherence`, `reconstruct`, `generating`, `text`, `lstm`
 
@@ -834,7 +1088,7 @@ ___
 
 ___
 
-#### **(#1)** [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590) (added 2018 March 28 02:31AM)
+#### **(#1)** [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590) (added 2018 March 28 02:31 AM)
 
 `learn`, `hierarchical`, `framework`, `different`, `rl`, `utilize`, `horizon`, `demonstrate`
 
