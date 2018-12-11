@@ -4,7 +4,126 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (112), **`research`** (41), **`memories`** (33), **`studies`** (26), **`participants`** (25), **`learn`** (23), **`neuron`** (23), **`neurons`** (21), **`word`** (17), **`memory`** (17), **`hippocampus`** (17), **`sleep`** (16), **`researchers`** (15), **`information`** (15), **`cognitive`** (14)
+**Top keywords:** **`brain`** (117), **`research`** (43), **`memories`** (34), **`studies`** (26), **`participants`** (25), **`learn`** (24), **`neuron`** (24), **`neurons`** (22), **`word`** (17), **`memory`** (17), **`hippocampus`** (17), **`sleep`** (16), **`researchers`** (15), **`information`** (15), **`cognitive`** (14)
+
+___
+
+**#504** read 2018 November 25 02:29 AM. Link: [www.sciencedaily.com/releases/2018/11/181108142...](https://www.sciencedaily.com/releases/2018/11/181108142443.htm)
+
+`activated`, `space`, `brain`, `navigate`, `dimensions`, `human`, `grid cell`, `stored`
+
+- Place cells in the hippocampus and grid cells in the neighboring entorhinal cortex form a circuit that allows orientation and navigation. The team of scientists suggests that our inner navigation system does much more. They propose that this system is also key to 'thinking', explaining why our knowledge seems to be organized in a spatial fashion
+
+- The term 'cognitive spaces' refers to mental maps in which we arrange our experience.
+
+- The very regular activation pattern of grid cells can also be observed in humans -- but importantly, not only during navigation through geographical spaces. Grids cells are also active when learning new concepts
+
+- we came to the assumption that the brain stores a mental map, regardless of whether we are thinking about a real space or the space between dimensions of our thoughts. Our train of thought can be considered a path though the spaces of our thoughts, along different mental dimensions
+
+
+___
+
+**#503** read 2018 October 10 03:50 PM. Link: [www.sciencedaily.com/releases/2018/10/181009135...](https://www.sciencedaily.com/releases/2018/10/181009135931.htm)
+
+`seizure`, `neuronal`, `dr weiss`, `inhibitory neuronal`, `patients`, `brain`, `inhibition`, `activated`
+
+- shown that some types of seizure paradoxically begin with a hush: a spike in inhibition. Neurons that dampen neuronal activity may be responsible for starting the large-scale over-activation of a seizure
+
+
+___
+
+**#502** read 2018 October 09 04:18 AM. Link: [www.sciencedaily.com/releases/2018/07/180726162...](https://www.sciencedaily.com/releases/2018/07/180726162709.htm)
+
+`neuron`, `progenitor`, `electrical`, `cell`, `generate`, `developed`, `embryo`, `role`
+
+- investigated what enables neuronal stem cells to generate successive subtypes of neurons as the embryo grows. By measuring the electrical activity of these progenitors, they found that akin to a battery getting charged, membrane voltage values increase as the embryo develops and new neurons are being created
+
+- What we found is that as the embryo grows and the types of neurons generate become more complex, progenitor voltage values increased
+
+
+___
+
+**#501** read 2018 October 09 03:56 AM. Link: [www.sciencedaily.com/releases/2018/08/180806175...](https://www.sciencedaily.com/releases/2018/08/180806175957.htm)
+
+`pride`, `value`, `human`, `sznycer`, `evolved`, `universal`, `act`, `feel`
+
+- Pride, they argue, was built into human nature by evolution because it served an important function for our foraging ancestors. Our ancestors, they explained, lived in small, highly interdependent bands and faced frequent life-threatening reversals. They needed their fellow band members to value them enough during bad times to pull them through
+
+
+___
+
+**#500** read 2018 October 09 03:51 AM. Link: [www.sciencedaily.com/releases/2018/08/180808134...](https://www.sciencedaily.com/releases/2018/08/180808134347.htm)
+
+`memories`, `spike`, `neurons`, `activation`, `miller`, `lundqvist`, `experiments`, `brain`
+
+- tackle key questions about working memory such as, how we hold and juggle multiple pieces of information in mind
+
+- The central issue of the debate is what happens after you hear or see what you need to remember and must then hold or control it in mind to apply it later. During that interim, or "delay period," do neurons in your brain's prefrontal cortex maintain it by persistently firing away, like an idling car engine, or do they spike in brief but coordinated bursts to store and retrieve information via the patterns of their connections, akin to how longer-term memory works?
+
+- That neurons fire in short, cohesive bursts in accord with circuit-wide oscillations, makes functional sense, Miller and Lundqvist argue. It uses less energy than keeping neurons firing all the time, for example, and readily explains how multiple items can be held in mind simultaneously (distinct bursts representing different pieces of information can occur at different times). 
+
+- "Storing information with a mixture of spiking and synapses gives the brain more flexibility," Lundqvist said. "It can juggle the activation of different memories, allowing the brain to hold multiple memories without them interfering with each other. Plus, synapses can store temporarily store memories while the spiking processes other thoughts.
+
+
+___
+
+**#499** read 2018 October 09 02:41 AM. Link: [www.sciencedaily.com/releases/2018/10/181003090...](https://www.sciencedaily.com/releases/2018/10/181003090356.htm)
+
+`question`, `answer`, `learn`, `test`, `student`, `correct`, `butler`, `effect`
+
+- Although people often think about multiple-choice tests as tools for assessment, they can also be used to facilitate learning
+
+- The act of retrieving information strengthens memory for that information, leading to better long-term retention, and changes the representation of the information, creating deeper understanding
+
+- Among key findings, educators should never include trick questions or offer "all of the above" or "none of the above" options among the list of possible answers
+
+- While multiple-choice testing, especially repeated testing, has the potential to strengthen our recall, a poorly formatted test question can have the opposite effect
+
+- Use three plausible response options. Question difficulty increases with each answer option offered. Students who correctly answer more difficult questions may learn more from rising to the challenge, but questions that offer too many plausible answers can have a negative effect on both learning and assessment
+
+- Retrieving information and answering questions correctly reinforces student learning; failing to answer correctly may strengthen memories for misinformation. Challenge students, but allow them to succeed.
+
+- Finally, because multiple choice questions expose students to lots of plausibly presented false information, it's important for students to review answers after grading is completed
+
+
+___
+
+**#498** read 2018 October 08 10:55 PM. Link: [www.sciencealert.com/researchers-create-new-fon...](https://www.sciencealert.com/researchers-create-new-font-designed-to-boost-your-memory)
+
+`font`, `sans forgetica`, `research`, `reader`, `read`, `design`, `rmit`, `oppenheimer`
+
+- created a font called Sans Forgetica, which was designed to boost information retention for readers
+
+- based on a theory called "desirable difficulty", which suggests that people remember things better when their brains have to overcome minor obstacles while processing information
+
+- Sans Forgetica is sleek and back-slanted with intermittent gaps in each letter, which serve as a "simple puzzle" for the reader
+
+
+___
+
+**#497** read 2018 October 08 01:47 AM. Link: [www.sciencealert.com/brain-scans-show-too-much-...](https://www.sciencealert.com/brain-scans-show-too-much-choice-leaves-you-paralysed-with-indecision)
+
+`brain`, `choice`, `reward`, `research`, `camerer`, `24`, `12`, `striatum`
+
+- mapped out how choice overload works in the brain, showing how our minds can back off from making a decision if the number of options gets too big.
+
+- this new research identifies the areas of the brain that help us make a judgement between making a choice or not  specifically the anterior cingulate cortex or ACC (where we weigh benefits) and the striatum (where we determine value).
+
+- When 19 volunteers were given a choice of landscape images to print on a t-shirt or a mug, activity in these two brain areas increased as the number of options went up, according to readings from an fMRI machine. However, once the choice of pictures went above 12, activity started trailing off again.
+
+- in 2000, scientists ran a famous jam study where shoppers were either faced with 24 samples or just 6 samples. Study participants were more likely to browse the choices with 24, but more likely to make a purchase with 6.
+
+
+___
+
+**#496** read 2018 September 25 08:58 PM. Link: [www.sciencedaily.com/releases/2018/09/180920115...](https://www.sciencedaily.com/releases/2018/09/180920115518.htm)
+
+`neuronal`, `reward`, `vagal`, `brain`, `vagus nerve`, `nerve`, `reward neuronal`, `gut`
+
+- A novel gut-to-brain neural circuit establishes the vagus nerve as an essential component of the brain system that regulates reward and motivation
+
+- study reveals, for the first time, the existence of a neuronal population of 'reward neurons' amid the sensory cells of the right branch of the vagus nerve
+
 
 ___
 
