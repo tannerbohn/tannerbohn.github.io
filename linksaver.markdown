@@ -4,7 +4,55 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (117), **`research`** (43), **`memories`** (34), **`studies`** (26), **`participants`** (25), **`learn`** (24), **`neuron`** (24), **`neurons`** (22), **`word`** (17), **`memory`** (17), **`hippocampus`** (17), **`sleep`** (16), **`researchers`** (15), **`information`** (15), **`cognitive`** (14)
+**Top keywords:** **`brain`** (118), **`research`** (44), **`memories`** (35), **`studies`** (26), **`participants`** (26), **`neuron`** (25), **`learn`** (24), **`neurons`** (22), **`word`** (17), **`memory`** (17), **`hippocampus`** (17), **`sleep`** (16), **`researchers`** (15), **`information`** (15), **`network`** (14)
+
+___
+
+**#508** read 2019 January 20 06:51 PM. Link: [www.sciencedaily.com/releases/2019/01/190118123...](https://www.sciencedaily.com/releases/2019/01/190118123003.htm)
+
+`happiness`, `substance`, `recovery`, `exercise`, `positive experiences`, `treatment`, `participants`, `challenge`
+
+- Brief, text-based, self-administered exercises can significantly increase in-the-moment happiness for adults recovering from substance use disorders
+
+- greatest gains in happiness after completing an exercise called "Reliving Happy Moments," in which they selected one of their own photos that captured a happy moment and entered text describing what was happening in the picture
+
+- An exercise called "Savoring," in which participants described two positive experiences they noticed and appreciated during the preceding day, led to the next highest gains in happiness, followed by "Rose, Thorn, Bud," in which they listed a highlight and a challenge of the preceding day and a pleasure they anticipated the following day
+
+- Conversely, "3 Hard Things," in which participants were asked to write about challenges they had faced during the preceding day, led to a significant decrease in happiness
+
+
+___
+
+**#507** read 2019 January 16 12:46 AM. Link: [www.sciencedaily.com/releases/2018/12/181217101...](https://www.sciencedaily.com/releases/2018/12/181217101807.htm)
+
+`memories`, `event`, `stories`, `participant`, `healey`, `research`, `headline`, `recall`
+
+- When two events occur within a brief window of time they become linked in memory, such that calling forth memory of one helps retrieve memory for the other event
+
+- This happens even when temporal proximity is the only feature that the two events share
+
+
+___
+
+**#506** read 2019 January 15 01:31 AM. Link: [www.sciencedaily.com/releases/2018/12/181217120...](https://www.sciencedaily.com/releases/2018/12/181217120046.htm)
+
+`communicate`, `brain`, `rhythm`, `brain area`, `network`, `model`, `oscillations`, `neuron`
+
+- We believe that our work helps to provide a better understanding as to how neuron populations interact, depending on the state of their network activity, and whether messages from a neuron group in brain area A can reach a neuron group in brain area B or no
+
+- The possibility of exchanging information depends on many factors, for example whether the oscillations are fast or slow, the frequencies are similar or different, the relationship between the phases and so on
+
+- The study combines three prominent explanatory models that have been proposed in recent years: synfire communication, communication through coherence and communication through resonance
+
+
+___
+
+**#505** read 2019 January 15 01:30 AM. Link: [www.sciencedaily.com/releases/2019/01/190109110...](https://www.sciencedaily.com/releases/2019/01/190109110055.htm)
+
+`raf`, `learner`, `academics`, `feedback`, `academics experience`, `studied`, `university of jyvskyl`, `relaxed`
+
+- Academics experience that by using the Recorded Audio Feedback (RAF) in higher education they can give more relaxed and dialogic feedback for their learners and reduce their own workload both mentally and physically.
+
 
 ___
 

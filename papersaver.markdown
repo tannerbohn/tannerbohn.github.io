@@ -18,6 +18,11 @@ Francesco Locatello, Stefan Bauer, Mario Lucic, Sylvain Gelly, Bernhard Scholkop
 We first theoretically show that the unsupervised learning of disentangled representations is fundamentally impossible without inductive biases on both the models and the data. Then, we train more than 12000 models covering the six most prominent methods, and evaluate them across six disentanglement metrics in a reproducible large-scale experimental study on seven different data sets. On the positive side, we observe that different methods successfully enforce properties "encouraged" by the corresponding losses. On the negative side, we observe in our study that well-disentangled models seemingly cannot be identified without access to ground-truth labels even if we are allowed to transfer hyperparameters across data sets. Furthermore, increased disentanglement does not seem to lead to a decreased sample complexity of learning for downstream tasks. 
 These results suggest that future work on disentanglement learning should be explicit about the role of inductive biases and (implicit) supervision, investigate concrete benefits of enforcing disentanglement of the learned representations, and consider a reproducible experimental setup covering several data sets.
 
+
+
+- for filter_size, conv_depth, conv_width, pctl_threshold, n_neighbors, alpha, nb_bins, maxpool in itertools.product([7]*10, [1], [1024], [0.25], [19, 21], [0.6], [25], [2]): model = UniquenessClf(img_size=img_size, filter_size=filter_size, conv_depth=conv_depth, conv_width = conv_width, pctl_threshold=pctl_threshold, n_neighbors=n_neighbors, alpha=alpha, maxpool=maxpool) for nb_labelled, nb_unlabelled in itertools.product([12], [256]): E.nb_labelled = nb_labelled E.nb_unlabelled = nb_unlabelled task_scores, avg_score = E.evaluate(model, verbose=1) #print("\nAVG: {}\n".format(avg_score)) for task, score in task_scores: res_str = "{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{:.4f}".format(filter_size, conv_depth, conv_width, pctl_threshold, n_neighbors, alpha, nb_bins, maxpool, nb_unlabelled, nb_labelled, task, score) print(res_str) f.write(res_str+"\n") f.flush() K.clear_session()
+
+
 ___
 
 #### **(#95)** [Exploration by random network distillation](https://openreview.net/forum?id=H1lJJnR5Ym) (added 2018 November 24 06:43 PM)
