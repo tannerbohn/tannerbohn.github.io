@@ -4,7 +4,458 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (119), **`research`** (45), **`memories`** (35), **`studies`** (26), **`participants`** (26), **`neuron`** (25), **`learn`** (24), **`neurons`** (22), **`sleep`** (17), **`word`** (17), **`memory`** (17), **`hippocampus`** (17), **`studied`** (15), **`researchers`** (15), **`information`** (15)
+**Top keywords:** **`brain`** (127), **`research`** (49), **`memories`** (37), **`studies`** (31), **`participants`** (31), **`neuron`** (28), **`learn`** (25), **`sleep`** (22), **`neurons`** (22), **`study`** (18), **`studied`** (18), **`memory`** (18), **`hippocampus`** (18), **`word`** (17), **`researchers`** (16)
+
+___
+
+**#534** read 2019 September 21 06:03 PM. Link: [www.sciencedaily.com/releases/2019/09/190917100...](https://www.sciencedaily.com/releases/2019/09/190917100449.htm)
+
+`extravert`, `extraversion`, `participants`, `week`, `lyubomirsky`, `behavior`, `study`, `act`
+
+- For one week, the 123 participants were asked to -- in some cases -- push the boundaries of their willingness to engage, by acting as extraverts. For another week, the same group was asked to act like introverts.
+
+- The findings suggest that changing one's social behavior is a realizable goal for many people, and that behaving in an extraverted way improves well-being
+
+- Researchers next told participants -- both the Act Introvert group and the Act Extravert group -- that previous research found each set of behaviors are beneficial for college students.
+
+
+___
+
+**#533** read 2019 September 21 06:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190916103...](https://www.sciencedaily.com/releases/2019/09/190916103811.htm)
+
+`hungry`, `reward`, `decision`, `hunger`, `people`, `preference`, `food`, `dr vincent`
+
+- hunger significantly altered people's decision-making, making them impatient and more likely to settle for a small reward that arrives sooner than a larger one promised at a later date
+
+- While it was perhaps unsurprising that hungry people were more likely to settle for smaller food incentives that arrived sooner, the researchers found that being hungry actually changes preferences for rewards entirely unrelated to food
+
+
+___
+
+**#532** read 2019 September 21 05:14 PM. Link: [www.sciencedaily.com/releases/2019/09/190916110...](https://www.sciencedaily.com/releases/2019/09/190916110556.htm)
+
+`sleep`, `brain`, `zebrafish`, `brain active`, `research`, `increase`, `finding`, `active`
+
+- The intensity of brain activity during the day, notwithstanding how long we've been awake, appears to increase our need for sleep
+
+- But the homeostatic system, which causes us to feel increasingly tired after a very long day or sleepless night, is not well understood. What we've found is that it appears to be driven not just by how long you've been awake for, but how intensive your brain activity has been since you last slept
+
+
+___
+
+**#531** read 2019 September 21 05:11 PM. Link: [www.sciencedaily.com/releases/2019/09/190910095...](https://www.sciencedaily.com/releases/2019/09/190910095417.htm)
+
+`tics`, `tourette syndrome`, `oral splint`, `studies`, `sensory trick`, `patients`, `brain`, `improve`
+
+- developed a custom-made oral splint. These are typically used for unconscious teeth clenching and grinding, and for temporomandibular disorders such as misalignment of the teeth or jaw. The oral splint is applied to the molars to increase the occlusal vertical dimension
+
+- Biting down on the device immediately improved both motor and vocal tics in 10 of the 14 children and 6 of the 8 adults that participated in the study
+
+- Tourette syndrome is a neurological disorder characterized by vocal and motor tics, which can contribute to anxiety, depression, and low self-esteem
+
+
+___
+
+**#530** read 2019 September 21 05:02 PM. Link: [www.sciencedaily.com/releases/2019/09/190909123...](https://www.sciencedaily.com/releases/2019/09/190909123710.htm)
+
+`deadline`, `albarracin`, `inaction`, `action`, `sitting`, `walking`, `purchase`, `product`
+
+- the goals elicited by movement affect decisions that need to be made immediately. So someone walking around a park is more likely to complete a deadline-driven purchase than someone sitting on a park bench contemplating life. But walking or sitting would not affect decisions about future purchases.
+
+- What we found is that walking involves activating action representations that in turn promote other actions outside of the context of walking
+
+- Likewise, sitting involves activating inaction representations that may promote inaction outside of the context of sitting
+
+- when you're in a hurry and you're under a close deadline, "both being in a hurry and having the deadline push in the same direction of completing the transaction as quickly as possible,"
+
+
+___
+
+**#529** read 2019 August 16 02:31 PM. Link: [www.sciencedaily.com/releases/2019/08/190815122...](https://www.sciencedaily.com/releases/2019/08/190815122257.htm)
+
+`product`, `consumer`, `feel`, `imagination`, `product design`, `mehta`, `focus`, `idea`
+
+- connecting with the end user's heart rather than their head can lead to more original and creative outcomes in product design
+
+- adopting an approach that imagines how an end user would feel while using a product leads designers to experience greater empathy, which enhances creativity and, in turn, outcome originality for new product design
+
+
+___
+
+**#528** read 2019 July 11 02:42 PM. Link: [www.sciencedaily.com/releases/2019/06/190628120...](https://www.sciencedaily.com/releases/2019/06/190628120531.htm)
+
+`memory`, `sleep`, `sound`, `participant`, `sound stimulation`, `night`, `mild cognitive impairment`, `slow wave`
+
+- Gentle sound stimulation played during specific times during deep sleep enhanced deep or slow-wave sleep for people with mild cognitive impairment
+
+- The sound stimulation consisted of short pulses of pink noise
+
+
+___
+
+**#527** read 2019 May 11 11:28 PM. Link: [www.sciencedaily.com/releases/2018/11/181120125...](https://www.sciencedaily.com/releases/2018/11/181120125916.htm)
+
+`memories`, `brain`, `reward`, `participants`, `important`, `study`, `events`, `remember`
+
+- he brain plays back and prioritizes high-reward events for later retrieval and filters out the neutral, inconsequential events, retaining memories that will be useful to future decisions
+
+- memory for objects that had no special significance when they were initially seen were later remembered only because they were close to the reward. To the researchers' surprise, this pattern of memories was not found when they tested memory immediately. The brain needed time to prioritize memory for the events that led to the reward.
+
+
+___
+
+**#526** read 2019 May 11 11:24 PM. Link: [www.sciencedaily.com/releases/2018/12/181210134...](https://www.sciencedaily.com/releases/2018/12/181210134907.htm)
+
+`dopamine`, `brain`, `reward`, `aversion`, `cell`, `lammel`, `neuron`, `addiction`
+
+- dopamine may also reinforce avoidance of painful experiences. Researchers have now mapped dopamine neurons in the brain with fiber photometry and discovered two parallel dopamine circuits driving attractive and aversive reinforcement learning and motivation
+
+- The newly discovered role for dopamine aligns with an increasing recognition that the neurotransmitter has quite different roles in different areas of the brain
+
+
+___
+
+**#525** read 2019 May 11 11:10 PM. Link: [www.sciencedaily.com/releases/2018/12/181210150...](https://www.sciencedaily.com/releases/2018/12/181210150622.htm)
+
+`creative`, `brain`, `ideas`, `researcher`, `process`, `associated`, `need`, `studies`
+
+- The human brain needs to suppress obvious ideas in order to reach the most creative ones
+
+- brainwaves play a crucial role in inhibiting habitual thinking modes to pave the way to access more remote ideas
+
+- these brainwaves, or alpha oscillations in the right temporal area of the brain, increase when individuals need to suppress misleading associations in creative tasks
+
+- The researchers show that stimulating the right temporal part of the brain in the alpha frequency increases the capability of inhibiting obvious links in both types of creative thinking.
+
+
+___
+
+**#524** read 2019 May 11 09:28 PM. Link: [www.sciencedaily.com/releases/2019/01/190130161...](https://www.sciencedaily.com/releases/2019/01/190130161638.htm)
+
+`exercise`, `studies`, `thinking skills`, `improve`, `participants`, `age`, `aerobic exercise`, `stretched and toned`
+
+- Regular aerobic exercise such as walking, cycling or climbing stairs may improve thinking skills not only in older people but in young people as well
+
+- people who exercised were testing as if they were about 10 years younger at age 40 and about 20 years younger at age 60
+
+- researchers did not find a link between exercise and improved memory skills
+
+
+___
+
+**#523** read 2019 May 11 09:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190221111...](https://www.sciencedaily.com/releases/2019/02/190221111704.htm)
+
+`person`, `study`, `rotate`, `letter`, `mental rotate`, `mental`, `participants`, `eyes`
+
+- focused on a mental rotation task commonly used in psychology, where participants are asked whether a rotated letter on computer screen is presented in its standard form (e.g. "R") or mirror-inverted form
+
+- Usually, the more a letter is rotated away from the person judging it, the longer it takes to decide its form. The reason for this is that people first have to mentally rotate the object back to its upright orientation before being able to judge its form, and this rotation takes longer the more the letter is oriented away.
+
+- the new study reveals that people can bypass this mental rotation when another person is introduced. The study shows that even when items are oriented away from participants, their decision times are surprisingly fast if the item appears upright to the other person and is therefore easily identifiable from their perspective. In contrast, if the letter appears upside down for the other person, even relatively easy judgements become harder for the participants
+
+
+___
+
+**#522** read 2019 May 11 08:32 PM. Link: [www.sciencedaily.com/releases/2019/03/190305170...](https://www.sciencedaily.com/releases/2019/03/190305170106.htm)
+
+`sleep`, `dna`, `dna damage`, `brain`, `zebrafish`, `wakefulness`, `neuron`, `accumulate`
+
+- Despite the risk of reduced awareness to the environment, animals -- ranging from jellyfish to zebrafish to humans -- have to sleep to allow their neurons to perform efficient DNA maintenance, and this is possibly the reason why sleep has evolved and is so conserved in the animal kingdom
+
+
+___
+
+**#521** read 2019 May 11 08:17 PM. Link: [www.sciencedaily.com/releases/2019/03/190312123...](https://www.sciencedaily.com/releases/2019/03/190312123805.htm)
+
+`plan`, `hippocampus`, `epilepsy`, `future`, `hippocampal`, `alzheimer`, `disease`, `damage`
+
+- evidence that the human hippocampus is necessary for future planning. Its findings, published in the journal Neuron, link its long-established role in memory with our ability to use our knowledge to map out the future effects of our actions.
+
+- The hippocampal cognitive map has been long thought to allow us to "mentally simulate" the future outcomes of our actions as we plan into the future
+
+- both goal-directed planning and remembering locations in space depend on the human hippocampus
+
+
+___
+
+**#520** read 2019 May 08 09:14 PM. Link: [www.sciencedaily.com/releases/2019/04/190418131...](https://www.sciencedaily.com/releases/2019/04/190418131356.htm)
+
+`chatbot`, `interact`, `human`, `sundar`, `participant`, `research`, `humanlike`, `expectation`
+
+- found that chatbots that had human features -- such as a human avatar -- but lacked interactivity, disappointed people who used it. However, people responded better to a less-interactive chatbot that did not have humanlike cues
+
+- "People are pleasantly surprised when a chatbot with low anthropomorphism -- fewer human cues -- has higher interactivity," said Sundar. "But when there are high anthropomorphic visual cues, it may set up your expectations for high interactivity -- and when the chatbot doesn't deliver that -- it may leave you disappointed."
+
+- High interactivity is marked by swift responses that match a user's queries and feature a threaded exchange that can be followed easily, according to Sundar.
+
+- improving interactivity may be more than enough to compensate for a less-humanlike chatbot. Even small changes in the dialogue, like acknowledging what the user said before providing a response, can make the chatbot seem more interactive
+
+
+___
+
+**#519** read 2019 May 08 09:13 PM. Link: [www.sciencedaily.com/releases/2019/04/190412115...](https://www.sciencedaily.com/releases/2019/04/190412115055.htm)
+
+`rest`, `volunteers`, `learned`, `practice`, `brain`, `brain wave`, `memories`, `improved`
+
+- found that our brains may solidify the memories of new skills we just practiced a few seconds earlier by taking a short rest
+
+- Everyone thinks you need to 'practice, practice, practice' when learning something new. Instead, we found that resting, early and often, may be just as critical to learning as practice
+
+
+___
+
+**#518** read 2019 May 08 12:59 PM. Link: [www.sciencedaily.com/releases/2019/04/190417111...](https://www.sciencedaily.com/releases/2019/04/190417111437.htm)
+
+`coffee`, `arousal`, `associate`, `effect`, `smelling`, `cognitive`, `tea`, `studies`
+
+- found that the placebo effect of coffee can heighten arousal, ambition and focus in regular drinkers without them actually consuming the beverage
+
+- So walking past your favourite cafe, smelling the odours of coffee grounds, or even witnessing coffee-related cues in the form of advertising can trigger the chemical receptors in our body enough for us to obtain the same arousal sensations without consumption
+
+
+___
+
+**#517** read 2019 April 25 09:57 AM. Link: [www.sciencedaily.com/releases/2019/04/190423114...](https://www.sciencedaily.com/releases/2019/04/190423114033.htm)
+
+`scale`, `simms`, `option`, `number`, `test`, `research`, `measure`, `response option`
+
+- Likert Scales show up in psychological contexts and other social science research
+
+- They're everywhere, and profoundly elastic, sometimes presenting respondents with as many as 11 defined options or in some applications, infinite choices realized through the use of a click-and-drag slider along a continuum
+
+- The number of options does matter, especially for measures of personality constructs like those we assessed in our study
+
+- Would doubling the number of response options improve accuracy? What about providing fewer options?
+
+- "Six appears to be the magic number," says Simms. "There is nothing perfect about six, but I'm doubtful that there would be evidence that responses beyond six would be that helpful."
+
+- Part of the utility in six responses rather than five, or more generally, an even number of options rather than an odd number, is the elimination of a middle choice that often sits like an island of apathy
+
+
+___
+
+**#516** read 2019 April 17 06:43 PM. Link: [www.sciencedaily.com/releases/2019/04/190408161...](https://www.sciencedaily.com/releases/2019/04/190408161643.htm)
+
+`imst`, `perform`, `blood pressure`, `craighead`, `breathe`, `resistance`, `inspiratory muscle`, `boost`
+
+- Developed in the 1980s as a means to wean critically ill people off ventilators, IMST involves breathing in vigorously through a hand-held device -- an inspiratory muscle trainer -- which provides resistance. Imagine sucking hard through a straw which sucks back
+
+- But in 2016, University of Arizona researchers published results from a trial to see if just 30 inhalations per day with greater resistance might help sufferers of obstructive sleep apnea, who tend to have weak breathing muscles
+
+- The IMST group is also performing better on certain cognitive and memory tests
+
+
+___
+
+**#515** read 2019 April 17 03:47 PM. Link: [blog.stephenwolfram.com/2019/02/seeking-the-pro...](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+
+`computable`, `ill`, `thing`, `folder`, `wolfram`, `notebook`, `person`, `email`
+
+- there are typically two dimensions to where something should be stored. The first is (not surprisingly) the content of what its about. But the second is the type of project in which I might use it
+
+
+___
+
+**#514** read 2019 April 14 05:53 PM. Link: [www.sciencedaily.com/releases/2019/03/190314151...](https://www.sciencedaily.com/releases/2019/03/190314151655.htm)
+
+`chat`, `thank`, `research`, `communication`, `bragged`, `predict`, `blame`, `conversation`
+
+- introduces a framework, "Responsibility Exchange Theory," for understanding why thanking and apologizing, as well as bragging and blaming, matter so much, and presents novel experimental studies that reveal the psychology underlying these communications
+
+- All four of these communications are tools used to transfer responsibility from one person to another,
+
+- They relay information about credit or blame, and they involve image-based trade-offs between appearing competent and appearing warm
+
+
+___
+
+**#513** read 2019 March 21 11:49 PM. Link: [www.sciencedaily.com/releases/2019/03/190312143...](https://www.sciencedaily.com/releases/2019/03/190312143206.htm)
+
+`arousal`, `task`, `performance`, `studied`, `neurofeedback`, `arousal state`, `bci`, `level`
+
+- To keep you in the zone of maximum performance, your arousal needs to be at moderate levels, not so high that it pushes you over the edge.
+
+- Simultaneous measurements of pupil dilation and heart rate variability showed that the neurofeedback indeed reduced arousal, causing the subjects to remain calm and fly beyond the point at which they would normally fail
+
+
+___
+
+**#512** read 2019 March 09 03:14 AM. Link: [www.sciencedaily.com/releases/2018/10/181024083...](https://www.sciencedaily.com/releases/2018/10/181024083341.htm)
+
+`arousal`, `task`, `performance`, `studied`, `neurofeedback`, `arousal state`, `bci`, `level`
+
+- If you're doing something that requires a harder mental transformation, and therefore creates more uncertainty and more variability, you rely on your prior beliefs and bias yourself toward what you know how to do well, in order to compensate for that variability
+
+- when reaching for a light switch in a dark, unfamiliar room, we'll move our hand toward a certain height and close to the doorframe, where past experience suggests a light switch might be located
+
+- led the researchers to hypothesize that when people get very good at a task that requires complex computation, the noise will become smaller and less detrimental to overall performance. That is, people will trust their computations more and stop relying on averages
+
+
+___
+
+**#511** read 2019 March 09 02:52 AM. Link: [www.sciencedaily.com/releases/2018/10/181025142...](https://www.sciencedaily.com/releases/2018/10/181025142023.htm)
+
+`learn`, `pvt`, `chen`, `mice`, `odor`, `details`, `water`, `importance`
+
+- now have a place to look -- the PVT -- when they want to study how paying attention to different details affects how and what animals learn
+
+- A part of the brain called the paraventricular thalamus, or PVT, serves as a kind of gatekeeper, making sure that the brain identifies and tracks the most salient details of a situation
+
+
+___
+
+**#510** read 2019 March 09 02:45 AM. Link: [www.sciencedaily.com/releases/2018/10/181025113...](https://www.sciencedaily.com/releases/2018/10/181025113206.htm)
+
+`activity`, `patterns`, `connections`, `network`, `visual`, `long range`, `correlated`, `spontaneous`
+
+- One of the outstanding mysteries of the cerebral cortex is how individual neurons develop the proper synaptic connections to form large-scale, distributed networks
+
+- gained novel insights from spontaneously generated patterns of activity by local networks in the early developing visual cortex. Apparently these form the basis for long-range neural connections that are established through brain activity over the course of cortical development
+
+-  the spontaneous activity patterns were highly correlated between distant populations of neurons -- and in fact were so highly correlated that the activity of small populations of neurons could reliably predict coincident network activity patterns millimetres away
+
+- By looking at the state of spontaneous activity patterns prior to eye opening, they expected to see a striking difference in the patterns of spontaneous activity because the long-range cortical connections that are thought to be the basis for distributed network activity patterns are absent in the immature cortex. To their surprise, they discovered robust long-range patterns of correlated spontaneous activity prior to eye opening, and found that they extended over distances comparable to what was seen in the mature brain.
+
+- suggest that long-range order in the early developing cortex originates from neural activity driven by short-range connections
+
+
+___
+
+**#509** read 2019 March 09 02:25 AM. Link: [www.sciencedaily.com/releases/2019/02/190227081...](https://www.sciencedaily.com/releases/2019/02/190227081542.htm)
+
+`music`, `creative`, `lyrics`, `verbal`, `researchers`, `performance`, `background music`, `impaired`
+
+- investigated the impact of background music on performance by presenting people with verbal insight problems that are believed to tap creativity
+
+- found that background music "significantly impaired" people's ability to complete tasks testing verbal creativity -- but there was no effect for background library noise
+
+- a participant was shown three words (e.g., dress, dial, flower), with the requirement being to find a single associated word (in this case "sun")
+
+- Researchers suggest this may be because music disrupts verbal working memory.
+
+- exposure to music with familiar lyrics- impaired creativity regardless of whether the music also boosted mood, induced a positive mood, was liked by the participants, or whether participants typically studied in the presence of music
+
+- demonstrate that music, regardless of the presence of semantic content (no lyrics, familiar lyrics or unfamiliar lyrics), consistently disrupts creative performance in insight problem solving
+
+
+___
+
+**#508** read 2019 March 07 03:33 PM. Link: [www.sciencedirect.com/science/article/pii/S0306...](https://www.sciencedirect.com/science/article/pii/S030698770700480X#aep-section-id8)
+
+`random`, `generate`, `sequence`, `experiment`, `subject`, `10`, `digit`, `number`
+
+- The idea of checking if human could generate truly random sequences of numbers has been around for decades. Since the 1960s Alan B. Baddeley investigated it vigorously
+
+- During the process of random number generation (RNG), the subjects need to remember the base set and relate it with their own concept of randomness, which is stored in the long-term memory [12]. Part of the generated sequence is then stored in the working memory that facilitates pattern suppression [2].
+
+- subjects examined in our experiments performed poorly as random number generators
+
+
+___
+
+**#507** read 2019 February 23 07:01 PM. Link: [www.duke-nus.edu.sg/news/split-and-continuous-r...](https://www.duke-nus.edu.sg/news/split-and-continuous-restricted-sleep-schedules-affect-cognition-and-glucose-levels-differently)
+
+`sleep`, `hour`, `studies`, `night`, `glucose levels`, `6 5 hour`, `neuroscience`, `students`
+
+- these students received either continuous sleep of 6.5 hours at night or split sleep (night sleep of 5 hours plus a 1.5-hour afternoon nap)
+
+- found that compared to being able to sleep 9 hours a night, having only 6.5 hours to sleep in 24 hours degrades performance and mood. Interestingly, under conditions of sleep restriction, students in the split sleep group exhibited better alertness, vigilance, working memory and mood than their counterparts who slept 6.5 hours continuously. This finding is remarkable as the measured total sleep duration over 24 hours was actually less in the former group
+
+- However, for glucose tolerance, the continuous schedule appeared to be better
+
+
+___
+
+**#506** read 2019 February 22 11:34 AM. Link: [www.sciencedaily.com/releases/2019/02/190214153...](https://www.sciencedaily.com/releases/2019/02/190214153023.htm)
+
+`self control`, `strategies`, `effective`, `self control strategies`, `report`, `duckworth`, `science`, `psychological science`
+
+- propose a framework that organizes evidence-based self-control strategies along two dimensions based on how the strategies are implemented and who is initiating them.
+
+- in some cases the best self-control strategy involves us changing the situation to create incentives or obstacles that help us exercise self-control, such as using apps that restrict our phone usage or keeping junk food out of the house
+
+- In other cases it's more effective to change how we think about the situation -- for example, by making an if-then plan to anticipate how we'll deal with treats in the office -- so that exercising self-control becomes more appealing or easier to accomplish.
+
+- Other strategies work better when someone else implements them for us. For example, our electricity company might use social norms to prompt a change in our thinking, showing us how our energy usage compares with that of our neighbors
+
+- And policymakers often use situational constraints to prompt behavior focused on the long-term. Examples range from incentives (e.g., tax rebates for eco-friendly building materials) to penalties (e.g., raising taxes on cigarettes and alcohol)
+
+- Employers are increasingly using another type of situational constraint, defaults, to encourage employees to save for retirement; many are requiring people to opt out of an employer-provided retirement plan
+
+
+___
+
+**#505** read 2019 February 20 06:53 AM. Link: [www.sciencedaily.com/releases/2019/02/190215092...](https://www.sciencedaily.com/releases/2019/02/190215092845.htm)
+
+`goal`, `participants`, `life goal`, `importance`, `attainability`, `health`, `person`, `people`
+
+- Those who set realistic goals can hope for a higher level of well-being
+
+- The findings of the study revealed that perceiving one's personal goals as attainable is an indicator for later cognitive and affective well-being. This implies that people are most satisfied if they have a feeling of control and attainability. Interestingly, the importance of the goal was less relevant for later well-being than expected.
+
+
+___
+
+**#504** read 2019 February 14 06:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190211114...](https://www.sciencedaily.com/releases/2019/02/190211114154.htm)
+
+`emotionally`, `achievement`, `student`, `studied`, `performance`, `effect`, `thomas gtz`, `environment`
+
+- The effect on self-concept and consequently on emotions is positive if a person is high-achieving, but the effect on self-concept and emotions is negative if the student is in a class of top performers. Correspondingly, it is good for a person's self-concept, and thus also for emotions, when the environment is less high-achieving
+
+- There is also a reciprocal effect: Achievement influences emotions and emotions influence achievement. If positive emotions are reduced, achievements also diminish.
+
+
+___
+
+**#503** read 2019 February 14 06:05 PM. Link: [www.sciencedaily.com/releases/2019/02/190212104...](https://www.sciencedaily.com/releases/2019/02/190212104821.htm)
+
+`neuron`, `cell`, `axon`, `cell bodies`, `brain`, `growth cone`, `macklis`, `signal`
+
+- During brain development, a neuron's projections extend great distances -- sometimes many thousands of cell body widths from their nucleus
+
+-  "It would take several hours for a growth cone to signal back to its nucleus for a 'next command,' and it has been clear from observing axon growth in the lab that growth cones can move toward targets even if severed from their cell bodies."
+
+- The greatest surprises came from auditing the neuron's growth cones -- the outermost tips of the axonal tentacles, which develop into the signaling synapses. This portion contained much of the molecular machinery of an independent cell, including proteins involved in growth, metabolism, signaling and more
+
+- What our results suggest is that growth cones are capable of taking in information from the outside world, making signaling decisions locally, and functioning semi-autonomously without the cell body
+
+
+___
+
+**#502** read 2019 February 08 08:48 PM. Link: [www.sciencedaily.com/releases/2018/08/180815171...](https://www.sciencedaily.com/releases/2018/08/180815171117.htm)
+
+`sleep`, `social`, `lonelier`, `sleep deprivation`, `walker`, `person`, `study`, `activated`
+
+- found that sleep-deprived people feel lonelier and less inclined to engage with others, avoiding close contact in much the same way as people with social anxiety.
+
+- Worse still, that alienating vibe makes sleep-deprived individuals more socially unattractive to others. Moreover, well-rested people feel lonely after just a brief encounter with a sleep-deprived person, potentially triggering a viral contagion of social isolation
+
+
+___
+
+**#501** read 2019 February 06 06:12 PM. Link: [www.sciencedaily.com/releases/2018/11/181105160...](https://www.sciencedaily.com/releases/2018/11/181105160852.htm)
+
+`cultural`, `smell`, `language`, `sense`, `taste and smell`, `universally`, `communicate`, `taste`
+
+- the accepted hierarchy of human senses -- sight, hearing, touch, taste and smell -- is not universally true across all cultures.
+
+- Previous research has shown that English speakers find it easy to talk about the things that they can see, such as colours and shapes, but struggle to name the things that they smell. It was not known, however, if this was universally true across other languages and cultures
+
+- Across all cultures, people found smell the most difficult to talk about, reflecting the widely-held view that smell is the 'mute sense.' A traditional hunter-gatherer group from Australia, however, who speak the language Umpila, showed the best performance in talking about smell, outranking all other 19 cultures.
+
+- speakers of Farsi and Lao, however, showed almost perfect scores in being able to identify taste
+
+
+___
+
+**#500** read 2019 February 06 05:46 PM. Link: [www.sciencedaily.com/releases/2018/11/181105200...](https://www.sciencedaily.com/releases/2018/11/181105200736.htm)
+
+`sentences`, `listeners`, `clear`, `better`, `keerstock`, `smiljanic`, `acoustical`, `speaker`
+
+- After hearing each block of a dozen sentences, listeners were asked to recall verbatim the sentences they had heard by writing them down on a sheet of paper, after being given a clue such as "grandfather" or "boy."
+
+- Both groups of listeners, native and nonnative, did better when sentences were presented in the clear speaking style. This is in line with their previous study in which clearly spoken sentences were recognized better than casual sentences as previously heard by both groups of listeners.
+
 
 ___
 

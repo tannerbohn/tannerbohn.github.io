@@ -4,7 +4,7 @@ import subprocess
 if __name__ == "__main__":
 
 	# open markdown file
-	f = open('/home/tanner/Dropbox/sandbox/ContentSavers/links.markdown')
+	f = open('/home/tanner/GDrive/sandbox/ContentSavers/links.markdown')
 	links = f.read()
 	f.close()
 
@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
 	pageText = head+links
 
-	DIR = '/home/tanner/Dropbox/website/tannerbohn.github.io/'
+	DIR = '/home/tanner/GDrive/website/tannerbohn.github.io/'
 	fname = "linksaver.markdown"
 
 	f = open(DIR+fname, 'w')
