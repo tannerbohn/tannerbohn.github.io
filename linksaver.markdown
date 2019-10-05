@@ -4,7 +4,46 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (127), **`research`** (49), **`memories`** (37), **`studies`** (31), **`participants`** (31), **`neuron`** (28), **`learn`** (25), **`sleep`** (22), **`neurons`** (22), **`study`** (18), **`studied`** (18), **`memory`** (18), **`hippocampus`** (18), **`word`** (17), **`researchers`** (16)
+**Top keywords:** **`brain`** (129), **`research`** (49), **`memories`** (38), **`studies`** (32), **`participants`** (31), **`neuron`** (29), **`learn`** (25), **`sleep`** (22), **`neurons`** (22), **`study`** (18), **`studied`** (18), **`memory`** (18), **`researchers`** (18), **`hippocampus`** (18), **`word`** (17)
+
+___
+
+**#537** read 2019 September 29 06:07 PM. Link: [www.sciencedaily.com/releases/2019/09/190926141...](https://www.sciencedaily.com/releases/2019/09/190926141738.htm)
+
+`fatigue`, `athletes`, `training`, `brain`, `researchers`, `pessiglione`, `studies`, `control`
+
+- When researchers imposed an excessive training load on triathletes, they showed a form of mental fatigue. This fatigue included reduced activity in a portion of the brain important for making decisions. The athletes also acted more impulsively, opting for immediate rewards instead of bigger ones that would take longer to achieve.
+
+- The lateral prefrontal region that was affected by sport-training overload was exactly the same that had been shown vulnerable to excessive cognitive work
+
+- suggest a connection between mental and physical effort: both require cognitive control. The reason such control is essential in demanding athletic training, they suggest, is that to maintain physical effort and reach a distant goal requires cognitive control
+
+- You need to control the automatic process that makes you stop when muscles or joints hurt
+
+
+___
+
+**#536** read 2019 September 26 03:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190925113...](https://www.sciencedaily.com/releases/2019/09/190925113002.htm)
+
+`claim`, `alphabet`, `sequence`, `truthful`, `pattern`, `follow`, `true`, `researchers`
+
+- Cause-and-effect statements may seem more true if the initial letters in the words are in alphabetical order because the human brain prefers patterns that follow familiar sequences.
+
+
+___
+
+**#535** read 2019 September 22 01:52 PM. Link: [www.sciencedaily.com/releases/2019/06/190610113...](https://www.sciencedaily.com/releases/2019/06/190610113426.htm)
+
+`memories`, `brain`, `neuron`, `inform`, `active`, `task`, `networks`, `complex`
+
+- Short-term memory is likely composed of many different processes, from very simple ones where you need to recall something you saw a few seconds ago, to more complex processes where you have to manipulate the information you are holding in memory
+
+- during certain tasks that required information to be held in memory, their experiments found neural circuits to be unusually quiet. This led them to speculate that these "silent" memories might reside in temporary changes in the strength of connections, or synapses, between neurons
+
+- called persistent neuronal activity, was especially evident during more complex, but still short-term, tasks. When a neuron gets an input, it generates a brief electrical spike in activity. Neurons form synapses with other neurons, and as one neuron fires it triggers a chain reaction to make another neuron fire
+
+- during the silent periods of memory, the brain can use a short-term form of plasticity in the synaptic connections between neurons to remember information temporarily
+
 
 ___
 
