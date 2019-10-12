@@ -4,11 +4,65 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (129), **`research`** (49), **`memories`** (38), **`studies`** (32), **`participants`** (31), **`neuron`** (29), **`learn`** (25), **`sleep`** (22), **`neurons`** (22), **`study`** (18), **`studied`** (18), **`memory`** (18), **`researchers`** (18), **`hippocampus`** (18), **`word`** (17)
+**Top keywords:** **`brain`** (130), **`research`** (50), **`memories`** (38), **`studies`** (33), **`participants`** (31), **`neuron`** (30), **`learn`** (25), **`neurons`** (23), **`sleep`** (21), **`memory`** (19), **`study`** (18), **`studied`** (18), **`researchers`** (18), **`hippocampus`** (18), **`word`** (17)
 
 ___
 
-**#537** read 2019 September 29 06:07 PM. Link: [www.sciencedaily.com/releases/2019/09/190926141...](https://www.sciencedaily.com/releases/2019/09/190926141738.htm)
+**#524** read 2019 October 09 05:37 PM. Link: [www.sciencedaily.com/releases/2019/10/191003105...](https://www.sciencedaily.com/releases/2019/10/191003105427.htm)
+
+`memory`, `performance`, `anticipate`, `forrin`, `present`, `student`, `read`, `aloud`
+
+- Anticipating your own performance at work or school may hinder your ability to remember what happened before your presentation
+
+- findings also suggest that the presence of an audience may be an important factor that contributes to this pre-performance memory deficit
+
+- Building on what previous research called the next-in-line effect, Forrin and his co-authors explored how different ways of preparing for a presentation impact the pre-performance memory deficit.
+
+- the production effect, which is the simple yet powerful idea that we can remember something best if we say it aloud
+
+- the production effect has a downside: When people anticipate reading out loud, they may have worse memory for information that they encounter before reading aloud
+
+
+___
+
+**#523** read 2019 October 09 05:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190923155...](https://www.sciencedaily.com/releases/2019/09/190923155130.htm)
+
+`animal`, `group`, `individual`, `environment`, `changes`, `respond`, `researchers`, `behaviour`
+
+- information can be processed, not only by individual animals, but also in the invisible connections between them
+
+- animals can encode information about their environment in the architecture of their groups and provides rare insight into how animal collectives are able to behaviourally adapt to a changing world
+
+- "Making each individual more sensitive to risk can lead to an excessive number of false alarms propagating through the group," says Couzin. "On the other hand, strengthening social connections allows individuals to amplify information about risk, but buffers against the system becoming overly sensitive."
+
+
+___
+
+**#522** read 2019 October 09 05:08 PM. Link: [www.sciencedaily.com/releases/2019/10/191007113...](https://www.sciencedaily.com/releases/2019/10/191007113314.htm)
+
+`critical`, `neuron`, `hengen`, `brain`, `record`, `active`, `research`, `network`
+
+- Over the past 20 years, evidence mounted in support of a theory that the brain tunes itself to a point where it is as excitable as it can be without tipping into disorder, similar to a phase transition. This criticality hypothesis asserts that the brain is poised on the fine line between quiescence and chaos. At exactly this line, information processing is maximized
+
+- When neurons combine, they actively seek out a critical regime
+
+- We were surprised to find that, in our models, it was largely accounted for by a population of inhibitory neurons that, in retrospect, are well poised to regulate the organization of the larger network
+
+- there's been quite a bit of argument about the math people use to measure criticality," Hengen said. "Recently, people moved away from measuring simple power laws, which can pop out of random noise, and have started looking at something called the exponent relation. So far, that's the only true signature of criticality, and it's the basis of all of our measurements."
+
+
+___
+
+**#521** read 2019 October 09 05:04 PM. Link: [www.sciencedaily.com/releases/2019/10/191007100...](https://www.sciencedaily.com/releases/2019/10/191007100419.htm)
+
+`brain`, `circuit`, `model`, `memory`, `inhibitory circuit`, `studies`, `neurons`, `network`
+
+- The finding matches what is currently known about the hippocampus, a brain region involved in associative memory. It is thought that a balance of excitatory and inhibitory activity is what allows new associations to form. Inhibitory activity could be regulated by a chemical called acetylcholine, which is known to play a role in memory within the hippocampus. This model is a digital representation of these processes
+
+
+___
+
+**#520** read 2019 September 29 06:07 PM. Link: [www.sciencedaily.com/releases/2019/09/190926141...](https://www.sciencedaily.com/releases/2019/09/190926141738.htm)
 
 `fatigue`, `athletes`, `training`, `brain`, `researchers`, `pessiglione`, `studies`, `control`
 
@@ -23,7 +77,9 @@ ___
 
 ___
 
-**#536** read 2019 September 26 03:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190925113...](https://www.sciencedaily.com/releases/2019/09/190925113002.htm)
+**#519** read 2019 September 26 03:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190925113...](https://www.sciencedaily.com/releases/2019/09/190925113002.htm)
+
+## Gist: Statement with words in alphabetical order feel more truthful?
 
 `claim`, `alphabet`, `sequence`, `truthful`, `pattern`, `follow`, `true`, `researchers`
 
@@ -32,7 +88,7 @@ ___
 
 ___
 
-**#535** read 2019 September 22 01:52 PM. Link: [www.sciencedaily.com/releases/2019/06/190610113...](https://www.sciencedaily.com/releases/2019/06/190610113426.htm)
+**#518** read 2019 September 22 01:52 PM. Link: [www.sciencedaily.com/releases/2019/06/190610113...](https://www.sciencedaily.com/releases/2019/06/190610113426.htm)
 
 `memories`, `brain`, `neuron`, `inform`, `active`, `task`, `networks`, `complex`
 
@@ -47,7 +103,7 @@ ___
 
 ___
 
-**#534** read 2019 September 21 06:03 PM. Link: [www.sciencedaily.com/releases/2019/09/190917100...](https://www.sciencedaily.com/releases/2019/09/190917100449.htm)
+**#517** read 2019 September 21 06:03 PM. Link: [www.sciencedaily.com/releases/2019/09/190917100...](https://www.sciencedaily.com/releases/2019/09/190917100449.htm)
 
 `extravert`, `extraversion`, `participants`, `week`, `lyubomirsky`, `behavior`, `study`, `act`
 
@@ -60,7 +116,7 @@ ___
 
 ___
 
-**#533** read 2019 September 21 06:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190916103...](https://www.sciencedaily.com/releases/2019/09/190916103811.htm)
+**#516** read 2019 September 21 06:00 PM. Link: [www.sciencedaily.com/releases/2019/09/190916103...](https://www.sciencedaily.com/releases/2019/09/190916103811.htm)
 
 `hungry`, `reward`, `decision`, `hunger`, `people`, `preference`, `food`, `dr vincent`
 
@@ -71,7 +127,7 @@ ___
 
 ___
 
-**#532** read 2019 September 21 05:14 PM. Link: [www.sciencedaily.com/releases/2019/09/190916110...](https://www.sciencedaily.com/releases/2019/09/190916110556.htm)
+**#515** read 2019 September 21 05:14 PM. Link: [www.sciencedaily.com/releases/2019/09/190916110...](https://www.sciencedaily.com/releases/2019/09/190916110556.htm)
 
 `sleep`, `brain`, `zebrafish`, `brain active`, `research`, `increase`, `finding`, `active`
 
@@ -82,7 +138,7 @@ ___
 
 ___
 
-**#531** read 2019 September 21 05:11 PM. Link: [www.sciencedaily.com/releases/2019/09/190910095...](https://www.sciencedaily.com/releases/2019/09/190910095417.htm)
+**#514** read 2019 September 21 05:11 PM. Link: [www.sciencedaily.com/releases/2019/09/190910095...](https://www.sciencedaily.com/releases/2019/09/190910095417.htm)
 
 `tics`, `tourette syndrome`, `oral splint`, `studies`, `sensory trick`, `patients`, `brain`, `improve`
 
@@ -95,7 +151,7 @@ ___
 
 ___
 
-**#530** read 2019 September 21 05:02 PM. Link: [www.sciencedaily.com/releases/2019/09/190909123...](https://www.sciencedaily.com/releases/2019/09/190909123710.htm)
+**#513** read 2019 September 21 05:02 PM. Link: [www.sciencedaily.com/releases/2019/09/190909123...](https://www.sciencedaily.com/releases/2019/09/190909123710.htm)
 
 `deadline`, `albarracin`, `inaction`, `action`, `sitting`, `walking`, `purchase`, `product`
 
@@ -110,7 +166,7 @@ ___
 
 ___
 
-**#529** read 2019 August 16 02:31 PM. Link: [www.sciencedaily.com/releases/2019/08/190815122...](https://www.sciencedaily.com/releases/2019/08/190815122257.htm)
+**#512** read 2019 August 16 02:31 PM. Link: [www.sciencedaily.com/releases/2019/08/190815122...](https://www.sciencedaily.com/releases/2019/08/190815122257.htm)
 
 `product`, `consumer`, `feel`, `imagination`, `product design`, `mehta`, `focus`, `idea`
 
@@ -121,18 +177,7 @@ ___
 
 ___
 
-**#528** read 2019 July 11 02:42 PM. Link: [www.sciencedaily.com/releases/2019/06/190628120...](https://www.sciencedaily.com/releases/2019/06/190628120531.htm)
-
-`memory`, `sleep`, `sound`, `participant`, `sound stimulation`, `night`, `mild cognitive impairment`, `slow wave`
-
-- Gentle sound stimulation played during specific times during deep sleep enhanced deep or slow-wave sleep for people with mild cognitive impairment
-
-- The sound stimulation consisted of short pulses of pink noise
-
-
-___
-
-**#527** read 2019 May 11 11:28 PM. Link: [www.sciencedaily.com/releases/2018/11/181120125...](https://www.sciencedaily.com/releases/2018/11/181120125916.htm)
+**#511** read 2019 May 11 11:28 PM. Link: [www.sciencedaily.com/releases/2018/11/181120125...](https://www.sciencedaily.com/releases/2018/11/181120125916.htm)
 
 `memories`, `brain`, `reward`, `participants`, `important`, `study`, `events`, `remember`
 
@@ -143,7 +188,7 @@ ___
 
 ___
 
-**#526** read 2019 May 11 11:24 PM. Link: [www.sciencedaily.com/releases/2018/12/181210134...](https://www.sciencedaily.com/releases/2018/12/181210134907.htm)
+**#510** read 2019 May 11 11:24 PM. Link: [www.sciencedaily.com/releases/2018/12/181210134...](https://www.sciencedaily.com/releases/2018/12/181210134907.htm)
 
 `dopamine`, `brain`, `reward`, `aversion`, `cell`, `lammel`, `neuron`, `addiction`
 
@@ -154,7 +199,7 @@ ___
 
 ___
 
-**#525** read 2019 May 11 11:10 PM. Link: [www.sciencedaily.com/releases/2018/12/181210150...](https://www.sciencedaily.com/releases/2018/12/181210150622.htm)
+**#509** read 2019 May 11 11:10 PM. Link: [www.sciencedaily.com/releases/2018/12/181210150...](https://www.sciencedaily.com/releases/2018/12/181210150622.htm)
 
 `creative`, `brain`, `ideas`, `researcher`, `process`, `associated`, `need`, `studies`
 
@@ -169,7 +214,7 @@ ___
 
 ___
 
-**#524** read 2019 May 11 09:28 PM. Link: [www.sciencedaily.com/releases/2019/01/190130161...](https://www.sciencedaily.com/releases/2019/01/190130161638.htm)
+**#508** read 2019 May 11 09:28 PM. Link: [www.sciencedaily.com/releases/2019/01/190130161...](https://www.sciencedaily.com/releases/2019/01/190130161638.htm)
 
 `exercise`, `studies`, `thinking skills`, `improve`, `participants`, `age`, `aerobic exercise`, `stretched and toned`
 
@@ -182,7 +227,7 @@ ___
 
 ___
 
-**#523** read 2019 May 11 09:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190221111...](https://www.sciencedaily.com/releases/2019/02/190221111704.htm)
+**#507** read 2019 May 11 09:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190221111...](https://www.sciencedaily.com/releases/2019/02/190221111704.htm)
 
 `person`, `study`, `rotate`, `letter`, `mental rotate`, `mental`, `participants`, `eyes`
 
@@ -195,7 +240,7 @@ ___
 
 ___
 
-**#522** read 2019 May 11 08:32 PM. Link: [www.sciencedaily.com/releases/2019/03/190305170...](https://www.sciencedaily.com/releases/2019/03/190305170106.htm)
+**#506** read 2019 May 11 08:32 PM. Link: [www.sciencedaily.com/releases/2019/03/190305170...](https://www.sciencedaily.com/releases/2019/03/190305170106.htm)
 
 `sleep`, `dna`, `dna damage`, `brain`, `zebrafish`, `wakefulness`, `neuron`, `accumulate`
 
@@ -204,7 +249,7 @@ ___
 
 ___
 
-**#521** read 2019 May 11 08:17 PM. Link: [www.sciencedaily.com/releases/2019/03/190312123...](https://www.sciencedaily.com/releases/2019/03/190312123805.htm)
+**#505** read 2019 May 11 08:17 PM. Link: [www.sciencedaily.com/releases/2019/03/190312123...](https://www.sciencedaily.com/releases/2019/03/190312123805.htm)
 
 `plan`, `hippocampus`, `epilepsy`, `future`, `hippocampal`, `alzheimer`, `disease`, `damage`
 
@@ -217,7 +262,7 @@ ___
 
 ___
 
-**#520** read 2019 May 08 09:14 PM. Link: [www.sciencedaily.com/releases/2019/04/190418131...](https://www.sciencedaily.com/releases/2019/04/190418131356.htm)
+**#504** read 2019 May 08 09:14 PM. Link: [www.sciencedaily.com/releases/2019/04/190418131...](https://www.sciencedaily.com/releases/2019/04/190418131356.htm)
 
 `chatbot`, `interact`, `human`, `sundar`, `participant`, `research`, `humanlike`, `expectation`
 
@@ -232,7 +277,7 @@ ___
 
 ___
 
-**#519** read 2019 May 08 09:13 PM. Link: [www.sciencedaily.com/releases/2019/04/190412115...](https://www.sciencedaily.com/releases/2019/04/190412115055.htm)
+**#503** read 2019 May 08 09:13 PM. Link: [www.sciencedaily.com/releases/2019/04/190412115...](https://www.sciencedaily.com/releases/2019/04/190412115055.htm)
 
 `rest`, `volunteers`, `learned`, `practice`, `brain`, `brain wave`, `memories`, `improved`
 
@@ -243,7 +288,7 @@ ___
 
 ___
 
-**#518** read 2019 May 08 12:59 PM. Link: [www.sciencedaily.com/releases/2019/04/190417111...](https://www.sciencedaily.com/releases/2019/04/190417111437.htm)
+**#502** read 2019 May 08 12:59 PM. Link: [www.sciencedaily.com/releases/2019/04/190417111...](https://www.sciencedaily.com/releases/2019/04/190417111437.htm)
 
 `coffee`, `arousal`, `associate`, `effect`, `smelling`, `cognitive`, `tea`, `studies`
 
@@ -254,7 +299,7 @@ ___
 
 ___
 
-**#517** read 2019 April 25 09:57 AM. Link: [www.sciencedaily.com/releases/2019/04/190423114...](https://www.sciencedaily.com/releases/2019/04/190423114033.htm)
+**#501** read 2019 April 25 09:57 AM. Link: [www.sciencedaily.com/releases/2019/04/190423114...](https://www.sciencedaily.com/releases/2019/04/190423114033.htm)
 
 `scale`, `simms`, `option`, `number`, `test`, `research`, `measure`, `response option`
 
@@ -273,7 +318,7 @@ ___
 
 ___
 
-**#516** read 2019 April 17 06:43 PM. Link: [www.sciencedaily.com/releases/2019/04/190408161...](https://www.sciencedaily.com/releases/2019/04/190408161643.htm)
+**#500** read 2019 April 17 06:43 PM. Link: [www.sciencedaily.com/releases/2019/04/190408161...](https://www.sciencedaily.com/releases/2019/04/190408161643.htm)
 
 `imst`, `perform`, `blood pressure`, `craighead`, `breathe`, `resistance`, `inspiratory muscle`, `boost`
 
@@ -286,7 +331,9 @@ ___
 
 ___
 
-**#515** read 2019 April 17 03:47 PM. Link: [blog.stephenwolfram.com/2019/02/seeking-the-pro...](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+**#499** read 2019 April 17 03:47 PM. Link: [blog.stephenwolfram.com/2019/02/seeking-the-pro...](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
+
+## Gist: Wolfram suggests organizing information by both content and possible usage
 
 `computable`, `ill`, `thing`, `folder`, `wolfram`, `notebook`, `person`, `email`
 
@@ -295,7 +342,7 @@ ___
 
 ___
 
-**#514** read 2019 April 14 05:53 PM. Link: [www.sciencedaily.com/releases/2019/03/190314151...](https://www.sciencedaily.com/releases/2019/03/190314151655.htm)
+**#498** read 2019 April 14 05:53 PM. Link: [www.sciencedaily.com/releases/2019/03/190314151...](https://www.sciencedaily.com/releases/2019/03/190314151655.htm)
 
 `chat`, `thank`, `research`, `communication`, `bragged`, `predict`, `blame`, `conversation`
 
@@ -308,7 +355,7 @@ ___
 
 ___
 
-**#513** read 2019 March 21 11:49 PM. Link: [www.sciencedaily.com/releases/2019/03/190312143...](https://www.sciencedaily.com/releases/2019/03/190312143206.htm)
+**#497** read 2019 March 21 11:49 PM. Link: [www.sciencedaily.com/releases/2019/03/190312143...](https://www.sciencedaily.com/releases/2019/03/190312143206.htm)
 
 `arousal`, `task`, `performance`, `studied`, `neurofeedback`, `arousal state`, `bci`, `level`
 
@@ -319,7 +366,7 @@ ___
 
 ___
 
-**#512** read 2019 March 09 03:14 AM. Link: [www.sciencedaily.com/releases/2018/10/181024083...](https://www.sciencedaily.com/releases/2018/10/181024083341.htm)
+**#496** read 2019 March 09 03:14 AM. Link: [www.sciencedaily.com/releases/2018/10/181024083...](https://www.sciencedaily.com/releases/2018/10/181024083341.htm)
 
 `arousal`, `task`, `performance`, `studied`, `neurofeedback`, `arousal state`, `bci`, `level`
 
@@ -332,7 +379,7 @@ ___
 
 ___
 
-**#511** read 2019 March 09 02:52 AM. Link: [www.sciencedaily.com/releases/2018/10/181025142...](https://www.sciencedaily.com/releases/2018/10/181025142023.htm)
+**#495** read 2019 March 09 02:52 AM. Link: [www.sciencedaily.com/releases/2018/10/181025142...](https://www.sciencedaily.com/releases/2018/10/181025142023.htm)
 
 `learn`, `pvt`, `chen`, `mice`, `odor`, `details`, `water`, `importance`
 
@@ -343,7 +390,7 @@ ___
 
 ___
 
-**#510** read 2019 March 09 02:45 AM. Link: [www.sciencedaily.com/releases/2018/10/181025113...](https://www.sciencedaily.com/releases/2018/10/181025113206.htm)
+**#494** read 2019 March 09 02:45 AM. Link: [www.sciencedaily.com/releases/2018/10/181025113...](https://www.sciencedaily.com/releases/2018/10/181025113206.htm)
 
 `activity`, `patterns`, `connections`, `network`, `visual`, `long range`, `correlated`, `spontaneous`
 
@@ -360,7 +407,7 @@ ___
 
 ___
 
-**#509** read 2019 March 09 02:25 AM. Link: [www.sciencedaily.com/releases/2019/02/190227081...](https://www.sciencedaily.com/releases/2019/02/190227081542.htm)
+**#493** read 2019 March 09 02:25 AM. Link: [www.sciencedaily.com/releases/2019/02/190227081...](https://www.sciencedaily.com/releases/2019/02/190227081542.htm)
 
 `music`, `creative`, `lyrics`, `verbal`, `researchers`, `performance`, `background music`, `impaired`
 
@@ -379,7 +426,7 @@ ___
 
 ___
 
-**#508** read 2019 March 07 03:33 PM. Link: [www.sciencedirect.com/science/article/pii/S0306...](https://www.sciencedirect.com/science/article/pii/S030698770700480X#aep-section-id8)
+**#492** read 2019 March 07 03:33 PM. Link: [www.sciencedirect.com/science/article/pii/S0306...](https://www.sciencedirect.com/science/article/pii/S030698770700480X#aep-section-id8)
 
 `random`, `generate`, `sequence`, `experiment`, `subject`, `10`, `digit`, `number`
 
@@ -392,7 +439,7 @@ ___
 
 ___
 
-**#507** read 2019 February 23 07:01 PM. Link: [www.duke-nus.edu.sg/news/split-and-continuous-r...](https://www.duke-nus.edu.sg/news/split-and-continuous-restricted-sleep-schedules-affect-cognition-and-glucose-levels-differently)
+**#491** read 2019 February 23 07:01 PM. Link: [www.duke-nus.edu.sg/news/split-and-continuous-r...](https://www.duke-nus.edu.sg/news/split-and-continuous-restricted-sleep-schedules-affect-cognition-and-glucose-levels-differently)
 
 `sleep`, `hour`, `studies`, `night`, `glucose levels`, `6 5 hour`, `neuroscience`, `students`
 
@@ -405,7 +452,7 @@ ___
 
 ___
 
-**#506** read 2019 February 22 11:34 AM. Link: [www.sciencedaily.com/releases/2019/02/190214153...](https://www.sciencedaily.com/releases/2019/02/190214153023.htm)
+**#490** read 2019 February 22 11:34 AM. Link: [www.sciencedaily.com/releases/2019/02/190214153...](https://www.sciencedaily.com/releases/2019/02/190214153023.htm)
 
 `self control`, `strategies`, `effective`, `self control strategies`, `report`, `duckworth`, `science`, `psychological science`
 
@@ -424,7 +471,7 @@ ___
 
 ___
 
-**#505** read 2019 February 20 06:53 AM. Link: [www.sciencedaily.com/releases/2019/02/190215092...](https://www.sciencedaily.com/releases/2019/02/190215092845.htm)
+**#489** read 2019 February 20 06:53 AM. Link: [www.sciencedaily.com/releases/2019/02/190215092...](https://www.sciencedaily.com/releases/2019/02/190215092845.htm)
 
 `goal`, `participants`, `life goal`, `importance`, `attainability`, `health`, `person`, `people`
 
@@ -435,7 +482,7 @@ ___
 
 ___
 
-**#504** read 2019 February 14 06:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190211114...](https://www.sciencedaily.com/releases/2019/02/190211114154.htm)
+**#488** read 2019 February 14 06:12 PM. Link: [www.sciencedaily.com/releases/2019/02/190211114...](https://www.sciencedaily.com/releases/2019/02/190211114154.htm)
 
 `emotionally`, `achievement`, `student`, `studied`, `performance`, `effect`, `thomas gtz`, `environment`
 
@@ -446,7 +493,7 @@ ___
 
 ___
 
-**#503** read 2019 February 14 06:05 PM. Link: [www.sciencedaily.com/releases/2019/02/190212104...](https://www.sciencedaily.com/releases/2019/02/190212104821.htm)
+**#487** read 2019 February 14 06:05 PM. Link: [www.sciencedaily.com/releases/2019/02/190212104...](https://www.sciencedaily.com/releases/2019/02/190212104821.htm)
 
 `neuron`, `cell`, `axon`, `cell bodies`, `brain`, `growth cone`, `macklis`, `signal`
 
@@ -461,7 +508,7 @@ ___
 
 ___
 
-**#502** read 2019 February 08 08:48 PM. Link: [www.sciencedaily.com/releases/2018/08/180815171...](https://www.sciencedaily.com/releases/2018/08/180815171117.htm)
+**#486** read 2019 February 08 08:48 PM. Link: [www.sciencedaily.com/releases/2018/08/180815171...](https://www.sciencedaily.com/releases/2018/08/180815171117.htm)
 
 `sleep`, `social`, `lonelier`, `sleep deprivation`, `walker`, `person`, `study`, `activated`
 
@@ -472,7 +519,7 @@ ___
 
 ___
 
-**#501** read 2019 February 06 06:12 PM. Link: [www.sciencedaily.com/releases/2018/11/181105160...](https://www.sciencedaily.com/releases/2018/11/181105160852.htm)
+**#485** read 2019 February 06 06:12 PM. Link: [www.sciencedaily.com/releases/2018/11/181105160...](https://www.sciencedaily.com/releases/2018/11/181105160852.htm)
 
 `cultural`, `smell`, `language`, `sense`, `taste and smell`, `universally`, `communicate`, `taste`
 
@@ -487,7 +534,7 @@ ___
 
 ___
 
-**#500** read 2019 February 06 05:46 PM. Link: [www.sciencedaily.com/releases/2018/11/181105200...](https://www.sciencedaily.com/releases/2018/11/181105200736.htm)
+**#484** read 2019 February 06 05:46 PM. Link: [www.sciencedaily.com/releases/2018/11/181105200...](https://www.sciencedaily.com/releases/2018/11/181105200736.htm)
 
 `sentences`, `listeners`, `clear`, `better`, `keerstock`, `smiljanic`, `acoustical`, `speaker`
 
@@ -498,7 +545,7 @@ ___
 
 ___
 
-**#499** read 2019 January 30 06:41 PM. Link: [www.sciencedaily.com/releases/2019/01/190129081...](https://www.sciencedaily.com/releases/2019/01/190129081930.htm)
+**#483** read 2019 January 30 06:41 PM. Link: [www.sciencedaily.com/releases/2019/01/190129081...](https://www.sciencedaily.com/releases/2019/01/190129081930.htm)
 
 `team`, `researcher`, `video game`, `study`, `video`, `play`, `findamine`, `geocache`
 
@@ -517,7 +564,7 @@ ___
 
 ___
 
-**#498** read 2019 January 30 02:27 AM. Link: [www.sciencedaily.com/releases/2019/01/190124110...](https://www.sciencedaily.com/releases/2019/01/190124110844.htm)
+**#482** read 2019 January 30 02:27 AM. Link: [www.sciencedaily.com/releases/2019/01/190124110...](https://www.sciencedaily.com/releases/2019/01/190124110844.htm)
 
 `sleep`, `rock`, `studied`, `mice`, `researchers`, `night`, `asleep`, `explore`
 
@@ -528,7 +575,7 @@ ___
 
 ___
 
-**#497** read 2019 January 30 02:22 AM. Link: [www.sciencedaily.com/releases/2019/01/190122114...](https://www.sciencedaily.com/releases/2019/01/190122114926.htm)
+**#481** read 2019 January 30 02:22 AM. Link: [www.sciencedaily.com/releases/2019/01/190122114...](https://www.sciencedaily.com/releases/2019/01/190122114926.htm)
 
 `human`, `efficiency`, `paz`, `neural code`, `brain`, `amygdala`, `monkey`, `research`
 
@@ -541,7 +588,7 @@ ___
 
 ___
 
-**#496** read 2019 January 20 06:51 PM. Link: [www.sciencedaily.com/releases/2019/01/190118123...](https://www.sciencedaily.com/releases/2019/01/190118123003.htm)
+**#480** read 2019 January 20 06:51 PM. Link: [www.sciencedaily.com/releases/2019/01/190118123...](https://www.sciencedaily.com/releases/2019/01/190118123003.htm)
 
 `happiness`, `substance`, `recovery`, `exercise`, `positive experiences`, `treatment`, `participants`, `challenge`
 
@@ -556,7 +603,7 @@ ___
 
 ___
 
-**#495** read 2019 January 16 12:46 AM. Link: [www.sciencedaily.com/releases/2018/12/181217101...](https://www.sciencedaily.com/releases/2018/12/181217101807.htm)
+**#479** read 2019 January 16 12:46 AM. Link: [www.sciencedaily.com/releases/2018/12/181217101...](https://www.sciencedaily.com/releases/2018/12/181217101807.htm)
 
 `memories`, `event`, `stories`, `participant`, `healey`, `research`, `headline`, `recall`
 
@@ -567,7 +614,7 @@ ___
 
 ___
 
-**#494** read 2019 January 15 01:31 AM. Link: [www.sciencedaily.com/releases/2018/12/181217120...](https://www.sciencedaily.com/releases/2018/12/181217120046.htm)
+**#478** read 2019 January 15 01:31 AM. Link: [www.sciencedaily.com/releases/2018/12/181217120...](https://www.sciencedaily.com/releases/2018/12/181217120046.htm)
 
 `communicate`, `brain`, `rhythm`, `brain area`, `network`, `model`, `oscillations`, `neuron`
 
@@ -580,7 +627,9 @@ ___
 
 ___
 
-**#493** read 2019 January 15 01:30 AM. Link: [www.sciencedaily.com/releases/2019/01/190109110...](https://www.sciencedaily.com/releases/2019/01/190109110055.htm)
+**#477** read 2019 January 15 01:30 AM. Link: [www.sciencedaily.com/releases/2019/01/190109110...](https://www.sciencedaily.com/releases/2019/01/190109110055.htm)
+
+## Gist: Providing recorded audio feedback to learners is more flexible and less stressful for everyone
 
 `raf`, `learner`, `academics`, `feedback`, `academics experience`, `studied`, `university of jyvskyl`, `relaxed`
 
@@ -589,7 +638,7 @@ ___
 
 ___
 
-**#492** read 2018 November 25 02:29 AM. Link: [www.sciencedaily.com/releases/2018/11/181108142...](https://www.sciencedaily.com/releases/2018/11/181108142443.htm)
+**#476** read 2018 November 25 02:29 AM. Link: [www.sciencedaily.com/releases/2018/11/181108142...](https://www.sciencedaily.com/releases/2018/11/181108142443.htm)
 
 `activated`, `space`, `brain`, `navigate`, `dimensions`, `human`, `grid cell`, `stored`
 
@@ -604,7 +653,9 @@ ___
 
 ___
 
-**#491** read 2018 October 10 03:50 PM. Link: [www.sciencedaily.com/releases/2018/10/181009135...](https://www.sciencedaily.com/releases/2018/10/181009135931.htm)
+**#475** read 2018 October 10 03:50 PM. Link: [www.sciencedaily.com/releases/2018/10/181009135...](https://www.sciencedaily.com/releases/2018/10/181009135931.htm)
+
+## Gist: Some seizures begin with a spike in inhibition
 
 `seizure`, `neuronal`, `dr weiss`, `inhibitory neuronal`, `patients`, `brain`, `inhibition`, `activated`
 
@@ -613,7 +664,7 @@ ___
 
 ___
 
-**#490** read 2018 October 09 04:18 AM. Link: [www.sciencedaily.com/releases/2018/07/180726162...](https://www.sciencedaily.com/releases/2018/07/180726162709.htm)
+**#474** read 2018 October 09 04:18 AM. Link: [www.sciencedaily.com/releases/2018/07/180726162...](https://www.sciencedaily.com/releases/2018/07/180726162709.htm)
 
 `neuron`, `progenitor`, `electrical`, `cell`, `generate`, `developed`, `embryo`, `role`
 
@@ -624,7 +675,7 @@ ___
 
 ___
 
-**#489** read 2018 October 09 03:56 AM. Link: [www.sciencedaily.com/releases/2018/08/180806175...](https://www.sciencedaily.com/releases/2018/08/180806175957.htm)
+**#473** read 2018 October 09 03:56 AM. Link: [www.sciencedaily.com/releases/2018/08/180806175...](https://www.sciencedaily.com/releases/2018/08/180806175957.htm)
 
 `pride`, `value`, `human`, `sznycer`, `evolved`, `universal`, `act`, `feel`
 
@@ -633,7 +684,7 @@ ___
 
 ___
 
-**#488** read 2018 October 09 03:51 AM. Link: [www.sciencedaily.com/releases/2018/08/180808134...](https://www.sciencedaily.com/releases/2018/08/180808134347.htm)
+**#472** read 2018 October 09 03:51 AM. Link: [www.sciencedaily.com/releases/2018/08/180808134...](https://www.sciencedaily.com/releases/2018/08/180808134347.htm)
 
 `memories`, `spike`, `neurons`, `activation`, `miller`, `lundqvist`, `experiments`, `brain`
 
@@ -648,7 +699,7 @@ ___
 
 ___
 
-**#487** read 2018 October 09 02:41 AM. Link: [www.sciencedaily.com/releases/2018/10/181003090...](https://www.sciencedaily.com/releases/2018/10/181003090356.htm)
+**#471** read 2018 October 09 02:41 AM. Link: [www.sciencedaily.com/releases/2018/10/181003090...](https://www.sciencedaily.com/releases/2018/10/181003090356.htm)
 
 `question`, `answer`, `learn`, `test`, `student`, `correct`, `butler`, `effect`
 
@@ -669,7 +720,7 @@ ___
 
 ___
 
-**#486** read 2018 October 08 10:55 PM. Link: [www.sciencealert.com/researchers-create-new-fon...](https://www.sciencealert.com/researchers-create-new-font-designed-to-boost-your-memory)
+**#470** read 2018 October 08 10:55 PM. Link: [www.sciencealert.com/researchers-create-new-fon...](https://www.sciencealert.com/researchers-create-new-font-designed-to-boost-your-memory)
 
 `font`, `sans forgetica`, `research`, `reader`, `read`, `design`, `rmit`, `oppenheimer`
 
@@ -682,7 +733,7 @@ ___
 
 ___
 
-**#485** read 2018 October 08 01:47 AM. Link: [www.sciencealert.com/brain-scans-show-too-much-...](https://www.sciencealert.com/brain-scans-show-too-much-choice-leaves-you-paralysed-with-indecision)
+**#469** read 2018 October 08 01:47 AM. Link: [www.sciencealert.com/brain-scans-show-too-much-...](https://www.sciencealert.com/brain-scans-show-too-much-choice-leaves-you-paralysed-with-indecision)
 
 `brain`, `choice`, `reward`, `research`, `camerer`, `24`, `12`, `striatum`
 
@@ -697,7 +748,7 @@ ___
 
 ___
 
-**#484** read 2018 September 25 08:58 PM. Link: [www.sciencedaily.com/releases/2018/09/180920115...](https://www.sciencedaily.com/releases/2018/09/180920115518.htm)
+**#468** read 2018 September 25 08:58 PM. Link: [www.sciencedaily.com/releases/2018/09/180920115...](https://www.sciencedaily.com/releases/2018/09/180920115518.htm)
 
 `neuronal`, `reward`, `vagal`, `brain`, `vagus nerve`, `nerve`, `reward neuronal`, `gut`
 
@@ -708,7 +759,7 @@ ___
 
 ___
 
-**#483** read 2018 September 02 12:21 PM. Link: [www.sciencedaily.com/releases/2018/08/180821114...](https://www.sciencedaily.com/releases/2018/08/180821114435.htm)
+**#467** read 2018 September 02 12:21 PM. Link: [www.sciencedaily.com/releases/2018/08/180821114...](https://www.sciencedaily.com/releases/2018/08/180821114435.htm)
 
 ## Gist: Backchanneling: nodding or saying 'uh-huh' during conversation
 
@@ -719,7 +770,7 @@ ___
 
 ___
 
-**#482** read 2018 September 01 07:14 PM. Link: [www.sciencedaily.com/releases/2018/08/180823113...](https://www.sciencedaily.com/releases/2018/08/180823113623.htm)
+**#466** read 2018 September 01 07:14 PM. Link: [www.sciencedaily.com/releases/2018/08/180823113...](https://www.sciencedaily.com/releases/2018/08/180823113623.htm)
 
 `clock`, `countdown`, `impatience`, `reitter`, `patience`, `experience`, `decision`, `game`
 
@@ -732,7 +783,7 @@ ___
 
 ___
 
-**#481** read 2018 August 20 12:38 PM. Link: [www.sciencealert.com/einstein-quantum-equivalen...](https://www.sciencealert.com/einstein-quantum-equivalence-elevator-quantum-realm-reformulation)
+**#465** read 2018 August 20 12:38 PM. Link: [www.sciencealert.com/einstein-quantum-equivalen...](https://www.sciencealert.com/einstein-quantum-equivalence-elevator-quantum-realm-reformulation)
 
 `quantum`, `mass`, `superposition`, `equivalence principle`, `quantum particle`, `gravity`, `equivalence`, `einstein`
 
@@ -750,7 +801,7 @@ And because it has a superposition of energy states, it also has a superposition
 
 ___
 
-**#480** read 2018 August 20 12:19 PM. Link: [www.sciencedaily.com/releases/2018/08/180820113...](https://www.sciencedaily.com/releases/2018/08/180820113032.htm)
+**#464** read 2018 August 20 12:19 PM. Link: [www.sciencedaily.com/releases/2018/08/180820113...](https://www.sciencedaily.com/releases/2018/08/180820113032.htm)
 
 `beautiful`, `brielmann`, `pleasure`, `philosopher`, `experience`, `author`, `pelli`, `research`
 
@@ -761,7 +812,7 @@ ___
 
 ___
 
-**#479** read 2018 August 17 09:35 AM. Link: [www.sciencedaily.com/releases/2018/07/180723143...](https://www.sciencedaily.com/releases/2018/07/180723143007.htm)
+**#463** read 2018 August 17 09:35 AM. Link: [www.sciencedaily.com/releases/2018/07/180723143...](https://www.sciencedaily.com/releases/2018/07/180723143007.htm)
 
 `neurons`, `tabansky`, `pfaff`, `ngc neurons`, `gene`, `enos`, `nitric oxide`, `brain`
 
@@ -780,7 +831,7 @@ ___
 
 ___
 
-**#478** read 2018 July 25 10:52 PM. Link: [www.sciencedaily.com/releases/2018/07/180724174...](https://www.sciencedaily.com/releases/2018/07/180724174329.htm)
+**#462** read 2018 July 25 10:52 PM. Link: [www.sciencedaily.com/releases/2018/07/180724174...](https://www.sciencedaily.com/releases/2018/07/180724174329.htm)
 
 `neuron`, `piriform cortex`, `brain`, `connect`, `cell`, `piriform`, `odor`, `smell`
 
@@ -795,7 +846,7 @@ ___
 
 ___
 
-**#477** read 2018 July 25 10:49 PM. Link: [scinapse.io/papers/1767450531](https://scinapse.io/papers/1767450531)
+**#461** read 2018 July 25 10:49 PM. Link: [scinapse.io/papers/1767450531](https://scinapse.io/papers/1767450531)
 
 `remember`, `items`, `stop`, `presentation`, `participants`, `information`, `control`, `maximize`
 
@@ -808,7 +859,7 @@ ___
 
 ___
 
-**#476** read 2018 July 19 04:00 AM. Link: [www.sciencedaily.com/releases/2018/07/180718122...](https://www.sciencedaily.com/releases/2018/07/180718122439.htm)
+**#460** read 2018 July 19 04:00 AM. Link: [www.sciencedaily.com/releases/2018/07/180718122...](https://www.sciencedaily.com/releases/2018/07/180718122439.htm)
 
 `neuron`, `sound`, `switch`, `single neuron`, `brain`, `groh`, `respond`, `monkeys`
 
@@ -817,7 +868,7 @@ ___
 
 ___
 
-**#475** read 2018 July 16 11:58 AM. Link: [www.sciencedaily.com/releases/2018/07/180713220...](https://www.sciencedaily.com/releases/2018/07/180713220147.htm)
+**#459** read 2018 July 16 11:58 AM. Link: [www.sciencedaily.com/releases/2018/07/180713220...](https://www.sciencedaily.com/releases/2018/07/180713220147.htm)
 
 `male`, `motivated`, `flies`, `mated`, `courtship`, `neuron`, `dopamine`, `fruit flies`
 
@@ -828,7 +879,7 @@ ___
 
 ___
 
-**#474** read 2018 July 13 03:17 AM. Link: [www.sciencedaily.com/releases/2018/05/180501130...](https://www.sciencedaily.com/releases/2018/05/180501130800.htm)
+**#458** read 2018 July 13 03:17 AM. Link: [www.sciencedaily.com/releases/2018/05/180501130...](https://www.sciencedaily.com/releases/2018/05/180501130800.htm)
 
 `brain`, `odor`, `neuron`, `scent`, `smell`, `piriform cortex`, `neural activate`, `model`
 
@@ -843,7 +894,7 @@ ___
 
 ___
 
-**#473** read 2018 July 12 07:16 PM. Link: [www.sciencedaily.com/releases/2018/07/180703105...](https://www.sciencedaily.com/releases/2018/07/180703105933.htm)
+**#457** read 2018 July 12 07:16 PM. Link: [www.sciencedaily.com/releases/2018/07/180703105...](https://www.sciencedaily.com/releases/2018/07/180703105933.htm)
 
 `stress`, `memory`, `participants`, `cognition`, `studies`, `sliwinski`, `research`, `hyun`
 
@@ -854,7 +905,7 @@ ___
 
 ___
 
-**#472** read 2018 July 12 10:34 AM. Link: [www.sciencedaily.com/releases/2018/07/180711153...](https://www.sciencedaily.com/releases/2018/07/180711153609.htm)
+**#456** read 2018 July 12 10:34 AM. Link: [www.sciencedaily.com/releases/2018/07/180711153...](https://www.sciencedaily.com/releases/2018/07/180711153609.htm)
 
 `neuron`, `axon`, `refraction ratio`, `signal`, `network`, `understand`, `puppo`, `silva`
 
@@ -867,7 +918,7 @@ ___
 
 ___
 
-**#471** read 2018 July 08 10:01 PM. Link: [www.sciencedaily.com/releases/2018/05/180503142...](https://www.sciencedaily.com/releases/2018/05/180503142656.htm)
+**#455** read 2018 July 08 10:01 PM. Link: [www.sciencedaily.com/releases/2018/05/180503142...](https://www.sciencedaily.com/releases/2018/05/180503142656.htm)
 
 `error`, `cerebellum`, `predict`, `learn`, `purkinje cell`, `spike`, `shadmehr`, `complex spike`
 
@@ -886,7 +937,7 @@ ___
 
 ___
 
-**#470** read 2018 July 08 09:45 PM. Link: [www.sciencedaily.com/releases/2018/06/180628151...](https://www.sciencedaily.com/releases/2018/06/180628151752.htm)
+**#454** read 2018 July 08 09:45 PM. Link: [www.sciencedaily.com/releases/2018/06/180628151...](https://www.sciencedaily.com/releases/2018/06/180628151752.htm)
 
 `problem`, `studies`, `prevalence`, `gilbert`, `definition`, `participants`, `concept`, `show`
 
@@ -895,7 +946,7 @@ ___
 
 ___
 
-**#469** read 2018 July 08 09:42 PM. Link: [www.sciencedaily.com/releases/2018/06/180628115...](https://www.sciencedaily.com/releases/2018/06/180628115221.htm)
+**#453** read 2018 July 08 09:42 PM. Link: [www.sciencedaily.com/releases/2018/06/180628115...](https://www.sciencedaily.com/releases/2018/06/180628115221.htm)
 
 `emotional`, `thinking`, `change`, `studies`, `researchers`, `language`, `analyse`, `cognitive`
 
@@ -910,7 +961,7 @@ ___
 
 ___
 
-**#468** read 2018 June 26 06:08 PM. Link: [www.sciencedaily.com/releases/2018/04/180416185...](https://www.sciencedaily.com/releases/2018/04/180416185545.htm)
+**#452** read 2018 June 26 06:08 PM. Link: [www.sciencedaily.com/releases/2018/04/180416185...](https://www.sciencedaily.com/releases/2018/04/180416185545.htm)
 
 `abstract`, `think`, `concrete`, `study`, `activities`, `plan`, `time estimate`, `subordinate`
 
@@ -923,7 +974,7 @@ ___
 
 ___
 
-**#467** read 2018 June 26 02:56 PM. Link: [medicalxpress.com/news/2018-06-serotonin.html](https://medicalxpress.com/news/2018-06-serotonin.html)
+**#451** read 2018 June 26 02:56 PM. Link: [medicalxpress.com/news/2018-06-serotonin.html](https://medicalxpress.com/news/2018-06-serotonin.html)
 
 `serotonin`, `trial`, `animal`, `learning`, `effect`, `water`, `choice`, `mice`
 
@@ -934,7 +985,7 @@ ___
 
 ___
 
-**#466** read 2018 June 24 07:15 PM. Link: [www.technologynetworks.com/neuroscience/news/sc...](https://www.technologynetworks.com/neuroscience/news/scientists-discover-fundamental-rule-of-brain-plasticity-305286)
+**#450** read 2018 June 24 07:15 PM. Link: [www.technologynetworks.com/neuroscience/news/sc...](https://www.technologynetworks.com/neuroscience/news/scientists-discover-fundamental-rule-of-brain-plasticity-305286)
 
 `synapse`, `neuron`, `arc`, `brain`, `strengthen`, `sur`, `change`, `spine`
 
@@ -945,7 +996,7 @@ ___
 
 ___
 
-**#465** read 2018 June 18 08:27 PM. Link: [blogs.scientificamerican.com/observations/could...](https://blogs.scientificamerican.com/observations/could-multiple-personality-disorder-explain-life-the-universe-and-everything/)
+**#449** read 2018 June 18 08:27 PM. Link: [blogs.scientificamerican.com/observations/could...](https://blogs.scientificamerican.com/observations/could-multiple-personality-disorder-explain-life-the-universe-and-everything/)
 
 `conscious`, `brain`, `universal`, `dissociated`, `physical`, `problem`, `alter`, `identities`
 
@@ -956,7 +1007,7 @@ ___
 
 ___
 
-**#464** read 2018 June 11 05:47 PM. Link: [www.sciencedaily.com/releases/2018/06/180607135...](https://www.sciencedaily.com/releases/2018/06/180607135206.htm)
+**#448** read 2018 June 11 05:47 PM. Link: [www.sciencedaily.com/releases/2018/06/180607135...](https://www.sciencedaily.com/releases/2018/06/180607135206.htm)
 
 `brain`, `traveling wave`, `oscillation`, `across`, `jacobs`, `measure`, `studied`, `research`
 
@@ -971,7 +1022,7 @@ ___
 
 ___
 
-**#463** read 2018 June 11 05:35 PM. Link: [www.sciencedaily.com/releases/2018/06/180607101...](https://www.sciencedaily.com/releases/2018/06/180607101010.htm)
+**#447** read 2018 June 11 05:35 PM. Link: [www.sciencedaily.com/releases/2018/06/180607101...](https://www.sciencedaily.com/releases/2018/06/180607101010.htm)
 
 `person`, `message`, `chain`, `warwick`, `research`, `increasingly`, `threat`, `facts`
 
@@ -986,7 +1037,7 @@ ___
 
 ___
 
-**#462** read 2018 June 11 05:22 PM. Link: [www.sciencedaily.com/releases/2018/06/180606143...](https://www.sciencedaily.com/releases/2018/06/180606143709.htm)
+**#446** read 2018 June 11 05:22 PM. Link: [www.sciencedaily.com/releases/2018/06/180606143...](https://www.sciencedaily.com/releases/2018/06/180606143709.htm)
 
 `reward`, `task`, `bonus`, `increase`, `motivate`, `woolley`, `immediate reward`, `immediate`
 
@@ -995,7 +1046,7 @@ ___
 
 ___
 
-**#461** read 2018 June 10 04:15 AM. Link: [www.sciencedaily.com/releases/2018/06/180606082...](https://www.sciencedaily.com/releases/2018/06/180606082309.htm)
+**#445** read 2018 June 10 04:15 AM. Link: [www.sciencedaily.com/releases/2018/06/180606082...](https://www.sciencedaily.com/releases/2018/06/180606082309.htm)
 
 `dementia`, `sleep`, `sleep duration`, `adults`, `daily sleep duration`, `risk`, `5 0`, `10`
 
@@ -1006,7 +1057,9 @@ ___
 
 ___
 
-**#460** read 2018 June 10 01:54 AM. Link: [www.sciencedaily.com/releases/2018/06/180604131...](https://www.sciencedaily.com/releases/2018/06/180604131711.htm)
+**#444** read 2018 June 10 01:54 AM. Link: [www.sciencedaily.com/releases/2018/06/180604131...](https://www.sciencedaily.com/releases/2018/06/180604131711.htm)
+
+## Gist: The brain adjusts signal-to-noise ratio to balance speed and accuracy depending on decision-making context
 
 `decision`, `brain`, `balance`, `speed`, `neural`, `accuracy`, `neural activity`, `explained`
 
@@ -1015,7 +1068,7 @@ ___
 
 ___
 
-**#459** read 2018 June 09 08:33 PM. Link: [www.sciencedaily.com/releases/2018/05/180529132...](https://www.sciencedaily.com/releases/2018/05/180529132130.htm)
+**#443** read 2018 June 09 08:33 PM. Link: [www.sciencedaily.com/releases/2018/05/180529132...](https://www.sciencedaily.com/releases/2018/05/180529132130.htm)
 
 `test`, `slide`, `students`, `question`, `studies`, `10`, `knowledge`, `ubc`
 
@@ -1030,7 +1083,7 @@ ___
 
 ___
 
-**#458** read 2018 June 04 09:09 AM. Link: [www.sciencedaily.com/releases/2018/05/180515113...](https://www.sciencedaily.com/releases/2018/05/180515113629.htm)
+**#442** read 2018 June 04 09:09 AM. Link: [www.sciencedaily.com/releases/2018/05/180515113...](https://www.sciencedaily.com/releases/2018/05/180515113629.htm)
 
 `replay`, `memories`, `lewis`, `rem`, `cortex`, `hippocampus`, `sleep`, `propose`
 
@@ -1045,7 +1098,7 @@ ___
 
 ___
 
-**#457** read 2018 June 03 11:55 PM. Link: [www.sciencedaily.com/releases/2018/05/180523160...](https://www.sciencedaily.com/releases/2018/05/180523160058.htm)
+**#441** read 2018 June 03 11:55 PM. Link: [www.sciencedaily.com/releases/2018/05/180523160...](https://www.sciencedaily.com/releases/2018/05/180523160058.htm)
 
 `healthy`, `non healthy`, `restaurant`, `volume`, `studies`, `music`, `items`, `ambient music`
 
@@ -1054,7 +1107,7 @@ ___
 
 ___
 
-**#456** read 2018 June 03 03:31 PM. Link: [www.sciencedaily.com/releases/2018/05/180517102...](https://www.sciencedaily.com/releases/2018/05/180517102236.htm)
+**#440** read 2018 June 03 03:31 PM. Link: [www.sciencedaily.com/releases/2018/05/180517102...](https://www.sciencedaily.com/releases/2018/05/180517102236.htm)
 
 `intelligence`, `brain`, `neuronal`, `research`, `erhan gen`, `dendrites`, `cerebral cortex`, `studies`
 
@@ -1065,7 +1118,7 @@ ___
 
 ___
 
-**#455** read 2018 June 03 03:23 PM. Link: [www.sciencealert.com/to-be-more-productive-scie...](https://www.sciencealert.com/to-be-more-productive-science-says-you-should-do-this-one-really-simple-thing)
+**#439** read 2018 June 03 03:23 PM. Link: [www.sciencealert.com/to-be-more-productive-scie...](https://www.sciencealert.com/to-be-more-productive-science-says-you-should-do-this-one-really-simple-thing)
 
 `tasks`, `schedule`, `upcoming appointment`, `minute`, `less`, `consume`, `participants`, `window`
 
@@ -1076,7 +1129,7 @@ ___
 
 ___
 
-**#454** read 2018 May 16 01:37 AM. Link: [www.sciencedaily.com/releases/2018/05/180510101...](https://www.sciencedaily.com/releases/2018/05/180510101254.htm)
+**#438** read 2018 May 16 01:37 AM. Link: [www.sciencedaily.com/releases/2018/05/180510101...](https://www.sciencedaily.com/releases/2018/05/180510101254.htm)
 
 `breath`, `brain`, `focus`, `attention`, `meditation`, `practice`, `mind`, `study`
 
@@ -1089,7 +1142,7 @@ ___
 
 ___
 
-**#453** read 2018 May 02 10:12 PM. Link: [www.sciencedaily.com/releases/2018/05/180501130...](https://www.sciencedaily.com/releases/2018/05/180501130737.htm)
+**#437** read 2018 May 02 10:12 PM. Link: [www.sciencedaily.com/releases/2018/05/180501130...](https://www.sciencedaily.com/releases/2018/05/180501130737.htm)
 
 `studied`, `restaurant`, `shape`, `participants`, `business`, `liu`, `satisfaction`, `scenario`
 
@@ -1100,7 +1153,7 @@ ___
 
 ___
 
-**#452** read 2018 April 16 02:10 AM. Link: [www.sciencealert.com/here-s-how-you-can-reduce-...](https://www.sciencealert.com/here-s-how-you-can-reduce-the-stress-from-smartphone-notifications-without-turning-them-off)
+**#436** read 2018 April 16 02:10 AM. Link: [www.sciencealert.com/here-s-how-you-can-reduce-...](https://www.sciencealert.com/here-s-how-you-can-reduce-the-stress-from-smartphone-notifications-without-turning-them-off)
 
 `notifications`, `fitz`, `phone`, `study`, `batch`, `feel`, `people`, `control`
 
@@ -1115,7 +1168,7 @@ ___
 
 ___
 
-**#451** read 2018 April 15 04:34 AM. Link: [www.sciencedaily.com/releases/2018/04/180413093...](https://www.sciencedaily.com/releases/2018/04/180413093839.htm)
+**#435** read 2018 April 15 04:34 AM. Link: [www.sciencedaily.com/releases/2018/04/180413093...](https://www.sciencedaily.com/releases/2018/04/180413093839.htm)
 
 `attention`, `artwork`, `picture`, `dr thomas`, `person`, `art`, `abstract`, `emotional`
 
@@ -1134,7 +1187,7 @@ ___
 
 ___
 
-**#450** read 2018 April 15 04:13 AM. Link: [www.sciencedaily.com/releases/2018/04/180413093...](https://www.sciencedaily.com/releases/2018/04/180413093842.htm)
+**#434** read 2018 April 15 04:13 AM. Link: [www.sciencedaily.com/releases/2018/04/180413093...](https://www.sciencedaily.com/releases/2018/04/180413093842.htm)
 
 ## Gist: Audio quality has a big impact on the perceived intelligence, interestingness, and thustworthyness of person/subject being presented.
 
@@ -1147,7 +1200,7 @@ ___
 
 ___
 
-**#449** read 2018 April 15 04:08 AM. Link: [www.sciencedaily.com/releases/2018/04/180410110...](https://www.sciencedaily.com/releases/2018/04/180410110858.htm)
+**#433** read 2018 April 15 04:08 AM. Link: [www.sciencedaily.com/releases/2018/04/180410110...](https://www.sciencedaily.com/releases/2018/04/180410110858.htm)
 
 `visual`, `brain`, `twilight`, `resting activity`, `perception`, `signal`, `studied`, `stimuli`
 
@@ -1160,7 +1213,7 @@ ___
 
 ___
 
-**#448** read 2018 April 14 07:41 PM. Link: [www.sciencedaily.com/releases/2018/04/180410084...](https://www.sciencedaily.com/releases/2018/04/180410084245.htm)
+**#432** read 2018 April 14 07:41 PM. Link: [www.sciencedaily.com/releases/2018/04/180410084...](https://www.sciencedaily.com/releases/2018/04/180410084245.htm)
 
 `noun`, `predict`, `study`, `word`, `brain`, `replicability`, `neuroscience`, `kite`
 
@@ -1177,7 +1230,7 @@ ___
 
 ___
 
-**#447** read 2018 April 08 03:08 PM. Link: [www.sciencealert.com/do-students-learn-better-f...](https://www.sciencealert.com/do-students-learn-better-from-screens-or-print-textbooks-science-education)
+**#431** read 2018 April 08 03:08 PM. Link: [www.sciencealert.com/do-students-learn-better-f...](https://www.sciencealert.com/do-students-learn-better-from-screens-or-print-textbooks-science-education)
 
 `read`, `students`, `print`, `digital`, `text`, `comprehension`, `better`, `medium`
 
@@ -1195,7 +1248,7 @@ What distinguished this atypical group was that they actually read slower when t
 
 ___
 
-**#446** read 2018 April 05 08:38 PM. Link: [www.sciencedaily.com/releases/2018/04/180405093...](https://www.sciencedaily.com/releases/2018/04/180405093204.htm)
+**#430** read 2018 April 05 08:38 PM. Link: [www.sciencedaily.com/releases/2018/04/180405093...](https://www.sciencedaily.com/releases/2018/04/180405093204.htm)
 
 `memories`, `miller`, `capacities`, `load`, `studies`, `research`, `regions`, `memories capacities`
 
@@ -1208,7 +1261,7 @@ ___
 
 ___
 
-**#445** read 2018 April 04 04:10 AM. Link: [www.sciencedaily.com/releases/2018/03/180329141...](https://www.sciencedaily.com/releases/2018/03/180329141012.htm)
+**#429** read 2018 April 04 04:10 AM. Link: [www.sciencedaily.com/releases/2018/03/180329141...](https://www.sciencedaily.com/releases/2018/03/180329141012.htm)
 
 `brain`, `wave`, `actively`, `ultra slow wave`, `slow`, `research`, `mri`, `electrical actively`
 
@@ -1225,7 +1278,7 @@ ___
 
 ___
 
-**#444** read 2018 March 28 10:12 PM. Link: [www.sciencedaily.com/releases/2018/03/180327132...](https://www.sciencedaily.com/releases/2018/03/180327132019.htm)
+**#428** read 2018 March 28 10:12 PM. Link: [www.sciencedaily.com/releases/2018/03/180327132...](https://www.sciencedaily.com/releases/2018/03/180327132019.htm)
 
 `fridlund`, `face`, `facial expression`, `expression`, `facial`, `smile`, `mean`, `emotion`
 
@@ -1238,7 +1291,7 @@ ___
 
 ___
 
-**#443** read 2018 March 28 09:04 PM. Link: [k10v.github.io/2018/02/25/Solving-Bongard-probl...](https://k10v.github.io/2018/02/25/Solving-Bongard-problems-with-deep-learning/)
+**#427** read 2018 March 28 09:04 PM. Link: [k10v.github.io/2018/02/25/Solving-Bongard-probl...](https://k10v.github.io/2018/02/25/Solving-Bongard-problems-with-deep-learning/)
 
 `problem`, `image`, `26 x 26 x`, `learn`, `bongard problem`, `neural network`, `train`, `26 x`
 
@@ -1249,7 +1302,7 @@ ___
 
 ___
 
-**#442** read 2018 March 28 08:50 PM. Link: [www.sciencedaily.com/releases/2018/03/180322125...](https://www.sciencedaily.com/releases/2018/03/180322125028.htm)
+**#426** read 2018 March 28 08:50 PM. Link: [www.sciencedaily.com/releases/2018/03/180322125...](https://www.sciencedaily.com/releases/2018/03/180322125028.htm)
 
 `brain`, `signal`, `area`, `neuron`, `connection`, `understand`, `model`, `nyu`
 
@@ -1260,7 +1313,7 @@ ___
 
 ___
 
-**#441** read 2018 March 26 06:13 PM. Link: [en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
+**#425** read 2018 March 26 06:13 PM. Link: [en.wikipedia.org/wiki/Ergodicity](https://en.wikipedia.org/wiki/Ergodicity)
 
 `ergodic`, `displaystyle`, `measurable`, `displaystyle mu`, `mu`, `average`, `markov chain`, `probability`
 
@@ -1271,7 +1324,7 @@ ___
 
 ___
 
-**#440** read 2018 March 26 03:00 AM. Link: [www.sciencedaily.com/releases/2016/11/161103091...](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
+**#424** read 2018 March 26 03:00 AM. Link: [www.sciencedaily.com/releases/2016/11/161103091...](https://www.sciencedaily.com/releases/2016/11/161103091026.htm)
 
 `pain`, `brain`, `patient`, `provide`, `tune`, `chronic pain`, `alpha waves`, `manchester`
 
@@ -1282,7 +1335,7 @@ ___
 
 ___
 
-**#439** read 2018 March 25 09:32 PM. Link: [www.scientificamerican.com/article/nurturing-ge...](https://www.scientificamerican.com/article/nurturing-genius/)
+**#423** read 2018 March 25 09:32 PM. Link: [www.scientificamerican.com/article/nurturing-ge...](https://www.scientificamerican.com/article/nurturing-genius/)
 
 `student`, `talent`, `studied`, `stanley`, `abilities`, `gifted`, `test`, `smpy`
 
@@ -1295,7 +1348,7 @@ ___
 
 ___
 
-**#438** read 2018 March 25 09:18 PM. Link: [www.sciencedaily.com/releases/2016/10/161019082...](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
+**#422** read 2018 March 25 09:18 PM. Link: [www.sciencedaily.com/releases/2016/10/161019082...](https://www.sciencedaily.com/releases/2016/10/161019082543.htm)
 
 `memories`, `learned`, `remember`, `run`, `study`, `cortisol`, `information`, `stress`
 
@@ -1306,7 +1359,7 @@ ___
 
 ___
 
-**#437** read 2018 March 25 09:06 PM. Link: [www.sciencedaily.com/releases/2017/03/170314081...](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
+**#421** read 2018 March 25 09:06 PM. Link: [www.sciencedaily.com/releases/2017/03/170314081...](https://www.sciencedaily.com/releases/2017/03/170314081547.htm)
 
 `brain`, `stimulated`, `memory`, `patients`, `task`, `activity`, `current`, `dr violante`
 
@@ -1319,7 +1372,7 @@ ___
 
 ___
 
-**#436** read 2018 March 25 08:42 PM. Link: [www.sciencedaily.com/releases/2017/03/170308081...](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
+**#420** read 2018 March 25 08:42 PM. Link: [www.sciencedaily.com/releases/2017/03/170308081...](https://www.sciencedaily.com/releases/2017/03/170308081024.htm)
 
 `memory`, `sleep`, `stimulation`, `studied`, `deep sleep`, `northwestern`, `improve`, `older`
 
@@ -1332,7 +1385,7 @@ ___
 
 ___
 
-**#435** read 2018 March 25 08:36 PM. Link: [www.sciencedaily.com/releases/2017/02/170209133...](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
+**#419** read 2018 March 25 08:36 PM. Link: [www.sciencedaily.com/releases/2017/02/170209133...](https://www.sciencedaily.com/releases/2017/02/170209133358.htm)
 
 ## Gist: When word and shape pair are presented to slowly fade into conscious awareness, it happens faster when the pair is congruent (kiki-sharp, bubu-round).
 
@@ -1347,7 +1400,7 @@ ___
 
 ___
 
-**#434** read 2018 March 25 08:26 PM. Link: [www.sciencedaily.com/releases/2017/03/170330132...](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
+**#418** read 2018 March 25 08:26 PM. Link: [www.sciencedaily.com/releases/2017/03/170330132...](https://www.sciencedaily.com/releases/2017/03/170330132354.htm)
 
 ## Gist: Listening to nature sounds causes increase in neural signature of relaxation (but slight stress increase for those already relaxed).
 
@@ -1360,7 +1413,7 @@ ___
 
 ___
 
-**#433** read 2018 March 25 08:14 PM. Link: [www.sciencedaily.com/releases/2017/04/170424141...](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
+**#417** read 2018 March 25 08:14 PM. Link: [www.sciencedaily.com/releases/2017/04/170424141...](https://www.sciencedaily.com/releases/2017/04/170424141340.htm)
 
 `brain`, `blood`, `walking`, `impact`, `arterial`, `foot impact`, `blood flow`, `pressure`
 
@@ -1371,7 +1424,7 @@ ___
 
 ___
 
-**#432** read 2018 March 25 08:04 PM. Link: [www.sciencedaily.com/releases/2017/04/170419131...](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
+**#416** read 2018 March 25 08:04 PM. Link: [www.sciencedaily.com/releases/2017/04/170419131...](https://www.sciencedaily.com/releases/2017/04/170419131745.htm)
 
 `learned`, `environment`, `brain`, `metaplasticity`, `reward`, `synapses`, `learned rate`, `studies`
 
@@ -1384,7 +1437,7 @@ ___
 
 ___
 
-**#431** read 2018 March 25 07:58 PM. Link: [www.sciencedaily.com/releases/2018/03/180314145...](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
+**#415** read 2018 March 25 07:58 PM. Link: [www.sciencedaily.com/releases/2018/03/180314145...](https://www.sciencedaily.com/releases/2018/03/180314145019.htm)
 
 `bird`, `research`, `grassquit`, `bullfinch`, `differed`, `barbados`, `receptor`, `innovation`
 
@@ -1395,7 +1448,7 @@ ___
 
 ___
 
-**#430** read 2018 March 25 03:37 PM. Link: [www.sciencedaily.com/releases/2018/03/180319120...](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
+**#414** read 2018 March 25 03:37 PM. Link: [www.sciencedaily.com/releases/2018/03/180319120...](https://www.sciencedaily.com/releases/2018/03/180319120106.htm)
 
 `read`, `sacchi`, `spaces`, `word`, `letter spaces`, `letter`, `visual`, `effect`
 
@@ -1410,7 +1463,7 @@ ___
 
 ___
 
-**#429** read 2018 March 25 03:08 PM. Link: [www.sciencedaily.com/releases/2018/03/180314125...](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
+**#413** read 2018 March 25 03:08 PM. Link: [www.sciencedaily.com/releases/2018/03/180314125...](https://www.sciencedaily.com/releases/2018/03/180314125446.htm)
 
 ## Gist: As some connections in the brain expand for learning and experiences, some shrink
 
@@ -1421,7 +1474,7 @@ ___
 
 ___
 
-**#428** read 2018 March 18 06:27 PM. Link: [www.sciencedaily.com/releases/2018/03/180315122...](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
+**#412** read 2018 March 18 06:27 PM. Link: [www.sciencedaily.com/releases/2018/03/180315122...](https://www.sciencedaily.com/releases/2018/03/180315122945.htm)
 
 `learn`, `object`, `language`, `word`, `adults`, `correspond`, `strategies`, `research`
 
@@ -1432,7 +1485,7 @@ ___
 
 ___
 
-**#427** read 2018 March 18 06:17 PM. Link: [www.sciencedaily.com/releases/2018/03/180312085...](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
+**#411** read 2018 March 18 06:17 PM. Link: [www.sciencedaily.com/releases/2018/03/180312085...](https://www.sciencedaily.com/releases/2018/03/180312085109.htm)
 
 `children`, `brain`, `theory of mind`, `network`, `scan`, `develop`, `studied`, `mit`
 
@@ -1443,7 +1496,7 @@ ___
 
 ___
 
-**#426** read 2018 March 18 06:07 PM. Link: [www.sciencedaily.com/releases/2018/03/180312084...](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
+**#410** read 2018 March 18 06:07 PM. Link: [www.sciencedaily.com/releases/2018/03/180312084...](https://www.sciencedaily.com/releases/2018/03/180312084826.htm)
 
 `rate`, `evaluate`, `successive`, `study`, `judges`, `participants`, `o connor`, `grade`
 
@@ -1454,7 +1507,7 @@ ___
 
 ___
 
-**#425** read 2018 March 18 05:54 PM. Link: [www.sciencedaily.com/releases/2018/03/180312132...](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
+**#409** read 2018 March 18 05:54 PM. Link: [www.sciencedaily.com/releases/2018/03/180312132...](https://www.sciencedaily.com/releases/2018/03/180312132937.htm)
 
 `learn`, `brain`, `task`, `neuron`, `activity`, `research`, `change`, `carnegie mellon`
 
@@ -1469,7 +1522,7 @@ ___
 
 ___
 
-**#424** read 2018 March 15 03:45 PM. Link: [www.sciencedaily.com/releases/2018/03/180313113...](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
+**#408** read 2018 March 15 03:45 PM. Link: [www.sciencedaily.com/releases/2018/03/180313113...](https://www.sciencedaily.com/releases/2018/03/180313113442.htm)
 
 `brain`, `music`, `sequence`, `broca s area`, `non local dependencies`, `grammatical`, `cheung`, `processed`
 
@@ -1482,7 +1535,7 @@ ___
 
 ___
 
-**#423** read 2018 March 13 12:28 AM. Link: [www.sciencedaily.com/releases/2018/03/180306115...](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
+**#407** read 2018 March 13 12:28 AM. Link: [www.sciencedaily.com/releases/2018/03/180306115...](https://www.sciencedaily.com/releases/2018/03/180306115803.htm)
 
 `dog`, `speech`, `human`, `adult`, `babies`, `interact`, `speaker`, `adult dog`
 
@@ -1497,7 +1550,7 @@ ___
 
 ___
 
-**#422** read 2018 March 13 12:21 AM. Link: [www.sciencedaily.com/releases/2018/02/180220104...](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
+**#406** read 2018 March 13 12:21 AM. Link: [www.sciencedaily.com/releases/2018/02/180220104...](https://www.sciencedaily.com/releases/2018/02/180220104114.htm)
 
 `word`, `sense`, `language`, `mean`, `emerge`, `cognitive`, `human`, `word sense`
 
@@ -1512,7 +1565,7 @@ ___
 
 ___
 
-**#421** read 2018 March 12 07:11 PM. Link: [www.sciencedaily.com/releases/2018/02/180222125...](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
+**#405** read 2018 March 12 07:11 PM. Link: [www.sciencedaily.com/releases/2018/02/180222125...](https://www.sciencedaily.com/releases/2018/02/180222125736.htm)
 
 ## Gist: There is a specific brain signal present when a listener understands what they have heard (absent when not understood or not paying attention) and reflects how similar or different a word is from those that precede it.
 
@@ -1529,7 +1582,7 @@ ___
 
 ___
 
-**#420** read 2018 March 12 07:01 PM. Link: [www.sciencedaily.com/releases/2018/02/180220170...](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
+**#404** read 2018 March 12 07:01 PM. Link: [www.sciencedaily.com/releases/2018/02/180220170...](https://www.sciencedaily.com/releases/2018/02/180220170348.htm)
 
 `event`, `difficult life event`, `wisdom`, `life`, `aldwin`, `develop`, `participant`, `challenge`
 
@@ -1544,7 +1597,7 @@ ___
 
 ___
 
-**#419** read 2018 March 07 07:39 PM. Link: [www.sciencedaily.com/releases/2018/03/180307112...](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
+**#403** read 2018 March 07 07:39 PM. Link: [www.sciencedaily.com/releases/2018/03/180307112...](https://www.sciencedaily.com/releases/2018/03/180307112743.htm)
 
 `strategies`, `trained`, `memory trained`, `task`, `memory`, `study`, `participants`, `effective`
 
@@ -1555,7 +1608,7 @@ ___
 
 ___
 
-**#418** read 2018 February 17 04:51 PM. Link: [www.sciencedaily.com/releases/2018/02/180214093...](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
+**#402** read 2018 February 17 04:51 PM. Link: [www.sciencedaily.com/releases/2018/02/180214093...](https://www.sciencedaily.com/releases/2018/02/180214093823.htm)
 
 `stress`, `exercise`, `memory`, `mice`, `edwards`, `ltp`, `run`, `stress mice`
 
@@ -1566,7 +1619,7 @@ ___
 
 ___
 
-**#417** read 2018 February 17 04:44 PM. Link: [www.sciencedaily.com/releases/2018/02/180213183...](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
+**#401** read 2018 February 17 04:44 PM. Link: [www.sciencedaily.com/releases/2018/02/180213183...](https://www.sciencedaily.com/releases/2018/02/180213183552.htm)
 
 `brain`, `entropy`, `studies`, `research`, `saxe`, `intelligence`, `score`, `active`
 
@@ -1579,7 +1632,7 @@ ___
 
 ___
 
-**#416** read 2018 February 17 04:31 PM. Link: [www.sciencedaily.com/releases/2018/02/180216142...](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
+**#400** read 2018 February 17 04:31 PM. Link: [www.sciencedaily.com/releases/2018/02/180216142...](https://www.sciencedaily.com/releases/2018/02/180216142646.htm)
 
 `dopamine`, `hallucinations`, `expect`, `participants`, `process`, `perceptual`, `perceptual distorted`, `schizophrenia`
 
@@ -1590,7 +1643,7 @@ ___
 
 ___
 
-**#415** read 2018 February 17 04:27 PM. Link: [www.sciencedaily.com/releases/2018/02/180215110...](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
+**#399** read 2018 February 17 04:27 PM. Link: [www.sciencedaily.com/releases/2018/02/180215110...](https://www.sciencedaily.com/releases/2018/02/180215110039.htm)
 
 `blink`, `event`, `participants`, `related`, `studies`, `human`, `visual`, `physiological`
 
@@ -1603,7 +1656,7 @@ ___
 
 ___
 
-**#414** read 2018 February 01 03:19 PM. Link: [www.sciencedaily.com/releases/2018/01/180130094...](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
+**#398** read 2018 February 01 03:19 PM. Link: [www.sciencedaily.com/releases/2018/01/180130094...](https://www.sciencedaily.com/releases/2018/01/180130094713.htm)
 
 `language`, `learn`, `brain systems`, `language learn`, `studied`, `findings`, `brain`, `research`
 
@@ -1614,7 +1667,7 @@ ___
 
 ___
 
-**#413** read 2018 January 30 04:10 AM. Link: [www.sciencedaily.com/releases/2018/01/180129131...](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
+**#397** read 2018 January 30 04:10 AM. Link: [www.sciencedaily.com/releases/2018/01/180129131...](https://www.sciencedaily.com/releases/2018/01/180129131309.htm)
 
 `learn`, `communities`, `word`, `grammar`, `language`, `cultural`, `simpler`, `speakers`
 
@@ -1627,7 +1680,7 @@ ___
 
 ___
 
-**#412** read 2018 January 06 01:11 AM. Link: [www.sciencealert.com/study-finds-that-some-stor...](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
+**#396** read 2018 January 06 01:11 AM. Link: [www.sciencealert.com/study-finds-that-some-stor...](http://www.sciencealert.com/study-finds-that-some-story-books-are-better-than-others-for-babies-development)
 
 `read`, `book`, `infant`, `parent`, `characters`, `shared book read`, `babies`, `learn`
 
@@ -1638,7 +1691,7 @@ ___
 
 ___
 
-**#411** read 2018 January 03 12:32 AM. Link: [www.sciencealert.com/sugar-consumption-decrease...](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
+**#395** read 2018 January 03 12:32 AM. Link: [www.sciencealert.com/sugar-consumption-decrease...](http://www.sciencealert.com/sugar-consumption-decreases-cognitive-function-glucose-sucrose)
 
 `glucose`, `sugar`, `test`, `participants`, `effect`, `fructose`, `cognitive function`, `sucrose`
 
@@ -1655,7 +1708,7 @@ ___
 
 ___
 
-**#410** read 2017 December 29 12:53 AM. Link: [www.scientificamerican.com/article/puppy-dog-ey...](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
+**#394** read 2017 December 29 12:53 AM. Link: [www.scientificamerican.com/article/puppy-dog-ey...](https://www.scientificamerican.com/article/puppy-dog-eyes-may-have-evolved-in-stages/)
 
 `dog`, `human`, `dingo`, `wolves`, `eye contact`, `owners`, `bond`, `eye`
 
@@ -1668,7 +1721,7 @@ ___
 
 ___
 
-**#409** read 2017 December 28 07:08 PM. Link: [www.sciencedaily.com/releases/2017/12/171221122...](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
+**#393** read 2017 December 28 07:08 PM. Link: [www.sciencedaily.com/releases/2017/12/171221122...](https://www.sciencedaily.com/releases/2017/12/171221122543.htm)
 
 `exercise`, `brain`, `studies`, `showed`, `10 minute`, `heath`, `research`, `benefits`
 
@@ -1681,7 +1734,7 @@ ___
 
 ___
 
-**#408** read 2017 December 28 03:09 AM. Link: [www.sciencedaily.com/releases/2017/12/171220121...](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
+**#392** read 2017 December 28 03:09 AM. Link: [www.sciencedaily.com/releases/2017/12/171220121...](https://www.sciencedaily.com/releases/2017/12/171220121831.htm)
 
 `neuron`, `predict`, `theories`, `previous`, `code`, `framework`, `encode`, `signal`
 
@@ -1700,7 +1753,7 @@ ___
 
 ___
 
-**#407** read 2017 December 14 11:00 PM. Link: [www.sciencedaily.com/releases/2017/12/171211192...](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
+**#391** read 2017 December 14 11:00 PM. Link: [www.sciencedaily.com/releases/2017/12/171211192...](https://www.sciencedaily.com/releases/2017/12/171211192738.htm)
 
 `food`, `begdache`, `mood`, `mental distress`, `adult`, `young adult`, `brain`, `increase`
 
@@ -1713,7 +1766,7 @@ ___
 
 ___
 
-**#406** read 2017 December 12 12:50 PM. Link: [www.sciencedaily.com/releases/2017/12/171212102...](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
+**#390** read 2017 December 12 12:50 PM. Link: [www.sciencedaily.com/releases/2017/12/171212102...](https://www.sciencedaily.com/releases/2017/12/171212102158.htm)
 
 `game`, `cognition`, `play`, `cognition abilities`, `action`, `gamer`, `action video game`, `studies`
 
@@ -1728,7 +1781,7 @@ ___
 
 ___
 
-**#405** read 2017 December 03 01:19 AM. Link: [www.sciencedaily.com/releases/2017/12/171201090...](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
+**#389** read 2017 December 03 01:19 AM. Link: [www.sciencedaily.com/releases/2017/12/171201090...](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
 
 `memory`, `studies`, `read`, `active`, `word`, `aloud`, `macleod`, `waterloo`
 
@@ -1741,7 +1794,7 @@ ___
 
 ___
 
-**#404** read 2017 November 29 05:36 PM. Link: [www.sciencedaily.com/releases/2017/11/171127094...](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
+**#388** read 2017 November 29 05:36 PM. Link: [www.sciencedaily.com/releases/2017/11/171127094...](https://www.sciencedaily.com/releases/2017/11/171127094928.htm)
 
 `children`, `contact`, `infants`, `dna`, `studies`, `health`, `development`, `epigenetic`
 
@@ -1754,7 +1807,7 @@ ___
 
 ___
 
-**#403** read 2017 November 25 09:22 PM. Link: [www.sciencedaily.com/releases/2017/11/171122093...](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
+**#387** read 2017 November 25 09:22 PM. Link: [www.sciencedaily.com/releases/2017/11/171122093...](https://www.sciencedaily.com/releases/2017/11/171122093036.htm)
 
 `brain`, `memories`, `stimulation`, `research`, `activate`, `frequencies`, `function`, `brain region`
 
@@ -1765,7 +1818,7 @@ ___
 
 ___
 
-**#402** read 2017 November 25 02:28 AM. Link: [www.sciencedaily.com/releases/2017/11/171124084...](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
+**#386** read 2017 November 25 02:28 AM. Link: [www.sciencedaily.com/releases/2017/11/171124084...](https://www.sciencedaily.com/releases/2017/11/171124084336.htm)
 
 `brain`, `human`, `gene`, `primate`, `region`, `researcher`, `found`, `distinct`
 
@@ -1782,7 +1835,7 @@ ___
 
 ___
 
-**#401** read 2017 November 25 02:19 AM. Link: [www.sciencedaily.com/releases/2017/11/171124084...](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
+**#385** read 2017 November 25 02:19 AM. Link: [www.sciencedaily.com/releases/2017/11/171124084...](https://www.sciencedaily.com/releases/2017/11/171124084330.htm)
 
 `goal`, `babies`, `agent`, `understand`, `infants`, `research`, `studied`, `mit`
 
@@ -1795,7 +1848,7 @@ ___
 
 ___
 
-**#400** read 2017 November 20 02:45 AM. Link: [www.sciencedaily.com/releases/2017/04/170426093...](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
+**#384** read 2017 November 20 02:45 AM. Link: [www.sciencedaily.com/releases/2017/04/170426093...](https://www.sciencedaily.com/releases/2017/04/170426093310.htm)
 
 `gestural`, `research`, `language`, `babies`, `speech`, `studied`, `showing`, `combination`
 
@@ -1808,7 +1861,7 @@ ___
 
 ___
 
-**#399** read 2017 November 19 04:08 AM. Link: [www.sciencedaily.com/releases/2017/07/170710172...](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
+**#383** read 2017 November 19 04:08 AM. Link: [www.sciencedaily.com/releases/2017/07/170710172...](https://www.sciencedaily.com/releases/2017/07/170710172011.htm)
 
 `cache`, `core`, `chip`, `jenga`, `data`, `latencies`, `memories`, `allocated`
 
@@ -1821,7 +1874,7 @@ ___
 
 ___
 
-**#398** read 2017 November 19 03:44 AM. Link: [www.sciencealert.com/brain-processes-sound-in-o...](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
+**#382** read 2017 November 19 03:44 AM. Link: [www.sciencealert.com/brain-processes-sound-in-o...](http://www.sciencealert.com/brain-processes-sound-in-oscillating-flickering-waves)
 
 `brain`, `research`, `perception`, `sounds`, `strobe`, `auditory`, `findings`, `sensitive`
 
@@ -1834,7 +1887,7 @@ ___
 
 ___
 
-**#397** read 2017 November 10 11:56 AM. Link: [www.sciencedaily.com/releases/2017/11/171109140...](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
+**#381** read 2017 November 10 11:56 AM. Link: [www.sciencedaily.com/releases/2017/11/171109140...](https://www.sciencedaily.com/releases/2017/11/171109140751.htm)
 
 `similar`, `computation`, `flies`, `hash`, `navlakha`, `odor`, `similar search`, `smell`
 
@@ -1851,7 +1904,7 @@ ___
 
 ___
 
-**#396** read 2017 November 02 06:00 PM. Link: [www.sciencealert.com/a-study-has-shown-that-peo...](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
+**#380** read 2017 November 02 06:00 PM. Link: [www.sciencealert.com/a-study-has-shown-that-peo...](http://www.sciencealert.com/a-study-has-shown-that-people-really-do-love-dogs-more-than-humans)
 
 `dog`, `human`, `report`, `victim`, `animal`, `levels`, `empathy`, `babies`
 
@@ -1866,7 +1919,7 @@ ___
 
 ___
 
-**#395** read 2017 October 22 03:23 PM. Link: [www.sciencedaily.com/releases/2017/10/171017114...](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
+**#379** read 2017 October 22 03:23 PM. Link: [www.sciencedaily.com/releases/2017/10/171017114...](https://www.sciencedaily.com/releases/2017/10/171017114335.htm)
 
 ## Gist: The dual n-back brain-training task appears demonstrably better at improving working memory than alternatives.
 
@@ -1883,7 +1936,7 @@ ___
 
 ___
 
-**#394** read 2017 October 10 03:56 PM. Link: [www.sciencedaily.com/releases/2017/10/171009154...](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
+**#378** read 2017 October 10 03:56 PM. Link: [www.sciencedaily.com/releases/2017/10/171009154...](https://www.sciencedaily.com/releases/2017/10/171009154941.htm)
 
 `brain`, `reinhart`, `stimulate`, `participant`, `learn`, `region`, `somers`, `task`
 
@@ -1900,7 +1953,7 @@ ___
 
 ___
 
-**#393** read 2017 October 03 01:05 AM. Link: [deepmind.com/blog/hippocampus-predictive-map/](https://deepmind.com/blog/hippocampus-predictive-map/)
+**#377** read 2017 October 03 01:05 AM. Link: [deepmind.com/blog/hippocampus-predictive-map/](https://deepmind.com/blog/hippocampus-predictive-map/)
 
 `learn`, `reward`, `future`, `hippocampus`, `model`, `estimate`, `algorithm`, `future reward`
 
@@ -1915,7 +1968,7 @@ ___
 
 ___
 
-**#392** read 2017 October 01 08:44 PM. Link: [www.sciencedaily.com/releases/2017/02/170221101...](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
+**#376** read 2017 October 01 08:44 PM. Link: [www.sciencedaily.com/releases/2017/02/170221101...](https://www.sciencedaily.com/releases/2017/02/170221101016.htm)
 
 `decision`, `change`, `effort`, `handle`, `move`, `behaviour`, `express`, `less`
 
@@ -1930,7 +1983,7 @@ ___
 
 ___
 
-**#391** read 2017 October 01 01:11 AM. Link: [www.sciencedaily.com/releases/2017/07/170727104...](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
+**#375** read 2017 October 01 01:11 AM. Link: [www.sciencedaily.com/releases/2017/07/170727104...](https://www.sciencedaily.com/releases/2017/07/170727104544.htm)
 
 `customer`, `price`, `zia`, `store`, `competitor`, `search`, `advertisement`, `expedia`
 
@@ -1945,7 +1998,7 @@ ___
 
 ___
 
-**#390** read 2017 September 30 10:34 PM. Link: [www.sciencedaily.com/releases/2017/09/170929093...](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
+**#374** read 2017 September 30 10:34 PM. Link: [www.sciencedaily.com/releases/2017/09/170929093...](https://www.sciencedaily.com/releases/2017/09/170929093215.htm)
 
 `brain`, `hippocampus`, `activation`, `functional`, `cortex`, `memories`, `brain wide functional connecting`, `optogenetic`
 
@@ -1958,7 +2011,7 @@ ___
 
 ___
 
-**#389** read 2017 September 30 12:47 AM. Link: [www.sciencealert.com/ultraviolet-light-has-the-...](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
+**#373** read 2017 September 30 12:47 AM. Link: [www.sciencealert.com/ultraviolet-light-has-the-...](http://www.sciencealert.com/ultraviolet-light-has-the-power-to-make-space-ice-bubble-like-a-liquid)
 
 `ice`, `liquid`, `bubbled`, `water`, `research`, `space`, `tachibana`, `planets`
 
@@ -1973,7 +2026,7 @@ ___
 
 ___
 
-**#388** read 2017 September 29 12:01 AM. Link: [www.sciencedaily.com/releases/2016/12/161207093...](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
+**#372** read 2017 September 29 12:01 AM. Link: [www.sciencedaily.com/releases/2016/12/161207093...](https://www.sciencedaily.com/releases/2016/12/161207093034.htm)
 
 `breath`, `brain`, `inhalation`, `face`, `emotion`, `fear`, `encountered`, `scientists`
 
@@ -1984,7 +2037,7 @@ ___
 
 ___
 
-**#387** read 2017 September 27 05:55 PM. Link: [en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
+**#371** read 2017 September 27 05:55 PM. Link: [en.wikipedia.org/wiki/Perplexity](https://en.wikipedia.org/wiki/Perplexity)
 
 `perplexed`, `model`, `word`, `probabilities`, `test`, `test sample`, `bits`, `tilde p`
 
@@ -1995,7 +2048,9 @@ ___
 
 ___
 
-**#386** read 2017 September 27 05:37 PM. Link: [blog.shakirm.com/2016/02/learning-in-brains-and...](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
+**#370** read 2017 September 27 05:37 PM. Link: [blog.shakirm.com/2016/02/learning-in-brains-and...](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
+
+## Gist: Dopamine may be important in reward-based learning, as the striatum is a major dopamine target.
 
 `learn`, `reward`, `st`, `predict`, `value`, `dopamine`, `brain`, `function`
 
@@ -2004,7 +2059,9 @@ ___
 
 ___
 
-**#385** read 2017 September 27 05:22 PM. Link: [people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
+**#369** read 2017 September 27 05:22 PM. Link: [people.idsia.ch/~juergen/](http://people.idsia.ch/~juergen/)
+
+## Gist: Art, science, humor are by-products of desire to create/discover more data that is predictable or compressible in new ways
 
 `learn`, `computable`, `robot`, `schmidhuber`, `optimal`, `neural`, `machine`, `evolution`
 
@@ -2013,7 +2070,7 @@ ___
 
 ___
 
-**#384** read 2017 September 27 05:02 PM. Link: [en.wikipedia.org/wiki/Kolmogorov_complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+**#368** read 2017 September 27 05:02 PM. Link: [en.wikipedia.org/wiki/Kolmogorov_complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
 `string`, `program`, `length`, `kolmogorov complex`, `theorem`, `complex`, `kolmogorov`, `2n`
 
@@ -2024,7 +2081,7 @@ ___
 
 ___
 
-**#383** read 2017 September 23 03:30 PM. Link: [www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
+**#367** read 2017 September 23 03:30 PM. Link: [www.nature.com/articles/srep22180](https://www.nature.com/articles/srep22180)
 
 ## Gist: Mice subjected to 20 minutes of anodal tDCS had enhanced BDNF levels, hippocampal LTP, learning, and memory a week after the treatment.
 
@@ -2037,7 +2094,7 @@ ___
 
 ___
 
-**#382** read 2017 September 22 03:22 PM. Link: [www.sciencedaily.com/releases/2017/08/170823094...](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
+**#366** read 2017 September 22 03:22 PM. Link: [www.sciencedaily.com/releases/2017/08/170823094...](https://www.sciencedaily.com/releases/2017/08/170823094104.htm)
 
 `surprise`, `song`, `harmonic surprise`, `professor grzywacz`, `brain`, `measurable`, `chord`, `preference`
 
@@ -2050,7 +2107,7 @@ ___
 
 ___
 
-**#381** read 2017 September 21 10:06 PM. Link: [www.sciencedaily.com/releases/2017/08/170824094...](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
+**#365** read 2017 September 21 10:06 PM. Link: [www.sciencedaily.com/releases/2017/08/170824094...](https://www.sciencedaily.com/releases/2017/08/170824094045.htm)
 
 `word`, `student`, `remember`, `distracted`, `participant`, `group`, `research`, `set of 20`
 
@@ -2067,7 +2124,7 @@ ___
 
 ___
 
-**#380** read 2017 September 21 09:44 PM. Link: [www.sciencedaily.com/releases/2017/08/170822092...](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
+**#364** read 2017 September 21 09:44 PM. Link: [www.sciencedaily.com/releases/2017/08/170822092...](https://www.sciencedaily.com/releases/2017/08/170822092159.htm)
 
 `product`, `face`, `dominance`, `research`, `maeng`, `marketers`, `product design`, `human face`
 
@@ -2078,7 +2135,7 @@ ___
 
 ___
 
-**#379** read 2017 September 21 01:57 AM. Link: [www.sciencedaily.com/releases/2017/08/170821122...](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
+**#363** read 2017 September 21 01:57 AM. Link: [www.sciencedaily.com/releases/2017/08/170821122...](https://www.sciencedaily.com/releases/2017/08/170821122804.htm)
 
 `cell`, `chandelier cell`, `brain`, `neuronal`, `information`, `inhibited`, `connect`, `hundred`
 
@@ -2089,7 +2146,7 @@ ___
 
 ___
 
-**#378** read 2017 September 20 06:32 PM. Link: [www.newscientist.com/article/2146534-need-a-cre...](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
+**#362** read 2017 September 20 06:32 PM. Link: [www.newscientist.com/article/2146534-need-a-cre...](https://www.newscientist.com/article/2146534-need-a-creativity-boost-try-listening-to-happy-background-music/)
 
 `think`, `music`, `tested`, `ferguson`, `creative`, `silence`, `happy music`, `dopamine`
 
@@ -2100,7 +2157,7 @@ ___
 
 ___
 
-**#377** read 2017 September 18 11:33 PM. Link: [giorgiopatrini.org/posts/2017/09/06/in-search-o...](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
+**#361** read 2017 September 18 11:33 PM. Link: [giorgiopatrini.org/posts/2017/09/06/in-search-o...](http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/)
 
 ## Gist: Unsupervised learning in a resettable, explorable environment can be achieved with a pair of agents: A, which tries to reach a state specified by B, and B, which tries to specify a state that takes A the longest time while still being possible.
 
@@ -2129,7 +2186,7 @@ ___
 
 ___
 
-**#376** read 2017 September 18 10:57 PM. Link: [www.sciencedaily.com/releases/2017/08/170814134...](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
+**#360** read 2017 September 18 10:57 PM. Link: [www.sciencedaily.com/releases/2017/08/170814134...](https://www.sciencedaily.com/releases/2017/08/170814134832.htm)
 
 `event`, `brain`, `remember`, `memory`, `presented`, `image`, `replayed`, `encoding`
 
@@ -2144,7 +2201,7 @@ ___
 
 ___
 
-**#375** read 2017 September 18 10:50 PM. Link: [www.sciencedaily.com/releases/2017/08/170814134...](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
+**#359** read 2017 September 18 10:50 PM. Link: [www.sciencedaily.com/releases/2017/08/170814134...](https://www.sciencedaily.com/releases/2017/08/170814134836.htm)
 
 `object`, `pathway`, `processed`, `distinct`, `information`, `dorsal pathway`, `represent`, `ventral pathway`
 
@@ -2159,7 +2216,7 @@ ___
 
 ___
 
-**#374** read 2017 August 26 06:43 PM. Link: [www.sciencedaily.com/releases/2017/08/170825124...](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
+**#358** read 2017 August 26 06:43 PM. Link: [www.sciencedaily.com/releases/2017/08/170825124...](https://www.sciencedaily.com/releases/2017/08/170825124900.htm)
 
 ## Gist: In those with chronic tinnitus, the precuneus is more connected to the dorsal attention network (active when something holds your attention) and less connected to default mode network (active when at rest and not focused).
 
@@ -2176,7 +2233,7 @@ ___
 
 ___
 
-**#373** read 2017 August 19 11:49 PM. Link: [www.wired.com/story/bacteria-may-rig-their-dna-...](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
+**#357** read 2017 August 19 11:49 PM. Link: [www.wired.com/story/bacteria-may-rig-their-dna-...](https://www.wired.com/story/bacteria-may-rig-their-dna-to-speed-up-evolution)
 
 `mutate`, `cell`, `houseley`, `gene`, `mechanism`, `adapt`, `copies`, `yeast`
 
@@ -2191,7 +2248,7 @@ ___
 
 ___
 
-**#372** read 2017 August 19 02:15 PM. Link: [www.sciencedaily.com/releases/2017/08/170816134...](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
+**#356** read 2017 August 19 02:15 PM. Link: [www.sciencedaily.com/releases/2017/08/170816134...](https://www.sciencedaily.com/releases/2017/08/170816134658.htm)
 
 `brain`, `stimulate`, `activate`, `cells`, `pralle`, `neuronal`, `magneto thermal stimulate`, `research`
 
@@ -2206,7 +2263,7 @@ ___
 
 ___
 
-**#371** read 2017 August 18 10:57 PM. Link: [www.sciencealert.com/landmark-vitamin-discovery...](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
+**#355** read 2017 August 18 10:57 PM. Link: [www.sciencealert.com/landmark-vitamin-discovery...](http://www.sciencealert.com/landmark-vitamin-discovery-could-prevent-miscarriages-and-birth-defects)
 
 `birth defects`, `research`, `nad`, `defects`, `babies`, `supplement`, `women`, `vitamin b3`
 
@@ -2217,7 +2274,7 @@ ___
 
 ___
 
-**#370** read 2017 August 07 09:30 PM. Link: [www.sciencealert.com/hydrogen-fuel-could-become...](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
+**#354** read 2017 August 07 09:30 PM. Link: [www.sciencealert.com/hydrogen-fuel-could-become...](http://www.sciencealert.com/hydrogen-fuel-could-become-a-viable-energy-alternative-thanks-to-this-aluminum-alloy)
 
 `hydrogen`, `alloy`, `aluminium`, `fuel`, `water`, `reaction`, `research`, `hydrogen gas`
 
@@ -2232,7 +2289,7 @@ ___
 
 ___
 
-**#369** read 2017 August 07 01:12 AM. Link: [phys.org/news/2017-08-redefine-statistical-sign...](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
+**#353** read 2017 August 07 01:12 AM. Link: [phys.org/news/2017-08-redefine-statistical-sign...](https://phys.org/news/2017-08-redefine-statistical-significance-large-group.html)
 
 `p value`, `suggest`, `percent`, `paper`, `changed`, `science`, `example`, `05`
 
@@ -2243,7 +2300,7 @@ ___
 
 ___
 
-**#368** read 2017 July 22 07:47 PM. Link: [www.sciencedaily.com/releases/2017/07/170721095...](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
+**#352** read 2017 July 22 07:47 PM. Link: [www.sciencedaily.com/releases/2017/07/170721095...](https://www.sciencedaily.com/releases/2017/07/170721095440.htm)
 
 `grid cells`, `cells`, `place cells`, `model`, `activated`, `neuronal`, `hexagonal`, `temporal`
 
@@ -2254,7 +2311,7 @@ ___
 
 ___
 
-**#367** read 2017 July 18 09:41 PM. Link: [www.sciencedaily.com/releases/2017/06/170613120...](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
+**#351** read 2017 July 18 09:41 PM. Link: [www.sciencedaily.com/releases/2017/06/170613120...](https://www.sciencedaily.com/releases/2017/06/170613120531.htm)
 
 `activation`, `art`, `kaimal`, `artists`, `reward`, `study`, `doodled`, `participants`
 
@@ -2271,7 +2328,7 @@ ___
 
 ___
 
-**#366** read 2017 July 18 09:31 PM. Link: [www.sciencedaily.com/releases/2017/06/170612115...](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
+**#350** read 2017 July 18 09:31 PM. Link: [www.sciencedaily.com/releases/2017/06/170612115...](https://www.sciencedaily.com/releases/2017/06/170612115320.htm)
 
 `exercise`, `brain`, `effects`, `acute exercise`, `changes`, `behavioral`, `cognitive`, `function`
 
@@ -2284,7 +2341,7 @@ ___
 
 ___
 
-**#365** read 2017 July 18 09:19 PM. Link: [www.sciencedaily.com/releases/2017/07/170718103...](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
+**#349** read 2017 July 18 09:19 PM. Link: [www.sciencedaily.com/releases/2017/07/170718103...](https://www.sciencedaily.com/releases/2017/07/170718103528.htm)
 
 `robot`, `human`, `empowerment`, `concept`, `harm`, `laws`, `salge`, `asimov`
 
@@ -2299,7 +2356,7 @@ ___
 
 ___
 
-**#364** read 2017 July 03 11:32 AM. Link: [www.sciencedaily.com/releases/2017/06/170627105...](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
+**#348** read 2017 July 03 11:32 AM. Link: [www.sciencedaily.com/releases/2017/06/170627105...](https://www.sciencedaily.com/releases/2017/06/170627105445.htm)
 
 `mitoflash`, `long term`, `synaptic plasticity`, `synaptic`, `short term synaptic`, `ros`, `memories`, `signal`
 
@@ -2318,7 +2375,7 @@ ___
 
 ___
 
-**#363** read 2017 June 25 04:46 PM. Link: [www.sciencedaily.com/releases/2017/06/170623133...](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
+**#347** read 2017 June 25 04:46 PM. Link: [www.sciencedaily.com/releases/2017/06/170623133...](https://www.sciencedaily.com/releases/2017/06/170623133039.htm)
 
 `smartphone`, `participants`, `phone`, `cognitive`, `cognitive capacity`, `person`, `experiment`, `reduce`
 
@@ -2333,7 +2390,7 @@ ___
 
 ___
 
-**#362** read 2017 June 22 03:44 AM. Link: [www.sciencedaily.com/releases/2017/06/170621125...](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
+**#346** read 2017 June 22 03:44 AM. Link: [www.sciencedaily.com/releases/2017/06/170621125...](https://www.sciencedaily.com/releases/2017/06/170621125329.htm)
 
 ## Gist: Brief reactivation of a learned memory (quickly typing numbers with one hand)  in temporal proximity of a very similar task (typing numbers with the other hand) gives that memory long-term immunity to interference with other tasks during multi-tasking.
 
@@ -2356,7 +2413,7 @@ ___
 
 ___
 
-**#361** read 2017 June 22 03:27 AM. Link: [www.sciencedaily.com/releases/2017/06/170621132...](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
+**#345** read 2017 June 22 03:27 AM. Link: [www.sciencedaily.com/releases/2017/06/170621132...](https://www.sciencedaily.com/releases/2017/06/170621132910.htm)
 
 `memories`, `forget`, `brain`, `remember`, `information`, `neuron`, `richards`, `mechanism`
 
@@ -2375,7 +2432,7 @@ ___
 
 ___
 
-**#360** read 2017 June 22 02:51 AM. Link: [www.sciencedaily.com/releases/2017/06/170620140...](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
+**#344** read 2017 June 22 02:51 AM. Link: [www.sciencedaily.com/releases/2017/06/170620140...](https://www.sciencedaily.com/releases/2017/06/170620140624.htm)
 
 `brain`, `short term memories`, `mean`, `information`, `memories`, `finding`, `remember`, `create`
 
@@ -2386,7 +2443,7 @@ ___
 
 ___
 
-**#359** read 2017 June 22 02:36 AM. Link: [www.sciencedaily.com/releases/2017/06/170621082...](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
+**#343** read 2017 June 22 02:36 AM. Link: [www.sciencedaily.com/releases/2017/06/170621082...](https://www.sciencedaily.com/releases/2017/06/170621082442.htm)
 
 ## Gist: Multitasking while studying impairs memory, but still able to strategically identify and remember the most important information.
 
@@ -2405,7 +2462,7 @@ ___
 
 ___
 
-**#358** read 2017 June 20 01:36 AM. Link: [www.sciencedaily.com/releases/2017/06/170619144...](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
+**#342** read 2017 June 20 01:36 AM. Link: [www.sciencedaily.com/releases/2017/06/170619144...](https://www.sciencedaily.com/releases/2017/06/170619144827.htm)
 
 `brain`, `patients`, `word`, `process`, `ries`, `activate`, `neuronal`, `region`
 
@@ -2420,7 +2477,7 @@ ___
 
 ___
 
-**#357** read 2017 June 12 10:48 PM. Link: [www.sciencedaily.com/releases/2017/06/170612094...](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
+**#341** read 2017 June 12 10:48 PM. Link: [www.sciencedaily.com/releases/2017/06/170612094...](https://www.sciencedaily.com/releases/2017/06/170612094139.htm)
 
 ## Gist: The fronto-parietal network appears to perform emulation, evidenced by the commonality of its deverse functions (planning and executing, mental rotation, working memory, etc.).
 
@@ -2441,7 +2498,7 @@ ___
 
 ___
 
-**#356** read 2017 June 12 03:52 PM. Link: [www.sciencedaily.com/releases/2017/06/170612115...](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
+**#340** read 2017 June 12 03:52 PM. Link: [www.sciencedaily.com/releases/2017/06/170612115...](https://www.sciencedaily.com/releases/2017/06/170612115345.htm)
 
 `computation`, `problem`, `oscillating`, `solve`, `color`, `system`, `graph`, `graph color problem`
 
@@ -2458,7 +2515,7 @@ ___
 
 ___
 
-**#355** read 2017 June 12 12:18 AM. Link: [www.sciencedaily.com/releases/2017/06/170608133...](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
+**#339** read 2017 June 12 12:18 AM. Link: [www.sciencedaily.com/releases/2017/06/170608133...](https://www.sciencedaily.com/releases/2017/06/170608133355.htm)
 
 `brain`, `pitkow`, `model`, `computations`, `bias`, `research`, `neuron`, `neuroscience`
 
@@ -2475,7 +2532,7 @@ ___
 
 ___
 
-**#354** read 2017 June 11 11:24 PM. Link: [www.sciencedaily.com/releases/2017/06/170609133...](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
+**#338** read 2017 June 11 11:24 PM. Link: [www.sciencedaily.com/releases/2017/06/170609133...](https://www.sciencedaily.com/releases/2017/06/170609133807.htm)
 
 `farmer`, `plant`, `pest`, `optimal`, `system`, `decisions`, `water`, `reach`
 
@@ -2494,7 +2551,7 @@ ___
 
 ___
 
-**#353** read 2017 June 10 05:45 PM. Link: [www.sciencedaily.com/releases/2017/06/170608123...](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
+**#337** read 2017 June 10 05:45 PM. Link: [www.sciencedaily.com/releases/2017/06/170608123...](https://www.sciencedaily.com/releases/2017/06/170608123646.htm)
 
 `event`, `neuron`, `activation`, `cell`, `sequence`, `brain`, `hippocampus`, `smell`
 
@@ -2507,7 +2564,7 @@ ___
 
 ___
 
-**#352** read 2017 June 10 03:55 PM. Link: [www.sciencedaily.com/releases/2017/06/170608123...](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
+**#336** read 2017 June 10 03:55 PM. Link: [www.sciencedaily.com/releases/2017/06/170608123...](https://www.sciencedaily.com/releases/2017/06/170608123641.htm)
 
 ## Gist: The dorsal raphe nucleus (containing dopamine neurons) seems to control wakefulness: its activated causes (and is caused by) interesting stimuli, and its deactivation associated with sleepiness.
 
@@ -2526,7 +2583,7 @@ ___
 
 ___
 
-**#351** read 2017 June 09 09:41 PM. Link: [www.sciencealert.com/plant-seeds-use-mini-brain...](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
+**#335** read 2017 June 09 09:41 PM. Link: [www.sciencealert.com/plant-seeds-use-mini-brain...](http://www.sciencealert.com/plant-seeds-use-mini-brains-to-decide-when-to-sprout)
 
 `plant`, `germinate`, `cell`, `plant seed`, `sprout`, `seed`, `research`, `separation`
 
@@ -2539,7 +2596,7 @@ ___
 
 ___
 
-**#350** read 2017 June 09 06:01 PM. Link: [www.sciencedaily.com/releases/2017/04/170410110...](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
+**#334** read 2017 June 09 06:01 PM. Link: [www.sciencedaily.com/releases/2017/04/170410110...](https://www.sciencedaily.com/releases/2017/04/170410110226.htm)
 
 `research`, `brain`, `serious`, `studied`, `judgement`, `asts`, `intention`, `universal`
 
@@ -2550,7 +2607,7 @@ ___
 
 ___
 
-**#349** read 2017 June 09 05:54 PM. Link: [www.sciencedaily.com/releases/2017/04/170410085...](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
+**#333** read 2017 June 09 05:54 PM. Link: [www.sciencedaily.com/releases/2017/04/170410085...](https://www.sciencedaily.com/releases/2017/04/170410085324.htm)
 
 `green space`, `environment`, `study`, `urban environment`, `urban`, `older`, `health`, `older people`
 
@@ -2561,7 +2618,7 @@ ___
 
 ___
 
-**#348** read 2017 June 09 05:33 PM. Link: [www.sciencedaily.com/releases/2017/04/170410085...](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
+**#332** read 2017 June 09 05:33 PM. Link: [www.sciencedaily.com/releases/2017/04/170410085...](https://www.sciencedaily.com/releases/2017/04/170410085010.htm)
 
 `cognitive control`, `temperature`, `research`, `psychological`, `dr shalev`, `cool`, `cold`, `effect`
 
@@ -2576,7 +2633,7 @@ ___
 
 ___
 
-**#347** read 2017 June 09 02:23 PM. Link: [www.sciencedaily.com/releases/2017/06/170609091...](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
+**#331** read 2017 June 09 02:23 PM. Link: [www.sciencedaily.com/releases/2017/06/170609091...](https://www.sciencedaily.com/releases/2017/06/170609091229.htm)
 
 ## Gist: Most neurons start out with many more connections that they need, and the ones not used are pruned. Chandelier interneuron cells develop exclusively inhibitory synapses at other cells' initial axon segments, leading to a greater impact.
 
@@ -2593,7 +2650,7 @@ ___
 
 ___
 
-**#346** read 2017 June 09 03:53 AM. Link: [www.sciencedaily.com/releases/2017/06/170606201...](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
+**#330** read 2017 June 09 03:53 AM. Link: [www.sciencedaily.com/releases/2017/06/170606201...](https://www.sciencedaily.com/releases/2017/06/170606201359.htm)
 
 `studies`, `brain`, `associated`, `alcohol consumption`, `cognitive`, `findings`, `drinking`, `alcohol`
 
@@ -2610,7 +2667,7 @@ ___
 
 ___
 
-**#345** read 2017 June 09 03:29 AM. Link: [www.sciencedaily.com/releases/2017/06/170608073...](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
+**#329** read 2017 June 09 03:29 AM. Link: [www.sciencedaily.com/releases/2017/06/170608073...](https://www.sciencedaily.com/releases/2017/06/170608073249.htm)
 
 `eat`, `food`, `eat alone`, `mirror`, `research`, `social facilitation of eat`, `ate`, `appeal`
 
@@ -2627,7 +2684,7 @@ ___
 
 ___
 
-**#344** read 2017 June 09 03:19 AM. Link: [www.sciencedaily.com/releases/2017/06/170608145...](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
+**#328** read 2017 June 09 03:19 AM. Link: [www.sciencedaily.com/releases/2017/06/170608145...](https://www.sciencedaily.com/releases/2017/06/170608145602.htm)
 
 `brain`, `computation`, `vision`, `visual`, `object`, `sharpee`, `data`, `process`
 
@@ -2644,7 +2701,7 @@ ___
 
 ___
 
-**#343** read 2017 June 08 04:01 AM. Link: [www.sciencedaily.com/releases/2017/04/170406163...](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
+**#327** read 2017 June 08 04:01 AM. Link: [www.sciencedaily.com/releases/2017/04/170406163...](https://www.sciencedaily.com/releases/2017/04/170406163511.htm)
 
 ## Gist: Hippocampal cells predict memory decisions through prospective coding, and the prefrontal cortex teaches the hippocampus to learn rules to distinguism memory-based predictions in otherwise identical situations (ex. you answer a telephone in your own home but not a stranger's).
 
@@ -2665,7 +2722,7 @@ ___
 
 ___
 
-**#342** read 2017 June 08 03:52 AM. Link: [www.sciencedaily.com/releases/2017/04/170403123...](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
+**#326** read 2017 June 08 03:52 AM. Link: [www.sciencedaily.com/releases/2017/04/170403123...](https://www.sciencedaily.com/releases/2017/04/170403123319.htm)
 
 `social capital`, `school`, `student`, `teacher`, `parental`, `goddard`, `levels of social capital`, `study`
 
@@ -2682,7 +2739,7 @@ ___
 
 ___
 
-**#341** read 2017 June 08 03:16 AM. Link: [www.sciencealert.com/physicists-finally-have-pr...](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
+**#325** read 2017 June 08 03:16 AM. Link: [www.sciencealert.com/physicists-finally-have-pr...](http://www.sciencealert.com/physicists-finally-have-proof-that-two-dimensional-magnets-exist)
 
 ## Gist: There exist 2D magnets (specifically chromium triiodide sheets), found after years of searching.
 
@@ -2703,7 +2760,7 @@ ___
 
 ___
 
-**#340** read 2017 June 08 03:05 AM. Link: [www.sciencedaily.com/releases/2017/06/170607123...](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
+**#324** read 2017 June 08 03:05 AM. Link: [www.sciencedaily.com/releases/2017/06/170607123...](https://www.sciencedaily.com/releases/2017/06/170607123843.htm)
 
 `test`, `studies`, `eyes test`, `cognitive empathy`, `genetic`, `eyes`, `genetic variants`, `autism`
 
@@ -2714,7 +2771,7 @@ ___
 
 ___
 
-**#339** read 2017 June 08 12:07 AM. Link: [www.sciencedaily.com/releases/2017/06/170607085...](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
+**#323** read 2017 June 08 12:07 AM. Link: [www.sciencedaily.com/releases/2017/06/170607085...](https://www.sciencedaily.com/releases/2017/06/170607085455.htm)
 
 `dlpfc`, `participants`, `problem`, `stimulated`, `solve`, `mental`, `creative`, `tdcs`
 
@@ -2733,7 +2790,7 @@ ___
 
 ___
 
-**#338** read 2017 June 07 04:14 AM. Link: [www.sciencedaily.com/releases/2017/06/170606135...](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
+**#322** read 2017 June 07 04:14 AM. Link: [www.sciencedaily.com/releases/2017/06/170606135...](https://www.sciencedaily.com/releases/2017/06/170606135736.htm)
 
 `neuron`, `decision`, `collect`, `monkey`, `data`, `information`, `single neuron`, `neuroscience`
 
@@ -2750,7 +2807,7 @@ ___
 
 ___
 
-**#337** read 2017 May 30 02:45 PM. Link: [www.sciencedaily.com/releases/2017/04/170410161...](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
+**#321** read 2017 May 30 02:45 PM. Link: [www.sciencedaily.com/releases/2017/04/170410161...](https://www.sciencedaily.com/releases/2017/04/170410161938.htm)
 
 `listened`, `speaker`, `studies`, `pupil dilate`, `findings`, `conscious`, `narrative`, `eye`
 
@@ -2761,7 +2818,9 @@ ___
 
 ___
 
-**#336** read 2017 May 30 02:40 PM. Link: [www.sciencedaily.com/releases/2017/04/170410155...](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
+**#320** read 2017 May 30 02:40 PM. Link: [www.sciencedaily.com/releases/2017/04/170410155...](https://www.sciencedaily.com/releases/2017/04/170410155003.htm)
+
+## Gist: Foreign language learning is improved with less exposure to native language between lesson and sleep
 
 `myers`, `understand`, `language`, `sound`, `phonemes`, `distinct`, `speech`, `ability`
 
@@ -2770,7 +2829,7 @@ ___
 
 ___
 
-**#335** read 2017 May 30 04:26 AM. Link: [people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
+**#319** read 2017 May 30 04:26 AM. Link: [people.idsia.ch/~juergen/goedelmachine.html](http://people.idsia.ch/~juergen/goedelmachine.html)
 
 `optimal`, `proof`, `self`, `self rewrite`, `self referential`, `machine`, `initial code`, `proof searcher`
 
@@ -2781,7 +2840,7 @@ ___
 
 ___
 
-**#334** read 2017 May 30 04:15 AM. Link: [people.idsia.ch/~juergen/compressednetworksearc...](http://people.idsia.ch/~juergen/compressednetworksearch.html)
+**#318** read 2017 May 30 04:15 AM. Link: [people.idsia.ch/~juergen/compressednetworksearc...](http://people.idsia.ch/~juergen/compressednetworksearch.html)
 
 `program`, `weight`, `encode`, `gp`, `learn`, `network`, `20`, `visual input`
 
@@ -2794,7 +2853,7 @@ ___
 
 ___
 
-**#333** read 2017 May 30 03:50 AM. Link: [www.sciencedaily.com/releases/2017/05/170502084...](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
+**#317** read 2017 May 30 03:50 AM. Link: [www.sciencedaily.com/releases/2017/05/170502084...](https://www.sciencedaily.com/releases/2017/05/170502084630.htm)
 
 `word`, `neural`, `kimppa`, `exposure`, `learned`, `finnish`, `participants`, `brain`
 
@@ -2807,7 +2866,7 @@ ___
 
 ___
 
-**#332** read 2017 May 30 03:22 AM. Link: [www.sciencedaily.com/releases/2017/05/170502112...](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
+**#316** read 2017 May 30 03:22 AM. Link: [www.sciencedaily.com/releases/2017/05/170502112...](https://www.sciencedaily.com/releases/2017/05/170502112607.htm)
 
 `language`, `bilinguals`, `duration`, `container`, `swedish`, `spanish`, `time`, `passage of time`
 
@@ -2822,7 +2881,7 @@ ___
 
 ___
 
-**#331** read 2017 May 30 03:17 AM. Link: [www.scientificamerican.com/article/scientists-s...](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
+**#315** read 2017 May 30 03:17 AM. Link: [www.scientificamerican.com/article/scientists-s...](https://www.scientificamerican.com/article/scientists-surprised-to-find-no-two-neurons-are-genetically-alike/)
 
 `cell`, `brain`, `mutation`, `somatic mutation`, `research`, `genetic`, `neuron`, `genome`
 
@@ -2835,7 +2894,7 @@ ___
 
 ___
 
-**#330** read 2017 May 30 03:13 AM. Link: [www.sciencedaily.com/releases/2017/05/170502204...](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
+**#314** read 2017 May 30 03:13 AM. Link: [www.sciencedaily.com/releases/2017/05/170502204...](https://www.sciencedaily.com/releases/2017/05/170502204545.htm)
 
 `children`, `aroma`, `memory`, `room`, `effect`, `test`, `dr mark`, `academic performance`
 
@@ -2848,7 +2907,7 @@ ___
 
 ___
 
-**#329** read 2017 May 30 12:08 AM. Link: [phys.org/news/2017-05-predators-faster-prey-dro...](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
+**#313** read 2017 May 30 12:08 AM. Link: [phys.org/news/2017-05-predators-faster-prey-dro...](https://phys.org/news/2017-05-predators-faster-prey-drone-tactics.html)
 
 `predator`, `prey`, `model`, `group`, `behavior`, `research`, `resulted`, `chasing`
 
@@ -2857,7 +2916,9 @@ ___
 
 ___
 
-**#328** read 2017 May 29 10:59 PM. Link: [www.sciencedaily.com/releases/2017/05/170529090...](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
+**#312** read 2017 May 29 10:59 PM. Link: [www.sciencedaily.com/releases/2017/05/170529090...](https://www.sciencedaily.com/releases/2017/05/170529090526.htm)
+
+## Gist: Purkinje cells in cerebellum can learn not only single responses, but series of precisely timed reactions
 
 `learn`, `neuron`, `signal`, `cell`, `response`, `associate`, `brain`, `research`
 
@@ -2868,7 +2929,7 @@ ___
 
 ___
 
-**#327** read 2017 May 27 06:14 AM. Link: [www.sciencedaily.com/releases/2017/05/170525123...](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
+**#311** read 2017 May 27 06:14 AM. Link: [www.sciencedaily.com/releases/2017/05/170525123...](https://www.sciencedaily.com/releases/2017/05/170525123048.htm)
 
 `brain`, `network`, `executive function`, `modular`, `structural`, `researchers`, `brain network`, `global integrated`
 
@@ -2881,7 +2942,7 @@ ___
 
 ___
 
-**#326** read 2017 May 27 01:06 AM. Link: [www.sciencealert.com/the-brain-literally-starts...](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
+**#310** read 2017 May 27 01:06 AM. Link: [www.sciencealert.com/the-brain-literally-starts...](http://www.sciencealert.com/the-brain-literally-starts-eating-itself-when-it-doesn-t-get-enough-sleep)
 
 `sleep`, `brain`, `synapses`, `activates`, `astrocyte`, `chronic sleep deprived`, `cell`, `process`
 
@@ -2898,7 +2959,7 @@ ___
 
 ___
 
-**#325** read 2017 May 27 12:47 AM. Link: [www.sciencealert.com/scientists-have-found-a-ne...](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
+**#309** read 2017 May 27 12:47 AM. Link: [www.sciencealert.com/scientists-have-found-a-ne...](http://www.sciencealert.com/scientists-have-found-a-network-in-monkey-brains-that-exclusively-deals-with-social-interactions)
 
 `brain`, `monkey`, `social interacting`, `video`, `human`, `activated`, `object`, `process`
 
@@ -2909,7 +2970,7 @@ ___
 
 ___
 
-**#324** read 2017 May 26 06:04 PM. Link: [www.sciencealert.com/for-the-first-time-ever-wo...](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
+**#308** read 2017 May 26 06:04 PM. Link: [www.sciencealert.com/for-the-first-time-ever-wo...](http://www.sciencealert.com/for-the-first-time-ever-women-in-their-30s-are-having-more-babies-than-20-somethings)
 
 `birth rate`, `per 1 000`, `pregnancies`, `babies`, `birth`, `mother`, `better`, `women age`
 
@@ -2920,7 +2981,7 @@ ___
 
 ___
 
-**#323** read 2017 May 20 08:17 PM. Link: [www.sciencealert.com/researchers-have-discovere...](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
+**#307** read 2017 May 20 08:17 PM. Link: [www.sciencealert.com/researchers-have-discovere...](http://www.sciencealert.com/researchers-have-discovered-the-functions-of-the-earliest-genes)
 
 `gene`, `metabolism`, `rna`, `function`, `caetano anolls`, `organic`, `develop`, `molecules`
 
@@ -2933,7 +2994,7 @@ ___
 
 ___
 
-**#322** read 2017 May 08 02:04 PM. Link: [www.newscientist.com/article/2130205-inquisitiv...](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
+**#306** read 2017 May 08 02:04 PM. Link: [www.newscientist.com/article/2130205-inquisitiv...](https://www.newscientist.com/article/2130205-inquisitive-bot-asks-questions-to-test-your-understanding/)
 
 `question`, `sentence`, `learn`, `read`, `ask`, `mazidi`, `ask question`, `du`
 
@@ -2946,7 +3007,7 @@ ___
 
 ___
 
-**#321** read 2017 April 29 09:43 PM. Link: [www.sciencedaily.com/releases/2017/04/170427120...](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
+**#305** read 2017 April 29 09:43 PM. Link: [www.sciencedaily.com/releases/2017/04/170427120...](https://www.sciencedaily.com/releases/2017/04/170427120906.htm)
 
 `worried`, `sweeny`, `motivate`, `prevent`, `emotional`, `report`, `feeling of worried`, `pleasurable`
 
@@ -2961,7 +3022,7 @@ ___
 
 ___
 
-**#320** read 2017 April 27 01:13 AM. Link: [www.sciencedaily.com/releases/2017/04/170407103...](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
+**#304** read 2017 April 27 01:13 AM. Link: [www.sciencedaily.com/releases/2017/04/170407103...](https://www.sciencedaily.com/releases/2017/04/170407103604.htm)
 
 `dbi`, `neurons`, `brain`, `monyer`, `hippocampus`, `process`, `gaba`, `peptide`
 
@@ -2978,7 +3039,7 @@ ___
 
 ___
 
-**#319** read 2017 April 26 05:46 PM. Link: [www.scientificamerican.com/article/put-a-bird-o...](https://www.scientificamerican.com/article/put-a-bird-on-it/)
+**#303** read 2017 April 26 05:46 PM. Link: [www.scientificamerican.com/article/put-a-bird-o...](https://www.scientificamerican.com/article/put-a-bird-on-it/)
 
 `identities`, `coaster`, `decorated`, `custom`, `studies`, `flip game`, `custom coaster`, `cleats`
 
@@ -2991,7 +3052,7 @@ ___
 
 ___
 
-**#318** read 2017 April 25 08:58 PM. Link: [www.newscientist.com/article/2128695-hungry-sto...](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
+**#302** read 2017 April 25 08:58 PM. Link: [www.newscientist.com/article/2128695-hungry-sto...](https://www.newscientist.com/article/2128695-hungry-stomach-hormone-promotes-growth-of-new-brain-cells/)
 
 `ghrelin`, `brain cell`, `memories`, `parkinsons disease`, `hormone`, `levels`, `effect`, `people`
 
@@ -3004,7 +3065,7 @@ ___
 
 ___
 
-**#317** read 2017 April 24 02:07 AM. Link: [www.sciencedaily.com/releases/2017/04/170420090...](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
+**#301** read 2017 April 24 02:07 AM. Link: [www.sciencedaily.com/releases/2017/04/170420090...](https://www.sciencedaily.com/releases/2017/04/170420090300.htm)
 
 `students`, `course`, `ramirez`, `forget`, `studies`, `psychological`, `stress`, `material`
 
@@ -3017,7 +3078,7 @@ ___
 
 ___
 
-**#316** read 2017 April 24 12:40 AM. Link: [www.sciencedaily.com/releases/2017/04/170403123...](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
+**#300** read 2017 April 24 12:40 AM. Link: [www.sciencedaily.com/releases/2017/04/170403123...](https://www.sciencedaily.com/releases/2017/04/170403123325.htm)
 
 ## Gist: The interplay between evolution and epigenetic changes (development) over a lifetime is called evo-devo.
 
@@ -3034,7 +3095,7 @@ ___
 
 ___
 
-**#315** read 2017 April 17 12:57 PM. Link: [www.newscientist.com/article/2127804-creative-p...](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
+**#299** read 2017 April 17 12:57 PM. Link: [www.newscientist.com/article/2127804-creative-p...](https://www.newscientist.com/article/2127804-creative-people-physically-see-and-process-the-world-differently/)
 
 `antinori`, `open`, `mixed percept`, `creative`, `experience`, `open people`, `person`, `brain`
 
@@ -3050,7 +3111,7 @@ ___
 
 ___
 
-**#314** read 2017 April 15 06:50 PM. Link: [www.sciencedaily.com/releases/2017/02/170203103...](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
+**#298** read 2017 April 15 06:50 PM. Link: [www.sciencedaily.com/releases/2017/02/170203103...](https://www.sciencedaily.com/releases/2017/02/170203103432.htm)
 
 `granule cell`, `dentate gyrus`, `neurogenesis`, `synapse`, `neuron`, `connections`, `brain`, `cell`
 
@@ -3061,7 +3122,7 @@ ___
 
 ___
 
-**#313** read 2017 April 15 06:26 PM. Link: [www.sciencedaily.com/releases/2017/02/170202141...](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
+**#297** read 2017 April 15 06:26 PM. Link: [www.sciencedaily.com/releases/2017/02/170202141...](https://www.sciencedaily.com/releases/2017/02/170202141913.htm)
 
 `synapse`, `sleep`, `size`, `brain`, `shy`, `wake`, `cirelli`, `tononi`
 
@@ -3072,7 +3133,7 @@ ___
 
 ___
 
-**#312** read 2017 April 15 05:10 PM. Link: [www.sciencedaily.com/releases/2017/04/170406143...](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
+**#296** read 2017 April 15 05:10 PM. Link: [www.sciencedaily.com/releases/2017/04/170406143...](https://www.sciencedaily.com/releases/2017/04/170406143936.htm)
 
 `memories`, `hippocampus`, `prefrontal cortex`, `store`, `engram cells`, `trace`, `research`, `studies`
 
@@ -3085,7 +3146,7 @@ ___
 
 ___
 
-**#311** read 2017 April 15 04:40 AM. Link: [www.sciencedaily.com/releases/2017/04/170413141...](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
+**#295** read 2017 April 15 04:40 AM. Link: [www.sciencedaily.com/releases/2017/04/170413141...](https://www.sciencedaily.com/releases/2017/04/170413141122.htm)
 
 `random`, `human`, `abilities`, `studies`, `abilities to behave random`, `age`, `coin flips`, `hypothetical results`
 
@@ -3100,7 +3161,7 @@ ___
 
 ___
 
-**#310** read 2017 March 28 06:13 PM. Link: [www.sciencedaily.com/releases/2017/03/170327083...](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
+**#294** read 2017 March 28 06:13 PM. Link: [www.sciencedaily.com/releases/2017/03/170327083...](https://www.sciencedaily.com/releases/2017/03/170327083433.htm)
 
 `chocolate`, `understand`, `maxi`, `child`, `research`, `four year`, `thoughts`, `brain`
 
@@ -3115,7 +3176,7 @@ ___
 
 ___
 
-**#309** read 2017 March 20 02:21 AM. Link: [www.sciencedaily.com/releases/2017/02/170217012...](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
+**#293** read 2017 March 20 02:21 AM. Link: [www.sciencedaily.com/releases/2017/02/170217012...](https://www.sciencedaily.com/releases/2017/02/170217012453.htm)
 
 `infant`, `mother`, `de l etoile`, `infant direct sing`, `song`, `interact`, `tempo`, `behavior`
 
@@ -3128,7 +3189,7 @@ ___
 
 ___
 
-**#308** read 2017 March 18 03:14 PM. Link: [www.sciencedaily.com/releases/2017/03/170312130...](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
+**#292** read 2017 March 18 03:14 PM. Link: [www.sciencedaily.com/releases/2017/03/170312130...](https://www.sciencedaily.com/releases/2017/03/170312130257.htm)
 
 `memprize`, `learn`, `radboud university`, `effective`, `words`, `find`, `project`, `team`
 
@@ -3143,7 +3204,7 @@ ___
 
 ___
 
-**#307** read 2017 March 10 12:36 AM. Link: [www.sciencedaily.com/releases/2017/03/170309150...](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
+**#291** read 2017 March 10 12:36 AM. Link: [www.sciencedaily.com/releases/2017/03/170309150...](https://www.sciencedaily.com/releases/2017/03/170309150634.htm)
 
 `dendrite`, `spike`, `neuron`, `computation`, `soma`, `brain`, `activate`, `scientists`
 
@@ -3156,7 +3217,7 @@ ___
 
 ___
 
-**#306** read 2017 March 08 12:40 AM. Link: [www.sciencedaily.com/releases/2017/03/170306091...](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
+**#290** read 2017 March 08 12:40 AM. Link: [www.sciencedaily.com/releases/2017/03/170306091...](https://www.sciencedaily.com/releases/2017/03/170306091735.htm)
 
 `touch`, `huisman`, `hey bracelet`, `bracelet`, `university of twente`, `squeeze`, `shown`, `technology`
 
@@ -3167,7 +3228,7 @@ ___
 
 ___
 
-**#305** read 2017 March 07 10:33 AM. Link: [www.sciencedaily.com/releases/2017/03/170306114...](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
+**#289** read 2017 March 07 10:33 AM. Link: [www.sciencedaily.com/releases/2017/03/170306114...](https://www.sciencedaily.com/releases/2017/03/170306114155.htm)
 
 `memories`, `object`, `move`, `flombaum`, `recognize`, `researchers`, `expect`, `brain`
 
@@ -3180,7 +3241,7 @@ ___
 
 ___
 
-**#304** read 2017 March 05 11:39 PM. Link: [www.bbc.com/earth/story/20170301-life-may-actua...](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
+**#288** read 2017 March 05 11:39 PM. Link: [www.bbc.com/earth/story/20170301-life-may-actua...](http://www.bbc.com/earth/story/20170301-life-may-actually-be-getting-better-at-evolving?ocid=fbert)
 
 `watson`, `evolvability`, `organism`, `adapt`, `gene network`, `gene`, `evolution`, `might`
 
@@ -3195,7 +3256,7 @@ ___
 
 ___
 
-**#303** read 2017 March 05 03:01 PM. Link: [www.sciencedaily.com/releases/2017/03/170303091...](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
+**#287** read 2017 March 05 03:01 PM. Link: [www.sciencedaily.com/releases/2017/03/170303091...](https://www.sciencedaily.com/releases/2017/03/170303091526.htm)
 
 `motivated`, `lecture`, `studied`, `effort`, `dietrich`, `individual`, `brbel kracke`, `julia dietrich`
 
@@ -3212,7 +3273,7 @@ ___
 
 ___
 
-**#302** read 2017 February 28 10:34 AM. Link: [www.nature.com/news/a-giant-neuron-found-wrappe...](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
+**#286** read 2017 February 28 10:34 AM. Link: [www.nature.com/news/a-giant-neuron-found-wrappe...](http://www.nature.com/news/a-giant-neuron-found-wrapped-around-entire-mouse-brain-1.21539)
 
 `brain`, `neuron`, `claustrum`, `koch`, `mice`, `trace`, `connect`, `organ`
 
@@ -3225,7 +3286,7 @@ ___
 
 ___
 
-**#301** read 2017 February 21 05:27 PM. Link: [www.sciencealert.com/we-just-found-evidence-neu...](http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated)
+**#285** read 2017 February 21 05:27 PM. Link: [www.sciencealert.com/we-just-found-evidence-neu...](http://www.sciencealert.com/we-just-found-evidence-neurons-can-communicate-in-a-way-we-never-anticipated)
 
 `receptors`, `researchers`, `controlled`, `unsuspected`, `kainate`, `ltp`, `postsynaptic`, `nmda`
 
@@ -3238,7 +3299,7 @@ ___
 
 ___
 
-**#300** read 2017 February 06 05:20 PM. Link: [www.sciencedaily.com/releases/2017/02/170203135...](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
+**#284** read 2017 February 06 05:20 PM. Link: [www.sciencedaily.com/releases/2017/02/170203135...](https://www.sciencedaily.com/releases/2017/02/170203135107.htm)
 
 `foragers`, `optimal`, `strategy`, `search`, `prospectors`, `berries`, `trajectory`, `equals`
 
@@ -3249,7 +3310,7 @@ ___
 
 ___
 
-**#299** read 2017 January 25 04:49 PM. Link: [www.sciencedaily.com/releases/2017/01/170124140...](https://www.sciencedaily.com/releases/2017/01/170124140842.htm)
+**#283** read 2017 January 25 04:49 PM. Link: [www.sciencedaily.com/releases/2017/01/170124140...](https://www.sciencedaily.com/releases/2017/01/170124140842.htm)
 
 `brain`, `release`, `fluctuates`, `acetylcholine`, `mental`, `arousing`, `spikes`, `coordinated`
 
@@ -3258,7 +3319,7 @@ ___
 
 ___
 
-**#298** read 2017 January 25 04:37 PM. Link: [www.sciencedaily.com/releases/2017/01/170124111...](https://www.sciencedaily.com/releases/2017/01/170124111318.htm)
+**#282** read 2017 January 25 04:37 PM. Link: [www.sciencedaily.com/releases/2017/01/170124111...](https://www.sciencedaily.com/releases/2017/01/170124111318.htm)
 
 `stimuli`, `faster`, `reading`, `sound`, `dyslexics`, `neural`, `implicit memory`, `responses`
 
@@ -3271,7 +3332,7 @@ ___
 
 ___
 
-**#297** read 2017 January 23 07:42 PM. Link: [www.sciencedaily.com/releases/2016/10/161003131...](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
+**#281** read 2017 January 23 07:42 PM. Link: [www.sciencedaily.com/releases/2016/10/161003131...](https://www.sciencedaily.com/releases/2016/10/161003131352.htm)
 
 `brain`, `pupil size`, `researchers`, `integrated`, `task`, `greater`, `locus coeruleus`, `mute`
 
@@ -3286,7 +3347,7 @@ ___
 
 ___
 
-**#296** read 2017 January 23 02:34 AM. Link: [www.sciencedaily.com/releases/2017/01/170120193...](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)
+**#280** read 2017 January 23 02:34 AM. Link: [www.sciencedaily.com/releases/2017/01/170120193...](https://www.sciencedaily.com/releases/2017/01/170120193803.htm)
 
 `kqtg`, `processing speed`, `play`, `pstg`, `participants`, `play pstg`, `4 week`, `depressive moods`
 
@@ -3303,7 +3364,7 @@ ___
 
 ___
 
-**#295** read 2017 January 22 07:37 PM. Link: [www.sciencedaily.com/releases/2017/01/170112141...](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)
+**#279** read 2017 January 22 07:37 PM. Link: [www.sciencedaily.com/releases/2017/01/170112141...](https://www.sciencedaily.com/releases/2017/01/170112141210.htm)
 
 `metamemory`, `memories`, `brain`, `recall`, `researchers`, `higher`, `test`, `region`
 
@@ -3316,7 +3377,7 @@ ___
 
 ___
 
-**#294** read 2017 January 22 07:20 PM. Link: [www.sciencedaily.com/releases/2017/01/170117083...](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
+**#278** read 2017 January 22 07:20 PM. Link: [www.sciencedaily.com/releases/2017/01/170117083...](https://www.sciencedaily.com/releases/2017/01/170117083830.htm)
 
 ## Gist: Telling someone about what you learned soon after learning it, or being given a small cue at test time, improves recall.
 
@@ -3335,7 +3396,7 @@ ___
 
 ___
 
-**#293** read 2017 January 22 07:15 PM. Link: [www.sciencedaily.com/releases/2017/01/170117140...](https://www.sciencedaily.com/releases/2017/01/170117140005.htm)
+**#277** read 2017 January 22 07:15 PM. Link: [www.sciencedaily.com/releases/2017/01/170117140...](https://www.sciencedaily.com/releases/2017/01/170117140005.htm)
 
 `word`, `convey`, `information`, `tend`, `women`, `conversational`, `rarer`, `syntax`
 
@@ -3350,7 +3411,7 @@ ___
 
 ___
 
-**#292** read 2017 January 21 04:51 AM. Link: [www.sciencedaily.com/releases/2017/01/170109162...](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
+**#276** read 2017 January 21 04:51 AM. Link: [www.sciencedaily.com/releases/2017/01/170109162...](https://www.sciencedaily.com/releases/2017/01/170109162336.htm)
 
 ## Gist: According to simulations, inhibitory neurons (stimuated by first activated neuron to suppress others in a group) useful for efficient "winner-take-all" dynamics
 
@@ -3377,7 +3438,7 @@ ___
 
 ___
 
-**#291** read 2017 January 21 04:41 AM. Link: [www.sciencedaily.com/releases/2017/01/170102143...](https://www.sciencedaily.com/releases/2017/01/170102143458.htm)
+**#275** read 2017 January 21 04:41 AM. Link: [www.sciencedaily.com/releases/2017/01/170102143...](https://www.sciencedaily.com/releases/2017/01/170102143458.htm)
 
 ## Gist: Babies should be challenged and engaged instead of letting them develop at their own pace -- self-produced experiences (as opposided to passive ones) are especially important.
 
@@ -3398,7 +3459,7 @@ ___
 
 ___
 
-**#290** read 2017 January 21 04:34 AM. Link: [www.sciencedaily.com/releases/2015/09/150921133...](https://www.sciencedaily.com/releases/2015/09/150921133948.htm)
+**#274** read 2017 January 21 04:34 AM. Link: [www.sciencedaily.com/releases/2015/09/150921133...](https://www.sciencedaily.com/releases/2015/09/150921133948.htm)
 
 ## Gist: A coupling of slow oscillations (~0.75 Hz), spindles (12-16 Hz), and ripples (80-100Hz) occurs during relocation of short-term memories from hippocampus to cortex during NREM sleep stage.
 
@@ -3419,7 +3480,7 @@ ___
 
 ___
 
-**#289** read 2017 January 19 10:15 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
+**#273** read 2017 January 19 10:15 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4394608/)
 
 `neurons`, `hippocampal`, `adult humans`, `et al`, `700`, `75`, `subpopulation`, `hieber`
 
@@ -3432,7 +3493,7 @@ ___
 
 ___
 
-**#288** read 2017 January 17 04:55 PM. Link: [www.sciencedaily.com/releases/2017/01/170109124...](https://www.sciencedaily.com/releases/2017/01/170109124959.htm)
+**#272** read 2017 January 17 04:55 PM. Link: [www.sciencedaily.com/releases/2017/01/170109124...](https://www.sciencedaily.com/releases/2017/01/170109124959.htm)
 
 `instinctive`, `prefrontal cortex`, `connection`, `brainstem`, `region`, `mice`, `behavior`, `found`
 
@@ -3449,7 +3510,7 @@ ___
 
 ___
 
-**#287** read 2017 January 16 01:32 AM. Link: [www.sciencedaily.com/releases/2017/01/170111093...](https://www.sciencedaily.com/releases/2017/01/170111093428.htm)
+**#271** read 2017 January 16 01:32 AM. Link: [www.sciencedaily.com/releases/2017/01/170111093...](https://www.sciencedaily.com/releases/2017/01/170111093428.htm)
 
 `cortisol`, `tactile`, `discriminated`, `placebo`, `touch`, `improved`, `sense`, `studies`
 
@@ -3464,7 +3525,7 @@ ___
 
 ___
 
-**#286** read 2017 January 13 01:07 AM. Link: [www.sciencedaily.com/releases/2017/01/170112141...](https://www.sciencedaily.com/releases/2017/01/170112141251.htm)
+**#270** read 2017 January 13 01:07 AM. Link: [www.sciencedaily.com/releases/2017/01/170112141...](https://www.sciencedaily.com/releases/2017/01/170112141251.htm)
 
 `hippocampus`, `entorhinal cortex`, `medial entorhinal`, `replay`, `recall`, `cells`, `animal`, `memory formation`
 
@@ -3479,7 +3540,7 @@ ___
 
 ___
 
-**#285** read 2017 January 10 05:01 AM. Link: [www.newscientist.com/article/2117458-why-mums-a...](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
+**#269** read 2017 January 10 05:01 AM. Link: [www.newscientist.com/article/2117458-why-mums-a...](https://www.newscientist.com/article/2117458-why-mums-and-babies-prefer-to-keep-to-one-side-of-each-other/)
 
 ## Gist: Perhaps due to brain hemisphere specialization, mammal infants like to position themselves on the left of their mothers, so as to better keep track of her. However, if a threat emerges, the positions reverse so the mother can better keep track of child.
 
@@ -3498,7 +3559,7 @@ ___
 
 ___
 
-**#284** read 2017 January 07 04:25 AM. Link: [www.newscientist.com/article/mg23331074-300-fal...](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
+**#268** read 2017 January 07 04:25 AM. Link: [www.newscientist.com/article/mg23331074-300-fal...](https://www.newscientist.com/article/mg23331074-300-false-memory-helps-us-think-but-we-cant-do-it-when-were-tired)
 
 `asked`, `word`, `less`, `memorise list`, `rested`, `slept`, `sleep deprived`, `recall`
 
@@ -3515,7 +3576,7 @@ ___
 
 ___
 
-**#283** read 2017 January 07 03:35 AM. Link: [www.sciencedaily.com/releases/2017/01/170106150...](https://www.sciencedaily.com/releases/2017/01/170106150925.htm)
+**#267** read 2017 January 07 03:35 AM. Link: [www.sciencedaily.com/releases/2017/01/170106150...](https://www.sciencedaily.com/releases/2017/01/170106150925.htm)
 
 `brain`, `eye`, `move`, `neuron`, `visual`, `visual motion`, `command`, `second`
 
@@ -3532,7 +3593,7 @@ ___
 
 ___
 
-**#282** read 2017 January 07 03:29 AM. Link: [www.sciencedaily.com/releases/2017/01/170106163...](https://www.sciencedaily.com/releases/2017/01/170106163007.htm)
+**#266** read 2017 January 07 03:29 AM. Link: [www.sciencedaily.com/releases/2017/01/170106163...](https://www.sciencedaily.com/releases/2017/01/170106163007.htm)
 
 `personality`, `model`, `evaluating`, `trait`, `job`, `performance`, `seen`, `connelly`
 
@@ -3545,7 +3606,7 @@ ___
 
 ___
 
-**#281** read 2016 December 27 03:21 PM. Link: [www.scientificamerican.com/article/eye-contact-...](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
+**#265** read 2016 December 27 03:21 PM. Link: [www.scientificamerican.com/article/eye-contact-...](https://www.scientificamerican.com/article/eye-contact-can-be-overwhelming/)
 
 `eye contact`, `mental`, `eye`, `resources`, `someone`, `averting`, `disengaging`, `deducing`
 
@@ -3560,7 +3621,7 @@ ___
 
 ___
 
-**#280** read 2016 December 26 09:25 PM. Link: [www.sciencedaily.com/releases/2016/12/161221125...](https://www.sciencedaily.com/releases/2016/12/161221125505.htm)
+**#264** read 2016 December 26 09:25 PM. Link: [www.sciencedaily.com/releases/2016/12/161221125...](https://www.sciencedaily.com/releases/2016/12/161221125505.htm)
 
 `neurons`, `brain`, `accelerates`, `stimuli`, `adapt`, `react`, `rna`, `dramatically`
 
@@ -3569,7 +3630,7 @@ ___
 
 ___
 
-**#279** read 2016 December 26 09:21 PM. Link: [www.sciencedaily.com/releases/2016/12/161219133...](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
+**#263** read 2016 December 26 09:21 PM. Link: [www.sciencedaily.com/releases/2016/12/161219133...](https://www.sciencedaily.com/releases/2016/12/161219133831.htm)
 
 `motivated`, `express disgust`, `moral`, `express`, `person`, `act`, `disgust`, `anger`
 
@@ -3584,7 +3645,7 @@ ___
 
 ___
 
-**#278** read 2016 December 21 06:30 PM. Link: [www.sciencedaily.com/releases/2016/12/161221090...](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
+**#262** read 2016 December 21 06:30 PM. Link: [www.sciencedaily.com/releases/2016/12/161221090...](https://www.sciencedaily.com/releases/2016/12/161221090120.htm)
 
 `word`, `brain`, `studies`, `grasp`, `process`, `comprehension`, `cognitive`, `object`
 
@@ -3601,7 +3662,7 @@ ___
 
 ___
 
-**#277** read 2016 December 11 05:54 PM. Link: [www.sciencedaily.com/releases/2016/12/161207133...](https://www.sciencedaily.com/releases/2016/12/161207133541.htm)
+**#261** read 2016 December 11 05:54 PM. Link: [www.sciencedaily.com/releases/2016/12/161207133...](https://www.sciencedaily.com/releases/2016/12/161207133541.htm)
 
 `beta amyloid`, `stimulating`, `researchers`, `brain`, `40`, `hertz`, `plaques`, `alzheimer`
 
@@ -3618,7 +3679,7 @@ ___
 
 ___
 
-**#276** read 2016 December 11 05:32 AM. Link: [www.sciencedaily.com/releases/2016/12/161206111...](https://www.sciencedaily.com/releases/2016/12/161206111709.htm)
+**#260** read 2016 December 11 05:32 AM. Link: [www.sciencedaily.com/releases/2016/12/161206111...](https://www.sciencedaily.com/releases/2016/12/161206111709.htm)
 
 ## Gist: Children (with low to moderate reading skills) learn to read more effectively when read to by adult rather than eBook with voiceover.
 
@@ -3631,7 +3692,7 @@ ___
 
 ___
 
-**#275** read 2016 December 11 05:16 AM. Link: [www.sciencedaily.com/releases/2016/12/161206111...](https://www.sciencedaily.com/releases/2016/12/161206111715.htm)
+**#259** read 2016 December 11 05:16 AM. Link: [www.sciencedaily.com/releases/2016/12/161206111...](https://www.sciencedaily.com/releases/2016/12/161206111715.htm)
 
 `hippocampus`, `scene`, `constructing`, `observe`, `future imaging`, `compared`, `activity`, `role`
 
@@ -3642,7 +3703,7 @@ ___
 
 ___
 
-**#274** read 2016 December 06 04:32 PM. Link: [www.sciencedaily.com/releases/2016/11/161130131...](https://www.sciencedaily.com/releases/2016/11/161130131234.htm)
+**#258** read 2016 December 06 04:32 PM. Link: [www.sciencedaily.com/releases/2016/11/161130131...](https://www.sciencedaily.com/releases/2016/11/161130131234.htm)
 
 `bad`, `students`, `gpas`, `moods`, `negative moods`, `occasional`, `feeling`, `experienced`
 
@@ -3657,7 +3718,7 @@ ___
 
 ___
 
-**#273** read 2016 December 06 04:00 PM. Link: [www.sciencedaily.com/releases/2016/12/161206110...](https://www.sciencedaily.com/releases/2016/12/161206110138.htm)
+**#257** read 2016 December 06 04:00 PM. Link: [www.sciencedaily.com/releases/2016/12/161206110...](https://www.sciencedaily.com/releases/2016/12/161206110138.htm)
 
 `consolidated`, `memories`, `brain`, `stimuli`, `experience`, `slugs`, `inhibits`, `awakening`
 
@@ -3676,7 +3737,7 @@ ___
 
 ___
 
-**#272** read 2016 December 06 12:35 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/)
+**#256** read 2016 December 06 12:35 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181780/)
 
 `night`, `depressed`, `mood`, `sd`, `sleep`, `patients`, `improved`, `despite`
 
@@ -3687,7 +3748,7 @@ ___
 
 ___
 
-**#271** read 2016 December 05 12:52 PM. Link: [www.newscientist.com/article/2115093-sherlock-h...](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
+**#255** read 2016 December 05 12:52 PM. Link: [www.newscientist.com/article/2115093-sherlock-h...](https://www.newscientist.com/article/2115093-sherlock-holmes-shows-memories-have-a-common-fingerprint/)
 
 `brain`, `activity`, `implant`, `patterns`, `describe`, `tells`, `exactly`, `scene`
 
@@ -3696,7 +3757,7 @@ ___
 
 ___
 
-**#270** read 2016 November 27 06:39 PM. Link: [www.sciencedaily.com/releases/2016/09/160921091...](https://www.sciencedaily.com/releases/2016/09/160921091636.htm)
+**#254** read 2016 November 27 06:39 PM. Link: [www.sciencedaily.com/releases/2016/09/160921091...](https://www.sciencedaily.com/releases/2016/09/160921091636.htm)
 
 ## Gist: Emotions like fear and anger can be extracted with fMRI scans.
 
@@ -3709,7 +3770,7 @@ ___
 
 ___
 
-**#269** read 2016 November 27 06:20 PM. Link: [www.scientificamerican.com/article/where-words-...](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
+**#253** read 2016 November 27 06:20 PM. Link: [www.scientificamerican.com/article/where-words-...](https://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
 
 `meaning`, `words`, `related`, `respond`, `brain`, `location`, `studies`, `areas`
 
@@ -3724,7 +3785,7 @@ ___
 
 ___
 
-**#268** read 2016 November 22 02:09 PM. Link: [www.sciencedaily.com/releases/2016/11/161115145...](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
+**#252** read 2016 November 22 02:09 PM. Link: [www.sciencedaily.com/releases/2016/11/161115145...](https://www.sciencedaily.com/releases/2016/11/161115145823.htm)
 
 ## Gist: Sleep spindle oscillations, associated with memory consolidation, move around each side of the brain in Princess Leia waves -- resembling twin hair buns.
 
@@ -3747,7 +3808,7 @@ ___
 
 ___
 
-**#267** read 2016 November 19 07:41 PM. Link: [www.newscientist.com/article/2112921-electric-f...](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
+**#251** read 2016 November 19 07:41 PM. Link: [www.newscientist.com/article/2112921-electric-f...](https://www.newscientist.com/article/2112921-electric-fields-can-stimulate-deep-in-your-brain-without-surgery/)
 
 `stimulated`, `10`, `hertz`, `frequencies`, `head`, `field`, `tissue`, `brain`
 
@@ -3760,7 +3821,7 @@ ___
 
 ___
 
-**#266** read 2016 November 19 02:52 PM. Link: [www.sciencedaily.com/releases/2016/11/161117104...](https://www.sciencedaily.com/releases/2016/11/161117104641.htm)
+**#250** read 2016 November 19 02:52 PM. Link: [www.sciencedaily.com/releases/2016/11/161117104...](https://www.sciencedaily.com/releases/2016/11/161117104641.htm)
 
 `response`, `music`, `music anhedonia`, `pleasurable`, `pleasant`, `subcortical`, `accumbens`, `anhedonic`
 
@@ -3775,7 +3836,7 @@ ___
 
 ___
 
-**#265** read 2016 November 14 08:53 PM. Link: [www.sciencedaily.com/releases/2016/10/161018194...](https://www.sciencedaily.com/releases/2016/10/161018194302.htm)
+**#249** read 2016 November 14 08:53 PM. Link: [www.sciencedaily.com/releases/2016/10/161018194...](https://www.sciencedaily.com/releases/2016/10/161018194302.htm)
 
 `preschoolers`, `adults`, `speech`, `aloud`, `listener`, `errors`, `differences`, `heads`
 
@@ -3786,7 +3847,7 @@ ___
 
 ___
 
-**#264** read 2016 November 14 12:51 PM. Link: [phys.org/news/2016-11-motion-genes-human-genome...](http://phys.org/news/2016-11-motion-genes-human-genome.html)
+**#248** read 2016 November 14 12:51 PM. Link: [phys.org/news/2016-11-motion-genes-human-genome...](http://phys.org/news/2016-11-motion-genes-human-genome.html)
 
 `elements`, `transposons`, `sine`, `genome`, `population`, `oscillate`, `interspersed nuclear`, `line`
 
@@ -3805,7 +3866,7 @@ ___
 
 ___
 
-**#263** read 2016 November 14 12:40 PM. Link: [phys.org/news/2016-11-mathematical-algorithms-s...](http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html)
+**#247** read 2016 November 14 12:40 PM. Link: [phys.org/news/2016-11-mathematical-algorithms-s...](http://phys.org/news/2016-11-mathematical-algorithms-social-behavior.html)
 
 `agents`, `group`, `herd`, `animal`, `behavior`, `direction`, `individual`, `social`
 
@@ -3822,7 +3883,7 @@ ___
 
 ___
 
-**#262** read 2016 November 13 06:30 PM. Link: [www.sciencedaily.com/releases/2016/11/161110115...](https://www.sciencedaily.com/releases/2016/11/161110115239.htm)
+**#246** read 2016 November 13 06:30 PM. Link: [www.sciencedaily.com/releases/2016/11/161110115...](https://www.sciencedaily.com/releases/2016/11/161110115239.htm)
 
 `sampled`, `distributions`, `sensory`, `neurons`, `nerve`, `perception`, `observations`, `probability`
 
@@ -3833,7 +3894,7 @@ ___
 
 ___
 
-**#261** read 2016 November 12 01:27 AM. Link: [www.sciencedaily.com/releases/2016/11/161110085...](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
+**#245** read 2016 November 12 01:27 AM. Link: [www.sciencedaily.com/releases/2016/11/161110085...](https://www.sciencedaily.com/releases/2016/11/161110085010.htm)
 
 `memories`, `protein synthesis`, `prelimbic`, `cortex`, `sub region`, `inhibited`, `prefrontal cortex`, `rodents`
 
@@ -3850,7 +3911,7 @@ ___
 
 ___
 
-**#260** read 2016 November 11 09:45 PM. Link: [www.sciencedaily.com/releases/2016/11/161110120...](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
+**#244** read 2016 November 11 09:45 PM. Link: [www.sciencedaily.com/releases/2016/11/161110120...](https://www.sciencedaily.com/releases/2016/11/161110120227.htm)
 
 ## Gist: There is a machine-learning system which formulates search queries and gathers evidence on a question until it reaches a high level of confidence.
 
@@ -3865,7 +3926,7 @@ ___
 
 ___
 
-**#259** read 2016 November 10 01:18 AM. Link: [www.sciencealert.com/electrons-cooled-almost-to...](http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature)
+**#243** read 2016 November 10 01:18 AM. Link: [www.sciencealert.com/electrons-cooled-almost-to...](http://www.sciencealert.com/electrons-cooled-almost-to-absolute-zero-reveal-their-quantum-nature)
 
 `electrons`, `studied`, `trickle`, `hourglass`, `grains`, `cooled`, `revealing`, `individually`
 
@@ -3876,7 +3937,7 @@ ___
 
 ___
 
-**#258** read 2016 November 08 05:18 PM. Link: [www.sciencedaily.com/releases/2016/11/161102075...](https://www.sciencedaily.com/releases/2016/11/161102075955.htm)
+**#242** read 2016 November 08 05:18 PM. Link: [www.sciencedaily.com/releases/2016/11/161102075...](https://www.sciencedaily.com/releases/2016/11/161102075955.htm)
 
 `reprimand`, `retaliation`, `norm`, `norm violation`, `fear`, `social`, `reluctant`, `enforce`
 
@@ -3889,7 +3950,7 @@ ___
 
 ___
 
-**#257** read 2016 November 06 10:23 PM. Link: [www.sciencedaily.com/releases/2016/11/161104190...](https://www.sciencedaily.com/releases/2016/11/161104190535.htm)
+**#241** read 2016 November 06 10:23 PM. Link: [www.sciencedaily.com/releases/2016/11/161104190...](https://www.sciencedaily.com/releases/2016/11/161104190535.htm)
 
 `brainstem`, `coma`, `region`, `arousal`, `cortex`, `anterior`, `awareness`, `coma specific`
 
@@ -3902,7 +3963,7 @@ ___
 
 ___
 
-**#256** read 2016 November 04 04:27 PM. Link: [www.sciencedaily.com/releases/2016/11/161101103...](https://www.sciencedaily.com/releases/2016/11/161101103242.htm)
+**#240** read 2016 November 04 04:27 PM. Link: [www.sciencedaily.com/releases/2016/11/161101103...](https://www.sciencedaily.com/releases/2016/11/161101103242.htm)
 
 `self esteem`, `death`, `subconscious`, `immortality`, `sack`, `buffer`, `boost`, `protective`
 
@@ -3915,16 +3976,7 @@ ___
 
 ___
 
-**#255** read 2016 October 31 12:10 PM. Link: [phys.org/news/2016-10-mind-cortical-conscious-n...](http://phys.org/news/2016-10-mind-cortical-conscious-network.html)
-
-`complex`, `network`, `cortical`, `conscious`, `cope`, `integration`, `determine`, `activity`
-
-- used network theory in order to cope with this complexity and to determine how the structure of the human cortical network can support complex data integration and conscious activity
-
-
-___
-
-**#254** read 2016 October 31 04:24 AM. Link: [www.sciencedaily.com/releases/2016/10/161014214...](https://www.sciencedaily.com/releases/2016/10/161014214919.htm)
+**#239** read 2016 October 31 04:24 AM. Link: [www.sciencedaily.com/releases/2016/10/161014214...](https://www.sciencedaily.com/releases/2016/10/161014214919.htm)
 
 `placebo`, `percent`, `relationship`, `30`, `29`, `empathic`, `knowingly`, `carvalho`
 
@@ -3935,16 +3987,9 @@ ___
 
 ___
 
-**#253** read 2016 October 31 04:21 AM. Link: [www.sciencedaily.com/releases/2016/10/161026105...](https://www.sciencedaily.com/releases/2016/10/161026105336.htm)
+**#238** read 2016 October 19 02:02 AM. Link: [www.sciencealert.com/consciousness-could-be-a-r...](http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers)
 
-`clearance`, `glymphatic`, `polyunsaturated`, `metabolites`, `facilitates`, `fatty`, `acids`, `omega`
-
-- Omega-3 polyunsaturated fatty acids, which are found in fish oil, could improve the function of the glymphatic system, which facilitates the clearance of waste from the brain, and promote the clearance of metabolites
-
-
-___
-
-**#252** read 2016 October 19 02:02 AM. Link: [www.sciencealert.com/consciousness-could-be-a-r...](http://www.sciencealert.com/consciousness-could-be-a-result-of-entropy-say-researchers)
+## Gist: Can consciousness be a side effect of self-criticality? (skeptical)
 
 `consciousness`, `brain`, `maximising`, `entropy`, `arises`, `naturally`, `moving`, `effect`
 
@@ -3953,7 +3998,7 @@ ___
 
 ___
 
-**#251** read 2016 October 08 04:22 AM. Link: [www.sciencealert.com/scientists-show-how-the-br...](http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones)
+**#237** read 2016 October 08 04:22 AM. Link: [www.sciencealert.com/scientists-show-how-the-br...](http://www.sciencealert.com/scientists-show-how-the-brain-makes-new-memories-while-keeping-old-ones)
 
 `dials`, `variables`, `synapse`, `memories`, `fast`, `model`, `2005`, `fusi`
 
@@ -3970,7 +4015,7 @@ ___
 
 ___
 
-**#250** read 2016 October 07 01:55 AM. Link: [www.sciencedaily.com/releases/2016/09/160909111...](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
+**#236** read 2016 October 07 01:55 AM. Link: [www.sciencedaily.com/releases/2016/09/160909111...](https://www.sciencedaily.com/releases/2016/09/160909111723.htm)
 
 ## Gist: The hippocampal CA3 region, critical for learning and memory, retrieves memories using pattern completion, enabled by a sparse (1%), small-world type architecture.
 
@@ -3993,7 +4038,7 @@ ___
 
 ___
 
-**#249** read 2016 October 07 01:53 AM. Link: [www.sciencedaily.com/releases/2016/09/160912101...](https://www.sciencedaily.com/releases/2016/09/160912101801.htm)
+**#235** read 2016 October 07 01:53 AM. Link: [www.sciencedaily.com/releases/2016/09/160912101...](https://www.sciencedaily.com/releases/2016/09/160912101801.htm)
 
 ## Gist: Human inclination to maintain positive social image fosters collaborative group behaviour efficiently
 
@@ -4004,7 +4049,9 @@ ___
 
 ___
 
-**#248** read 2016 October 05 12:24 AM. Link: [www.sciencedaily.com/releases/2016/10/161004125...](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
+**#234** read 2016 October 05 12:24 AM. Link: [www.sciencedaily.com/releases/2016/10/161004125...](https://www.sciencedaily.com/releases/2016/10/161004125829.htm)
+
+## Gist: Dopamine production connected to frequency of spontaneous eye blinking
 
 `dopamine`, `reduction`, `blinking`, `disrupts`, `spontaneous`, `cannabis`, `chronic`, `indication`
 
@@ -4013,7 +4060,7 @@ ___
 
 ___
 
-**#247** read 2016 October 02 05:47 AM. Link: [www.sciencedaily.com/releases/2016/09/160929140...](https://www.sciencedaily.com/releases/2016/09/160929140547.htm)
+**#233** read 2016 October 02 05:47 AM. Link: [www.sciencedaily.com/releases/2016/09/160929140...](https://www.sciencedaily.com/releases/2016/09/160929140547.htm)
 
 `spine`, `neurons`, `synapses`, `memories`, `tiny`, `connections`, `changes`, `little`
 
@@ -4026,7 +4073,7 @@ ___
 
 ___
 
-**#246** read 2016 October 01 04:52 AM. Link: [phys.org/news/2016-09-algorithm-enable-visible-...](http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html)
+**#232** read 2016 October 01 04:52 AM. Link: [phys.org/news/2016-09-algorithm-enable-visible-...](http://phys.org/news/2016-09-algorithm-enable-visible-light-based-imaging-medical.html)
 
 ## Gist: Light and matter interact most in part of spectrum our eyes are sensitive to
 
@@ -4037,7 +4084,7 @@ ___
 
 ___
 
-**#245** read 2016 September 23 10:52 PM. Link: [theconversation.com/is-your-nervous-system-a-de...](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
+**#231** read 2016 September 23 10:52 PM. Link: [theconversation.com/is-your-nervous-system-a-de...](https://theconversation.com/is-your-nervous-system-a-democracy-or-a-dictatorship-when-controlling-your-behavior-61888)
 
 `neuronal`, `dictator`, `trigger`, `behavior`, `act`, `oligarchy`, `movements`, `democracy`
 
@@ -4052,7 +4099,7 @@ ___
 
 ___
 
-**#244** read 2016 September 23 10:34 PM. Link: [www.sciencedaily.com/releases/2016/07/160725192...](https://www.sciencedaily.com/releases/2016/07/160725192354.htm)
+**#230** read 2016 September 23 10:34 PM. Link: [www.sciencedaily.com/releases/2016/07/160725192...](https://www.sciencedaily.com/releases/2016/07/160725192354.htm)
 
 `waves`, `excitatory synaptic`, `synaptic stimulation`, `beta waves`, `beta`, `brain`, `activity`, `model`
 
@@ -4067,7 +4114,7 @@ ___
 
 ___
 
-**#243** read 2016 September 23 10:32 PM. Link: [www.sciencedaily.com/releases/2016/07/160726123...](https://www.sciencedaily.com/releases/2016/07/160726123214.htm)
+**#229** read 2016 September 23 10:32 PM. Link: [www.sciencedaily.com/releases/2016/07/160726123...](https://www.sciencedaily.com/releases/2016/07/160726123214.htm)
 
 `cyclists`, `mental fatigue`, `performance`, `computerised`, `induce`, `slowed`, `endurance`, `resist`
 
@@ -4078,7 +4125,7 @@ ___
 
 ___
 
-**#242** read 2016 September 23 10:28 PM. Link: [www.sciencedaily.com/releases/2016/08/160803161...](https://www.sciencedaily.com/releases/2016/08/160803161609.htm)
+**#228** read 2016 September 23 10:28 PM. Link: [www.sciencedaily.com/releases/2016/08/160803161...](https://www.sciencedaily.com/releases/2016/08/160803161609.htm)
 
 `memories`, `protein`, `brain`, `levels`, `volume`, `nptx2`, `atrophy`, `alzheimer`
 
@@ -4089,16 +4136,7 @@ ___
 
 ___
 
-**#241** read 2016 September 23 10:09 PM. Link: [www.newscientist.com/article/2099246-crows-are-...](https://www.newscientist.com/article/2099246-crows-are-first-animals-spotted-using-tools-to-carry-objects/)
-
-`swoop`, `adept`, `caledonian`, `crows`, `inserting`, `figured`, `sticks`, `feat`
-
-- New Caledonian crows have figured out how to move two things in one fell swoop. The adept tool users have been filmed inserting sticks into objects to transport both items at once – a feat that has never been seen in non-humans.
-
-
-___
-
-**#240** read 2016 September 23 09:55 PM. Link: [www.sciencedaily.com/releases/2016/08/160804135...](https://www.sciencedaily.com/releases/2016/08/160804135417.htm)
+**#227** read 2016 September 23 09:55 PM. Link: [www.sciencedaily.com/releases/2016/08/160804135...](https://www.sciencedaily.com/releases/2016/08/160804135417.htm)
 
 `cookie`, `percent`, `piqued`, `tempting`, `dipped`, `curiosity`, `stairs`, `elevator`
 
@@ -4115,7 +4153,7 @@ ___
 
 ___
 
-**#239** read 2016 September 23 09:37 PM. Link: [www.sciencedaily.com/releases/2016/08/160815185...](https://www.sciencedaily.com/releases/2016/08/160815185555.htm)
+**#226** read 2016 September 23 09:37 PM. Link: [www.sciencedaily.com/releases/2016/08/160815185...](https://www.sciencedaily.com/releases/2016/08/160815185555.htm)
 
 `adrenal medulla`, `cerebral cortex`, `cortical areas`, `response`, `areas`, `stressful`, `cognition`, `originates`
 
@@ -4126,7 +4164,7 @@ ___
 
 ___
 
-**#238** read 2016 September 19 05:17 AM. Link: [www.sciencedaily.com/releases/2016/09/160918180...](https://www.sciencedaily.com/releases/2016/09/160918180006.htm)
+**#225** read 2016 September 19 05:17 AM. Link: [www.sciencedaily.com/releases/2016/09/160918180...](https://www.sciencedaily.com/releases/2016/09/160918180006.htm)
 
 `pictures`, `told`, `half`, `behavioural`, `unpleasant`, `neural`, `pleasant`, `implies`
 
@@ -4139,7 +4177,7 @@ ___
 
 ___
 
-**#237** read 2016 September 16 02:25 AM. Link: [www.newscientist.com/article/2105986-what-you-e...](https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/)
+**#224** read 2016 September 16 02:25 AM. Link: [www.newscientist.com/article/2105986-what-you-e...](https://www.newscientist.com/article/2105986-what-you-eat-when-youre-sick-may-determine-if-youll-get-better/)
 
 `bacterial`, `glucose`, `mice`, `infected`, `fever`, `cold`, `adage`, `benefitted`
 
@@ -4152,7 +4190,7 @@ ___
 
 ___
 
-**#236** read 2016 September 09 02:03 AM. Link: [phys.org/news/2016-09-physicists-laser.html](http://phys.org/news/2016-09-physicists-laser.html)
+**#223** read 2016 September 09 02:03 AM. Link: [phys.org/news/2016-09-physicists-laser.html](http://phys.org/news/2016-09-physicists-laser.html)
 
 `laser`, `intense`, `optical`, `beam`, `strongly`, `ring`, `self focus`, `energy`
 
@@ -4163,7 +4201,7 @@ ___
 
 ___
 
-**#235** read 2016 September 08 02:00 AM. Link: [www.sciencedaily.com/releases/2016/09/160902111...](https://www.sciencedaily.com/releases/2016/09/160902111425.htm)
+**#222** read 2016 September 08 02:00 AM. Link: [www.sciencedaily.com/releases/2016/09/160902111...](https://www.sciencedaily.com/releases/2016/09/160902111425.htm)
 
 ## Gist: Loading the mind with more knowledge (like languages) increases elasticity and learning capability.
 
@@ -4176,7 +4214,7 @@ ___
 
 ___
 
-**#234** read 2016 August 20 12:53 AM. Link: [www.sciencedaily.com/releases/2016/07/160728143...](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
+**#221** read 2016 August 20 12:53 AM. Link: [www.sciencedaily.com/releases/2016/07/160728143...](https://www.sciencedaily.com/releases/2016/07/160728143247.htm)
 
 `memories`, `sleep`, `brain`, `spindles`, `alternates`, `sleep spindles`, `stored`, `waves`
 
@@ -4191,7 +4229,7 @@ ___
 
 ___
 
-**#233** read 2016 August 20 12:45 AM. Link: [spectrumnews.org/opinion/viewpoint/timing-key-u...](https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/)
+**#220** read 2016 August 20 12:45 AM. Link: [spectrumnews.org/opinion/viewpoint/timing-key-u...](https://spectrumnews.org/opinion/viewpoint/timing-key-understanding-sensory-social-issues-autism/)
 
 `autism`, `auditory`, `window`, `longer`, `visual information`, `poorer`, `simultaneous`, `integrate`
 
@@ -4204,7 +4242,7 @@ ___
 
 ___
 
-**#232** read 2016 August 09 08:49 PM. Link: [www.sciencedaily.com/releases/2016/08/160804152...](https://www.sciencedaily.com/releases/2016/08/160804152428.htm)
+**#219** read 2016 August 09 08:49 PM. Link: [www.sciencedaily.com/releases/2016/08/160804152...](https://www.sciencedaily.com/releases/2016/08/160804152428.htm)
 
 `appearance`, `tetherball`, `exaggerating`, `plateau`, `mistakes`, `noise`, `participants`, `skills`
 
@@ -4219,7 +4257,7 @@ ___
 
 ___
 
-**#231** read 2016 August 09 08:45 PM. Link: [www.sciencedaily.com/releases/2016/08/160804172...](https://www.sciencedaily.com/releases/2016/08/160804172359.htm)
+**#218** read 2016 August 09 08:45 PM. Link: [www.sciencedaily.com/releases/2016/08/160804172...](https://www.sciencedaily.com/releases/2016/08/160804172359.htm)
 
 `slow motion`, `participants`, `regular speed`, `saw`, `action`, `video`, `juries`, `perceive`
 
@@ -4232,7 +4270,7 @@ ___
 
 ___
 
-**#230** read 2016 August 05 06:50 PM. Link: [www.sciencedaily.com/releases/2016/08/160803124...](https://www.sciencedaily.com/releases/2016/08/160803124445.htm)
+**#217** read 2016 August 05 06:50 PM. Link: [www.sciencedaily.com/releases/2016/08/160803124...](https://www.sciencedaily.com/releases/2016/08/160803124445.htm)
 
 `neuronal`, `mice`, `rats`, `memories`, `forget`, `exercise cause`, `cause`, `earlier`
 
@@ -4245,7 +4283,7 @@ ___
 
 ___
 
-**#229** read 2016 August 04 04:30 PM. Link: [www.sciencealert.com/scientists-have-just-seen-...](http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever)
+**#216** read 2016 August 04 04:30 PM. Link: [www.sciencealert.com/scientists-have-just-seen-...](http://www.sciencealert.com/scientists-have-just-seen-birds-sleep-while-flying-for-the-first-time-ever)
 
 `birds`, `sleep`, `hemisphere`, `expect`, `scientists`, `remained airborne`, `flight`, `minutes`
 
@@ -4264,7 +4302,7 @@ ___
 
 ___
 
-**#228** read 2016 August 04 01:41 AM. Link: [www.sciencedaily.com/releases/2016/08/160803140...](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
+**#215** read 2016 August 04 01:41 AM. Link: [www.sciencedaily.com/releases/2016/08/160803140...](https://www.sciencedaily.com/releases/2016/08/160803140140.htm)
 
 `sleep`, `circadian clock`, `something`, `homeostat`, `sleep homeostat`, `system`, `anew`, `anticipate`
 
@@ -4277,7 +4315,7 @@ ___
 
 ___
 
-**#227** read 2016 July 24 06:32 PM. Link: [www.scientificamerican.com/article/how-the-brai...](http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/)
+**#214** read 2016 July 24 06:32 PM. Link: [www.scientificamerican.com/article/how-the-brai...](http://www.scientificamerican.com/article/how-the-brain-builds-memory-chains/)
 
 `neurons`, `memories`, `excitability`, `engram`, `brain`, `mice`, `memories trace`, `brain cells`
 
@@ -4296,7 +4334,7 @@ ___
 
 ___
 
-**#226** read 2016 July 05 11:02 PM. Link: [www.sciencealert.com/zapping-the-brain-s-visual...](http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover)
+**#213** read 2016 July 05 11:02 PM. Link: [www.sciencealert.com/zapping-the-brain-s-visual...](http://www.sciencealert.com/zapping-the-brain-s-visual-cortex-can-lead-to-improved-vision-scientists-discover)
 
 `vision`, `20`, `brain`, `improve`, `normal`, `current`, `zapping`, `transcranial`
 
@@ -4309,7 +4347,7 @@ ___
 
 ___
 
-**#225** read 2016 July 03 08:35 PM. Link: [en.wikipedia.org/wiki/Brain-derived_neurotrophi...](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
+**#212** read 2016 July 03 08:35 PM. Link: [en.wikipedia.org/wiki/Brain-derived_neurotrophi...](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
 
 ## Gist: Expression of the brain-derived neurotrophic factor (BDNF) protein, which supports growth and differentiation of neurons and synapses and is especially active in areas of the brain vital to learning, memory, and higher thinking, is enhanced by environmental enrichment, leading to improved performance on learning and memory tasks.
 
@@ -4324,7 +4362,7 @@ ___
 
 ___
 
-**#224** read 2016 July 02 07:16 PM. Link: [phys.org/news/2012-02-classical-musical-composi...](http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html)
+**#211** read 2016 July 02 07:16 PM. Link: [phys.org/news/2012-02-classical-musical-composi...](http://phys.org/news/2012-02-classical-musical-compositions-adhere-power.html)
 
 `describe`, `equation`, `piece`, `beta`, `music`, `levitin`, `predictable`, `analyzing`
 
@@ -4337,7 +4375,7 @@ ___
 
 ___
 
-**#223** read 2016 July 02 07:14 PM. Link: [www.newscientist.com/article/dn28728-memory-rec...](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
+**#210** read 2016 July 02 07:14 PM. Link: [www.newscientist.com/article/dn28728-memory-rec...](https://www.newscientist.com/article/dn28728-memory-recall-works-twice-as-fast-as-the-blink-of-an-eye/)
 
 `cue`, `brain`, `cells`, `memory`, `jangly`, `doorbell`, `hippocampus`, `recollection`
 
@@ -4346,7 +4384,7 @@ ___
 
 ___
 
-**#222** read 2016 July 02 07:09 PM. Link: [www.sciencealert.com/scientists-say-this-strate...](http://www.sciencealert.com/scientists-say-this-strategy-can-help-you-learn-anything)
+**#209** read 2016 July 02 07:09 PM. Link: [www.sciencealert.com/scientists-say-this-strate...](http://www.sciencealert.com/scientists-say-this-strategy-can-help-you-learn-anything)
 
 `test`, `studies`, `participants`, `recall test`, `recall`, `learned`, `suggest`, `minutes`
 
@@ -4363,7 +4401,7 @@ ___
 
 ___
 
-**#221** read 2016 July 02 07:07 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-brain-networks-linked-to-intelligence-for-the-first-time)
+**#208** read 2016 July 02 07:07 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-brain-networks-linked-to-intelligence-for-the-first-time)
 
 ## Gist: There are gene clusters in the brain (ex. M1 and M3 -- each consisting of hundreds of genes) thought to influence human intelligence.
 
@@ -4376,16 +4414,7 @@ ___
 
 ___
 
-**#220** read 2016 July 02 06:56 PM. Link: [www.sciencedaily.com/releases/2015/12/151203081...](https://www.sciencedaily.com/releases/2015/12/151203081228.htm)
-
-`charismatic`, `iq`, `traits`, `independently`, `perceived`, `tasks`, `respond`, `personality`
-
-- people who were able to respond more quickly to general knowledge questions and visual tasks were perceived as more charismatic by their friends, independently of IQ and other personality traits
-
-
-___
-
-**#219** read 2016 July 02 05:18 PM. Link: [arxiv.org/abs/1406.2572](http://arxiv.org/abs/1406.2572)
+**#207** read 2016 July 02 05:18 PM. Link: [arxiv.org/abs/1406.2572](http://arxiv.org/abs/1406.2572)
 
 `error`, `local`, `proliferation`, `dimensional`, `local minima`, `difficulty`, `minimum`, `saddle points`
 
@@ -4398,7 +4427,7 @@ ___
 
 ___
 
-**#218** read 2016 July 02 04:32 PM. Link: [blogs.scientificamerican.com/guest-blog/you-can...](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)
+**#206** read 2016 July 02 04:32 PM. Link: [blogs.scientificamerican.com/guest-blog/you-can...](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)
 
 ## Gist: Foster goals that are at the edge of what you can achieve
 
@@ -4409,7 +4438,7 @@ ___
 
 ___
 
-**#217** read 2016 July 02 04:08 PM. Link: [www.sciencedaily.com/releases/2016/03/160303120...](https://www.sciencedaily.com/releases/2016/03/160303120637.htm)
+**#205** read 2016 July 02 04:08 PM. Link: [www.sciencedaily.com/releases/2016/03/160303120...](https://www.sciencedaily.com/releases/2016/03/160303120637.htm)
 
 `calculations`, `expectations`, `visual`, `visual system`, `neuronal`, `incredibly`, `tackles`, `incorporates`
 
@@ -4422,7 +4451,7 @@ ___
 
 ___
 
-**#216** read 2016 July 02 03:59 PM. Link: [phys.org/news/2016-06-statisticians-convey-stat...](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
+**#204** read 2016 July 02 03:59 PM. Link: [phys.org/news/2016-06-statisticians-convey-stat...](http://phys.org/news/2016-06-statisticians-convey-statistics-science-toolbox.html)
 
 `rule`, `statistical`, `data`, `computational`, `ahead`, `statistical practice`, `analysis`, `simple`
 
@@ -4444,7 +4473,7 @@ Rule 10: Make Your Analysis Reproducible
 
 ___
 
-**#215** read 2016 July 02 03:51 PM. Link: [www.sciencealert.com/telling-yourself-you-can-d...](http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance)
+**#203** read 2016 July 02 03:51 PM. Link: [www.sciencealert.com/telling-yourself-you-can-d...](http://www.sciencealert.com/telling-yourself-you-can-do-better-can-really-help-your-performance)
 
 `effective`, `improve`, `best score`, `played`, `found`, `game`, `000`, `44`
 
@@ -4457,7 +4486,7 @@ ___
 
 ___
 
-**#214** read 2016 June 26 02:06 AM. Link: [www.sciencedaily.com/releases/2016/06/160623122...](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
+**#202** read 2016 June 26 02:06 AM. Link: [www.sciencedaily.com/releases/2016/06/160623122...](https://www.sciencedaily.com/releases/2016/06/160623122940.htm)
 
 `cathepsin b`, `exercise`, `brain`, `neurogenesis`, `neuron`, `spurred`, `correlated`, `muscles`
 
@@ -4470,7 +4499,7 @@ ___
 
 ___
 
-**#213** read 2016 June 26 02:04 AM. Link: [www.sciencedaily.com/releases/2016/06/160623115...](https://www.sciencedaily.com/releases/2016/06/160623115732.htm)
+**#201** read 2016 June 26 02:04 AM. Link: [www.sciencedaily.com/releases/2016/06/160623115...](https://www.sciencedaily.com/releases/2016/06/160623115732.htm)
 
 `30 per cent`, `revised`, `feel`, `riskier`, `perceive`, `likelihood`, `momentum`, `tendency`
 
@@ -4483,7 +4512,7 @@ ___
 
 ___
 
-**#212** read 2016 June 25 03:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160615095...](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
+**#200** read 2016 June 25 03:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160615095...](https://www.sciencedaily.com/releases/2016/06/160615095123.htm)
 
 ## Gist: Pairing stimuli with positive emotions (reward) improves memory for similar future stimuli (even if no reward), but only after sleeping first.
 
@@ -4506,7 +4535,7 @@ ___
 
 ___
 
-**#211** read 2016 June 25 03:49 AM. Link: [www.sciencedaily.com/releases/2016/02/160229135...](https://www.sciencedaily.com/releases/2016/02/160229135339.htm)
+**#199** read 2016 June 25 03:49 AM. Link: [www.sciencedaily.com/releases/2016/02/160229135...](https://www.sciencedaily.com/releases/2016/02/160229135339.htm)
 
 `sleep`, `cognitive`, `hour sleep`, `showed`, `nine hour`, `five hour`, `night`, `arithmetic`
 
@@ -4521,7 +4550,7 @@ ___
 
 ___
 
-**#210** read 2016 June 25 03:40 AM. Link: [www.sciencedaily.com/releases/2016/06/160613130...](https://www.sciencedaily.com/releases/2016/06/160613130813.htm)
+**#198** read 2016 June 25 03:40 AM. Link: [www.sciencedaily.com/releases/2016/06/160613130...](https://www.sciencedaily.com/releases/2016/06/160613130813.htm)
 
 `caffeine`, `placebo`, `restricting`, `sleep`, `improved`, `performance`, `night`, `200`
 
@@ -4534,7 +4563,7 @@ ___
 
 ___
 
-**#209** read 2016 June 25 03:13 AM. Link: [www.sciencedaily.com/releases/2016/02/160229182...](https://www.sciencedaily.com/releases/2016/02/160229182658.htm)
+**#197** read 2016 June 25 03:13 AM. Link: [www.sciencedaily.com/releases/2016/02/160229182...](https://www.sciencedaily.com/releases/2016/02/160229182658.htm)
 
 `face`, `gender`, `gender blended`, `asked`, `categorise`, `feminine`, `prefer`, `less appealing`
 
@@ -4551,7 +4580,7 @@ ___
 
 ___
 
-**#208** read 2016 June 25 02:23 AM. Link: [www.sciencedaily.com/releases/2016/06/160613153...](https://www.sciencedaily.com/releases/2016/06/160613153411.htm)
+**#196** read 2016 June 25 02:23 AM. Link: [www.sciencedaily.com/releases/2016/06/160613153...](https://www.sciencedaily.com/releases/2016/06/160613153411.htm)
 
 `neurons`, `brains`, `bird`, `primate`, `connect`, `previously`, `small`, `grow`
 
@@ -4566,7 +4595,7 @@ ___
 
 ___
 
-**#207** read 2016 June 25 02:11 AM. Link: [www.sciencedaily.com/releases/2016/03/160318085...](https://www.sciencedaily.com/releases/2016/03/160318085641.htm)
+**#195** read 2016 June 25 02:11 AM. Link: [www.sciencedaily.com/releases/2016/03/160318085...](https://www.sciencedaily.com/releases/2016/03/160318085641.htm)
 
 `memories`, `main route`, `consequence`, `learned`, `associating`, `mice`, `connections`, `scientists`
 
@@ -4581,7 +4610,7 @@ ___
 
 ___
 
-**#206** read 2016 June 25 02:04 AM. Link: [www.sciencedaily.com/releases/2016/03/160323082...](https://www.sciencedaily.com/releases/2016/03/160323082223.htm)
+**#194** read 2016 June 25 02:04 AM. Link: [www.sciencedaily.com/releases/2016/03/160323082...](https://www.sciencedaily.com/releases/2016/03/160323082223.htm)
 
 `movement`, `blueprint`, `subtle`, `organised`, `collective`, `signature`, `behaviour`, `tend`
 
@@ -4592,7 +4621,7 @@ ___
 
 ___
 
-**#205** read 2016 June 25 01:59 AM. Link: [www.sciencedaily.com/releases/2016/06/160621111...](https://www.sciencedaily.com/releases/2016/06/160621111541.htm)
+**#193** read 2016 June 25 01:59 AM. Link: [www.sciencedaily.com/releases/2016/06/160621111...](https://www.sciencedaily.com/releases/2016/06/160621111541.htm)
 
 ## Gist: Glance to right: high-value cards. Glance to left: lower-value cards
 
@@ -4603,7 +4632,7 @@ ___
 
 ___
 
-**#204** read 2016 June 23 05:21 PM. Link: [arxiv.org/abs/1605.07648v1](http://arxiv.org/abs/1605.07648v1)
+**#192** read 2016 June 23 05:21 PM. Link: [arxiv.org/abs/1605.07648v1](http://arxiv.org/abs/1605.07648v1)
 
 `residual`, `network`, `fractal`, `neural network`, `extremely deep`, `deep`, `85`, `22`
 
@@ -4616,7 +4645,7 @@ ___
 
 ___
 
-**#203** read 2016 June 23 12:49 PM. Link: [www.sciencedaily.com/releases/2016/06/160609151...](https://www.sciencedaily.com/releases/2016/06/160609151205.htm)
+**#191** read 2016 June 23 12:49 PM. Link: [www.sciencedaily.com/releases/2016/06/160609151...](https://www.sciencedaily.com/releases/2016/06/160609151205.htm)
 
 `network`, `hierarchical`, `hierarchy`, `connections`, `biological network`, `human brain`, `areas`, `tactile`
 
@@ -4631,7 +4660,7 @@ ___
 
 ___
 
-**#202** read 2016 June 23 12:41 PM. Link: [www.sciencedaily.com/releases/2016/06/160609115...](https://www.sciencedaily.com/releases/2016/06/160609115526.htm)
+**#190** read 2016 June 23 12:41 PM. Link: [www.sciencedaily.com/releases/2016/06/160609115...](https://www.sciencedaily.com/releases/2016/06/160609115526.htm)
 
 `orbitofrontal cortex`, `juice`, `monkey`, `option`, `moment`, `decision`, `impulsivity`, `millisecond`
 
@@ -4644,7 +4673,7 @@ ___
 
 ___
 
-**#201** read 2016 June 23 12:35 PM. Link: [www.sciencedaily.com/releases/2016/06/160602122...](https://www.sciencedaily.com/releases/2016/06/160602122202.htm)
+**#189** read 2016 June 23 12:35 PM. Link: [www.sciencedaily.com/releases/2016/06/160602122...](https://www.sciencedaily.com/releases/2016/06/160602122202.htm)
 
 `improve`, `neurofeedback`, `electroencephalograpy`, `placebo`, `alleviate`, `alcoholism`, `boasts`, `examining`
 
@@ -4653,7 +4682,7 @@ ___
 
 ___
 
-**#200** read 2016 June 19 02:02 AM. Link: [www.sciencedaily.com/releases/2016/06/160616140...](https://www.sciencedaily.com/releases/2016/06/160616140717.htm)
+**#188** read 2016 June 19 02:02 AM. Link: [www.sciencedaily.com/releases/2016/06/160616140...](https://www.sciencedaily.com/releases/2016/06/160616140717.htm)
 
 `exercise`, `learned`, `four hours`, `hippocampus`, `intriguing`, `representations`, `boost`, `gym`
 
@@ -4664,7 +4693,7 @@ ___
 
 ___
 
-**#199** read 2016 June 16 12:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160615134...](https://www.sciencedaily.com/releases/2016/06/160615134946.htm)
+**#187** read 2016 June 16 12:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160615134...](https://www.sciencedaily.com/releases/2016/06/160615134946.htm)
 
 ## Gist: Cortisol levels (which are highest in the morning to give an energy boost) usually lower significantly after 45 minutes of art creation (for 25% of people, it increases, perhaps indicating arousal/engagement).
 
@@ -4679,7 +4708,7 @@ ___
 
 ___
 
-**#198** read 2016 June 16 12:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160614133...](https://www.sciencedaily.com/releases/2016/06/160614133617.htm)
+**#186** read 2016 June 16 12:53 AM. Link: [www.sciencedaily.com/releases/2016/06/160614133...](https://www.sciencedaily.com/releases/2016/06/160614133617.htm)
 
 `sleep`, `memory`, `rem`, `autonomic nervous`, `increases`, `improvement`, `percent`, `nervous system`
 
@@ -4692,7 +4721,7 @@ ___
 
 ___
 
-**#197** read 2016 June 15 02:58 AM. Link: [www.sciencedaily.com/releases/2016/06/160614100...](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
+**#185** read 2016 June 15 02:58 AM. Link: [www.sciencedaily.com/releases/2016/06/160614100...](https://www.sciencedaily.com/releases/2016/06/160614100237.htm)
 
 ## Gist: Perceiving another's pain and experiencing your own appear to use different parts of the brain, with empathy being a deliberative process rather than automatic.
 
@@ -4705,7 +4734,7 @@ ___
 
 ___
 
-**#196** read 2016 June 15 02:58 AM. Link: [culurciello.github.io/tech/2016/06/04/nets.html](https://culurciello.github.io/tech/2016/06/04/nets.html)
+**#184** read 2016 June 15 02:58 AM. Link: [culurciello.github.io/tech/2016/06/04/nets.html](https://culurciello.github.io/tech/2016/06/04/nets.html)
 
 `convolution`, `insight`, `network`, `great`, `1x1 convolution`, `resnet`, `nin`, `convolution layer`
 
@@ -4720,7 +4749,7 @@ ___
 
 ___
 
-**#195** read 2016 June 14 06:23 PM. Link: [www.sciencedaily.com/releases/2016/03/160310111...](https://www.sciencedaily.com/releases/2016/03/160310111843.htm)
+**#183** read 2016 June 14 06:23 PM. Link: [www.sciencedaily.com/releases/2016/03/160310111...](https://www.sciencedaily.com/releases/2016/03/160310111843.htm)
 
 `income`, `life satisfaction`, `personality`, `income change`, `life`, `000`, `18`, `conscientious`
 
@@ -4731,7 +4760,7 @@ ___
 
 ___
 
-**#194** read 2016 June 14 06:16 PM. Link: [www.sciencedaily.com/releases/2016/03/160310111...](https://www.sciencedaily.com/releases/2016/03/160310111855.htm)
+**#182** read 2016 June 14 06:16 PM. Link: [www.sciencedaily.com/releases/2016/03/160310111...](https://www.sciencedaily.com/releases/2016/03/160310111855.htm)
 
 `identify`, `recognition`, `object`, `human`, `image`, `loses`, `scientists`, `detail`
 
@@ -4744,7 +4773,7 @@ ___
 
 ___
 
-**#193** read 2016 June 14 03:31 PM. Link: [www.sciencedaily.com/releases/2016/06/160614083...](https://www.sciencedaily.com/releases/2016/06/160614083116.htm)
+**#181** read 2016 June 14 03:31 PM. Link: [www.sciencedaily.com/releases/2016/06/160614083...](https://www.sciencedaily.com/releases/2016/06/160614083116.htm)
 
 `partner`, `envy`, `gamble`, `guilt`, `showed`, `compared`, `task`, `difference`
 
@@ -4761,7 +4790,7 @@ ___
 
 ___
 
-**#192** read 2016 June 14 03:18 PM. Link: [www.sciencedaily.com/releases/2016/05/160513084...](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
+**#180** read 2016 June 14 03:18 PM. Link: [www.sciencedaily.com/releases/2016/05/160513084...](https://www.sciencedaily.com/releases/2016/05/160513084549.htm)
 
 `mathematical`, `network`, `brain`, `thought`, `language`, `mathematicians`, `activated`, `regions`
 
@@ -4776,7 +4805,7 @@ ___
 
 ___
 
-**#191** read 2016 June 14 02:53 PM. Link: [www.scientificamerican.com/article/do-all-trees...](http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/)
+**#179** read 2016 June 14 02:53 PM. Link: [www.scientificamerican.com/article/do-all-trees...](http://www.scientificamerican.com/article/do-all-trees-snap-at-about-94-mph/)
 
 `tree`, `diameter`, `thin`, `tall`, `height`, `wind`, `speed`, `94`
 
@@ -4787,7 +4816,7 @@ ___
 
 ___
 
-**#190** read 2016 June 13 12:17 AM. Link: [www.sciencedaily.com/releases/2016/06/160610094...](https://www.sciencedaily.com/releases/2016/06/160610094747.htm)
+**#178** read 2016 June 13 12:17 AM. Link: [www.sciencedaily.com/releases/2016/06/160610094...](https://www.sciencedaily.com/releases/2016/06/160610094747.htm)
 
 `light exposure`, `prefrontal cortex`, `cognitive`, `exposure`, `blue`, `light`, `dlpfc`, `ventrolateral`
 
@@ -4798,7 +4827,7 @@ ___
 
 ___
 
-**#189** read 2016 June 12 10:24 PM. Link: [www.sciencedaily.com/releases/2016/06/160609174...](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
+**#177** read 2016 June 12 10:24 PM. Link: [www.sciencedaily.com/releases/2016/06/160609174...](https://www.sciencedaily.com/releases/2016/06/160609174804.htm)
 
 `photo`, `experience`, `enjoy`, `participants`, `instance`, `activity`, `levels`, `people`
 
@@ -4817,7 +4846,7 @@ ___
 
 ___
 
-**#188** read 2016 June 12 09:32 PM. Link: [www.sciencedaily.com/releases/2016/06/160610173...](https://www.sciencedaily.com/releases/2016/06/160610173512.htm)
+**#176** read 2016 June 12 09:32 PM. Link: [www.sciencedaily.com/releases/2016/06/160610173...](https://www.sciencedaily.com/releases/2016/06/160610173512.htm)
 
 `pre adaptation`, `network`, `eventuality`, `anticipates`, `miraculous`, `recurrent`, `rebound`, `inputs`
 
@@ -4828,7 +4857,7 @@ ___
 
 ___
 
-**#187** read 2016 June 10 11:59 PM. Link: [www.sciencedaily.com/releases/2016/05/160512085...](https://www.sciencedaily.com/releases/2016/05/160512085222.htm)
+**#175** read 2016 June 10 11:59 PM. Link: [www.sciencedaily.com/releases/2016/05/160512085...](https://www.sciencedaily.com/releases/2016/05/160512085222.htm)
 
 `result`, `dozens`, `simultaneously`, `search algorithms`, `compared`, `display`, `even hundreds`, `search`
 
@@ -4839,7 +4868,7 @@ ___
 
 ___
 
-**#186** read 2016 June 03 04:32 PM. Link: [www.newscientist.com/article/2089062-green-ligh...](https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/)
+**#174** read 2016 June 03 04:32 PM. Link: [www.newscientist.com/article/2089062-green-ligh...](https://www.newscientist.com/article/2089062-green-light-found-to-ease-the-pain-of-migraine/)
 
 ## Gist: Low-intensity green light seems to reduce migraine pain, while others (white, blue, red, amber) increase it.
 
@@ -4850,7 +4879,7 @@ ___
 
 ___
 
-**#185** read 2016 May 25 03:14 PM. Link: [www.sciencedaily.com/releases/2016/05/160525140...](https://www.sciencedaily.com/releases/2016/05/160525140534.htm)
+**#173** read 2016 May 25 03:14 PM. Link: [www.sciencedaily.com/releases/2016/05/160525140...](https://www.sciencedaily.com/releases/2016/05/160525140534.htm)
 
 `vessel`, `neural activity`, `increase`, `local`, `dilation`, `sensory`, `kara`, `colleagues`
 
@@ -4863,7 +4892,7 @@ ___
 
 ___
 
-**#184** read 2016 May 23 06:26 PM. Link: [www.sciencedaily.com/releases/2016/01/160111162...](https://www.sciencedaily.com/releases/2016/01/160111162659.htm)
+**#172** read 2016 May 23 06:26 PM. Link: [www.sciencedaily.com/releases/2016/01/160111162...](https://www.sciencedaily.com/releases/2016/01/160111162659.htm)
 
 `modifies`, `emotion`, `sound`, `voice`, `pitch`, `sadder`, `inflection`, `happier`
 
@@ -4876,7 +4905,7 @@ ___
 
 ___
 
-**#183** read 2016 May 19 06:38 PM. Link: [www.sciencedaily.com/releases/2016/03/160328191...](https://www.sciencedaily.com/releases/2016/03/160328191855.htm)
+**#171** read 2016 May 19 06:38 PM. Link: [www.sciencedaily.com/releases/2016/03/160328191...](https://www.sciencedaily.com/releases/2016/03/160328191855.htm)
 
 ## Gist: We remember especially what we expect to need to later recall.
 
@@ -4887,7 +4916,7 @@ ___
 
 ___
 
-**#182** read 2016 May 19 06:17 PM. Link: [blogs.scientificamerican.com/mind-guest-blog/th...](http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/)
+**#170** read 2016 May 19 06:17 PM. Link: [blogs.scientificamerican.com/mind-guest-blog/th...](http://blogs.scientificamerican.com/mind-guest-blog/the-emotional-blindness-of-alexithymia/)
 
 `alexithymia`, `experience`, `subtleties`, `intensities`, `textures`, `inability`, `emotions`, `mild`
 
@@ -4898,7 +4927,7 @@ ___
 
 ___
 
-**#181** read 2016 May 19 06:01 PM. Link: [www.newscientist.com/article/2082420-brain-shoc...](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
+**#169** read 2016 May 19 06:01 PM. Link: [www.newscientist.com/article/2082420-brain-shoc...](https://www.newscientist.com/article/2082420-brain-shocking-therapy-may-work-by-boosting-calcium-in-the-brain/)
 
 `surges`, `cells`, `tdcs`, `astrocytes`, `doses`, `brains`, `neurons`, `regulate`
 
@@ -4907,7 +4936,7 @@ ___
 
 ___
 
-**#180** read 2016 May 19 05:47 PM. Link: [www.sciencealert.com/new-eye-tracking-technique...](http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism)
+**#168** read 2016 May 19 05:47 PM. Link: [www.sciencealert.com/new-eye-tracking-technique...](http://www.sciencealert.com/new-eye-tracking-techniques-could-help-diagnose-and-treat-autism)
 
 `asd`, `webcam`, `figuring`, `mouths`, `autism`, `uncovered`, `cheap`, `tracking`
 
@@ -4918,7 +4947,7 @@ ___
 
 ___
 
-**#179** read 2016 May 19 05:17 PM. Link: [www.sciencedaily.com/releases/2016/04/160401111...](https://www.sciencedaily.com/releases/2016/04/160401111903.htm)
+**#167** read 2016 May 19 05:17 PM. Link: [www.sciencedaily.com/releases/2016/04/160401111...](https://www.sciencedaily.com/releases/2016/04/160401111903.htm)
 
 `attention`, `separate`, `hypnosis`, `analyzed`, `pays`, `everyday`, `targeted`, `researchers`
 
@@ -4929,7 +4958,7 @@ ___
 
 ___
 
-**#178** read 2016 May 18 05:21 PM. Link: [www.sciencedaily.com/releases/2016/05/160518074...](https://www.sciencedaily.com/releases/2016/05/160518074211.htm)
+**#166** read 2016 May 18 05:21 PM. Link: [www.sciencedaily.com/releases/2016/05/160518074...](https://www.sciencedaily.com/releases/2016/05/160518074211.htm)
 
 `memories`, `enhanced`, `dialogue`, `hippocampal`, `hippocampus`, `cortical`, `triggering`, `coupling`
 
@@ -4940,7 +4969,7 @@ ___
 
 ___
 
-**#177** read 2016 April 25 11:04 PM. Link: [www.sciencedaily.com/releases/2016/02/160215172...](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
+**#165** read 2016 April 25 11:04 PM. Link: [www.sciencedaily.com/releases/2016/02/160215172...](https://www.sciencedaily.com/releases/2016/02/160215172104.htm)
 
 `reward`, `offered`, `incentive`, `achieved`, `incentive group`, `effective`, `percent`, `risk`
 
@@ -4953,7 +4982,7 @@ ___
 
 ___
 
-**#176** read 2016 April 25 10:48 PM. Link: [www.sciencedaily.com/releases/2016/03/160331124...](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
+**#164** read 2016 April 25 10:48 PM. Link: [www.sciencedaily.com/releases/2016/03/160331124...](https://www.sciencedaily.com/releases/2016/03/160331124719.htm)
 
 `memories`, `ampa receptors`, `brain cells`, `connect`, `active`, `process`, `wiping`, `forgetting`
 
@@ -4968,7 +4997,7 @@ ___
 
 ___
 
-**#175** read 2016 April 25 10:37 PM. Link: [www.newscientist.com/article/2084524-we-are-zom...](https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/)
+**#163** read 2016 April 25 10:37 PM. Link: [www.newscientist.com/article/2084524-we-are-zom...](https://www.newscientist.com/article/2084524-we-are-zombies-rewriting-our-mental-history-to-feel-in-control/)
 
 `choices`, `appear`, `30`, `precede`, `surpassing`, `brains`, `shortest`, `delays`
 
@@ -4981,7 +5010,7 @@ ___
 
 ___
 
-**#174** read 2016 April 25 10:22 PM. Link: [www.sciencedaily.com/releases/2016/04/160418145...](https://www.sciencedaily.com/releases/2016/04/160418145453.htm)
+**#162** read 2016 April 25 10:22 PM. Link: [www.sciencedaily.com/releases/2016/04/160418145...](https://www.sciencedaily.com/releases/2016/04/160418145453.htm)
 
 `sound`, `relate`, `tongue`, `mouth`, `associate`, `vowel sound`, `things`, `far`
 
@@ -4994,7 +5023,9 @@ ___
 
 ___
 
-**#173** read 2016 April 25 10:15 PM. Link: [www.sciencedaily.com/releases/2016/04/160421133...](https://www.sciencedaily.com/releases/2016/04/160421133821.htm)
+**#161** read 2016 April 25 10:15 PM. Link: [www.sciencedaily.com/releases/2016/04/160421133...](https://www.sciencedaily.com/releases/2016/04/160421133821.htm)
+
+## Gist: Drawing information is a strong way of enhancing memory
 
 `enhance`, `recalled`, `remembered`, `drawing`, `participants`, `strategy`, `drawn`, `twice`
 
@@ -5005,7 +5036,7 @@ ___
 
 ___
 
-**#172** read 2016 April 23 03:14 PM. Link: [www.sciencealert.com/scientists-just-found-evid...](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
+**#160** read 2016 April 23 03:14 PM. Link: [www.sciencealert.com/scientists-just-found-evid...](http://www.sciencealert.com/scientists-just-found-evidence-of-anti-memories-and-it-could-change-our-understanding-of-neuroscience)
 
 ## Gist: "Anti-memories", inhibitory cortical ensembles which generate the opposite activity patterns of memories, appear to allow multiple memories to be stored without interference.
 
@@ -5024,7 +5055,7 @@ ___
 
 ___
 
-**#171** read 2016 April 18 04:17 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material)
+**#159** read 2016 April 18 04:17 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-a-way-to-mass-produce-the-world-s-strongest-material)
 
 `carbon`, `carbyne`, `remain elusive`, `family`, `even`, `baeyer`, `1885`, `graphene`
 
@@ -5037,7 +5068,7 @@ ___
 
 ___
 
-**#170** read 2016 April 16 12:18 AM. Link: [www.sciencedaily.com/releases/2016/04/160414095...](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
+**#158** read 2016 April 16 12:18 AM. Link: [www.sciencedaily.com/releases/2016/04/160414095...](https://www.sciencedaily.com/releases/2016/04/160414095549.htm)
 
 `consciousness`, `passive`, `consciousness automatically`, `enter`, `complex`, `idea`, `even`, `unconsciously`
 
@@ -5050,7 +5081,7 @@ ___
 
 ___
 
-**#169** read 2016 April 15 09:41 PM. Link: [www.sciencedaily.com/releases/2016/04/160414214...](https://www.sciencedaily.com/releases/2016/04/160414214830.htm)
+**#157** read 2016 April 15 09:41 PM. Link: [www.sciencedaily.com/releases/2016/04/160414214...](https://www.sciencedaily.com/releases/2016/04/160414214830.htm)
 
 `cortex`, `brain`, `memory`, `hippocampus`, `slow oscillations`, `sleep`, `synaptic`, `wave ripples`
 
@@ -5069,7 +5100,9 @@ ___
 
 ___
 
-**#168** read 2016 April 14 01:36 AM. Link: [www.wired.com/2016/04/susie-mckinnon-autobiogra...](http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/)
+**#156** read 2016 April 14 01:36 AM. Link: [www.wired.com/2016/04/susie-mckinnon-autobiogra...](http://www.wired.com/2016/04/susie-mckinnon-autobiographical-memory-sdam/)
+
+## Gist: Deficient autobiographical memory: unable to mentally relive events, but may know facts about self
 
 `autobiographical`, `relive`, `mckinnon`, `deficient`, `mentally`, `lacks`, `severely`, `plenty`
 
@@ -5078,7 +5111,7 @@ ___
 
 ___
 
-**#167** read 2016 April 14 01:11 AM. Link: [www.sciencealert.com/consciousness-occurs-in-ti...](http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests)
+**#155** read 2016 April 14 01:11 AM. Link: [www.sciencealert.com/consciousness-occurs-in-ti...](http://www.sciencealert.com/consciousness-occurs-in-time-slices-lasting-only-milliseconds-study-suggests)
 
 `milliseconds`, `conscious`, `last`, `time slices`, `information`, `50`, `400`, `stimuli`
 
@@ -5091,7 +5124,9 @@ ___
 
 ___
 
-**#166** read 2016 March 26 09:58 PM. Link: [www.scientificamerican.com/article/bacteria-can...](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
+**#154** read 2016 March 26 09:58 PM. Link: [www.scientificamerican.com/article/bacteria-can...](http://www.scientificamerican.com/article/bacteria-can-convey-electrical-messages-the-same-way-neurons-do/)
+
+## Gist: Bacteria may communicate via electrical signalling
 
 `another`, `signalinga`, `multicellular`, `organisms`, `bacteria`, `reveals`, `mechanism`, `electrical`
 
@@ -5100,7 +5135,7 @@ ___
 
 ___
 
-**#165** read 2016 March 25 11:15 PM. Link: [www.sciencedaily.com/releases/2016/03/160301144...](https://www.sciencedaily.com/releases/2016/03/160301144805.htm)
+**#153** read 2016 March 25 11:15 PM. Link: [www.sciencedaily.com/releases/2016/03/160301144...](https://www.sciencedaily.com/releases/2016/03/160301144805.htm)
 
 `solutions`, `diverse`, `innovate`, `connected groups`, `cultural`, `partial`, `partial connected`, `allowing`
 
@@ -5119,18 +5154,7 @@ ___
 
 ___
 
-**#164** read 2016 March 25 06:05 PM. Link: [www.newscientist.com/article/2081640-manta-rays...](https://www.newscientist.com/article/2081640-manta-rays-are-first-fish-to-recognise-themselves-in-a-mirror/)
-
-`manta`, `exploratory`, `curiosity`, `reflections`, `rays`, `checking`, `mirror`, `filmed`
-
-- Giant manta rays have been filmed checking out their reflections in a way that suggests they are self-aware
-
-- The unusual movements in front of the mirror might have merely been a sign of curiosity or exploratory behaviour
-
-
-___
-
-**#163** read 2016 March 23 05:34 PM. Link: [www.newscientist.com/article/2082105-explosive-...](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
+**#152** read 2016 March 23 05:34 PM. Link: [www.newscientist.com/article/2082105-explosive-...](https://www.newscientist.com/article/2082105-explosive-road-rage-like-anger-linked-to-parasite-spread-by-cats/)
 
 `gondii`, `protozoan`, `toxoplasma`, `ied`, `intermittent`, `parasite`, `psychiatric`, `explosive`
 
@@ -5141,7 +5165,7 @@ ___
 
 ___
 
-**#162** read 2016 March 21 06:27 PM. Link: [www.sciencedaily.com/releases/2016/03/160321081...](https://www.sciencedaily.com/releases/2016/03/160321081433.htm)
+**#151** read 2016 March 21 06:27 PM. Link: [www.sciencedaily.com/releases/2016/03/160321081...](https://www.sciencedaily.com/releases/2016/03/160321081433.htm)
 
 `narcissism`, `narcissistic personality`, `measure`, `contradicts`, `correlated`, `artworks`, `transient`, `trait`
 
@@ -5154,7 +5178,7 @@ ___
 
 ___
 
-**#161** read 2016 March 20 05:12 AM. Link: [www.sciencedaily.com/releases/2016/02/160225101...](https://www.sciencedaily.com/releases/2016/02/160225101241.htm)
+**#150** read 2016 March 20 05:12 AM. Link: [www.sciencedaily.com/releases/2016/02/160225101...](https://www.sciencedaily.com/releases/2016/02/160225101241.htm)
 
 `exercise`, `brain`, `help`, `neurotransmitters`, `boosts`, `carbohydrates`, `consumes`, `glutamate`
 
@@ -5167,7 +5191,7 @@ ___
 
 ___
 
-**#160** read 2016 March 18 09:01 PM. Link: [www.sciencealert.com/learning-complex-tasks-bre...](http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists)
+**#149** read 2016 March 18 09:01 PM. Link: [www.sciencealert.com/learning-complex-tasks-bre...](http://www.sciencealert.com/learning-complex-tasks-breaks-down-barriers-in-our-brains-say-scientists)
 
 ## Gist: complex learning tasks can lead to large-scale reorganization in cerebral cortex
 
@@ -5178,7 +5202,7 @@ ___
 
 ___
 
-**#159** read 2016 March 18 04:11 PM. Link: [www.sciencedaily.com/releases/2016/03/160317105...](https://www.sciencedaily.com/releases/2016/03/160317105627.htm)
+**#148** read 2016 March 18 04:11 PM. Link: [www.sciencedaily.com/releases/2016/03/160317105...](https://www.sciencedaily.com/releases/2016/03/160317105627.htm)
 
 ## Gist: Recent students teaching other students is a good way to learn and teach
 
@@ -5189,7 +5213,7 @@ ___
 
 ___
 
-**#158** read 2016 March 17 05:31 PM. Link: [www.sciencedaily.com/releases/2016/03/160317151...](https://www.sciencedaily.com/releases/2016/03/160317151132.htm)
+**#147** read 2016 March 17 05:31 PM. Link: [www.sciencedaily.com/releases/2016/03/160317151...](https://www.sciencedaily.com/releases/2016/03/160317151132.htm)
 
 `bursts`, `memory`, `active`, `information`, `found`, `prefrontal`, `glimpse`, `ensembles`
 
@@ -5200,7 +5224,9 @@ ___
 
 ___
 
-**#157** read 2016 March 15 02:59 AM. Link: [www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
+**#146** read 2016 March 15 02:59 AM. Link: [www.wired.com/2015/04/hire-like-google/](http://www.wired.com/2015/04/hire-like-google/)
+
+## Gist: Best predictor of job performance is work sample test (29%) and not interview (14%)
 
 `14`, `perform`, `percent`, `r2`, `29`, `unstructured`, `predictor`, `interviews`
 
@@ -5211,7 +5237,7 @@ ___
 
 ___
 
-**#156** read 2016 March 15 01:50 AM. Link: [www.sciencedaily.com/releases/2016/03/160310124...](https://www.sciencedaily.com/releases/2016/03/160310124902.htm)
+**#145** read 2016 March 15 01:50 AM. Link: [www.sciencedaily.com/releases/2016/03/160310124...](https://www.sciencedaily.com/releases/2016/03/160310124902.htm)
 
 `brain`, `cells`, `dentate gyrus`, `region`, `known`, `granule`, `hippocampus`, `adulthood`
 
@@ -5222,7 +5248,7 @@ ___
 
 ___
 
-**#155** read 2016 March 15 01:47 AM. Link: [www.sciencealert.com/teaching-children-philosop...](http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds)
+**#144** read 2016 March 15 01:47 AM. Link: [www.sciencealert.com/teaching-children-philosop...](http://www.sciencealert.com/teaching-children-philosophy-can-improve-their-reading-and-math-skills-study-finds)
 
 `math`, `skills`, `improve`, `reading`, `children`, `reasoned`, `constructing`, `weren`
 
@@ -5235,7 +5261,7 @@ ___
 
 ___
 
-**#154** read 2016 March 15 01:39 AM. Link: [en.wikipedia.org/wiki/Probably_approximately_co...](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
+**#143** read 2016 March 15 01:39 AM. Link: [en.wikipedia.org/wiki/Probably_approximately_co...](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning)
 
 `probability`, `learning`, `function`, `generalization`, `select`, `approximately correct`, `learner`, `pac`
 
@@ -5248,7 +5274,7 @@ ___
 
 ___
 
-**#153** read 2016 March 14 03:36 AM. Link: [www.sciencedaily.com/releases/2016/03/160309083...](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
+**#142** read 2016 March 14 03:36 AM. Link: [www.sciencedaily.com/releases/2016/03/160309083...](https://www.sciencedaily.com/releases/2016/03/160309083116.htm)
 
 `robot`, `assemble`, `tailoring`, `ikea`, `tinker`, `satisfaction`, `tended`, `ease`
 
@@ -5261,7 +5287,7 @@ ___
 
 ___
 
-**#152** read 2016 March 13 03:21 AM. Link: [www.sciencedaily.com/releases/2016/03/160311125...](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
+**#141** read 2016 March 13 03:21 AM. Link: [www.sciencedaily.com/releases/2016/03/160311125...](https://www.sciencedaily.com/releases/2016/03/160311125019.htm)
 
 `memories`, `rat brain`, `stillness`, `encodes`, `hubs`, `informed`, `researchers`, `periods`
 
@@ -5272,7 +5298,7 @@ ___
 
 ___
 
-**#151** read 2016 January 05 07:16 PM. Link: [www.newscientist.com/article/dn28704-sleep-isnt...](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
+**#140** read 2016 January 05 07:16 PM. Link: [www.newscientist.com/article/dn28704-sleep-isnt...](https://www.newscientist.com/article/dn28704-sleep-isnt-needed-to-create-long-term-memories-just-time-out/)
 
 `10`, `remember`, `minute`, `rest`, `cent`, `hearing`, `afterwards`, `helps`
 
@@ -5283,7 +5309,7 @@ ___
 
 ___
 
-**#150** read 2016 February 03 01:18 AM. Link: [yyue.blogspot.ca/2015/01/a-brief-overview-of-de...](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
+**#139** read 2016 February 03 01:18 AM. Link: [yyue.blogspot.ca/2015/01/a-brief-overview-of-de...](http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 
 `lstms`, `train`, `128`, `minibatches`, `initialize`, `throughput`, `biases`, `dependencies`
 
@@ -5294,7 +5320,7 @@ ___
 
 ___
 
-**#149** read 2016 February 03 01:30 AM. Link: [www.sciencealert.com/resting-brainwaves-functio...](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
+**#138** read 2016 February 03 01:30 AM. Link: [www.sciencealert.com/resting-brainwaves-functio...](http://www.sciencealert.com/resting-brainwaves-function-in-specific-harmonic-patterns-study-suggests)
 
 ## Gist: Resting brain pattern exhibits harmonic waves.
 
@@ -5305,7 +5331,9 @@ ___
 
 ___
 
-**#148** read 2016 February 03 12:16 PM. Link: [blogs.scientificamerican.com/illusion-chasers/w...](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
+**#137** read 2016 February 03 12:16 PM. Link: [blogs.scientificamerican.com/illusion-chasers/w...](http://blogs.scientificamerican.com/illusion-chasers/what-little-babies-see-that-you-no-longer-can/)
+
+## Gist: Before developing perceptual constance (5 months), infants can identify image differences invisible to adults
 
 `month`, `constancy`, `perceptual`, `babies`, `invisible`, `striking`, `skill`, `adults`
 
@@ -5314,7 +5342,7 @@ ___
 
 ___
 
-**#147** read 2016 February 11 12:42 AM. Link: [www.sciencealert.com/scientists-discover-that-s...](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
+**#136** read 2016 February 11 12:42 AM. Link: [www.sciencealert.com/scientists-discover-that-s...](http://www.sciencealert.com/scientists-discover-that-sighing-is-actually-a-life-saving-biological-function)
 
 `sighing`, `breaths`, `reflex`, `lungs`, `neurons`, `clusters`, `stem`, `saving`
 
@@ -5325,7 +5353,7 @@ ___
 
 ___
 
-**#146** read 2016 February 26 04:36 PM. Link: [en.wikipedia.org/wiki/Canadian_Aboriginal_sylla...](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
+**#135** read 2016 February 26 04:36 PM. Link: [en.wikipedia.org/wiki/Canadian_Aboriginal_sylla...](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
 
 `canadian syllabic`, `consonantvowel`, `vowelin`, `abugidas`, `syllabaries`, `glyph`, `consonants`, `scripts`
 
@@ -5334,7 +5362,7 @@ ___
 
 ___
 
-**#145** read 2015 December 01 10:15 PM. Link: [www.sciencealert.com/study-suggests-your-pet-ca...](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
+**#134** read 2015 December 01 10:15 PM. Link: [www.sciencealert.com/study-suggests-your-pet-ca...](http://www.sciencealert.com/study-suggests-your-pet-cat-s-probably-just-as-neurotic-as-you-are)
 
 `domestic cats`, `kitties`, `impulsivity`, `neuroticism`, `mindset`, `shelters`, `dominance`, `traits`
 
@@ -5345,18 +5373,7 @@ ___
 
 ___
 
-**#144** read 2015 December 01 10:19 PM. Link: [www.sciencealert.com/first-of-its-kind-german-s...](http://www.sciencealert.com/first-of-its-kind-german-stellarator-could-revolutionise-the-way-we-use-energy)
-
-`plasma`, `minutes`, `stellarators`, `30`, `tokamaks`, `bursts`, `sustain`, `experts`
-
-- Tokamaks can only control the plasma in short bursts that last for no more than 7 minutes
-
-- Because of the stellarators’ design, experts suspect it could sustain a plasma for at least 30 minutes at a time
-
-
-___
-
-**#143** read 2016 January 04 10:39 PM. Link: [www.sciencealert.com/banana-peel-surprisingly-j...](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
+**#133** read 2016 January 04 10:39 PM. Link: [www.sciencealert.com/banana-peel-surprisingly-j...](http://www.sciencealert.com/banana-peel-surprisingly-just-as-nutritious-as-banana)
 
 ## Gist: Eating banana peels is healthy.
 
@@ -5367,7 +5384,7 @@ ___
 
 ___
 
-**#142** read 2015 December 06 08:12 PM. Link: [phys.org/news/2015-11-nist-team-spooky-action-d...](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
+**#132** read 2015 December 06 08:12 PM. Link: [phys.org/news/2015-11-nist-team-spooky-action-d...](http://phys.org/news/2015-11-nist-team-spooky-action-distance.html)
 
 ## Gist: Local realism/hidden local action is incorrect.
 
@@ -5378,7 +5395,7 @@ ___
 
 ___
 
-**#141** read 2016 March 11 03:38 AM. Link: [phys.org/news/2016-03-invisibility-cloaks.html](http://phys.org/news/2016-03-invisibility-cloaks.html)
+**#131** read 2016 March 11 03:38 AM. Link: [phys.org/news/2016-03-invisibility-cloaks.html](http://phys.org/news/2016-03-invisibility-cloaks.html)
 
 `cloak`, `distorted`, `invisibility`, `amplitude`, `stationary`, `render`, `relativity`, `transparent`
 
@@ -5389,7 +5406,7 @@ ___
 
 ___
 
-**#140** read 2016 March 10 04:47 PM. Link: [www.sciencedaily.com/releases/2012/08/120801154...](https://www.sciencedaily.com/releases/2012/08/120801154716.htm)
+**#130** read 2016 March 10 04:47 PM. Link: [www.sciencedaily.com/releases/2012/08/120801154...](https://www.sciencedaily.com/releases/2012/08/120801154716.htm)
 
 `prefrontal cortex`, `suggesting`, `intelligence`, `control`, `10`, `pathways`, `neural`, `cognitive`
 
@@ -5400,7 +5417,7 @@ ___
 
 ___
 
-**#139** read 2016 March 10 04:43 PM. Link: [www.sciencedaily.com/releases/2015/07/150727130...](https://www.sciencedaily.com/releases/2015/07/150727130821.htm)
+**#129** read 2016 March 10 04:43 PM. Link: [www.sciencedaily.com/releases/2015/07/150727130...](https://www.sciencedaily.com/releases/2015/07/150727130821.htm)
 
 `neurons`, `wave`, `harmonize`, `improvising`, `prefrontal`, `excite`, `intellectually`, `sync`
 
@@ -5413,7 +5430,7 @@ ___
 
 ___
 
-**#138** read 2016 March 10 04:34 PM. Link: [makezine.com/2014/05/29/10-ways-to-make-your-ro...](http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/)
+**#128** read 2016 March 10 04:34 PM. Link: [makezine.com/2014/05/29/10-ways-to-make-your-ro...](http://makezine.com/2014/05/29/10-ways-to-make-your-robot-more-humanlike/)
 
 `robot`, `move`, `likeability`, `aversion`, `gaze`, `hedges`, `thoughtful`, `intentional`
 
@@ -5428,7 +5445,7 @@ ___
 
 ___
 
-**#137** read 2016 March 10 03:59 PM. Link: [www.sciencedaily.com/releases/2015/07/150721134...](https://www.sciencedaily.com/releases/2015/07/150721134831.htm)
+**#127** read 2016 March 10 03:59 PM. Link: [www.sciencedaily.com/releases/2015/07/150721134...](https://www.sciencedaily.com/releases/2015/07/150721134831.htm)
 
 `effect`, `words`, `twitches`, `perceptual`, `activating`, `shaping`, `predictions`, `profound`
 
@@ -5441,7 +5458,7 @@ ___
 
 ___
 
-**#136** read 2016 March 09 07:47 PM. Link: [www.sciencedaily.com/releases/2016/03/160309125...](https://www.sciencedaily.com/releases/2016/03/160309125520.htm)
+**#126** read 2016 March 09 07:47 PM. Link: [www.sciencedaily.com/releases/2016/03/160309125...](https://www.sciencedaily.com/releases/2016/03/160309125520.htm)
 
 `climbed`, `stairs`, `brain`, `flight`, `year`, `person`, `95`, `58`
 
@@ -5452,7 +5469,9 @@ ___
 
 ___
 
-**#135** read 2016 March 08 01:21 AM. Link: [www.sciencedaily.com/releases/2016/03/160307144...](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
+**#125** read 2016 March 08 01:21 AM. Link: [www.sciencedaily.com/releases/2016/03/160307144...](https://www.sciencedaily.com/releases/2016/03/160307144013.htm)
+
+## Gist: Sudden insights may lead to better solutions than slow methodical thinking
 
 `methodical`, `aha`, `gradual`, `insight`, `yield`, `listening`, `sudden`, `moments`
 
@@ -5461,7 +5480,7 @@ ___
 
 ___
 
-**#134** read 2016 March 07 05:48 PM. Link: [phys.org/news/2016-03-reveal-molecular-patterns...](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
+**#124** read 2016 March 07 05:48 PM. Link: [phys.org/news/2016-03-reveal-molecular-patterns...](http://phys.org/news/2016-03-reveal-molecular-patterns.html)
 
 `search`, `predatory`, `sparse`, `localized`, `explore`, `strategies`, `targets`, `vast`
 
@@ -5470,7 +5489,7 @@ ___
 
 ___
 
-**#133** read 2016 March 07 11:07 AM. Link: [phys.org/news/2016-03-american-statistical-asso...](http://phys.org/news/2016-03-american-statistical-association-statement-significance.html)
+**#123** read 2016 March 07 11:07 AM. Link: [phys.org/news/2016-03-american-statistical-asso...](http://phys.org/news/2016-03-american-statistical-association-statement-significance.html)
 
 `measure`, `p value`, `hypothesis`, `probability`, `statistical`, `significance`, `random`, `chance`
 
@@ -5483,7 +5502,7 @@ ___
 
 ___
 
-**#132** read 2016 March 06 01:45 AM. Link: [science.sciencemag.org/content/351/6277/1074](http://science.sciencemag.org/content/351/6277/1074)
+**#122** read 2016 March 06 01:45 AM. Link: [science.sciencemag.org/content/351/6277/1074](http://science.sciencemag.org/content/351/6277/1074)
 
 `positive connectivity`, `ai`, `anterior`, `acc`, `based altruism`, `striatum`, `insula`, `cingulate`
 
@@ -5494,7 +5513,7 @@ ___
 
 ___
 
-**#131** read 2016 March 05 11:13 PM. Link: [www.sciencedaily.com/releases/2016/03/160303134...](https://www.sciencedaily.com/releases/2016/03/160303134427.htm)
+**#121** read 2016 March 05 11:13 PM. Link: [www.sciencedaily.com/releases/2016/03/160303134...](https://www.sciencedaily.com/releases/2016/03/160303134427.htm)
 
 `problem`, `students`, `fared`, `solving`, `introducing`, `difficulty`, `phillips`, `struggle`
 
@@ -5505,7 +5524,7 @@ ___
 
 ___
 
-**#130** read 2016 March 05 11:09 PM. Link: [www.sciencedaily.com/releases/2016/03/160303133...](https://www.sciencedaily.com/releases/2016/03/160303133628.htm)
+**#120** read 2016 March 05 11:09 PM. Link: [www.sciencedaily.com/releases/2016/03/160303133...](https://www.sciencedaily.com/releases/2016/03/160303133628.htm)
 
 `pain`, `oxytocin`, `hypothalamus`, `sensations`, `coordinating`, `neurons`, `spinal`, `cord`
 
@@ -5516,7 +5535,7 @@ ___
 
 ___
 
-**#129** read 2016 March 02 03:04 AM. Link: [phys.org/news/2016-03-celestial-bodies-sizes.html](http://phys.org/news/2016-03-celestial-bodies-sizes.html)
+**#119** read 2016 March 02 03:04 AM. Link: [phys.org/news/2016-03-celestial-bodies-sizes.html](http://phys.org/news/2016-03-celestial-bodies-sizes.html)
 
 `bodies`, `constructal law`, `evolve`, `tension`, `reduced`, `natural`, `system`, `coalesce`
 
@@ -5529,7 +5548,7 @@ ___
 
 ___
 
-**#128** read 2016 March 01 03:34 PM. Link: [www.sciencealert.com/the-ability-to-compose-mus...](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
+**#118** read 2016 March 01 03:34 PM. Link: [www.sciencealert.com/the-ability-to-compose-mus...](http://www.sciencealert.com/the-ability-to-compose-music-is-partially-determined-by-your-genes)
 
 `pathway`, `effects`, `music`, `snca`, `neuropsychiatric`, `cerebellar`, `deleterious`, `advantageous`
 
@@ -5542,7 +5561,7 @@ ___
 
 ___
 
-**#127** read 2016 February 29 09:52 PM. Link: [www.sciencealert.com/shame-is-a-survival-mechan...](http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say)
+**#117** read 2016 February 29 09:52 PM. Link: [www.sciencealert.com/shame-is-a-survival-mechan...](http://www.sciencealert.com/shame-is-a-survival-mechanism-that-reins-in-behaviour-across-cultures-scientists-say)
 
 `shame`, `social`, `motivate`, `prohibit`, `damaging`, `fabric`, `mechanisms`, `performs`
 
@@ -5553,7 +5572,7 @@ ___
 
 ___
 
-**#126** read 2016 February 28 08:43 PM. Link: [www.scientificamerican.com/article/can-kids-lea...](http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/)
+**#116** read 2016 February 28 08:43 PM. Link: [www.scientificamerican.com/article/can-kids-lea...](http://www.scientificamerican.com/article/can-kids-learn-more-when-they-exercise-during-lessons/)
 
 ## Gist: Integrating exercise into lessons improves math and spelling in childhood
 
@@ -5564,18 +5583,7 @@ ___
 
 ___
 
-**#125** read 2016 February 28 03:41 PM. Link: [www.scientificamerican.com/article/nedergaard-h...](http://www.scientificamerican.com/article/nedergaard-how-the-brain-dumps-its-trash-video/)
-
-`brain`, `traffics`, `glymphatic`, `leavings`, `detritus`, `kilograms`, `discarded`, `passages`
-
-- The brain gets rid of some 1.5 kilograms of waste products a year, equivalent to its own weight
-
-- detritus-carrying passages - what is called the glymphatic system - traffics the brain's discarded leavings
-
-
-___
-
-**#124** read 2016 February 28 04:30 AM. Link: [www.sciencedaily.com/releases/2013/10/131016122...](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
+**#115** read 2016 February 28 04:30 AM. Link: [www.sciencedaily.com/releases/2013/10/131016122...](https://www.sciencedaily.com/releases/2013/10/131016122032.htm)
 
 `activity`, `neurons`, `level`, `48`, `cortex`, `regulate`, `disruption`, `researchers`
 
@@ -5586,7 +5594,7 @@ ___
 
 ___
 
-**#123** read 2016 February 28 12:14 AM. Link: [www.sciencedaily.com/releases/2016/02/160224070...](https://www.sciencedaily.com/releases/2016/02/160224070645.htm)
+**#114** read 2016 February 28 12:14 AM. Link: [www.sciencedaily.com/releases/2016/02/160224070...](https://www.sciencedaily.com/releases/2016/02/160224070645.htm)
 
 `linguistic`, `sounds`, `languages`, `different`, `auditory`, `perceive`, `distortion`, `listening`
 
@@ -5599,7 +5607,7 @@ ___
 
 ___
 
-**#122** read 2016 February 27 09:07 PM. Link: [www.sciencedaily.com/releases/2016/02/160211141...](https://www.sciencedaily.com/releases/2016/02/160211141337.htm)
+**#113** read 2016 February 27 09:07 PM. Link: [www.sciencedaily.com/releases/2016/02/160211141...](https://www.sciencedaily.com/releases/2016/02/160211141337.htm)
 
 `grade`, `scientists`, `learned`, `students`, `achievements`, `personal struggles`, `improve`, `science grade`
 
@@ -5612,18 +5620,7 @@ ___
 
 ___
 
-**#121** read 2016 February 27 08:53 PM. Link: [www.sciencedaily.com/releases/2016/01/160113144...](https://www.sciencedaily.com/releases/2016/01/160113144546.htm)
-
-`motor neurons`, `locomotor`, `signalling`, `rhythmic`, `pathway`, `circuits`, `researchers`, `demonstrated`
-
-- New role for motor neurons discovered
-
-- researchers have demonstrated a new, direct signalling pathway through which motor neurons influence the locomotor circuits that generate rhythmic movements
-
-
-___
-
-**#120** read 2016 February 27 08:46 PM. Link: [www.sciencedaily.com/releases/2016/01/160115100...](https://www.sciencedaily.com/releases/2016/01/160115100906.htm)
+**#112** read 2016 February 27 08:46 PM. Link: [www.sciencedaily.com/releases/2016/01/160115100...](https://www.sciencedaily.com/releases/2016/01/160115100906.htm)
 
 ## Gist: Taking up new mentally challenging activities (ex. photography, quilting) is key to maintaining cognition in old age
 
@@ -5636,7 +5633,7 @@ ___
 
 ___
 
-**#119** read 2016 February 27 08:39 PM. Link: [en.wikipedia.org/wiki/Efficient-market_hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+**#111** read 2016 February 27 08:39 PM. Link: [en.wikipedia.org/wiki/Efficient-market_hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 
 `market`, `prices`, `information`, `emh`, `unpredictable`, `predictable`, `implication`, `discount`
 
@@ -5645,7 +5642,7 @@ ___
 
 ___
 
-**#118** read 2016 February 27 08:02 PM. Link: [phys.org/news/2016-02-physicists-properties-sup...](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
+**#110** read 2016 February 27 08:02 PM. Link: [phys.org/news/2016-02-physicists-properties-sup...](http://phys.org/news/2016-02-physicists-properties-superconductivity.html)
 
 `nematic`, `liquid crystal`, `orbitals`, `spontaneously`, `drops`, `displays`, `temperature`, `enter`
 
@@ -5654,7 +5651,7 @@ ___
 
 ___
 
-**#117** read 2016 February 27 07:53 PM. Link: [www.sciencealert.com/why-do-obese-people-have-l...](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
+**#109** read 2016 February 27 07:53 PM. Link: [www.sciencealert.com/why-do-obese-people-have-l...](http://www.sciencealert.com/why-do-obese-people-have-lower-mortality-rates-scientists-discover-that-fat-cells-outlive-lean-ones)
 
 `cells`, `tag`, `leaner`, `triacylglycerol`, `synthesising`, `yeast`, `constituent`, `prevented`
 
@@ -5663,7 +5660,7 @@ ___
 
 ___
 
-**#116** read 2016 February 27 07:19 PM. Link: [www.sciencedaily.com/releases/2016/02/160224133...](https://www.sciencedaily.com/releases/2016/02/160224133417.htm)
+**#108** read 2016 February 27 07:19 PM. Link: [www.sciencedaily.com/releases/2016/02/160224133...](https://www.sciencedaily.com/releases/2016/02/160224133417.htm)
 
 `optimist`, `conservatives`, `rather`, `research`, `transatlantic`, `nouns`, `liberals`, `describing`
 
@@ -5672,7 +5669,7 @@ ___
 
 ___
 
-**#115** read 2016 February 26 09:16 PM. Link: [www.sciencedaily.com/releases/2014/06/140612121...](https://www.sciencedaily.com/releases/2014/06/140612121354.htm)
+**#107** read 2016 February 26 09:16 PM. Link: [www.sciencedaily.com/releases/2014/06/140612121...](https://www.sciencedaily.com/releases/2014/06/140612121354.htm)
 
 `brain`, `synchronization`, `brain waves`, `learn`, `rapid`, `thought`, `different`, `flits`
 
@@ -5685,7 +5682,7 @@ ___
 
 ___
 
-**#114** read 2016 February 26 09:08 PM. Link: [phys.org/news/2015-05-fair-theory-income-inequa...](http://phys.org/news/2015-05-fair-theory-income-inequality.html)
+**#106** read 2016 February 26 09:08 PM. Link: [phys.org/news/2015-05-fair-theory-income-inequa...](http://phys.org/news/2015-05-fair-theory-income-inequality.html)
 
 `maximize`, `jointly maximize`, `theory`, `wondered`, `economists`, `fairness`, `invisible`, `firms`
 
@@ -5694,7 +5691,7 @@ ___
 
 ___
 
-**#113** read 2016 February 26 08:59 PM. Link: [www.sciencedaily.com/releases/2015/05/150528084...](https://www.sciencedaily.com/releases/2015/05/150528084158.htm)
+**#105** read 2016 February 26 08:59 PM. Link: [www.sciencedaily.com/releases/2015/05/150528084...](https://www.sciencedaily.com/releases/2015/05/150528084158.htm)
 
 `activation`, `brain`, `creative`, `center`, `found`, `cerebellum`, `heightened`, `negatively`
 
@@ -5705,7 +5702,7 @@ ___
 
 ___
 
-**#112** read 2016 February 26 08:57 PM. Link: [en.wikipedia.org/wiki/Engel%27s_law](https://en.wikipedia.org/wiki/Engel%27s_law)
+**#104** read 2016 February 26 08:57 PM. Link: [en.wikipedia.org/wiki/Engel%27s_law](https://en.wikipedia.org/wiki/Engel%27s_law)
 
 `income`, `food`, `rises`, `elasticity`, `engel`, `expenditure`, `proportion`, `observation`
 
@@ -5714,7 +5711,7 @@ ___
 
 ___
 
-**#111** read 2016 February 26 08:53 PM. Link: [www.wired.com/2013/02/math-and-nature-universal...](http://www.wired.com/2013/02/math-and-nature-universality/)
+**#103** read 2016 February 26 08:53 PM. Link: [www.wired.com/2013/02/math-and-nature-universal...](http://www.wired.com/2013/02/math-and-nature-universality/)
 
 `random`, `regular`, `universality`, `eigenvalues`, `spectra`, `correlated`, `chaotic`, `matrices`
 
@@ -5725,7 +5722,7 @@ ___
 
 ___
 
-**#110** read 2016 February 26 08:50 PM. Link: [www.newscientist.com/article/mg22129610.100-the...](https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/)
+**#102** read 2016 February 26 08:50 PM. Link: [www.newscientist.com/article/mg22129610.100-the...](https://www.newscientist.com/article/mg22129610.100-the-robot-tricks-to-bridge-the-uncanny-valley/)
 
 ## Gist: Giving robots small behavioural tics makes them appear more human.
 
@@ -5736,7 +5733,7 @@ ___
 
 ___
 
-**#109** read 2016 February 26 08:44 PM. Link: [en.wikipedia.org/wiki/Meijer_G-function](https://en.wikipedia.org/wiki/Meijer_G-function)
+**#101** read 2016 February 26 08:44 PM. Link: [en.wikipedia.org/wiki/Meijer_G-function](https://en.wikipedia.org/wiki/Meijer_G-function)
 
 `function`, `g function`, `expressible`, `closure`, `constant`, `argument`, `constant power`, `1936`
 
@@ -5747,7 +5744,7 @@ ___
 
 ___
 
-**#108** read 2016 February 26 07:03 PM. Link: [www.sciencedaily.com/releases/2015/02/150223122...](https://www.sciencedaily.com/releases/2015/02/150223122548.htm)
+**#100** read 2016 February 26 07:03 PM. Link: [www.sciencedaily.com/releases/2015/02/150223122...](https://www.sciencedaily.com/releases/2015/02/150223122548.htm)
 
 `brain`, `brain wave`, `learning`, `prefrontal`, `hippocampus`, `cortex`, `frequencies`, `communicate`
 
@@ -5758,7 +5755,7 @@ ___
 
 ___
 
-**#107** read 2016 February 26 06:56 PM. Link: [www.sciencedaily.com/releases/2015/02/150217202...](http://www.sciencedaily.com/releases/2015/02/150217202753.htm)
+**#99** read 2016 February 26 06:56 PM. Link: [www.sciencedaily.com/releases/2015/02/150217202...](http://www.sciencedaily.com/releases/2015/02/150217202753.htm)
 
 `student`, `brain`, `mri`, `teachers`, `understanding`, `key`, `process`, `game`
 
@@ -5773,7 +5770,7 @@ ___
 
 ___
 
-**#106** read 2015 December 01 10:12 PM. Link: [www.sciencealert.com/poorly-ventilated-office-s...](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
+**#98** read 2015 December 01 10:12 PM. Link: [www.sciencealert.com/poorly-ventilated-office-s...](http://www.sciencealert.com/poorly-ventilated-office-spaces-really-do-slow-down-our-cognitive-performance)
 
 `co2`, `pollutants`, `levels`, `office`, `ventilated`, `dioxide`, `functioning`, `cognitive`
 
@@ -5782,7 +5779,7 @@ ___
 
 ___
 
-**#105** read 2016 February 26 06:30 PM. Link: [people.idsia.ch/~juergen/interest.html](http://people.idsia.ch/~juergen/interest.html)
+**#97** read 2016 February 26 06:30 PM. Link: [people.idsia.ch/~juergen/interest.html](http://people.idsia.ch/~juergen/interest.html)
 
 `rewards`, `curious`, `agents`, `learnable`, `mismatches`, `regularities`, `unpredictable`, `learners`
 
@@ -5793,7 +5790,7 @@ ___
 
 ___
 
-**#104** read 2016 January 26 10:32 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
+**#96** read 2016 January 26 10:32 PM. Link: [www.sciencealert.com/scientists-have-discovered...](http://www.sciencealert.com/scientists-have-discovered-a-new-method-of-potentially-repairing-nerve-damage)
 
 ## Gist: Neurotrophins: proteins that promote neuron development
 
@@ -5804,7 +5801,7 @@ ___
 
 ___
 
-**#103** read 2015 December 01 09:37 PM. Link: [www.sciencedaily.com/releases/2015/11/151119122...](https://www.sciencedaily.com/releases/2015/11/151119122317.htm)
+**#95** read 2015 December 01 09:37 PM. Link: [www.sciencedaily.com/releases/2015/11/151119122...](https://www.sciencedaily.com/releases/2015/11/151119122317.htm)
 
 `receptor`, `scientists`, `memory formation`, `ghrelin`, `alters`, `unrecognized`, `dopamine`, `signaling`
 
@@ -5817,7 +5814,7 @@ ___
 
 ___
 
-**#102** read 2016 February 26 04:43 PM. Link: [en.wikipedia.org/wiki/Duployan_shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand)
+**#94** read 2016 February 26 04:43 PM. Link: [en.wikipedia.org/wiki/Duployan_shorthand](https://en.wikipedia.org/wiki/Duployan_shorthand)
 
 `stenography`, `duployan`, `geometric`, `classified`, `stenographic`, `letterforms`, `ellipses`, `alphabetic`
 
@@ -5828,7 +5825,7 @@ ___
 
 ___
 
-**#101** read 2016 February 26 03:20 PM. Link: [www.sciencedaily.com/releases/2016/02/160224100...](https://www.sciencedaily.com/releases/2016/02/160224100548.htm)
+**#93** read 2016 February 26 03:20 PM. Link: [www.sciencedaily.com/releases/2016/02/160224100...](https://www.sciencedaily.com/releases/2016/02/160224100548.htm)
 
 `scharff`, `reveal`, `prisoners`, `interview technique`, `asking questions`, `interview`, `questions`, `without asking`
 
@@ -5843,7 +5840,7 @@ ___
 
 ___
 
-**#100** read 2016 February 24 08:49 PM. Link: [www.sciencedaily.com/releases/2016/02/160224133...](https://www.sciencedaily.com/releases/2016/02/160224133411.htm)
+**#92** read 2016 February 24 08:49 PM. Link: [www.sciencedaily.com/releases/2016/02/160224133...](https://www.sciencedaily.com/releases/2016/02/160224133411.htm)
 
 `movements`, `computer`, `shows`, `rapt`, `witchel`, `involuntary`, `bored`, `absorbed`
 
@@ -5856,7 +5853,7 @@ ___
 
 ___
 
-**#99** read 2016 February 23 11:02 AM. Link: [www.sciencedaily.com/releases/2016/02/160212130...](https://www.sciencedaily.com/releases/2016/02/160212130132.htm)
+**#91** read 2016 February 23 11:02 AM. Link: [www.sciencedaily.com/releases/2016/02/160212130...](https://www.sciencedaily.com/releases/2016/02/160212130132.htm)
 
 `memories`, `prioritize`, `brain prioritize`, `replay`, `reward memories`, `reinforce`, `decisions`, `rest`
 
@@ -5869,7 +5866,7 @@ ___
 
 ___
 
-**#98** read 2016 February 23 10:58 AM. Link: [www.sciencedaily.com/releases/2016/02/160211184...](https://www.sciencedaily.com/releases/2016/02/160211184012.htm)
+**#90** read 2016 February 23 10:58 AM. Link: [www.sciencedaily.com/releases/2016/02/160211184...](https://www.sciencedaily.com/releases/2016/02/160211184012.htm)
 
 `lifelong memories`, `imprinting`, `moms`, `hatched`, `spawning`, `geese`, `brains`, `worms`
 
@@ -5880,7 +5877,9 @@ ___
 
 ___
 
-**#97** read 2016 February 22 10:59 PM. Link: [www.sciencedaily.com/releases/2016/02/160222111...](https://www.sciencedaily.com/releases/2016/02/160222111103.htm)
+**#89** read 2016 February 22 10:59 PM. Link: [www.sciencedaily.com/releases/2016/02/160222111...](https://www.sciencedaily.com/releases/2016/02/160222111103.htm)
+
+## Gist: There is an algorithm to design useful quantum experiments
 
 `designed`, `quantum experiments`, `intuition`, `unfamiliar`, `rely`, `algorithm`, `machines`, `solutions`
 
@@ -5891,7 +5890,9 @@ ___
 
 ___
 
-**#96** read 2016 February 22 10:40 PM. Link: [www.sciencedaily.com/releases/2016/02/160222111...](https://www.sciencedaily.com/releases/2016/02/160222111106.htm)
+**#88** read 2016 February 22 10:40 PM. Link: [www.sciencedaily.com/releases/2016/02/160222111...](https://www.sciencedaily.com/releases/2016/02/160222111106.htm)
+
+## Gist: Fidgeting helps ADHD patients perform in working-memory-demanding situations
 
 `adhd`, `study`, `shows`, `squirm`, `fidgeting`, `hyperactivity`, `demands`, `helpful`
 
@@ -5902,7 +5903,7 @@ ___
 
 ___
 
-**#95** read 2016 February 21 06:05 PM. Link: [lifehacker.com/how-we-work-2016-thorin-klosowsk...](http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148)
+**#87** read 2016 February 21 06:05 PM. Link: [lifehacker.com/how-we-work-2016-thorin-klosowsk...](http://lifehacker.com/how-we-work-2016-thorin-klosowskis-gear-and-productiv-1759217148)
 
 ## Gist: Do something out of your comfort zone and walk away a bit happier
 
@@ -5913,7 +5914,7 @@ ___
 
 ___
 
-**#94** read 2016 February 21 04:20 PM. Link: [www.sciencedaily.com/releases/2015/06/150602130...](https://www.sciencedaily.com/releases/2015/06/150602130553.htm)
+**#86** read 2016 February 21 04:20 PM. Link: [www.sciencedaily.com/releases/2015/06/150602130...](https://www.sciencedaily.com/releases/2015/06/150602130553.htm)
 
 ## Gist: Limbic tissue is predicting and directing predictions to everywhere else in cortex, as suggested by its structure and neural organization.
 
@@ -5926,7 +5927,7 @@ ___
 
 ___
 
-**#93** read 2016 February 21 01:42 AM. Link: [phys.org/news/2016-02-holes-drilled-collapse-wo...](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
+**#85** read 2016 February 21 01:42 AM. Link: [phys.org/news/2016-02-holes-drilled-collapse-wo...](http://phys.org/news/2016-02-holes-drilled-collapse-wooden-cube.html)
 
 `holes`, `drilled`, `cube`, `6 cm`, `lattice`, `cell`, `density`, `critical`
 
@@ -5937,7 +5938,7 @@ ___
 
 ___
 
-**#92** read 2016 February 19 03:40 PM. Link: [www.sciencedaily.com/releases/2016/02/160219134...](https://www.sciencedaily.com/releases/2016/02/160219134813.htm)
+**#84** read 2016 February 19 03:40 PM. Link: [www.sciencedaily.com/releases/2016/02/160219134...](https://www.sciencedaily.com/releases/2016/02/160219134813.htm)
 
 `sleep`, `active`, `consolidate memories`, `replay`, `memories`, `brain`, `strengthens`, `hippocampus`
 
@@ -5948,7 +5949,7 @@ ___
 
 ___
 
-**#91** read 2016 February 19 03:33 PM. Link: [www.sciencedaily.com/releases/2016/02/160217090...](https://www.sciencedaily.com/releases/2016/02/160217090810.htm)
+**#83** read 2016 February 19 03:33 PM. Link: [www.sciencedaily.com/releases/2016/02/160217090...](https://www.sciencedaily.com/releases/2016/02/160217090810.htm)
 
 `students`, `attend public`, `test`, `pre k`, `public pre`, `time higher`, `preschool`, `admissions`
 
@@ -5959,7 +5960,7 @@ ___
 
 ___
 
-**#90** read 2016 February 15 03:24 PM. Link: [phys.org/news/2016-02-eternal-5d-storage-histor...](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
+**#82** read 2016 February 15 03:24 PM. Link: [phys.org/news/2016-02-eternal-5d-storage-histor...](http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html)
 
 `data`, `190c`, `000c`, `13`, `femtosecond`, `5d`, `360`, `retrieval`
 
@@ -5970,7 +5971,7 @@ ___
 
 ___
 
-**#89** read 2016 February 15 12:16 AM. Link: [www.sciencealert.com/scientists-have-figured-ou...](http://www.sciencealert.com/scientists-have-figured-out-how-to-to-erase-your-painful-memories)
+**#81** read 2016 February 15 12:16 AM. Link: [www.sciencealert.com/scientists-have-figured-ou...](http://www.sciencealert.com/scientists-have-figured-out-how-to-to-erase-your-painful-memories)
 
 `memories`, `response`, `arachnophobes`, `sweaty`, `dampen`, `norepinephrine`, `tarantula`, `triggering`
 
@@ -5983,16 +5984,7 @@ ___
 
 ___
 
-**#88** read 2016 February 14 10:18 PM. Link: [www.sciencedaily.com/releases/2016/02/160209161...](https://www.sciencedaily.com/releases/2016/02/160209161942.htm)
-
-`quasiparticles`, `plasmons`, `arising`, `electrons`, `collective`, `quantum`, `instrumental`, `components`
-
-- Plasmons, quasiparticles arising from the collective motion of electrons on the surface of a metal, can strongly modify the behavior of nearby light, and could be instrumental in building some of the key components of a quantum circuit
-
-
-___
-
-**#87** read 2016 February 14 09:30 PM. Link: [www.sciencedaily.com/releases/2016/02/160210134...](https://www.sciencedaily.com/releases/2016/02/160210134944.htm)
+**#80** read 2016 February 14 09:30 PM. Link: [www.sciencedaily.com/releases/2016/02/160210134...](https://www.sciencedaily.com/releases/2016/02/160210134944.htm)
 
 `ink`, `colorless`, `color`, `create`, `nanostructure`, `inkjet`, `colloidal`, `team`
 
@@ -6005,7 +5997,9 @@ ___
 
 ___
 
-**#86** read 2016 February 14 08:32 PM. Link: [en.wikipedia.org/wiki/Neural_coding](https://en.wikipedia.org/wiki/Neural_coding)
+**#79** read 2016 February 14 08:32 PM. Link: [en.wikipedia.org/wiki/Neural_coding](https://en.wikipedia.org/wiki/Neural_coding)
+
+## Gist: Neural spike trains can use multiple coding schemes
 
 `coding`, `augment`, `spikes`, `sparse`, `neural`, `schemes`, `strategy`, `sequence`
 
@@ -6016,7 +6010,7 @@ ___
 
 ___
 
-**#85** read 2015 December 01 09:35 PM. Link: [www.sciencealert.com/new-study-suggests-we-re-s...](http://www.sciencealert.com/new-study-suggests-we-re-sending-our-kids-to-school-too-young)
+**#78** read 2015 December 01 09:35 PM. Link: [www.sciencealert.com/new-study-suggests-we-re-s...](http://www.sciencealert.com/new-study-suggests-we-re-sending-our-kids-to-school-too-young)
 
 `start`, `age`, `inattention`, `hyperactivity`, `youngsters`, `kindergarten`, `regulation`, `improving`
 
@@ -6025,7 +6019,7 @@ ___
 
 ___
 
-**#84** read 2016 February 14 01:20 PM. Link: [www.sciencealert.com/new-mathematical-model-she...](http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions)
+**#77** read 2016 February 14 01:20 PM. Link: [www.sciencealert.com/new-mathematical-model-she...](http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions)
 
 `algorithms`, `behavior`, `learning`, `account`, `model`, `habitbased`, `neuroimaging`, `reinforcement`
 
@@ -6040,7 +6034,7 @@ and to identify some of the key brain areas involved in it
 
 ___
 
-**#83** read 2016 February 11 06:38 PM. Link: [www.sciencedaily.com/releases/2016/02/160211140...](http://www.sciencedaily.com/releases/2016/02/160211140426.htm)
+**#76** read 2016 February 11 06:38 PM. Link: [www.sciencedaily.com/releases/2016/02/160211140...](http://www.sciencedaily.com/releases/2016/02/160211140426.htm)
 
 `seek`, `social`, `company`, `rewarding`, `loneliness`, `brains`, `wired`, `mice`
 
@@ -6051,7 +6045,7 @@ ___
 
 ___
 
-**#82** read 2016 February 10 02:57 AM. Link: [www.sciencealert.com/bacterial-cells-are-actual...](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
+**#75** read 2016 February 10 02:57 AM. Link: [www.sciencealert.com/bacterial-cells-are-actual...](http://www.sciencealert.com/bacterial-cells-are-actually-the-world-s-smallest-eyeballs-scientists-discover-by-accident)
 
 `cell`, `light`, `synechocystis`, `refracts`, `pili`, `tentacle`, `cyanobacteria`, `triggers`
 
@@ -6060,7 +6054,7 @@ ___
 
 ___
 
-**#81** read 2016 February 07 02:36 AM. Link: [www.cs.virginia.edu/~robins/YouAndYourResearch....](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+**#74** read 2016 February 07 02:36 AM. Link: [www.cs.virginia.edu/~robins/YouAndYourResearch....](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 `much`, `learn`, `flaws`, `compound`, `opportunity`, `doubt`, `conditions`, `notice`
 
@@ -6073,7 +6067,7 @@ ___
 
 ___
 
-**#80** read 2016 February 06 02:35 AM. Link: [www.sciencedaily.com/releases/2015/11/151110171...](http://www.sciencedaily.com/releases/2015/11/151110171354.htm)
+**#73** read 2016 February 06 02:35 AM. Link: [www.sciencedaily.com/releases/2015/11/151110171...](http://www.sciencedaily.com/releases/2015/11/151110171354.htm)
 
 `visual`, `wave`, `acuity`, `lapses`, `stimulus`, `gaps`, `tenth`, `shorter`
 
@@ -6086,7 +6080,9 @@ ___
 
 ___
 
-**#79** read 2016 February 05 01:54 AM. Link: [www.sciencedaily.com/releases/2016/02/160204175...](http://www.sciencedaily.com/releases/2016/02/160204175640.htm)
+**#72** read 2016 February 05 01:54 AM. Link: [www.sciencedaily.com/releases/2016/02/160204175...](http://www.sciencedaily.com/releases/2016/02/160204175640.htm)
+
+## Gist: Brain plasticity varies by functional network
 
 `plasticity`, `scientists`, `response`, `synapses`, `assorted`, `neighboring`, `functional`, `dramatic`
 
@@ -6097,7 +6093,9 @@ ___
 
 ___
 
-**#78** read 2016 February 04 12:24 AM. Link: [www.sciencealert.com/scientists-have-found-a-te...](http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast)
+**#71** read 2016 February 04 12:24 AM. Link: [www.sciencealert.com/scientists-have-found-a-te...](http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast)
+
+## Gist: Practising variations of a task more efficient than practising exact same task
 
 `practise`, `faster`, `exact`, `modified`, `row`, `learn`, `slightly`, `task`
 
@@ -6106,7 +6104,7 @@ ___
 
 ___
 
-**#77** read 2016 January 30 11:17 PM. Link: [lifehacker.com/why-you-shouldn-t-take-some-medi...](http://lifehacker.com/why-you-shouldn-t-take-some-medicines-with-grapefruit-j-1755800582)
+**#70** read 2016 January 30 11:17 PM. Link: [lifehacker.com/why-you-shouldn-t-take-some-medi...](http://lifehacker.com/why-you-shouldn-t-take-some-medicines-with-grapefruit-j-1755800582)
 
 ## Gist: Grapefruit juice affects effect size of some medications
 
@@ -6117,7 +6115,7 @@ ___
 
 ___
 
-**#76** read 2016 January 29 04:28 PM. Link: [www.sciencedaily.com/releases/2016/01/160129131...](http://www.sciencedaily.com/releases/2016/01/160129131756.htm)
+**#69** read 2016 January 29 04:28 PM. Link: [www.sciencedaily.com/releases/2016/01/160129131...](http://www.sciencedaily.com/releases/2016/01/160129131756.htm)
 
 ## Gist: Tracing over a math problem improves performance and understanding of geometry and algebra problems in children.
 
@@ -6128,7 +6126,7 @@ ___
 
 ___
 
-**#75** read 2016 January 28 02:31 PM. Link: [phys.org/news/2015-05-brain-map-geometries.html...](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
+**#68** read 2016 January 28 02:31 PM. Link: [phys.org/news/2015-05-brain-map-geometries.html...](http://phys.org/news/2015-05-brain-map-geometries.html#nRlv)
 
 ## Gist: Space-mapping grid cells in rodent entorhinal cortex could also map hyperbolic surfaces.
 
@@ -6139,7 +6137,9 @@ ___
 
 ___
 
-**#74** read 2016 January 28 01:33 AM. Link: [www.sciencealert.com/massive-study-identifies-s...](http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time)
+**#67** read 2016 January 28 01:33 AM. Link: [www.sciencealert.com/massive-study-identifies-s...](http://www.sciencealert.com/massive-study-identifies-specific-gene-linked-to-highest-schizophrenia-risk-for-the-first-time)
+
+## Gist: Synaptic pruning linked to gene variant
 
 `c4`, `hallmarks`, `schizophrenia`, `neural`, `cutting`, `variant`, `connections`, `putting`
 
@@ -6148,7 +6148,7 @@ ___
 
 ___
 
-**#73** read 2016 January 24 02:24 AM. Link: [www.sciencedaily.com/releases/2016/01/160120143...](http://www.sciencedaily.com/releases/2016/01/160120143600.htm)
+**#66** read 2016 January 24 02:24 AM. Link: [www.sciencedaily.com/releases/2016/01/160120143...](http://www.sciencedaily.com/releases/2016/01/160120143600.htm)
 
 `effect`, `performance`, `performance brands`, `3m`, `novices`, `lowers`, `placebo`, `esteem`
 
@@ -6163,7 +6163,7 @@ ___
 
 ___
 
-**#72** read 2016 January 22 12:51 AM. Link: [www.sciencealert.com/scientists-think-they-ve-f...](http://www.sciencealert.com/scientists-think-they-ve-figured-out-why-the-brain-uses-up-so-much-energy)
+**#65** read 2016 January 22 12:51 AM. Link: [www.sciencealert.com/scientists-think-they-ve-f...](http://www.sciencealert.com/scientists-think-they-ve-figured-out-why-the-brain-uses-up-so-much-energy)
 
 `pathways`, `limbic`, `looping`, `behavioural`, `sensory`, `functionality`, `minds`, `happening`
 
@@ -6174,7 +6174,7 @@ ___
 
 ___
 
-**#71** read 2016 January 21 02:43 AM. Link: [www.sciencealert.com/our-brain-s-memory-capacit...](http://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought)
+**#64** read 2016 January 21 02:43 AM. Link: [www.sciencealert.com/our-brain-s-memory-capacit...](http://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought)
 
 ## Gist: Synapses can change size every 2 to 20 minutes.
 
@@ -6185,7 +6185,9 @@ ___
 
 ___
 
-**#70** read 2016 January 20 10:43 PM. Link: [lifehacker.com/why-slow-internet-and-getting-st...](http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774)
+**#63** read 2016 January 20 10:43 PM. Link: [lifehacker.com/why-slow-internet-and-getting-st...](http://lifehacker.com/why-slow-internet-and-getting-stuck-in-traffic-makes-yo-1754114774)
+
+## Gist: Being restrained can make increase aggression via the S(topped) trigger
 
 `restrained`, `stopped`, `trigger`, `aggressive`, `engage`, `reaction`, `stands`, `animal`
 
@@ -6194,7 +6196,7 @@ ___
 
 ___
 
-**#69** read 2016 January 18 11:01 AM. Link: [www.scientificamerican.com/article/why-boredom-...](http://www.scientificamerican.com/article/why-boredom-is-anything-but-boring/)
+**#62** read 2016 January 18 11:01 AM. Link: [www.scientificamerican.com/article/why-boredom-...](http://www.scientificamerican.com/article/why-boredom-is-anything-but-boring/)
 
 `student`, `got`, `snidely`, `25`, `schatz`, `boredom`, `learners`, `programmed`
 
@@ -6205,7 +6207,7 @@ ___
 
 ___
 
-**#68** read 2016 January 17 01:20 AM. Link: [www.sciencealert.com/the-next-generation-of-com...](http://www.sciencealert.com/the-next-generation-of-computers-could-give-us-artificial-brain-boosts)
+**#61** read 2016 January 17 01:20 AM. Link: [www.sciencealert.com/the-next-generation-of-com...](http://www.sciencealert.com/the-next-generation-of-computers-could-give-us-artificial-brain-boosts)
 
 ## Gist: Brain working hard = high oxygen, resting/autopolot = low oxygen.
 
@@ -6216,7 +6218,9 @@ ___
 
 ___
 
-**#67** read 2016 January 16 10:26 PM. Link: [www.sciencealert.com/scientists-discover-new-me...](http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields)
+**#60** read 2016 January 16 10:26 PM. Link: [www.sciencealert.com/scientists-discover-new-me...](http://www.sciencealert.com/scientists-discover-new-method-of-brain-wave-transmission-electrical-fields)
+
+## Gist: Low amplitude electric field: neurons more excitable
 
 `field`, `26`, `excite`, `amplitude`, `mediate`, `activate`, `propagation`, `neurons`
 
@@ -6225,7 +6229,7 @@ ___
 
 ___
 
-**#66** read 2016 January 12 02:40 PM. Link: [www.sciencedaily.com/releases/2016/01/160112102...](http://www.sciencedaily.com/releases/2016/01/160112102026.htm)
+**#59** read 2016 January 12 02:40 PM. Link: [www.sciencedaily.com/releases/2016/01/160112102...](http://www.sciencedaily.com/releases/2016/01/160112102026.htm)
 
 `addicted`, `drug`, `individual`, `basolateral amygdala`, `striatum`, `circumventing`, `cortex`, `cocaine`
 
@@ -6238,7 +6242,9 @@ ___
 
 ___
 
-**#65** read 2016 January 12 02:38 PM. Link: [www.sciencedaily.com/releases/2016/01/160112125...](http://www.sciencedaily.com/releases/2016/01/160112125419.htm)
+**#58** read 2016 January 12 02:38 PM. Link: [www.sciencedaily.com/releases/2016/01/160112125...](http://www.sciencedaily.com/releases/2016/01/160112125419.htm)
+
+## Gist: Innate ratio processing ability linked to aptitude for other math concepts
 
 `aptitude`, `fractions`, `innate`, `determining`, `concepts`, `mathematical`, `processing`, `formal`
 
@@ -6247,7 +6253,7 @@ ___
 
 ___
 
-**#64** read 2016 January 12 02:26 PM. Link: [www.sciencedaily.com/releases/2016/01/160112125...](http://www.sciencedaily.com/releases/2016/01/160112125425.htm)
+**#57** read 2016 January 12 02:26 PM. Link: [www.sciencedaily.com/releases/2016/01/160112125...](http://www.sciencedaily.com/releases/2016/01/160112125425.htm)
 
 ## Gist: Preschooler short-term recall related to highschool dropout rate
 
@@ -6258,7 +6264,7 @@ ___
 
 ___
 
-**#63** read 2016 January 11 01:38 AM. Link: [www.sciencealert.com/scientists-create-world-s-...](http://www.sciencealert.com/scientists-create-world-s-most-expensive-material-valued-at-145-million-per-gram)
+**#56** read 2016 January 11 01:38 AM. Link: [www.sciencealert.com/scientists-create-world-s-...](http://www.sciencealert.com/scientists-create-world-s-most-expensive-material-valued-at-145-million-per-gram)
 
 `fullerene`, `atoms`, `carbon`, `60`, `endohedral`, `nanostructures`, `sturdy`, `phosphorus`
 
@@ -6267,7 +6273,7 @@ ___
 
 ___
 
-**#62** read 2016 January 08 08:42 PM. Link: [www.sciencedaily.com/releases/2014/12/141210080...](http://www.sciencedaily.com/releases/2014/12/141210080740.htm)
+**#55** read 2016 January 08 08:42 PM. Link: [www.sciencedaily.com/releases/2014/12/141210080...](http://www.sciencedaily.com/releases/2014/12/141210080740.htm)
 
 `saving`, `act`, `research`, `information`, `cognitive`, `encounter`, `helps`, `suggests`
 
@@ -6276,16 +6282,9 @@ ___
 
 ___
 
-**#61** read 2016 January 08 12:02 AM. Link: [www.sciencedaily.com/releases/2016/01/160105223...](http://www.sciencedaily.com/releases/2016/01/160105223948.htm)
+**#54** read 2016 January 07 04:09 PM. Link: [www.sciencedaily.com/releases/2016/01/160104130...](http://www.sciencedaily.com/releases/2016/01/160104130826.htm)
 
-`autistic`, `friendships`, `girls`, `autism`, `recognizing`, `socially`, `intimate`, `motivated`
-
-- Autistic girls are more socially motivated and have more intimate friendships than autistic boys, but are not as good as girls without autism at recognizing conflict in those friendships, new research suggests.
-
-
-___
-
-**#60** read 2016 January 07 04:09 PM. Link: [www.sciencedaily.com/releases/2016/01/160104130...](http://www.sciencedaily.com/releases/2016/01/160104130826.htm)
+## Gist: Beyond a certain point, we cannot cancel a movement the brain has started preparing for
 
 `brain`, `point`, `cancel`, `duel`, `preparing`, `researchers`, `conclusion`, `certain`
 
@@ -6296,7 +6295,7 @@ ___
 
 ___
 
-**#59** read 2016 January 07 04:03 PM. Link: [www.sciencedaily.com/releases/2016/01/160107094...](http://www.sciencedaily.com/releases/2016/01/160107094111.htm)
+**#53** read 2016 January 07 04:03 PM. Link: [www.sciencedaily.com/releases/2016/01/160107094...](http://www.sciencedaily.com/releases/2016/01/160107094111.htm)
 
 ## Gist: Autopilot part of brain also related to core values?
 
@@ -6307,7 +6306,7 @@ ___
 
 ___
 
-**#58** read 2016 January 07 02:32 PM. Link: [www.sciencedaily.com/releases/2016/01/160107104...](http://www.sciencedaily.com/releases/2016/01/160107104806.htm)
+**#52** read 2016 January 07 02:32 PM. Link: [www.sciencedaily.com/releases/2016/01/160107104...](http://www.sciencedaily.com/releases/2016/01/160107104806.htm)
 
 ## Gist: Taking an omniscient perspective can reduce bias against others.
 
@@ -6318,7 +6317,7 @@ ___
 
 ___
 
-**#57** read 2016 January 07 02:30 PM. Link: [www.sciencedaily.com/releases/2016/01/160107094...](http://www.sciencedaily.com/releases/2016/01/160107094105.htm)
+**#51** read 2016 January 07 02:30 PM. Link: [www.sciencedaily.com/releases/2016/01/160107094...](http://www.sciencedaily.com/releases/2016/01/160107094105.htm)
 
 ## Gist: Valuing your time more than pursuit of money linked to greater happiness
 
@@ -6329,25 +6328,7 @@ ___
 
 ___
 
-**#56** read 2016 January 07 02:04 PM. Link: [vitals.lifehacker.com/what-to-expect-when-you-s...](http://vitals.lifehacker.com/what-to-expect-when-you-start-working-out-again-after-a-1751582922)
-
-`strength`, `quick`, `youll`, `squat`, `doesnt`, `jumps`, `decline`, `movements`
-
-- Strength doesn’t decline as quickly. After a month, you’ll still have most of your strength and your “power” (that’s your strength in quick movements, like your ability to do squat jumps)
-
-
-___
-
-**#55** read 2016 January 04 10:42 PM. Link: [www.sciencedaily.com/releases/2016/01/160104080...](http://www.sciencedaily.com/releases/2016/01/160104080041.htm)
-
-`inputs`, `processed`, `crowd`, `improvement`, `techniques`, `analysis`, `kind`, `access`
-
-- Recent techniques provide real-time access to crowd-based inputs, where individual contributions can be processed by a computer and sent to the next person for improvement or analysis of a different kind
-
-
-___
-
-**#54** read 2016 January 04 04:08 PM. Link: [phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
+**#50** read 2016 January 04 04:08 PM. Link: [phys.org/news/2016-01-evidence-bad.html](http://phys.org/news/2016-01-evidence-bad.html)
 
 ## Gist: Large unanimity is less likely than the system being broken
 
@@ -6358,16 +6339,7 @@ ___
 
 ___
 
-**#53** read 2016 January 02 05:49 PM. Link: [www.sciencedaily.com/releases/2015/12/151223130...](http://www.sciencedaily.com/releases/2015/12/151223130553.htm)
-
-`system`, `passwords`, `numerical`, `dependent`, `hardware`, `secure`, `suggests`, `factor`
-
-- A system using images and a one-time numerical code could provide a secure and easy to use alternative to multi-factor systems dependent on hardware or software and one-time passwords, a study suggests.
-
-
-___
-
-**#52** read 2015 December 30 07:42 PM. Link: [www.sciencedaily.com/releases/2015/12/151223134...](http://www.sciencedaily.com/releases/2015/12/151223134123.htm)
+**#49** read 2015 December 30 07:42 PM. Link: [www.sciencedaily.com/releases/2015/12/151223134...](http://www.sciencedaily.com/releases/2015/12/151223134123.htm)
 
 `brain`, `organization`, `research`, `neuropsychiatric`, `unraveled`, `biomarker`, `discontinuity`, `quantified`
 
@@ -6376,7 +6348,9 @@ ___
 
 ___
 
-**#51** read 2015 December 30 12:44 AM. Link: [www.sciencealert.com/how-to-keep-your-new-year-...](http://www.sciencealert.com/how-to-keep-your-new-year-s-resolutions-according-to-science)
+**#48** read 2015 December 30 12:44 AM. Link: [www.sciencealert.com/how-to-keep-your-new-year-...](http://www.sciencealert.com/how-to-keep-your-new-year-s-resolutions-according-to-science)
+
+## Gist: Do not rely on willpower; make small manageable goals, document succes, share intentions, accept some failure
 
 `willpower`, `manageable`, `relying`, `importantly`, `intentions`, `failing`, `document`, `beat`
 
@@ -6387,7 +6361,7 @@ ___
 
 ___
 
-**#50** read 2015 December 26 01:40 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/)
+**#47** read 2015 December 26 01:40 PM. Link: [www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667098/)
 
 `pharmacological cognitive enhancement`, `npce`, `pce`, `non pharmacological`, `effective`, `modafinil`, `methylphenidate`, `caffeine`
 
@@ -6400,7 +6374,7 @@ ___
 
 ___
 
-**#49** read 2015 December 24 03:05 AM. Link: [www.sciencealert.com/here-s-why-evolution-might...](http://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is)
+**#46** read 2015 December 24 03:05 AM. Link: [www.sciencealert.com/here-s-why-evolution-might...](http://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is)
 
 ## Gist: The mechanisms behind evolution can themselves evolve.
 
@@ -6411,16 +6385,9 @@ ___
 
 ___
 
-**#48** read 2015 December 24 02:07 AM. Link: [www.sciencedaily.com/releases/2015/12/151223165...](http://www.sciencedaily.com/releases/2015/12/151223165503.htm)
+**#45** read 2015 December 21 11:53 PM. Link: [www.sciencedaily.com/releases/2015/12/151218084...](http://www.sciencedaily.com/releases/2015/12/151218084602.htm)
 
-`basketball`, `youve`, `youll`, `practicing`, `chances`, `throwing`, `imagine`, `arc`
-
-- Imagine standing on a basketball court, throwing the basketball and watching it arc into the net. Chances are you’ll make that shot without a problem if you’ve been practicing, according to new research.
-
-
-___
-
-**#47** read 2015 December 21 11:53 PM. Link: [www.sciencedaily.com/releases/2015/12/151218084...](http://www.sciencedaily.com/releases/2015/12/151218084602.htm)
+## Gist: Ostrich effect: investors tend to avoid facing financial portfolio when expecting bad news
 
 `seppi`, `loewenstein`, `2009`, `ostrich`, `portfolios`, `duane`, `expecting`, `dodge`
 
@@ -6429,7 +6396,9 @@ ___
 
 ___
 
-**#46** read 2015 December 21 09:39 PM. Link: [www.sciencedaily.com/releases/2015/12/151221194...](http://www.sciencedaily.com/releases/2015/12/151221194128.htm)
+**#44** read 2015 December 21 09:39 PM. Link: [www.sciencedaily.com/releases/2015/12/151221194...](http://www.sciencedaily.com/releases/2015/12/151221194128.htm)
+
+## Gist: Material purchases: frequent happiness. Experiental purchases: more intense one-time happiness.
 
 `purchases`, `happiness`, `provide`, `sweaters`, `skateboards`, `experiential`, `intense`, `zoo`
 
@@ -6438,7 +6407,7 @@ ___
 
 ___
 
-**#45** read 2015 December 20 09:46 PM. Link: [www.sciencealert.com/researchers-have-proved-th...](http://www.sciencealert.com/researchers-have-proved-that-a-fundamental-quantum-physics-problem-really-is-unsolvable)
+**#43** read 2015 December 20 09:46 PM. Link: [www.sciencealert.com/researchers-have-proved-th...](http://www.sciencealert.com/researchers-have-proved-that-a-fundamental-quantum-physics-problem-really-is-unsolvable)
 
 `analyse`, `lump`, `dramatically`, `bizarre`, `defeats`, `particle`, `exhibit`, `solve`
 
@@ -6449,7 +6418,7 @@ ___
 
 ___
 
-**#44** read 2015 December 19 12:39 AM. Link: [www.sciencedaily.com/releases/2015/12/151216115...](http://www.sciencedaily.com/releases/2015/12/151216115823.htm)
+**#42** read 2015 December 19 12:39 AM. Link: [www.sciencedaily.com/releases/2015/12/151216115...](http://www.sciencedaily.com/releases/2015/12/151216115823.htm)
 
 ## Gist: Anemia correlated with lower verbal memory and executive functions
 
@@ -6460,7 +6429,7 @@ ___
 
 ___
 
-**#43** read 2015 December 18 05:44 AM. Link: [www.sciencealert.com/a-common-face-cream-ingred...](http://www.sciencealert.com/a-common-face-cream-ingredient-might-help-us-live-longer-study-finds)
+**#41** read 2015 December 18 05:44 AM. Link: [www.sciencealert.com/a-common-face-cream-ingred...](http://www.sciencealert.com/a-common-face-cream-ingredient-might-help-us-live-longer-study-finds)
 
 `found`, `comfrey`, `allantoin`, `20`, `creams`, `ageing`, `lifespan`, `extracts`
 
@@ -6469,7 +6438,7 @@ ___
 
 ___
 
-**#42** read 2015 December 17 04:44 PM. Link: [www.sciencealert.com/dogs-give-food-to-their-fr...](http://www.sciencealert.com/dogs-give-food-to-their-friends-in-first-of-its-kind-study)
+**#40** read 2015 December 17 04:44 PM. Link: [www.sciencealert.com/dogs-give-food-to-their-fr...](http://www.sciencealert.com/dogs-give-food-to-their-friends-in-first-of-its-kind-study)
 
 `dogs`, `prosocial behaviour`, `exhibit`, `familiar`, `behaviour`, `toward`, `ulterior`, `voluntarily`
 
@@ -6480,7 +6449,7 @@ ___
 
 ___
 
-**#41** read 2015 December 14 06:17 PM. Link: [www.sciencedaily.com/releases/2015/12/151209091...](http://www.sciencedaily.com/releases/2015/12/151209091224.htm)
+**#39** read 2015 December 14 06:17 PM. Link: [www.sciencedaily.com/releases/2015/12/151209091...](http://www.sciencedaily.com/releases/2015/12/151209091224.htm)
 
 ## Gist: Send unreadable messages back in time to solve problems?
 
@@ -6491,7 +6460,7 @@ ___
 
 ___
 
-**#40** read 2015 December 14 06:13 PM. Link: [www.sciencedaily.com/releases/2015/12/151214145...](http://www.sciencedaily.com/releases/2015/12/151214145956.htm)
+**#38** read 2015 December 14 06:13 PM. Link: [www.sciencedaily.com/releases/2015/12/151214145...](http://www.sciencedaily.com/releases/2015/12/151214145956.htm)
 
 ## Gist: Brain region for emotional processing affected by state of tinnitus
 
@@ -6502,7 +6471,7 @@ ___
 
 ___
 
-**#39** read 2015 December 14 01:07 AM. Link: [www.sciencedaily.com/releases/2015/12/151211131...](http://www.sciencedaily.com/releases/2015/12/151211131546.htm)
+**#37** read 2015 December 14 01:07 AM. Link: [www.sciencedaily.com/releases/2015/12/151211131...](http://www.sciencedaily.com/releases/2015/12/151211131546.htm)
 
 `labeled`, `cheese`, `tasty`, `flavour`, `ghent`, `delicious`, `perception`, `equally`
 
@@ -6513,7 +6482,7 @@ ___
 
 ___
 
-**#38** read 2015 December 14 12:56 AM. Link: [www.sciencedaily.com/releases/2015/12/151211131...](http://www.sciencedaily.com/releases/2015/12/151211131723.htm)
+**#36** read 2015 December 14 12:56 AM. Link: [www.sciencedaily.com/releases/2015/12/151211131...](http://www.sciencedaily.com/releases/2015/12/151211131723.htm)
 
 `training`, `athletes`, `exercise`, `hard`, `period`, `40`, `winks`, `carbohydrate`
 
@@ -6528,7 +6497,9 @@ ___
 
 ___
 
-**#37** read 2015 December 13 08:51 PM. Link: [www.sciencedaily.com/releases/2015/12/151210181...](http://www.sciencedaily.com/releases/2015/12/151210181933.htm)
+**#35** read 2015 December 13 08:51 PM. Link: [www.sciencedaily.com/releases/2015/12/151210181...](http://www.sciencedaily.com/releases/2015/12/151210181933.htm)
+
+## Gist: Hiring overqualified employees can be beneficial
 
 `employee`, `overqualified`, `overqualification`, `applicants`, `hiring`, `harmful`, `brings`, `benefits`
 
@@ -6537,7 +6508,7 @@ ___
 
 ___
 
-**#36** read 2015 December 12 04:44 PM. Link: [www.sciencedaily.com/releases/2015/12/151208184...](http://www.sciencedaily.com/releases/2015/12/151208184335.htm)
+**#34** read 2015 December 12 04:44 PM. Link: [www.sciencedaily.com/releases/2015/12/151208184...](http://www.sciencedaily.com/releases/2015/12/151208184335.htm)
 
 `concentrating`, `deaf`, `brain`, `sounds`, `magnetoencephalography`, `inattentional`, `momentarily`, `auditory`
 
@@ -6550,7 +6521,7 @@ ___
 
 ___
 
-**#35** read 2015 December 12 04:41 PM. Link: [www.sciencedaily.com/releases/2015/12/151210144...](http://www.sciencedaily.com/releases/2015/12/151210144912.htm)
+**#33** read 2015 December 12 04:41 PM. Link: [www.sciencedaily.com/releases/2015/12/151210144...](http://www.sciencedaily.com/releases/2015/12/151210144912.htm)
 
 `neuron`, `apigenin`, `substance`, `brain`, `cells`, `formation`, `25`, `flavonoids`
 
@@ -6563,16 +6534,7 @@ ___
 
 ___
 
-**#34** read 2015 December 12 04:38 PM. Link: [www.sciencedaily.com/releases/2015/12/151210144...](http://www.sciencedaily.com/releases/2015/12/151210144543.htm)
-
-`wages`, `recipients`, `earn`, `graduation`, `funded`, `markets`, `ph`, `participate`
-
-- Research-funded Ph.D. recipients earn high wages after graduation, participate in national and international labor markets, and make an important impact on local economic development, according to a new study.
-
-
-___
-
-**#33** read 2015 December 12 04:29 PM. Link: [www.sciencedaily.com/releases/2015/12/151210181...](http://www.sciencedaily.com/releases/2015/12/151210181622.htm)
+**#32** read 2015 December 12 04:29 PM. Link: [www.sciencedaily.com/releases/2015/12/151210181...](http://www.sciencedaily.com/releases/2015/12/151210181622.htm)
 
 ## Gist: Addiction linked to sensation/excitement seeking tendency.
 
@@ -6583,7 +6545,9 @@ ___
 
 ___
 
-**#32** read 2015 December 06 10:01 PM. Link: [www.sciencedaily.com/releases/2015/11/151109083...](http://www.sciencedaily.com/releases/2015/11/151109083415.htm)
+**#31** read 2015 December 06 10:01 PM. Link: [www.sciencedaily.com/releases/2015/11/151109083...](http://www.sciencedaily.com/releases/2015/11/151109083415.htm)
+
+## Gist: Being reminded about what not to do helps children control impulsive behavior -- not simply having to wait
 
 `control`, `help young`, `impulsive`, `reminded`, `delay`, `exercise`, `passage`, `wait`
 
@@ -6594,7 +6558,7 @@ ___
 
 ___
 
-**#31** read 2015 December 06 10:00 PM. Link: [www.sciencedaily.com/releases/2015/11/151109110...](http://www.sciencedaily.com/releases/2015/11/151109110501.htm)
+**#30** read 2015 December 06 10:00 PM. Link: [www.sciencedaily.com/releases/2015/11/151109110...](http://www.sciencedaily.com/releases/2015/11/151109110501.htm)
 
 `emotional`, `contagious`, `twitter`, `positive emotional`, `negative ones`, `contagion`, `susceptible`, `virus`
 
@@ -6605,7 +6569,7 @@ ___
 
 ___
 
-**#30** read 2015 December 06 09:40 PM. Link: [www.scientificamerican.com/article/hunger-makes...](http://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/)
+**#29** read 2015 December 06 09:40 PM. Link: [www.scientificamerican.com/article/hunger-makes...](http://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/)
 
 `hungry`, `clips`, `group`, `werent`, `satiated`, `binder`, `didnt`, `fewer`
 
@@ -6616,7 +6580,7 @@ ___
 
 ___
 
-**#29** read 2015 December 06 09:26 PM. Link: [www.sciencedaily.com/releases/2015/11/151109085...](http://www.sciencedaily.com/releases/2015/11/151109085103.htm)
+**#28** read 2015 December 06 09:26 PM. Link: [www.sciencedaily.com/releases/2015/11/151109085...](http://www.sciencedaily.com/releases/2015/11/151109085103.htm)
 
 ## Gist: The blood-brain barries can be non-invasively opened with focused ultrasound.
 
@@ -6627,7 +6591,7 @@ ___
 
 ___
 
-**#28** read 2015 December 06 09:16 PM. Link: [www.scientificamerican.com/article/new-experien...](http://www.scientificamerican.com/article/new-experiences-can-strengthen-old-memories/)
+**#27** read 2015 December 06 09:16 PM. Link: [www.scientificamerican.com/article/new-experien...](http://www.scientificamerican.com/article/new-experiences-can-strengthen-old-memories/)
 
 ## Gist: Brain maintains weak memories for a time which are capable of being enhanced
 
@@ -6638,7 +6602,7 @@ ___
 
 ___
 
-**#27** read 2015 December 06 09:09 PM. Link: [www.scientificamerican.com/article/why-we-are-a...](http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/)
+**#26** read 2015 December 06 09:09 PM. Link: [www.scientificamerican.com/article/why-we-are-a...](http://www.scientificamerican.com/article/why-we-are-attracted-to-deviant-personalities/)
 
 `pathological personality`, `traits`, `weeded`, `neurotic`, `impulsive`, `biases`, `confer`, `mates`
 
@@ -6651,7 +6615,7 @@ ___
 
 ___
 
-**#26** read 2015 December 06 07:33 PM. Link: [www.sciencedaily.com/releases/2015/11/151113051...](http://www.sciencedaily.com/releases/2015/11/151113051128.htm)
+**#25** read 2015 December 06 07:33 PM. Link: [www.sciencedaily.com/releases/2015/11/151113051...](http://www.sciencedaily.com/releases/2015/11/151113051128.htm)
 
 `memory`, `meal`, `episodic memory`, `eat`, `sweet`, `brain`, `food`, `autobiographical`
 
@@ -6666,7 +6630,7 @@ ___
 
 ___
 
-**#25** read 2015 December 06 07:24 PM. Link: [lifehacker.com/if-you-cant-come-up-with-a-good-...](http://lifehacker.com/if-you-cant-come-up-with-a-good-idea-put-two-other-ide-1741616445)
+**#24** read 2015 December 06 07:24 PM. Link: [lifehacker.com/if-you-cant-come-up-with-a-good-...](http://lifehacker.com/if-you-cant-come-up-with-a-good-idea-put-two-other-ide-1741616445)
 
 ## Gist: Take two random concepts and see how you can fit them together.
 
@@ -6677,7 +6641,7 @@ ___
 
 ___
 
-**#24** read 2015 December 06 07:10 PM. Link: [www.sciencedaily.com/releases/2015/11/151111165...](http://www.sciencedaily.com/releases/2015/11/151111165436.htm)
+**#23** read 2015 December 06 07:10 PM. Link: [www.sciencedaily.com/releases/2015/11/151111165...](http://www.sciencedaily.com/releases/2015/11/151111165436.htm)
 
 `apologies`, `heard`, `important`, `children`, `transgressor`, `transgression`, `mitigate`, `confirms`
 
@@ -6686,15 +6650,6 @@ ___
 - children who experienced a minor transgression and heard an apology felt just as bad as those who did not hear an apology
 
 - But those who heard the transgressor say, 'I'm sorry' actually shared more with that person later. The apology repaired the relationship even though it did not mitigate their hurt feelings
-
-
-___
-
-**#23** read 2015 December 06 07:05 PM. Link: [www.sciencedaily.com/releases/2015/11/151113115...](http://www.sciencedaily.com/releases/2015/11/151113115607.htm)
-
-`people`, `65`, `happier`, `depressed`, `onwards`, `notion`, `challenged`, `suggests`
-
-- The notion that older people are happier than younger people is being challenged following a recent study. In fact it suggests that people get more depressed from age 65 onwards.
 
 
 ___
@@ -6727,6 +6682,8 @@ ___
 
 **#20** read 2015 December 05 04:49 PM. Link: [www.sciencedaily.com/releases/2014/09/140916111...](http://www.sciencedaily.com/releases/2014/09/140916111907.htm)
 
+## Gist: Actively categorizing your experiences may help extend good ones and shorten bad ones
+
 `experiences`, `shorten`, `consumers`, `extend`, `bad ones`, `categorizing`, `wonderful`, `trick`
 
 - A new study finds that simply categorizing experiences can help consumers extend good experiences and shorten the bad ones
@@ -6737,6 +6694,8 @@ ___
 ___
 
 **#19** read 2015 December 05 04:47 PM. Link: [www.sciencedaily.com/releases/2014/10/141020212...](http://www.sciencedaily.com/releases/2014/10/141020212754.htm)
+
+## Gist: Mental rest and reflection between learning episodes may be beneficial
 
 `learned`, `boost`, `reflect`, `rest`, `minds`, `mechanisms`, `mental`, `engaged`
 
@@ -6761,6 +6720,8 @@ ___
 ___
 
 **#17** read 2015 December 04 10:28 PM. Link: [www.sciencedaily.com/releases/2015/04/150428171...](http://www.sciencedaily.com/releases/2015/04/150428171404.htm)
+
+## Gist: Uncertainty of causal relationship positively influences memorability
 
 `learning`, `whether`, `causal`, `stimulus`, `uncertainty`, `switching`, `determining`, `outcome`
 

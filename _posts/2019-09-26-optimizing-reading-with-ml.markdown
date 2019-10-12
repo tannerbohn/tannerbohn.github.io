@@ -49,13 +49,12 @@ _NOTE: From here on, to _study_ something will mean to read something in its ent
 For example, if we have a stack of possibly relevant books, our action sequence at the current level of abstraction might look like: **LOCATE** a promising book to read → **LOCATE** a promising chapter in the book → **LOCATE** a promising paragraph in the chapter → **STUDY** the paragraph → (fail to) **LOCATE** another promising paragraph → **LOCATE** another promising chapter → **STUDY** the chapter → (fail to) **LOCATE** another promising chapter → **LOCATE** another promising book → ... → **STOP** reading (because we met our goal, or got tired, or bored, or distracted, etc.).
 
 
-<a href="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/read_opt_example_steps.png" target="_blank"><img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/read_opt_example_steps.png" alt="SLIDES" width="500" height="280" border="2" /></a>
-
+<a href="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/read_opt_example_steps.png" target="_blank"><img src="https://raw.githubusercontent.com/tannerbohn/tannerbohn.github.io/master/assets/read_opt_example_steps.png" alt="example steps" width="600" height="300" border="0" /></a>
 
 
 From this example, it is clear that a _reading item_ can refer to reading material at any resolution: a stack of books... whose sub-items are books... whose sub-items are chapters... whose sub-items are paragraphs... whose sub-items are sentences... whose sub-items are words. In reality, it can be even more complicated than this, as you might identify multiple groups of promising documents by looking with different search terms, or you might find a document with no chapters, or you might find a textbook which has several levels of subsections, etc.
 
-To emphasize this inherently recursive nature of the reading process, the 'main loop' of reading can roughly can described as follows: _**if the item is small and important enough, study it, otherwise try identify a sub-item to read**_. In more detail, the pseudocode for `read_item` might be:
+To emphasize this inherently recursive nature of the reading process, the 'main loop' of reading can roughly be described as follows: _**if the item is small and important enough, study it, otherwise try identify a sub-item to read**_. In more detail, the pseudocode for `read_item` might be:
 
 ~~~~python
 def read_item(item):
@@ -74,6 +73,8 @@ def read_item(item):
         sub-item := locate_sub_item()
         if estimate_value(sub-item) > threshold:
             read_item(sub-item)
+
+    return
 ~~~~
 
 This code makes it clear that before we study an item (or instead choose to break it into sub-items), multiple (often unconscious) cost-benefit calculations are likely made. Guided by the intuition that our brains are designed to be as lazy as they can (TODO: CITE), before we expend the energy to study an item, we make sure that it is more energy/effort efficient than possibly studying only a fraction of the item, but paying the up-front costs of having to triage/locate sub-items.
