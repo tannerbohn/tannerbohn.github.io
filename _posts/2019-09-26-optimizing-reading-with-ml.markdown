@@ -1,12 +1,11 @@
 ---
 layout: post
 comments: false
-title:  "How to Optimize Humans Reading with Machine Learning"
+title:  "How to Optimize Humans Reading with Machine Learning (Part I)"
 excerpt: "An introductory look at how the reading process can be improved with machine learning"
 date:   2019-09-26 05:00:00
 ---
 
-# Optimizing Reading with Machine Learning
 
 <!---
 Part 1: introduction, establishing pseudocode, identify processes to improve
@@ -70,20 +69,20 @@ def read_item(item):
         return
 
     while item_value > triage_cost:
-        sub-item := locate_sub_item()
-        if estimate_value(sub-item) > threshold:
-            read_item(sub-item)
+        sub_item := locate_sub_item()
+        if estimate_value(sub_item) > threshold:
+            read_item(sub_item)
 
     return
 ~~~~
 
-This code makes it clear that before we study an item (or instead choose to break it into sub-items), multiple (often unconscious) cost-benefit calculations are likely made. Guided by the intuition that our brains are designed to be as lazy as they can (TODO: CITE), before we expend the energy to study an item, we make sure that it is more energy/effort efficient than possibly studying only a fraction of the item, but paying the up-front costs of having to triage/locate sub-items.
+This code makes it clear that before we study an item (or instead choose to break it into sub-items), multiple (often unconscious) cost-benefit calculations are likely made. Guided by the intuition that our brains are designed to be as lazy as they can[^1], before we expend the energy to study an item, we make sure that it is more energy/effort efficient than possibly studying only a fraction of the item, but paying the up-front costs of having to triage/locate sub-items.
 
 Note that as the goals are met, item values will drop, as they may contain redundant information. Item value is continuously updated to match current goals and progress. 
 
-If we decide to triage sub-items, the first step is to locate a sub-item. The locating of sub-items is done primarily visually according to habits, instict, or other mental priors we posess; sub-items to have their value estimated are any reading materials that catches our attention next (which is a largely automatic process controlled by the TODO CITE).
+If we decide to triage sub-items, the first step is to locate a sub-item. The locating of sub-items is done primarily visually according to habits, instict, or other mental priors we posess; sub-items to have their value estimated are any reading materials that catches our attention next (which is a largely unconscious process guided by visual salience[^2]).
 
-After a sub-item catches our attention, we estimate its value (discussed next), and if we decide it is important enough, we read it, which starts this whole process over again. This function exits the recursive calls once we identify no more items worth reading (either because our goals are met, or we cannot find what we need).
+After a sub-item catches our attention, we estimate its value (discussed next), and if we decide it is important enough, we read it, which starts this whole process over again at a lower level. This function exits the recursive calls once we identify no more items worth reading (either because our goals are met, or we cannot find what we need).
 
 While we may be able to locate books or articles in a library or online, and have a natural ability for locating sub-items, if we are unable to estimate the value of sub-items, we are left aimlessly wandering a sea of text. 
 
@@ -101,10 +100,12 @@ def estimate_value(item):
 	effort_threshold := #how much effort we are willing to expend to estimate value
 
     while (confidence < confidence_threshold) and (effort_expended < effort_threshold):
-        sub-item := locate_sub_item()
+        sub_item := locate_sub_item()
 
         item_knowledge := #estimate knowledge contained in item given sub-items so far
 
+        # calculate the knowledge value of the sub_item with
+        #   respect to existing relevant knowledge
         value := item_knowledge - current_knowledge
 
         confidence := estimate confidence
@@ -114,7 +115,15 @@ def estimate_value(item):
 
 ~~~~
 
-Note that both `item_knowledge` and `current_knowledge` are measured with regards to the goal.
 
-## 2. Identifying Processes to Optimize
+Now that we have established in some detail the processes we perform when reading, we can consider how such processes can be optimized. Identifying these areas of improvement will be the topic of the next article.
 
+
+
+<!---
+REFERENCE DEFINITIONS
+---> 
+
+[^1]: [Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study](https://www.sciencedirect.com/science/article/abs/pii/S0028393218303981?via%3Dihub)
+
+[^2]: [How visual salience wins the battle for awareness](https://www.nature.com/articles/nn0805-975)
