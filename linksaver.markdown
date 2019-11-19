@@ -4,11 +4,130 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (131), **`research`** (52), **`memories`** (37), **`studies`** (33), **`participants`** (32), **`neuron`** (30), **`learn`** (25), **`sleep`** (21), **`neurons`** (21), **`memory`** (19), **`study`** (18), **`studied`** (18), **`researchers`** (18), **`hippocampus`** (18), **`word`** (17)
+**Top keywords:** **`brain`** (133), **`research`** (55), **`memories`** (37), **`studies`** (33), **`participants`** (33), **`neuron`** (30), **`learn`** (27), **`sleep`** (21), **`neurons`** (21), **`memory`** (19), **`study`** (18), **`word`** (18), **`studied`** (18), **`researchers`** (18), **`hippocampus`** (18)
 
 ___
 
-**#520** read 2019 October 16 07:46 PM. Link: [www.sciencedaily.com/releases/2019/10/191003074...](https://www.sciencedaily.com/releases/2019/10/191003074834.htm)
+**#528** read 2019 November 17 10:42 AM. Link: [www.sciencedaily.com/releases/2019/11/191114115...](https://www.sciencedaily.com/releases/2019/11/191114115847.htm)
+
+`game face`, `research`, `participants`, `performance`, `richesin`, `impact`, `demonstrate`, `face`
+
+- Game face may not only improve performance in cognitive tasks, but it could also lead to better recovery from stress
+
+- participants were tasked with completing as much of a 100-piece black-and-white mandala puzzle as possible within five minutes. In this case, the game face group performed on average 20 percent better, while also demonstrating better stress recovery compared to the control group
+
+
+___
+
+**#527** read 2019 October 09 05:37 PM. Link: [www.sciencedaily.com/releases/2019/10/191003105...](https://www.sciencedaily.com/releases/2019/10/191003105427.htm)
+
+`memory`, `performance`, `anticipate`, `forrin`, `present`, `student`, `read`, `aloud`
+
+- Anticipating your own performance at work or school may hinder your ability to remember what happened before your presentation
+
+- findings also suggest that the presence of an audience may be an important factor that contributes to this pre-performance memory deficit
+
+- Building on what previous research called the next-in-line effect, Forrin and his co-authors explored how different ways of preparing for a presentation impact the pre-performance memory deficit.
+
+- the production effect, which is the simple yet powerful idea that we can remember something best if we say it aloud
+
+- the production effect has a downside: When people anticipate reading out loud, they may have worse memory for information that they encounter before reading aloud
+
+
+___
+
+**#526** read 2019 November 13 06:30 PM. Link: [www.sciencedaily.com/releases/2019/11/191112142...](https://www.sciencedaily.com/releases/2019/11/191112142926.htm)
+
+`noise`, `brain`, `sound`, `hearing`, `white noise`, `research`, `neuronal`, `auditory`
+
+- showed that white noise significantly inhibited the activity of the nerve cells in the auditory cortex. Paradoxically, this suppression of the neuronal excitation led to a more precise perception of the pure tones
+
+- less overlap occurred between populations of neurons during two separate tone representations
+
+
+___
+
+**#525** read 2019 November 08 03:13 PM. Link: [www.sciencealert.com/here-s-how-your-brain-deal...](https://www.sciencealert.com/here-s-how-your-brain-deals-with-tricky-tasks)
+
+`brain`, `activation`, `task`, `patterns`, `brain activation`, `shape`, `thalamus`, `dimensional manifold`
+
+- It turns out that many structures in your brain work together in precise ways to coordinate their activity, shaping their actions to the requirements of whatever it is that you're trying to achieve.
+
+- We call these coordinated patterns the "low-dimensional manifold", which you can think of as analogous to the major roadways that you use to commute to and from work. The majority of the traffic flows along these major highways, which represent an efficient and effective way to get from A to B.
+
+- Our prediction was that performing the more difficult versions of the task would lead to a reconfiguration of the low-dimensional manifold. To return to the highway analogy, a tricky task might pull some brain activity off the highway and onto the back streets to help get around the congestion.
+
+- More difficult trials showed different patterns of brain activation to easy ones, as if the brain's traffic was being rerouted along different roads
+
+- Overall, these results suggests that our brain activity perhaps isn't as complicated as we once thought. Most of the time, our brain is directing traffic along pretty well-established routes, and even when it needs to get creative it is still trying to send the traffic to the same ultimate destination.
+
+- This leaves us with an important question: how does the brain achieve this level of coordination?
+
+- the circuitry of the thalamus is such that it can act as a filter for ongoing activity in the cerebral cortex, the brain's main information processing centre, and therefore could exert the kind of influence we were looking for
+
+- when performing particular tasks, the thalamus helps to shape and constrain the activity in the cortex, a bit like a police officer directing busy traffic
+
+
+___
+
+**#524** read 2019 November 06 04:13 PM. Link: [www.sciencedaily.com/releases/2019/11/191105113...](https://www.sciencedaily.com/releases/2019/11/191105113457.htm)
+
+`learn`, `wilson`, `example`, `85`, `education`, `85 rule`, `tumor`, `sweet spot`
+
+- Educators and educational scholars have long recognized that there is something of a "sweet spot" when it comes to learning. That is, we learn best when we are challenged to grasp something just outside the bounds of our existing knowledge. When a challenge is too simple, we don't learn anything new; likewise, we don't enhance our knowledge when a challenge is so difficult that we fail entirely or give up.
+
+- If you have an error rate of 15% or accuracy of 85%, you are always maximizing your rate of learning in these two-choice tasks
+
+
+___
+
+**#523** read 2019 November 03 05:29 PM. Link: [www.sciencedaily.com/releases/2019/10/191029140...](https://www.sciencedaily.com/releases/2019/10/191029140738.htm)
+
+`goal`, `research`, `culture`, `social`, `includes`, `human`, `wilkowski`, `categorized`
+
+- human goals can be broadly categorized in terms of four goals: 'prominence,' 'inclusiveness,' 'negativity prevention' and 'tradition.'
+
+
+___
+
+**#522** read 2019 November 02 08:32 PM. Link: [www.sciencedaily.com/releases/2019/10/191029144...](https://www.sciencedaily.com/releases/2019/10/191029144318.htm)
+
+`word`, `learn`, `thing`, `context`, `children`, `remember`, `learn new word`, `object`
+
+- Children may learn new words better when they learn them in the context of other words they are just learning
+
+- "It seems counterintuitive, but it is perhaps because the less well-known items don't compete with the new words as much. If they learn new words in the context of playing with well-known items such as a ball, book or car, they don't process the new word as much."
+
+
+___
+
+**#521** read 2019 November 02 06:28 PM. Link: [www.sciencedaily.com/releases/2019/10/191028175...](https://www.sciencedaily.com/releases/2019/10/191028175136.htm)
+
+`opponent`, `momentum`, `kakkar`, `threatened`, `player`, `mental`, `perform`, `rank`
+
+- As players rise, they gather what social scientists call "status momentum,"
+
+- Kakkar said an opponent's momentum is not just hype; a positive trend in an opponent's ranking can be threatening for athletes, even for seasoned pros
+
+- Once you present people with some kind of doubt to the veracity of the rankings, such as a clerical error that affected the rankings, that alleviates some of the adverse effect of the opponent's momentum
+
+
+___
+
+**#520** read 2019 November 02 05:58 PM. Link: [www.sciencedaily.com/releases/2019/07/190702112...](https://www.sciencedaily.com/releases/2019/07/190702112811.htm)
+
+`intention`, `protagonist`, `emotion`, `context`, `accidental`, `actors`, `action`, `age`
+
+- People of all ages tend to misjudge the strength of other people's emotions based on an egocentric bias
+
+- Even if the end result is the same, the recipient of an action usually responds with stronger emotions if the actions are intentional rather than accidental
+
+- if we accidentally harm someone else, we may wrongly assume that his/her feelings of sadness are weaker even if he/she is ignorant of our intention. Quarrels between children over trivial matters may also occur because of this sort of egocentric bias
+
+
+___
+
+**#519** read 2019 October 16 07:46 PM. Link: [www.sciencedaily.com/releases/2019/10/191003074...](https://www.sciencedaily.com/releases/2019/10/191003074834.htm)
 
 `reward`, `pupil`, `student`, `approach`, `cooperated`, `competition`, `abilities`, `achieve`
 
@@ -19,7 +138,7 @@ ___
 
 ___
 
-**#519** read 2019 October 16 07:44 PM. Link: [www.sciencedaily.com/releases/2019/10/191003103...](https://www.sciencedaily.com/releases/2019/10/191003103515.htm)
+**#518** read 2019 October 16 07:44 PM. Link: [www.sciencedaily.com/releases/2019/10/191003103...](https://www.sciencedaily.com/releases/2019/10/191003103515.htm)
 
 ## Gist: Anthropomorphizing sadness reduces its effect
 
@@ -30,7 +149,7 @@ ___
 
 ___
 
-**#518** read 2019 October 13 07:25 PM. Link: [www.sciencedaily.com/releases/2019/10/191001084...](https://www.sciencedaily.com/releases/2019/10/191001084008.htm)
+**#517** read 2019 October 13 07:25 PM. Link: [www.sciencedaily.com/releases/2019/10/191001084...](https://www.sciencedaily.com/releases/2019/10/191001084008.htm)
 
 `success`, `failure`, `research`, `group`, `paper`, `scientists`, `near miss group`, `publish`
 
@@ -47,7 +166,7 @@ ___
 
 ___
 
-**#517** read 2019 October 13 07:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190930114...](https://www.sciencedaily.com/releases/2019/09/190930114732.htm)
+**#516** read 2019 October 13 07:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190930114...](https://www.sciencedaily.com/releases/2019/09/190930114732.htm)
 
 `conscious`, `l5p neurons`, `brain`, `aru`, `stimulus`, `circuit`, `content`, `theory`
 
@@ -64,30 +183,13 @@ ___
 
 ___
 
-**#516** read 2019 October 13 05:54 PM. Link: [www.sciencedaily.com/releases/2015/12/151223165...](https://www.sciencedaily.com/releases/2015/12/151223165503.htm)
+**#515** read 2019 October 13 05:54 PM. Link: [www.sciencedaily.com/releases/2015/12/151223165...](https://www.sciencedaily.com/releases/2015/12/151223165503.htm)
 
 `post`, `skill`, `research`, `imagery`, `task`, `motor`, `performance`, `skill acquisition`
 
 - The research presented suggests that imagery might be effective for enhancing learner's skill acquisition of tasks that contain greater cognitive elements, such as tasks that require decision making or remembering a sequence or pattern, as opposed to motor elements, or tasks that require correct skill execution, like a soccer kick
 
 - with more experienced performers imagery appears to be effective on a range of tasks, including both motor and cognitive
-
-
-___
-
-**#515** read 2019 October 09 05:37 PM. Link: [www.sciencedaily.com/releases/2019/10/191003105...](https://www.sciencedaily.com/releases/2019/10/191003105427.htm)
-
-`memory`, `performance`, `anticipate`, `forrin`, `present`, `student`, `read`, `aloud`
-
-- Anticipating your own performance at work or school may hinder your ability to remember what happened before your presentation
-
-- findings also suggest that the presence of an audience may be an important factor that contributes to this pre-performance memory deficit
-
-- Building on what previous research called the next-in-line effect, Forrin and his co-authors explored how different ways of preparing for a presentation impact the pre-performance memory deficit.
-
-- the production effect, which is the simple yet powerful idea that we can remember something best if we say it aloud
-
-- the production effect has a downside: When people anticipate reading out loud, they may have worse memory for information that they encounter before reading aloud
 
 
 ___

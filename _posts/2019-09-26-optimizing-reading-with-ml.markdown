@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "How to Optimize Humans Reading with Machine Learning (Part I)"
+title:  "How to Optimize Human Reading with Machine Learning (Part I)"
 excerpt: "An introductory look at how the reading process can be improved with machine learning"
 date:   2019-09-26 05:00:00
 ---
@@ -93,11 +93,11 @@ Without thoroughly studying an item, we cannot expect to perfectly estimate its 
 ~~~~python
 def estimate_value(item):
 
-	confidence := 0
-	confidence_threshold := #minimum value estimate confidence where we are satisfied
+    confidence := 0
+    confidence_threshold := #minimum value estimate confidence where we are satisfied
 
-	effort_expended := 0
-	effort_threshold := #how much effort we are willing to expend to estimate value
+    effort_expended := 0
+    effort_threshold := #how much effort we are willing to expend to estimate value
 
     while (confidence < confidence_threshold) and (effort_expended < effort_threshold):
         sub_item := locate_sub_item()
