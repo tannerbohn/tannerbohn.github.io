@@ -4,7 +4,20 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (133), **`research`** (55), **`memories`** (37), **`studies`** (33), **`participants`** (33), **`neuron`** (30), **`learn`** (27), **`sleep`** (21), **`neurons`** (21), **`memory`** (19), **`study`** (18), **`word`** (18), **`studied`** (18), **`researchers`** (18), **`hippocampus`** (18)
+**Top keywords:** **`brain`** (133), **`research`** (56), **`memories`** (37), **`studies`** (33), **`participants`** (33), **`neuron`** (30), **`learn`** (27), **`sleep`** (21), **`neurons`** (21), **`memory`** (19), **`study`** (18), **`word`** (18), **`studied`** (18), **`researchers`** (18), **`hippocampus`** (18)
+
+___
+
+**#529** read 2019 November 22 12:06 AM. Link: [www.sciencedaily.com/releases/2019/11/191120141...](https://www.sciencedaily.com/releases/2019/11/191120141828.htm)
+
+`decision`, `expert`, `method`, `diagnoses`, `research`, `radiologists`, `developed`, `identified`
+
+- how can we find out which expert in a group makes the best and most accurate decisions?
+
+- It rests on a simple assumption: Those individuals in a group of experts who make decisions that are most similar to the decisions of others also make the best decisions.
+
+- It has been shown time and again that experts who are good in their field are good in a similar way, whereas poor performers are bad in very different ways
+
 
 ___
 
