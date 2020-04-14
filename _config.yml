@@ -10,3 +10,6 @@ github_username:  tannerbohn
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jemoji
