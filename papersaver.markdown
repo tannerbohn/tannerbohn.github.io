@@ -4,7 +4,68 @@ comments: false
 title:  "PaperSaver"
 permalink: /papersaver/
 ---
-**Top keywords:** **`model`** (32), **`learn`** (21), **`learning`** (9), **`neural`** (9), **`trained`** (8), **`network`** (8), **`approach`** (8), **`sentence`** (8), **`word`** (7), **`models`** (7), **`tasks`** (6), **`neural network`** (6), **`sequence`** (6), **`dataset`** (6), **`text`** (5)
+**Top keywords:** **`model`** (33), **`learn`** (21), **`learning`** (9), **`neural`** (9), **`trained`** (8), **`network`** (8), **`approach`** (8), **`sentence`** (8), **`word`** (7), **`models`** (7), **`tasks`** (6), **`neural network`** (6), **`architecture`** (6), **`sequence`** (6), **`dataset`** (6)
+
+___
+
+#### **(#99)** [Meta-learning curiosity algorithms](https://arxiv.org/pdf/2003.05325.pdf) (added 2020 March 30 06:11 PM)
+
+`curiosity`, `generalization`, `adapt`, `curiosity algorithms`, `algorithms`, `reward`, `meta`, `reward signal`
+
+Published in ICLR 2020
+
+**Abstract:** We hypothesize that curiosity is a mechanism found by evolution that encourages meaningful exploration early in an agent's life in order to expose it to experiences that enable it to obtain high rewards over the course of its lifetime. We formulate the problem of generating curious behavior as one of meta-learning: an outer loop will search over a space of curiosity mechanisms that dynamically adapt the agent's reward signal, and an inner loop will perform standard reinforcement learning using the adapted reward signal. However, current meta-RL methods based on transferring neural network weights have only generalized between very similar tasks. To broaden the generalization, we instead propose to meta-learn algorithms: pieces of code similar to those designed by humans in ML papers. Our rich language of programs combines neural networks with other building blocks such as buffers, nearest-neighbor modules and custom loss functions. We demonstrate the effectiveness of the approach empirically, finding two novel curiosity algorithms that perform on par or better than human-designed published curiosity algorithms in domains as disparate as grid navigation with image inputs, acrobot, lunar lander, ant and hopper.
+
+
+
+- Interestingly, to the best of our knowledge neither algorithm had been proposed before: we conjecture the former was too simple for humans to believe it would be effective and the latter too hard for humans to design, as it was already very hard to understand in hindsight
+
+
+___
+
+#### **(#98)** [Emergent Communication with World Models](https://arxiv.org/pdf/2002.09604.pdf) (added 2020 March 07 12:55 PM)
+
+`model`, `observation`, `message`, `language`, `interpret`, `generative model`, `listening`, `listening agents`
+
+**Abstract:** We introduce Language World Models, a class of language-conditional generative
+model which interpret natural language messages by predicting latent codes of
+future observations. This provides a visual grounding of the message, similar to
+an enhanced observation of the world, which may include objects outside of the
+listening agents field-of-view. We incorporate this observation into a persistent
+memory state, and allow the listening agents policy to condition on it, akin to
+the relationship between memory and controller in a World Model. We show
+this improves effective communication and task success in 2D gridworld speakerlistener navigation tasks. In addition, we develop two losses framed specifically for
+our model-based formulation to promote positive signalling and positive listening.
+Finally, because messages are interpreted in a generative model, we can visualize
+the model beliefs to gain insight into how the communication channel is utilized.
+
+___
+
+#### **(#97)** [MEMO: A DEEP NETWORK FOR FLEXIBLE COMBINATION OF EPISODIC MEMORIES](https://arxiv.org/pdf/2001.10913.pdf) (added 2020 February 29 06:22 PM)
+
+`memories`, `reason`, `task`, `architecture`, `facts`, `external memories`, `babi`, `memo`
+
+**Abstract:** Recent research developing neural network architectures with external memory
+have often used the benchmark bAbI question and answering dataset which provides
+a challenging number of tasks requiring reasoning. Here we employed a classic
+associative inference task from the memory-based reasoning neuroscience literature in order to more carefully probe the reasoning capacity of existing memoryaugmented architectures. This task is thought to capture the essence of reasoning 
+the appreciation of distant relationships among elements distributed across multiple
+facts or memories. Surprisingly, we found that current architectures struggle to
+reason over long distance associations. Similar results were obtained on a more
+complex task involving finding the shortest path between nodes in a path. We
+therefore developed MEMO, an architecture endowed with the capacity to reason
+over longer distances. This was accomplished with the addition of two novel components. First, it introduces a separation between memories/facts stored in external
+memory and the items that comprise these facts in external memory. Second, it
+makes use of an adaptive retrieval mechanism, allowing a variable number of
+memory hops before the answer is produced. MEMO is capable of solving our
+novel reasoning tasks, as well as match state of the art results in bAbI.
+
+
+
+- published as a conference paper at ICLR 2020
+
+- the network outputs an action (in the reinforcement learning sense) that indicates whether it wishes to continue computing and querying its memory, or whether it is able to answer the given task
+
 
 ___
 
