@@ -4,26 +4,161 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (136), **`research`** (64), **`memories`** (38), **`studies`** (35), **`participants`** (33), **`neuron`** (31), **`learn`** (27), **`sleep`** (21), **`neurons`** (21), **`study`** (20), **`hippocampus`** (19), **`memory`** (19), **`word`** (18), **`researchers`** (18), **`studied`** (18)
+**Top keywords:** **`brain`** (139), **`research`** (67), **`memories`** (38), **`studies`** (36), **`participants`** (34), **`neuron`** (32), **`learn`** (28), **`sleep`** (21), **`neurons`** (21), **`memory`** (20), **`study`** (20), **`studied`** (19), **`hippocampus`** (19), **`researchers`** (18), **`word`** (18)
 
 ___
 
-**#547** read 2020 March 23 04:08 PM. Link: [www.sciencedaily.com/releases/2020/03/200319103...](https://www.sciencedaily.com/releases/2020/03/200319103223.htm)
+**#556** read 2020 April 13 08:59 PM. Link: [www.sciencealert.com/our-brain-s-memory-capacit...](https://www.sciencealert.com/our-brain-s-memory-capacity-is-10-times-larger-than-we-thought)
 
-## :robot::sound: "This does not mean that learning shouldn't be fun," she said.
+## :robot::sound: "This means that every 2 or 20 minutes, your synapses are going up or down to the next size," said Bartol.
 
-`learned`, `seductive detail`, `detail`, `students`, `information`, `sundar`, `teacher`, `analysis`
+`synapses`, `brain`, `size`, `computational`, `sejnowski`, `difference`, `10`, `precise`
 
-- When teachers use a funny joke, a cat video or even background music in their lessons, it can keep students from understanding the main content.
+___
 
-- The analysis of 58 studies involving more than 7,500 students found that those who learned with seductive details performed lower on learning outcome measures than those who learned without the extraneous information
+**#555** read 2020 April 13 08:58 PM. Link: [www.sciencedaily.com/releases/2016/01/160107094...](https://www.sciencedaily.com/releases/2016/01/160107094111.htm)
 
-- There may be some trade-offs between the potential emotional benefit and the detrimental effects of seductive details that we're seeing on learning
+## :robot::sound: "People will often hold political values as protected values and protected values are at the root of many political conflicts around the world, which is why they're interesting to us," he said.
+
+`brain`, `stories`, `value`, `kaplan`, `activated`, `studies`, `protected value`, `scanned`
+
+___
+
+**#554** read 2020 April 13 08:57 PM. Link: [www.sciencedaily.com/releases/2016/01/160104130...](https://www.sciencedaily.com/releases/2016/01/160104130826.htm)
+
+## :robot::sound: "The aim of our research was to find out whether the presence of early brain waves means that further decision-making is automatic and not under conscious control, or whether the person can still cancel the decision, i.e.
+
+`decision`, `brain`, `studied`, `research`, `computational`, `process`, `movement`, `conscious`
+
+___
+
+**#553** read 2020 April 13 08:56 PM. Link: [www.sciencealert.com/here-s-why-evolution-might...](https://www.sciencealert.com/here-s-why-evolution-might-be-more-intelligent-than-we-think-it-is)
+
+## :robot::sound: "If evolution can learn from experience, and thus improve its own ability to evolve over time, this can demystify the awesomeness of the designs that evolution produces," said Watson.
+
+`evolution`, `learn`, `watson`, `theories`, `selection`, `evolve`, `intelligent`, `learn theories`
+
+___
+
+**#552** read 2020 April 13 08:53 PM. Link: [www.sciencedaily.com/releases/2015/12/151211131...](https://www.sciencedaily.com/releases/2015/12/151211131546.htm)
+
+## :robot::sound: If people tend to associate health labels with a lower liking, then the researchers suggest that health agencies should start to think about how the overall flavour perception could be improved.
+
+`label`, `cheese`, `flavour`, `flavour perception`, `research`, `reduced salt`, `lower`, `health`
+
+___
+
+**#551** read 2020 April 13 08:53 PM. Link: [www.scientificamerican.com/article/hunger-makes...](https://www.scientificamerican.com/article/hunger-makes-you-crave-more-than-food/)
+
+## :robot::sound: “If hungry consumers have to make purchase decisions, they’d better think twice before swiping their credit card.”
+
+`hungry`, `hunger`, `binder clip`, `food`, `clip`, `participants`, `might`, `shop`
+
+___
+
+**#550** read 2020 April 13 08:52 PM. Link: [www.sciencedaily.com/releases/2014/09/140916111...](https://www.sciencedaily.com/releases/2014/09/140916111907.htm)
+
+## :robot::sound: Vacations feel too short, meetings seem too long, and bad dates never seem to end.
+
+`experience`, `vacation`, `event`, `categorize`, `consumer`, `feel`, `categories`, `jazz club`
+
+___
+
+**#549** read 2020 April 13 08:51 PM. Link: [www.sciencedaily.com/releases/2015/02/150212212...](https://www.sciencedaily.com/releases/2015/02/150212212100.htm)
+
+## :robot::sound: "If you can get the potential date to stop and think about your headline message, increasing the exposure time to your primary photo, this will increase their liking [of you]," point out the researchers.
+
+`attraction`, `profile`, `women`, `research`, `online`, `importance`, `alphabet`, `name`
+
+___
+
+**#548** read 2019 September 29 06:07 PM. Link: [www.sciencedaily.com/releases/2019/09/190926141...](https://www.sciencedaily.com/releases/2019/09/190926141738.htm)
+
+## :robot::sound: "You need to control the automatic process that makes you stop when muscles or joints hurt," Pessiglione says.
+
+`fatigue`, `athletes`, `training`, `brain`, `researchers`, `pessiglione`, `control`, `studies`
+
+- When researchers imposed an excessive training load on triathletes, they showed a form of mental fatigue. This fatigue included reduced activity in a portion of the brain important for making decisions. The athletes also acted more impulsively, opting for immediate rewards instead of bigger ones that would take longer to achieve.
+
+- The lateral prefrontal region that was affected by sport-training overload was exactly the same that had been shown vulnerable to excessive cognitive work
+
+- suggest a connection between mental and physical effort: both require cognitive control. The reason such control is essential in demanding athletic training, they suggest, is that to maintain physical effort and reach a distant goal requires cognitive control
+
+- You need to control the automatic process that makes you stop when muscles or joints hurt
 
 
 ___
 
-**#546** read 2019 November 22 12:06 AM. Link: [www.sciencedaily.com/releases/2019/11/191120141...](https://www.sciencedaily.com/releases/2019/11/191120141828.htm)
+**#547** read 2019 November 02 06:28 PM. Link: [www.sciencedaily.com/releases/2019/10/191028175...](https://www.sciencedaily.com/releases/2019/10/191028175136.htm)
+
+## :robot::sound: "We are generally motivated to think more favorably about ourselves, so when given a reason to doubt others -- even a slight one -- we tend to think, maybe this person isn't actually that good, and that can change how threatened we feel."
+
+`opponent`, `momentum`, `kakkar`, `threatened`, `player`, `mental`, `perform`, `rank`
+
+- As players rise, they gather what social scientists call "status momentum,"
+
+- Kakkar said an opponent's momentum is not just hype; a positive trend in an opponent's ranking can be threatening for athletes, even for seasoned pros
+
+- Once you present people with some kind of doubt to the veracity of the rankings, such as a clerical error that affected the rankings, that alleviates some of the adverse effect of the opponent's momentum
+
+
+___
+
+**#546** read 2019 November 27 03:58 PM. Link: [www.sciencedaily.com/releases/2019/09/190919142...](https://www.sciencedaily.com/releases/2019/09/190919142324.htm)
+
+## :robot::sound: "We have discovered that the LS may be aiding you in making some of those decisions.
+
+`ls`, `movement`, `hippocampus`, `wirtshafter`, `behavior`, `region`, `reward`, `memories`
+
+- observations in the lateral septum indicate that the well-connected region processes movement, and reward information to help direct behavior
+
+- directly encodes information about the speed and acceleration of an animal as it navigates and learns how to obtain a reward in an environment
+
+
+___
+
+**#545** read 2019 November 29 04:45 PM. Link: [www.sciencedaily.com/releases/2019/11/191125121...](https://www.sciencedaily.com/releases/2019/11/191125121005.htm)
+
+## :robot::sound: "It's often very difficult to measure psychological quantities because we don't always have a great idea about what's going on in our own heads," said Brick.
+
+`love`, `felt love`, `research`, `studies`, `data`, `psychological`, `experience`, `throughout`
+
+- researchers found that people who experienced higher "felt love" -- brief experiences of love and connection in everyday life -- also had significantly higher levels of psychological well-being, which includes feelings of purpose and optimism
+
+- Everyday felt love is conceptually much broader than romantic love. It's those micro-moments in your life when you experience resonance with someone. For example, if you're talking to a neighbor and they express concern for your well-being, then you might resonate with that and experience it as a feeling of love, and that might improve your well-being
+
+- seen in the literature on mindfulness, when people are reminded to focus attention on positive things, their overall awareness of those positive things begins to rise
+
+
+___
+
+**#544** read 2019 November 30 12:28 AM. Link: [www.sciencedaily.com/releases/2019/11/191120131...](https://www.sciencedaily.com/releases/2019/11/191120131313.htm)
+
+## :robot::sound: A beautiful painting does not make the next one look less attractive but makes it more attractive.
+
+`painting`, `attractive`, `bias`, `rate`, `studies`, `professor alais`, `aesthetic`, `sequence`
+
+- A beautiful painting does not make the next one look less attractive but makes it more attractive
+
+- involved presenting a sequence of 40 paintings to 24 observers who were asked to rate each one using a slider to indicate how aesthetically appealing or attractive it was
+
+- paintings were rated higher following an attractive painting, or lower, following unattractive ones
+
+
+___
+
+**#543** read 2020 April 13 08:38 PM. Link: [www.sciencedaily.com/releases/2020/03/200319125...](https://www.sciencedaily.com/releases/2020/03/200319125228.htm)
+
+## :robot::sound: Neurons in the prefrontal cortex excite each other to keep information "in mind."
+
+`neuron`, `m1 receptor`, `circuits`, `memory`, `prefrontal cortex`, `schizophrenia`, `author`, `muscarinic m1`
+
+- The new study shows that these prefrontal cortical circuits depend upon the neurotransmitter acetylcholine stimulating muscarinic M1 receptors aligned on the surface of neurons of the prefrontal cortex.
+
+
+___
+
+**#542** read 2019 November 22 12:06 AM. Link: [www.sciencedaily.com/releases/2019/11/191120141...](https://www.sciencedaily.com/releases/2019/11/191120141828.htm)
 
 ## :robot::sound: And in many cases, it is only years later that it is possible to say which expert made the right call most often.
 
@@ -38,7 +173,33 @@ ___
 
 ___
 
-**#545** read 2020 March 18 02:53 PM. Link: [www.sciencedaily.com/releases/2020/03/200313112...](https://www.sciencedaily.com/releases/2020/03/200313112123.htm)
+**#541** read 2020 February 18 12:08 AM. Link: [www.sciencedaily.com/releases/2020/02/200203104...](https://www.sciencedaily.com/releases/2020/02/200203104505.htm)
+
+## :robot::sound: "You would assume that a startling 'beep beep beep' alarm would improve alertness, but our data revealed that melodic alarms may be the key element.
+
+`wake`, `research`, `sound`, `beep`, `alarm`, `important`, `grogginess`, `rmit`
+
+- suggests melodic alarms could improve alertness levels, with harsh alarm tones linked to increased levels of morning grogginess
+
+
+___
+
+**#540** read 2020 March 23 04:08 PM. Link: [www.sciencedaily.com/releases/2020/03/200319103...](https://www.sciencedaily.com/releases/2020/03/200319103223.htm)
+
+## :robot::sound: "This does not mean that learning shouldn't be fun," she said.
+
+`learned`, `seductive detail`, `detail`, `students`, `information`, `sundar`, `teacher`, `analysis`
+
+- When teachers use a funny joke, a cat video or even background music in their lessons, it can keep students from understanding the main content.
+
+- The analysis of 58 studies involving more than 7,500 students found that those who learned with seductive details performed lower on learning outcome measures than those who learned without the extraneous information
+
+- There may be some trade-offs between the potential emotional benefit and the detrimental effects of seductive details that we're seeing on learning
+
+
+___
+
+**#539** read 2020 March 18 02:53 PM. Link: [www.sciencedaily.com/releases/2020/03/200313112...](https://www.sciencedaily.com/releases/2020/03/200313112123.htm)
 
 `avatar`, `realistic avatar`, `compete against`, `study`, `self`, `performance`, `effect`, `against their realistic`
 
@@ -47,7 +208,7 @@ ___
 
 ___
 
-**#544** read 2020 February 25 01:05 PM. Link: [www.sciencedaily.com/releases/2020/02/200219130...](https://www.sciencedaily.com/releases/2020/02/200219130531.htm)
+**#538** read 2020 February 25 01:05 PM. Link: [www.sciencedaily.com/releases/2020/02/200219130...](https://www.sciencedaily.com/releases/2020/02/200219130531.htm)
 
 `scientist`, `research`, `audience`, `message`, `person`, `trust`, `science`, `authentic`
 
@@ -58,7 +219,7 @@ ___
 
 ___
 
-**#543** read 2020 February 22 05:02 PM. Link: [phys.org/news/2020-01-wisdom-crowd-suboptimal-p...](https://phys.org/news/2020-01-wisdom-crowd-suboptimal-predictors.html)
+**#537** read 2020 February 22 05:02 PM. Link: [phys.org/news/2020-01-wisdom-crowd-suboptimal-p...](https://phys.org/news/2020-01-wisdom-crowd-suboptimal-predictors.html)
 
 `forecast`, `future`, `delay embedding`, `method`, `value`, `predict`, `research`, `combined`
 
@@ -67,7 +228,7 @@ ___
 
 ___
 
-**#542** read 2020 February 18 12:24 AM. Link: [www.sciencedaily.com/releases/2020/02/200212150...](https://www.sciencedaily.com/releases/2020/02/200212150141.htm)
+**#536** read 2020 February 18 12:24 AM. Link: [www.sciencedaily.com/releases/2020/02/200212150...](https://www.sciencedaily.com/releases/2020/02/200212150141.htm)
 
 `categories`, `innovation`, `entries`, `creative`, `produce`, `resulted`, `prize`, `competition`
 
@@ -78,16 +239,7 @@ ___
 
 ___
 
-**#541** read 2020 February 18 12:08 AM. Link: [www.sciencedaily.com/releases/2020/02/200203104...](https://www.sciencedaily.com/releases/2020/02/200203104505.htm)
-
-`wake`, `research`, `sound`, `beep`, `alarm`, `important`, `grogginess`, `rmit`
-
-- suggests melodic alarms could improve alertness levels, with harsh alarm tones linked to increased levels of morning grogginess
-
-
-___
-
-**#540** read 2020 February 10 04:45 PM. Link: [www.sciencedaily.com/releases/2020/02/200205132...](https://www.sciencedaily.com/releases/2020/02/200205132255.htm)
+**#535** read 2020 February 10 04:45 PM. Link: [www.sciencedaily.com/releases/2020/02/200205132...](https://www.sciencedaily.com/releases/2020/02/200205132255.htm)
 
 `learning`, `novelty`, `activate`, `dopamine`, `associate learning`, `novel`, `sebastian haesler`, `dopamine activate`
 
@@ -98,7 +250,7 @@ ___
 
 ___
 
-**#539** read 2020 February 05 02:10 PM. Link: [www.sciencedaily.com/releases/2020/01/200130104...](https://www.sciencedaily.com/releases/2020/01/200130104921.htm)
+**#534** read 2020 February 05 02:10 PM. Link: [www.sciencedaily.com/releases/2020/01/200130104...](https://www.sciencedaily.com/releases/2020/01/200130104921.htm)
 
 `human`, `learning`, `computational`, `reinforcement learning`, `model`, `task`, `meta reinforcement learning`, `complex`
 
@@ -109,7 +261,7 @@ ___
 
 ___
 
-**#538** read 2020 January 27 09:51 PM. Link: [www.sciencedaily.com/releases/2020/01/200121113...](https://www.sciencedaily.com/releases/2020/01/200121113014.htm)
+**#533** read 2020 January 27 09:51 PM. Link: [www.sciencedaily.com/releases/2020/01/200121113...](https://www.sciencedaily.com/releases/2020/01/200121113014.htm)
 
 `aesthetic experience`, `artwork`, `information`, `study`, `evaluated`, `art`, `research`, `stronger`
 
@@ -118,7 +270,7 @@ ___
 
 ___
 
-**#537** read 2019 December 20 04:12 PM. Link: [www.sciencedaily.com/releases/2019/12/191211115...](https://www.sciencedaily.com/releases/2019/12/191211115624.htm)
+**#532** read 2019 December 20 04:12 PM. Link: [www.sciencedaily.com/releases/2019/12/191211115...](https://www.sciencedaily.com/releases/2019/12/191211115624.htm)
 
 `brain`, `gamma`, `genus`, `neuron`, `stimulating`, `tsai`, `actively`, `adaikkan`
 
@@ -129,7 +281,7 @@ ___
 
 ___
 
-**#536** read 2019 December 18 11:51 AM. Link: [www.sciencedaily.com/releases/2019/12/191216173...](https://www.sciencedaily.com/releases/2019/12/191216173654.htm)
+**#531** read 2019 December 18 11:51 AM. Link: [www.sciencedaily.com/releases/2019/12/191216173...](https://www.sciencedaily.com/releases/2019/12/191216173654.htm)
 
 `light`, `bright`, `colour`, `changes`, `clock`, `body clock`, `research`, `blue`
 
@@ -140,7 +292,7 @@ ___
 
 ___
 
-**#535** read 2019 December 13 02:53 PM. Link: [www.sciencedaily.com/releases/2019/12/191211115...](https://www.sciencedaily.com/releases/2019/12/191211115550.htm)
+**#530** read 2019 December 13 02:53 PM. Link: [www.sciencedaily.com/releases/2019/12/191211115...](https://www.sciencedaily.com/releases/2019/12/191211115550.htm)
 
 `songwriter`, `skaggs`, `artist`, `collaborate`, `song`, `maybe`, `write`, `manipulation dance`
 
@@ -155,7 +307,7 @@ ___
 
 ___
 
-**#534** read 2019 December 08 12:35 PM. Link: [www.sciencedaily.com/releases/2019/12/191204145...](https://www.sciencedaily.com/releases/2019/12/191204145752.htm)
+**#529** read 2019 December 08 12:35 PM. Link: [www.sciencedaily.com/releases/2019/12/191204145...](https://www.sciencedaily.com/releases/2019/12/191204145752.htm)
 
 `attention`, `alpha`, `subjects`, `brain`, `waves`, `alpha waves`, `side`, `research`
 
@@ -170,7 +322,7 @@ ___
 
 ___
 
-**#533** read 2019 December 02 04:50 PM. Link: [www.sciencedaily.com/releases/2019/11/191120121...](https://www.sciencedaily.com/releases/2019/11/191120121147.htm)
+**#528** read 2019 December 02 04:50 PM. Link: [www.sciencedaily.com/releases/2019/11/191120121...](https://www.sciencedaily.com/releases/2019/11/191120121147.htm)
 
 `movement`, `perception`, `brain`, `visual`, `creatively`, `research`, `barbara hndel`, `jmu`
 
@@ -185,33 +337,7 @@ ___
 
 ___
 
-**#532** read 2019 November 30 12:28 AM. Link: [www.sciencedaily.com/releases/2019/11/191120131...](https://www.sciencedaily.com/releases/2019/11/191120131313.htm)
-
-`painting`, `attractive`, `bias`, `rate`, `studies`, `professor alais`, `aesthetic`, `sequence`
-
-- A beautiful painting does not make the next one look less attractive but makes it more attractive
-
-- involved presenting a sequence of 40 paintings to 24 observers who were asked to rate each one using a slider to indicate how aesthetically appealing or attractive it was
-
-- paintings were rated higher following an attractive painting, or lower, following unattractive ones
-
-
-___
-
-**#531** read 2019 November 29 04:45 PM. Link: [www.sciencedaily.com/releases/2019/11/191125121...](https://www.sciencedaily.com/releases/2019/11/191125121005.htm)
-
-`love`, `felt love`, `research`, `studies`, `data`, `experience`, `throughout`, `everyday`
-
-- researchers found that people who experienced higher "felt love" -- brief experiences of love and connection in everyday life -- also had significantly higher levels of psychological well-being, which includes feelings of purpose and optimism
-
-- Everyday felt love is conceptually much broader than romantic love. It's those micro-moments in your life when you experience resonance with someone. For example, if you're talking to a neighbor and they express concern for your well-being, then you might resonate with that and experience it as a feeling of love, and that might improve your well-being
-
-- seen in the literature on mindfulness, when people are reminded to focus attention on positive things, their overall awareness of those positive things begins to rise
-
-
-___
-
-**#530** read 2019 November 29 04:41 PM. Link: [www.sciencedaily.com/releases/2019/11/191127090...](https://www.sciencedaily.com/releases/2019/11/191127090220.htm)
+**#527** read 2019 November 29 04:41 PM. Link: [www.sciencedaily.com/releases/2019/11/191127090...](https://www.sciencedaily.com/releases/2019/11/191127090220.htm)
 
 - discovered that a population of neurons in the brain's frontal lobe contain stable short-term memory information within dynamically-changing neural activity
 
@@ -220,18 +346,7 @@ ___
 
 ___
 
-**#529** read 2019 November 27 03:58 PM. Link: [www.sciencedaily.com/releases/2019/09/190919142...](https://www.sciencedaily.com/releases/2019/09/190919142324.htm)
-
-`ls`, `movement`, `hippocampus`, `wirtshafter`, `behavior`, `region`, `reward`, `memories`
-
-- observations in the lateral septum indicate that the well-connected region processes movement, and reward information to help direct behavior
-
-- directly encodes information about the speed and acceleration of an animal as it navigates and learns how to obtain a reward in an environment
-
-
-___
-
-**#528** read 2019 September 21 05:14 PM. Link: [www.sciencedaily.com/releases/2019/09/190916110...](https://www.sciencedaily.com/releases/2019/09/190916110556.htm)
+**#526** read 2019 September 21 05:14 PM. Link: [www.sciencedaily.com/releases/2019/09/190916110...](https://www.sciencedaily.com/releases/2019/09/190916110556.htm)
 
 `sleep`, `brain`, `zebrafish`, `brain active`, `research`, `increase`, `finding`, `active`
 
@@ -242,7 +357,7 @@ ___
 
 ___
 
-**#527** read 2019 November 17 10:42 AM. Link: [www.sciencedaily.com/releases/2019/11/191114115...](https://www.sciencedaily.com/releases/2019/11/191114115847.htm)
+**#525** read 2019 November 17 10:42 AM. Link: [www.sciencedaily.com/releases/2019/11/191114115...](https://www.sciencedaily.com/releases/2019/11/191114115847.htm)
 
 `game face`, `research`, `participants`, `performance`, `richesin`, `impact`, `demonstrate`, `face`
 
@@ -253,7 +368,7 @@ ___
 
 ___
 
-**#526** read 2019 October 09 05:37 PM. Link: [www.sciencedaily.com/releases/2019/10/191003105...](https://www.sciencedaily.com/releases/2019/10/191003105427.htm)
+**#524** read 2019 October 09 05:37 PM. Link: [www.sciencedaily.com/releases/2019/10/191003105...](https://www.sciencedaily.com/releases/2019/10/191003105427.htm)
 
 `memory`, `performance`, `anticipate`, `forrin`, `present`, `student`, `read`, `aloud`
 
@@ -270,7 +385,7 @@ ___
 
 ___
 
-**#525** read 2019 November 13 06:30 PM. Link: [www.sciencedaily.com/releases/2019/11/191112142...](https://www.sciencedaily.com/releases/2019/11/191112142926.htm)
+**#523** read 2019 November 13 06:30 PM. Link: [www.sciencedaily.com/releases/2019/11/191112142...](https://www.sciencedaily.com/releases/2019/11/191112142926.htm)
 
 `noise`, `brain`, `sound`, `hearing`, `white noise`, `research`, `neuronal`, `auditory`
 
@@ -281,7 +396,7 @@ ___
 
 ___
 
-**#524** read 2019 November 08 03:13 PM. Link: [www.sciencealert.com/here-s-how-your-brain-deal...](https://www.sciencealert.com/here-s-how-your-brain-deals-with-tricky-tasks)
+**#522** read 2019 November 08 03:13 PM. Link: [www.sciencealert.com/here-s-how-your-brain-deal...](https://www.sciencealert.com/here-s-how-your-brain-deals-with-tricky-tasks)
 
 `brain`, `activation`, `task`, `patterns`, `brain activation`, `shape`, `thalamus`, `dimensional manifold`
 
@@ -304,7 +419,7 @@ ___
 
 ___
 
-**#523** read 2019 November 06 04:13 PM. Link: [www.sciencedaily.com/releases/2019/11/191105113...](https://www.sciencedaily.com/releases/2019/11/191105113457.htm)
+**#521** read 2019 November 06 04:13 PM. Link: [www.sciencedaily.com/releases/2019/11/191105113...](https://www.sciencedaily.com/releases/2019/11/191105113457.htm)
 
 `learn`, `wilson`, `example`, `85`, `education`, `85 rule`, `tumor`, `sweet spot`
 
@@ -315,7 +430,7 @@ ___
 
 ___
 
-**#522** read 2019 November 03 05:29 PM. Link: [www.sciencedaily.com/releases/2019/10/191029140...](https://www.sciencedaily.com/releases/2019/10/191029140738.htm)
+**#520** read 2019 November 03 05:29 PM. Link: [www.sciencedaily.com/releases/2019/10/191029140...](https://www.sciencedaily.com/releases/2019/10/191029140738.htm)
 
 `goal`, `research`, `culture`, `social`, `includes`, `human`, `wilkowski`, `categorized`
 
@@ -324,7 +439,7 @@ ___
 
 ___
 
-**#521** read 2019 November 02 08:32 PM. Link: [www.sciencedaily.com/releases/2019/10/191029144...](https://www.sciencedaily.com/releases/2019/10/191029144318.htm)
+**#519** read 2019 November 02 08:32 PM. Link: [www.sciencedaily.com/releases/2019/10/191029144...](https://www.sciencedaily.com/releases/2019/10/191029144318.htm)
 
 `word`, `learn`, `thing`, `context`, `children`, `remember`, `learn new word`, `object`
 
@@ -335,20 +450,7 @@ ___
 
 ___
 
-**#520** read 2019 November 02 06:28 PM. Link: [www.sciencedaily.com/releases/2019/10/191028175...](https://www.sciencedaily.com/releases/2019/10/191028175136.htm)
-
-`opponent`, `momentum`, `kakkar`, `threatened`, `player`, `mental`, `perform`, `rank`
-
-- As players rise, they gather what social scientists call "status momentum,"
-
-- Kakkar said an opponent's momentum is not just hype; a positive trend in an opponent's ranking can be threatening for athletes, even for seasoned pros
-
-- Once you present people with some kind of doubt to the veracity of the rankings, such as a clerical error that affected the rankings, that alleviates some of the adverse effect of the opponent's momentum
-
-
-___
-
-**#519** read 2019 November 02 05:58 PM. Link: [www.sciencedaily.com/releases/2019/07/190702112...](https://www.sciencedaily.com/releases/2019/07/190702112811.htm)
+**#518** read 2019 November 02 05:58 PM. Link: [www.sciencedaily.com/releases/2019/07/190702112...](https://www.sciencedaily.com/releases/2019/07/190702112811.htm)
 
 `intention`, `protagonist`, `emotion`, `context`, `accidental`, `actors`, `action`, `age`
 
@@ -361,7 +463,7 @@ ___
 
 ___
 
-**#518** read 2019 October 16 07:46 PM. Link: [www.sciencedaily.com/releases/2019/10/191003074...](https://www.sciencedaily.com/releases/2019/10/191003074834.htm)
+**#517** read 2019 October 16 07:46 PM. Link: [www.sciencedaily.com/releases/2019/10/191003074...](https://www.sciencedaily.com/releases/2019/10/191003074834.htm)
 
 `reward`, `pupil`, `student`, `approach`, `cooperated`, `competition`, `abilities`, `achieve`
 
@@ -372,7 +474,7 @@ ___
 
 ___
 
-**#517** read 2019 October 16 07:44 PM. Link: [www.sciencedaily.com/releases/2019/10/191003103...](https://www.sciencedaily.com/releases/2019/10/191003103515.htm)
+**#516** read 2019 October 16 07:44 PM. Link: [www.sciencedaily.com/releases/2019/10/191003103...](https://www.sciencedaily.com/releases/2019/10/191003103515.htm)
 
 ### :dart: Anthropomorphizing sadness reduces its effect
 
@@ -383,7 +485,7 @@ ___
 
 ___
 
-**#516** read 2019 October 13 07:25 PM. Link: [www.sciencedaily.com/releases/2019/10/191001084...](https://www.sciencedaily.com/releases/2019/10/191001084008.htm)
+**#515** read 2019 October 13 07:25 PM. Link: [www.sciencedaily.com/releases/2019/10/191001084...](https://www.sciencedaily.com/releases/2019/10/191001084008.htm)
 
 `success`, `failure`, `research`, `group`, `paper`, `scientists`, `near miss group`, `publish`
 
@@ -400,7 +502,7 @@ ___
 
 ___
 
-**#515** read 2019 October 13 07:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190930114...](https://www.sciencedaily.com/releases/2019/09/190930114732.htm)
+**#514** read 2019 October 13 07:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190930114...](https://www.sciencedaily.com/releases/2019/09/190930114732.htm)
 
 `conscious`, `l5p neurons`, `brain`, `aru`, `stimulus`, `circuit`, `content`, `theory`
 
@@ -417,7 +519,7 @@ ___
 
 ___
 
-**#514** read 2019 October 13 05:54 PM. Link: [www.sciencedaily.com/releases/2015/12/151223165...](https://www.sciencedaily.com/releases/2015/12/151223165503.htm)
+**#513** read 2019 October 13 05:54 PM. Link: [www.sciencedaily.com/releases/2015/12/151223165...](https://www.sciencedaily.com/releases/2015/12/151223165503.htm)
 
 `post`, `skill`, `research`, `imagery`, `task`, `motor`, `performance`, `skill acquisition`
 
@@ -428,7 +530,7 @@ ___
 
 ___
 
-**#513** read 2019 October 09 05:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190923155...](https://www.sciencedaily.com/releases/2019/09/190923155130.htm)
+**#512** read 2019 October 09 05:16 PM. Link: [www.sciencedaily.com/releases/2019/09/190923155...](https://www.sciencedaily.com/releases/2019/09/190923155130.htm)
 
 `animal`, `group`, `individual`, `environment`, `changes`, `respond`, `researchers`, `behaviour`
 
@@ -441,7 +543,7 @@ ___
 
 ___
 
-**#512** read 2019 October 09 05:08 PM. Link: [www.sciencedaily.com/releases/2019/10/191007113...](https://www.sciencedaily.com/releases/2019/10/191007113314.htm)
+**#511** read 2019 October 09 05:08 PM. Link: [www.sciencedaily.com/releases/2019/10/191007113...](https://www.sciencedaily.com/releases/2019/10/191007113314.htm)
 
 `critical`, `neuron`, `hengen`, `brain`, `record`, `active`, `research`, `network`
 
@@ -456,26 +558,11 @@ ___
 
 ___
 
-**#511** read 2019 October 09 05:04 PM. Link: [www.sciencedaily.com/releases/2019/10/191007100...](https://www.sciencedaily.com/releases/2019/10/191007100419.htm)
+**#510** read 2019 October 09 05:04 PM. Link: [www.sciencedaily.com/releases/2019/10/191007100...](https://www.sciencedaily.com/releases/2019/10/191007100419.htm)
 
 `brain`, `circuit`, `model`, `memory`, `inhibitory circuit`, `studies`, `neurons`, `network`
 
 - The finding matches what is currently known about the hippocampus, a brain region involved in associative memory. It is thought that a balance of excitatory and inhibitory activity is what allows new associations to form. Inhibitory activity could be regulated by a chemical called acetylcholine, which is known to play a role in memory within the hippocampus. This model is a digital representation of these processes
-
-
-___
-
-**#510** read 2019 September 29 06:07 PM. Link: [www.sciencedaily.com/releases/2019/09/190926141...](https://www.sciencedaily.com/releases/2019/09/190926141738.htm)
-
-`fatigue`, `athletes`, `training`, `brain`, `researchers`, `pessiglione`, `studies`, `control`
-
-- When researchers imposed an excessive training load on triathletes, they showed a form of mental fatigue. This fatigue included reduced activity in a portion of the brain important for making decisions. The athletes also acted more impulsively, opting for immediate rewards instead of bigger ones that would take longer to achieve.
-
-- The lateral prefrontal region that was affected by sport-training overload was exactly the same that had been shown vulnerable to excessive cognitive work
-
-- suggest a connection between mental and physical effort: both require cognitive control. The reason such control is essential in demanding athletic training, they suggest, is that to maintain physical effort and reach a distant goal requires cognitive control
-
-- You need to control the automatic process that makes you stop when muscles or joints hurt
 
 
 ___
