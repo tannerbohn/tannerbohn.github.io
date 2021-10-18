@@ -4,7 +4,104 @@ comments: false
 title:  "LinkSaver"
 permalink: /linksaver/
 ---
-**Top keywords:** **`brain`** (141), **`research`** (67), **`studies`** (39), **`memories`** (39), **`participants`** (35), **`neuron`** (31), **`learn`** (30), **`memory`** (21), **`sleep`** (21), **`neurons`** (21), **`study`** (20), **`studied`** (20), **`human`** (19), **`hippocampus`** (19), **`information`** (18)
+**Top keywords:** **`brain`** (142), **`research`** (67), **`memories`** (41), **`studies`** (41), **`participants`** (35), **`neuron`** (31), **`learn`** (30), **`sleep`** (22), **`memory`** (22), **`neurons`** (21), **`human`** (20), **`study`** (20), **`studied`** (20), **`researchers`** (19), **`word`** (19)
+
+___
+
+**#570** read 2021 October 17 11:00 PM. Link: [www.sciencedaily.com/releases/2021/07/210709104...](https://www.sciencedaily.com/releases/2021/07/210709104232.htm)
+
+`light`, `sleep`, `exposure`, `oled`, `effect`, `energy metabolic`, `researchers`, `light exposure`
+
+- Polychromatic white LEDs emit a large amount of blue light, which has been linked with many negative health effects, including metabolic health
+
+- In contrast, OLEDs emit polychromatic white light that contains less blue light. However, the impact of LED and OLED exposure at night has not been compared in terms of changes in energy metabolism during sleep
+
+- "Although no effect on sleep architecture was observed, energy expenditure and core body temperature during sleep were significantly decreased after OLED exposure. Furthermore, fat oxidation during sleep was significantly lower after exposure to LED compared with OLED."
+
+
+___
+
+**#569** read 2021 August 12 09:24 PM. Link: [www.sciencedaily.com/releases/2021/03/210331130...](https://www.sciencedaily.com/releases/2021/03/210331130930.htm)
+
+`memories`, `attention`, `color`, `monkey`, `select`, `buschman`, `square`, `neural`
+
+- "Attention allows you to focus your resources on a particular stimulus, while a similar selection process happens with items in working memory," said Buschman. "Our results show the prefrontal cortex uses one representation to control both attention and working memory."
+
+- "The brain is holding information in a way that the network can't see it," he said. Then, when it came time to respond at the end of the trial, the memory representation rotated
+
+
+___
+
+**#568** read 2021 May 03 11:49 AM. Link: [www.sciencealert.com/here-s-why-our-brains-alwa...](https://www.sciencealert.com/here-s-why-our-brains-always-want-to-solve-problems-by-adding-not-taking-away)
+
+`subtract`, `away`, `ideas`, `adding`, `addition`, `might`, `reminded`, `brick`
+
+- we usually try and solve problems by adding more, rather than taking away
+
+- this preference for adding was noticeable in three scenarios in particular: when people were under higher cognitive load, when there was less time to consider the other options, and when volunteers didn't get a specific reminder that subtracting was an option
+
+- Additive ideas come to mind quickly and easily, but subtractive ideas require more cognitive effort
+
+- Our brains might find additive changes easier to process perhaps
+
+- There might also be associations in our minds with the status quo being something that needs to be maintained as much as possible  and taking something away is arguably more destructive to the status quo than adding something new
+
+
+___
+
+**#567** read 2021 April 08 12:08 PM. Link: [www.sciencealert.com/a-diversity-of-everyday-mo...](https://www.sciencealert.com/a-diversity-of-everyday-movements-might-boost-your-emotional-well-being)
+
+`movement`, `wellbeing`, `active`, `mental health`, `patient`, `studies`, `disorders`, `health`
+
+- it seems that just visiting a variety of different locations is associated with a higher sense of wellbeing in people with depression or anxiety
+
+- a small study of 67 participants found everyday activities, like walking to the tram stop or climbing a flight of stairs, made people feel more alert and energetic.
+
+
+___
+
+**#566** read 2021 April 08 12:02 PM. Link: [www.sciencedaily.com/releases/2020/06/200629120...](https://www.sciencedaily.com/releases/2020/06/200629120204.htm)
+
+`word`, `brain`, `memories`, `memorability`, `results`, `studies`, `patient`, `dr`
+
+- they could not find a link between the relative "concreteness" of a word's definition and its memorability. A word like "moth" was no more memorable than a word that has more abstract meanings, like "chief."
+
+- more memorable words did not simply appear more often in sentences than the less memorable ones
+
+- their results suggested that the more memorable words were more semantically similar, or more often linked to the meanings of other words used in the English language
+
+- results supported the idea that the more memorable words represented high trafficked hubs in the brain's memory networks.
+
+
+___
+
+**#565** read 2021 January 09 11:01 AM. Link: [www.sciencedaily.com/releases/2020/08/200818142...](https://www.sciencedaily.com/releases/2020/08/200818142113.htm)
+
+`object`, `infant`, `name`, `distinct`, `infant encode`, `memory`, `consistent`, `encode`
+
+- the way an object is named guides infants' encoding, representation and memory for that object
+
+- During training, all infants viewed four distinct objects from the same object category, each introduced in conjunction with either the same novel noun (Consistent Name condition), a distinct novel noun for each object (Distinct Names condition), or the same sine-wave tone sequence (Consistent Tone condition)
+
+- When the same name is applied consistently to a set of objects, infants encode primarily their commonalties. In contrast, when a unique name is applied to each object, infants encode each object's unique features.
+
+
+___
+
+**#564** read 2020 December 14 12:17 AM. Link: [www.sciencedaily.com/releases/2020/11/201105113...](https://www.sciencedaily.com/releases/2020/11/201105113001.htm)
+
+`praise`, `agent`, `robot`, `task`, `effects`, `human`, `participant`, `praise delivered`
+
+- Social rewards such as praise are known to enhance various stages of the learning process.
+
+- found that praise delivered by artificial beings such as robots and virtual graphics-based agents can have effects similar to praise delivered by humans
+
+- motor task performance in participants was significantly enhanced by praise from either one or two robots or virtual agents
+
+- two agents led to significantly greater participant performance than one agent, even when the amount of praise was identical
+
+- whether the praise was delivered by physical robots or by virtual agents did not influence the effects
+
 
 ___
 
